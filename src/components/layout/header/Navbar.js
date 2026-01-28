@@ -61,7 +61,7 @@ const Navbar = ({headerType, isStickyHeader}) => {
 
                                         {/* QUICK TECHNOLOGIES */}
                                         <div className="mega-tech-services">
-                                            <h6 className="mega-tech-title">Quick Technologies Services</h6>
+                                            <h6 className="mega-tech-title" style={{fontSize: "13px"}}>Our Accreditations and Recognitions</h6>
 
                                             <div className="mega-tech-grid">
                                                 {techServices.map((tech) => (
