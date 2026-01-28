@@ -191,6 +191,13 @@ START: CUSTOM CSS
   width: 16%; /* two items per row */
 }
 
+/* Mobile */
+@media (max-width: 767px) {
+  .tj-sidebar-widget-custom ul.filter-ul li {
+    width: 100%;
+  }
+}
+
 .tj-sidebar-widget-custom.widget-categories ul li a span.title {
   display: block;
   white-space: nowrap;

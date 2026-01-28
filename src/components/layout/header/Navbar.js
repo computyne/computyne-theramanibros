@@ -12,9 +12,9 @@ const Navbar = ({headerType, isStickyHeader}) => {
     const servicesNav = makeActiveLink(navItems[1]);
     const hireResourcesNav = makeActiveLink(navItems[2]);
     const industriesNav = makeActiveLink(navItems[3]);
-    const aboutNav = makeActiveLink(navItems[4])
-    const insightNav = makeActiveLink(navItems[5])
-    const contactNav = makeActiveLink(navItems[6])
+    const aboutNav = makeActiveLink(navItems[4]);
+    const insightNav = makeActiveLink(navItems[5]);
+    const contactNav = makeActiveLink(navItems[6]);
 
     const [activeTab, setActiveTab] = useState(0);
     const [open, setOpen] = useState(false);

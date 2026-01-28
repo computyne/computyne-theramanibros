@@ -6,16 +6,12 @@ import MobileMenuItem from "./MobileMenuItem";
 const MobileNavbar = () => {
     const navItems = getNavItems();
 
-    const homeNav = navItems[0];
     const servicesNav = navItems[1];
-    const hireResourcesNav = navItems[8];
-    const pagesNav = navItems[2];
+    const hireResourcesNav = navItems[2];
     const industriesNav = navItems[3];
     const aboutNav = navItems[4]
-    const blogNav = navItems[5];
-    const portfolioNav = navItems[6];
-    const insightNav = navItems[9];
-    const contactNav = navItems[7];
+    const insightNav = navItems[5];
+    const contactNav = navItems[6];
 
     return (
         <div className="hamburger_menu">
@@ -34,13 +30,6 @@ const MobileNavbar = () => {
                     </Link>
                     <nav className="mean-nav">
                         <ul>
-                            {/* <li className="mean-last">
-								<Link href={homeNav?.path ? homeNav?.path : "#"}>
-									{" "}
-									{homeNav?.name ? homeNav?.name : "Home"}
-								</Link>
-							</li> */}
-
                             <MobileMenuItem
                                 text={servicesNav?.name}
                                 url={servicesNav?.path}
@@ -180,21 +169,13 @@ const MobileNavbar = () => {
                                             key={idx}
                                             className={item?.isActive ? "current-menu-item" : ""}
                                         >
-                                            <Link href={item?.path ? item?.path : "/portfolios"}>
-                                                {item?.name ? item?.name : "Portfolio"}
+                                            <Link href={item?.path ? item?.path : ""}>
+                                                {item?.name ? item?.name : ""}
                                             </Link>
                                         </li>
                                     ))
                                     : ""}
                             </MobileMenuItem>
-
-                            {/* <li className="mean-last">
-								<Link href={hireResourcesNav?.path ? hireResourcesNav?.path : "#"}>
-									{" "}
-									{hireResourcesNav?.name ? hireResourcesNav?.name : "Hire Resources"}
-								</Link>
-							</li> */}
-
                             <li className="mean-last">
                                 <Link href={aboutNav?.path ? aboutNav?.path : "#"}>
                                     {" "}
