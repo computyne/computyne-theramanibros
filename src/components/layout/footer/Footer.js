@@ -21,18 +21,18 @@ const Footer = () => {
                                 </div>
                                 <div className="award-logo-area-mod">
                                     <div className="award-logo-mod">
-                                        <img src="https://www.computyne.com/images/footer/google.svg" alt=""/>
+                                        <img src="/images/footer/google.svg" alt=""/>
                                     </div>
                                     <div className="award-logo-mod">
-                                        <img src="https://www.computyne.com/images/footer/goodfirm.svg" alt=""/>
+                                        <img src="/images/footer/goodfirm.svg" alt=""/>
                                     </div>
                                     <div className="award-logo-mod">
                                         <img
-                                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn_mZl44kQu3wSiXwF7epkOJmpw6tcvoyeYQ&s"
+                                            src="/images/footer/iso.png"
                                             alt=""/>
                                     </div>
                                     <div className="award-logo-mod">
-                                        <img src="https://www.computyne.com/images/footer/clutch.svg" alt=""/>
+                                        <img src="/images/footer/clutch.svg" alt=""/>
                                     </div>
                                 </div>
                             </div>
