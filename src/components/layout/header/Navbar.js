@@ -19,15 +19,7 @@ const Navbar = ({headerType, isStickyHeader}) => {
     const [activeTab, setActiveTab] = useState(0);
     const [open, setOpen] = useState(false);
     const menuRef = useRef(null);
-    useEffect(() => {
-        const handler = (e) => {
-            if (menuRef.current && !menuRef.current.contains(e.target)) {
-                setOpen(false);
-            }
-        };
-        document.addEventListener("click", handler);
-        return () => document.removeEventListener("click", handler);
-    }, []);
+
 
     return (
         <div className="menu-area d-none d-lg-inline-flex align-items-center">
@@ -38,10 +30,11 @@ const Navbar = ({headerType, isStickyHeader}) => {
                         }`}
                     >
                         {/* <Link href={servicesNav?.path}>{servicesNav?.name}</Link> */}
-                        <a className="custom-anchor" onClick={(e) => {
-                            e.preventDefault();
-                            setOpen(!open);
-                        }}>
+                        <a className="custom-anchor"
+                           onClick={(e) => {
+                               e.preventDefault();
+                               setOpen(prev => !prev);
+                           }}>
                             {servicesNav?.name}
                         </a>
                         <ul className="sub-menu header__mega-menu mega-menu mega-menu-pages">
@@ -56,7 +49,7 @@ const Navbar = ({headerType, isStickyHeader}) => {
                                                     key={idx}
                                                     className={`mega-tab ${activeTab === idx ? "active" : ""
                                                     }`}
-                                                    onMouseEnter={() => setActiveTab(idx)}
+                                                    onClick={() => setActiveTab(idx)}
                                                 >
                                                     {pageItem?.name}
                                                 </button>

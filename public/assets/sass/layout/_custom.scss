@@ -265,25 +265,41 @@ blockquote p {
   }
 }
 
-/* Disable hover for Services dropdown */
-/*
-.services-dropdown:hover > .sub-menu {
-  display: none;
-  opacity: 0;
-  visibility: hidden;
-}
-
-!* Default hidden *!
+/* Disable hover-based closing for services */
 .services-dropdown > .sub-menu {
-  display: none;
   opacity: 0;
   visibility: hidden;
-  transition: all 0.3s ease;
+  pointer-events: none;
 }
 
-!* Show on click *!
+/* FORCE open state (overrides hover loss) */
 .services-dropdown.open > .sub-menu {
-  display: block;
-  opacity: 1;
-  visibility: visible;
-}*/
+  opacity: 1 !important;
+  visibility: visible !important;
+  pointer-events: auto !important;
+  transform: translateX(-50%) translateY(0) !important;
+}
+
+/* Prevent hover rules from hiding it */
+.services-dropdown:not(.open):hover > .sub-menu {
+  opacity: 0;
+  visibility: hidden;
+}
+
+/* default */
+.services-dropdown > a:after {
+  transform: rotate(0deg);
+}
+
+/* open (clicked) */
+.services-dropdown.open > a:after {
+  transform: rotate(180deg) !important;
+}
+
+.services-dropdown:not(.open):hover > a:after {
+  transform: rotate(0deg);
+}
+
+.services-dropdown:hover > a:after {
+  transform: none !important;
+}
