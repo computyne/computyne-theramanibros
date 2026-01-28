@@ -1,0 +1,100 @@
+[
+	{
+		"id": 1,
+		"url": "/real-estate",
+		"title": "Real Estate and Property Management Solution",
+		"img": "/images/service/overview/Real-Estate-overview.webp",
+		"desc": "End-to-end real estate and property management solutions enabling data accuracy, compliance, operational efficiency, and smarter decisions.",
+		"subData": [
+			"Centralized property data",
+			"Lease lifecycle management",
+			"Accurate listings control",
+			"Compliance-ready documentation",
+			"Actionable property insights"
+		]
+	},
+	{
+		"id": 2,
+		"url": "/logistics-and-transportation",
+		"title": "Logistics BPO Support Services",
+		"img": "/images/service/overview/Logistics-and-supply-Chain-overview.webp",
+		"desc": "End-to-end logistics BPO support delivering accurate data, streamlined operations, faster billing, and improved compliance.",
+		"subData": [
+			"Freight data management",
+			"Invoice audit processing",
+			"Shipment documentation support",
+			"Rate and tariff validation",
+			"Carrier reconciliation services"
+		]
+	},
+	{
+		"id": 3,
+		"url": "/ecommerce",
+		"title": "BPO Services for eCommerce Industry",
+		"img": "/images/service/overview/retails-and-ecommerce-overview.webp",
+		"desc": "Scalable eCommerce BPO services streamlining operations, enhancing customer experiences, and driving sustainable online revenue growth.",
+		"subData": [
+			"Product catalog management",
+			"Order processing support",
+			"Customer service outsourcing",
+			"Marketplace operations management",
+			"Returns and refunds processing"
+		]
+	},
+	{
+		"id": 4,
+		"url": "/ites",
+		"title": "BPO Support for the ITES Industry",
+		"img": "/images/service/overview/ITES-overview.webp",
+		"desc": "Scalable BPO support delivering accuracy, compliance, cost efficiency, and operational excellence for ITES organizations globally.",
+		"subData": [
+			"Data processing domain expertise",
+			"Compliance driven service delivery",
+			"Cost optimized operations management",
+			"Secure scalable resource models",
+			"SLA focused performance governance"
+		]
+	},
+	{
+		"id": 5,
+		"url": "/finance-and-accounting",
+		"title": "Finance and Accounting Outsourcing Services",
+		"img": "/images/service/overview/Finance-and-Accounting-overview.webp",
+		"desc": "End-to-end finance and accounting outsourcing services improving accuracy, compliance, efficiency, and cost control for businesses.",
+		"subData": [
+			"Accounts payable management",
+			"Accounts receivable processing",
+			"General ledger accounting",
+			"Financial reporting compliance",
+			"Payroll and tax support"
+		]
+	},
+	{
+		"id": 6,
+		"url": "/energy-and-utilities",
+		"title": "BPO Services for Energy & Utilities",
+		"img": "/images/service/overview/Energy-and-utilities-overview.webp",
+		"desc": "Specialized BPO services enabling energy and utilities providers to improve accuracy, compliance, efficiency, and scalability.",
+		"subData": [
+			"Meter data validation",
+			"Billing and revenue assurance",
+			"Regulatory compliance support",
+			"Asset and outage data",
+			"Customer service operations"
+		]
+	},
+	{
+		"id": 7,
+		"url": "/healthcare",
+		"title": "BPO Services for Healthcare",
+		"img": "/images/service/overview/retails-and-ecommerce-overview.webp",
+		"desc": "Secure, compliant healthcare BPO services delivering accurate data, streamlined operations, and improved patient and provider outcomes.",
+		"subData": [
+			"HIPAA-compliant data management",
+			"Medical billing support",
+			"Claims processing accuracy",
+			"Provider workflow optimization",
+			"Revenue cycle efficiency"
+		]
+	}
+]

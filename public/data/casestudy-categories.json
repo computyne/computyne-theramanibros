@@ -1,0 +1,41 @@
+[
+  { "name": "Data Collection", "path": "/data-collection-services" },
+  { "name": "Data Extraction", "path": "/data-extraction-services" },
+  { "name": "Data Mining", "path": "/data-mining-services" },
+  { "name": "Web Research", "path": "/web-research-services" },
+  { "name": "List Building", "path": "/list-building-services" },
+  { "name": "Web Scraping", "path": "/web-scraping-services" },
+  { "name": "Property Data Collection", "path": "/property-data-collection-services" },
+
+  { "name": "Data Management", "path": "/data-management-services" },
+  { "name": "Data Enrichment", "path": "/data-enrichment-services" },
+  { "name": "Data Cleansing", "path": "/data-cleansing-services" },
+  { "name": "Data Appending", "path": "/data-appending-services" },
+  { "name": "Data Validation", "path": "/data-validation-services" },
+  { "name": "Data Standardization", "path": "/data-standarization-services" },
+  { "name": "Data Hygiene", "path": "/data-hygiene-services" },
+  { "name": "Competitor Analysis", "path": "/competitor-analysis-services" },
+
+  { "name": "Data Annotation", "path": "/data-annotation-services" },
+  { "name": "Text Annotation", "path": "/text-annotation-services" },
+  { "name": "Image Annotation", "path": "/image-annotation-services" },
+  { "name": "Data Labeling", "path": "/data-labeling-services" },
+  { "name": "Video Annotation", "path": "/video-annotation-services" },
+  { "name": "Multimodal Annotation", "path": "/multimodal-annotation-services" },
+  { "name": "Multimodal Annotation", "path": "/multimodal-annotation-services" },
+
+  { "name": "Document Processing", "path": "/document-processing-services" },
+  { "name": "Freight Audit", "path": "/freight-audit-services" },
+  { "name": "Invoice Processing", "path": "/invoice-processing-services" },
+  { "name": "Resume Formatting", "path": "/resume-formatting-services" },
+  { "name": "Forms Processing", "path": "/forms-processing-services" },
+  { "name": "Document Digitization", "path": "/document-digitization-services" },
+
+  { "name": "Data Entry", "path": "/data-entry-services" },
+  { "name": "Image Data Entry", "path": "/image-data-entry-services" },
+  { "name": "Logistics Data Entry", "path": "/logistics-data-entry-services" },
+  { "name": "Bill of Lading Data Entry", "path": "/bill-of-lading-data-entry-services" },
+  { "name": "Appraisal & Valuation Data Entry", "path": "/appraisal-data-entry-services" },
+  { "name": "Real Estate Property Listing", "path": "/real-estate-property-listing-services" },
+  { "name": "Data Solutions", "path": "/data-solutions-services" }
+]

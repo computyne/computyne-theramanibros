@@ -1,0 +1,37 @@
+[
+	{
+		"id": 1,
+		"title": "Data Collection",
+		"img": "/images/service/Data Collection.webp",
+		"link": "/data-collection-services",
+		"desc": "Reliable data collection services that capture and structure high-quality information from multiple sources, enabling real-time insights and informed business strategies."
+	},
+	{
+		"id": 2,
+		"title": "Data Management",
+		"img": "/images/service/Data Managment.webp",
+		"link": "/data-management-services",
+		"desc": "Data management that organizes, secures, and optimizes information, providing teams with reliable, real-time access for faster performance and stronger business outcomes."
+	},
+	{
+		"id": 3,
+		"title": "Data Annotation",
+		"img": "/images/service/Data Annotation.webp",
+		"link": "/data-annotation-services",
+		"desc": "High-precision data annotation for text, images, and video, powering AI and automation with accurate training datasets that drive innovation and performance."
+	},
+	{
+		"id": 4,
+		"title": "Document Processing",
+		"img": "/images/service/Document Processing.webp",
+		"link": "/document-processing-services",
+		"desc": "Intelligent document processing that digitizes, extracts, and validates critical records, boosting accuracy, accelerating workflows, and reducing operational effort across your organization."
+	},
+	{
+		"id": 5,
+		"title": "Data Entry",
+		"img": "/images/service/Data Entry.webp",
+		"link": "/data-entry-services",
+		"desc": "Accurate, scalable data entry services that eliminate manual workload, reduce processing time, and let your teams focus on strategic growth and customer success."
+	}
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Top Data Service",
+    "desig": "Trusted by GoodFirms",
+    "img": "/images/team/goodFirms.png",
+    "img2": "/images/team/goodFirms.png",
+    "imgLarge": "/images/team/goodFirms.png"
+  },
+  {
+    "id": 2,
+    "name": "1200+",
+    "desig": "Project Delivered",
+    "img": "/images/team/project.jpg",
+    "img2": "/images/team/project.jpg",
+    "imgLarge": "/images/team/project.jpg"
+  },
+  {
+    "id": 3,
+    "name": "100+",
+    "desig": "Inc5000 Clients",
+    "img": "/images/team/client.jpg",
+    "img2": "/images/team/client.jpg",
+    "imgLarge": "/images/team/client.jpg"
+  },
+  {
+    "id": 4,
+    "name": "ISO 27001:2022",
+    "desig": "Global Certified",
+    "img": "/images/team/iso.jpg",
+    "img2": "/images/team/iso.jpg",
+    "imgLarge": "/images/team/iso.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Top Data Service",
+    "desig": "Trusted by GoodFirms",
+    "img": "/images/team/goodFirms.png",
+    "img2": "/images/team/goodFirms.png",
+    "imgLarge": "/images/team/goodFirms.png"
+  },
+  {
+    "id": 6,
+    "name": "1200+",
+    "desig": "Project Delivered",
+    "img": "/images/team/project.jpg",
+    "img2": "/images/team/project.jpg",
+    "imgLarge": "/images/team/project.jpg"
+  },
+  {
+    "id": 7,
+    "name": "100+",
+    "desig": "Inc5000 Clients",
+    "img": "/images/team/client.jpg",
+    "img2": "/images/team/client.jpg",
+    "imgLarge": "/images/team/client.jpg"
+  }
+]

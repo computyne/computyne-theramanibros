@@ -1,0 +1,30 @@
+"use client";
+
+import Image from "next/image";
+import Link from "next/link";
+
+const Logo = ({headerType, isStickyHeader}) => {
+    return (
+        <div className="site_logo">
+            <Link className="logo" href="/">
+                <Image
+                    src={
+                        (headerType === 2 ||
+                            headerType === 5 ||
+                            headerType === 7 ||
+                            headerType === 9) &&
+                        !isStickyHeader
+                            ? "/images/site-logo/white-logo.svg" //for dark logo
+                            : "/images/site-logo/blue-logo.svg"
+                    }
+                    alt=""
+                    width={544}
+                    height={152}
+                    style={{height: "auto"}}
+                />
+            </Link>
+        </div>
+    );
+};
+
+export default Logo;

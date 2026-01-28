@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Ravinder Singh",
+    "desig": "Head of Business Development & Marketing",
+    "email": "ravinder.singh@computyne.com",
+    "linkedin": "https://www.linkedin.com/in/ravinder-s-08117313b/",
+    "img": "/images/team/ravindar.webp",
+    "img2": "/images/team/ravindar.webp",
+    "imgLarge": "/images/team/ravindar.webp"
+  },
+  {
+    "id": 2,
+    "name": "Bhavesh Panchal",
+    "desig": "Head of Operations & Growth Strategist",
+    "email": "bhavesh.panchal@computyne.com",
+    "linkedin": "https://www.linkedin.com/in/bhavesh-panchal-4a4816388/",
+    "img": "/images/team/bhavesh.webp",
+    "img2": "/images/team/bhavesh.webp",
+    "imgLarge": "/images/team/bhavesh.webp"
+  },
+  {
+    "id": 3,
+    "name": "Champak Pol",
+    "desig": "Business Head",
+    "email": "champak.pol@computyne.com",
+    "linkedin": "https://www.linkedin.com/in/champakpol/",
+    "img": "/images/team/champak.webp",
+    "img2": "/images/team/champak.webp",
+    "imgLarge": "/images/team/champak.webp"
+  }
+]

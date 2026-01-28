@@ -1,0 +1,282 @@
+@use "../utilities/index" as *;
+
+/**----------------------------------------
+START: CUSTOM CSS
+----------------------------------------*/
+
+
+.tagline {
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 1.44;
+  font-weight: 500;
+  font-style: italic;
+
+  &.text-white {
+    color: var(--tj-color-common-white);
+  }
+
+  &.text-black {
+    color: var(--tj-color-common-black);
+  }
+}
+
+.tj-page-header-tagline {
+  max-width: 800px;
+  margin-inline: auto;
+}
+
+.mt-8 {
+  margin-top: 8px;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mt-12 {
+  margin-top: 12px;
+}
+
+// .self-end {}
+.service-card-learn-more-btn {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+}
+
+.mt-minus-350 {
+  margin-top: -350px;
+  position: relative;
+  z-index: 3;
+}
+
+.service-funfact-image {
+  height: 80px;
+  width: 80px;
+}
+
+.wd-30 {
+  width: 30% !important;
+}
+
+.mwd-691 {
+  max-width: 691px !important;
+}
+
+.pp_chat_window_desktop_8 {
+  left: 2% !important;
+}
+
+
+/* ------------------------------- */
+/* UL / LI with Clean Orange Tick */
+/* ------------------------------- */
+.postBody-module__Mf2ZlW__content ul,
+.elementor .elementor-text-editor ul {
+  list-style: none; /* remove default bullets */
+  padding-left: 0;
+  margin: 16px 0 24px;
+}
+
+.postBody-module__Mf2ZlW__content ul li,
+.elementor .elementor-text-editor ul li {
+  position: relative;
+  padding-left: 28px; /* space for tick */
+  margin-bottom: 10px;
+  line-height: 1.6;
+  font-size: 16px;
+  color: #333;
+}
+
+/* Add clean orange tick */
+.postBody-module__Mf2ZlW__content ul li::before,
+.elementor .elementor-text-editor ul li::before {
+  content: "✔"; /* tick symbol */
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: #ff7a18; /* orange color */
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+/* ------------------------------- */
+/* Table Styling - Clean & Modern */
+/* ------------------------------- */
+.postBody-module__Mf2ZlW__content table,
+.elementor .elementor-text-editor table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 24px;
+  font-size: 15px;
+  color: #333;
+  border: 1px solid #999; /* darker border */
+}
+
+.postBody-module__Mf2ZlW__content table th,
+.postBody-module__Mf2ZlW__content table td,
+.elementor .elementor-text-editor table th,
+.elementor .elementor-text-editor table td {
+  border: 1px solid #999; /* consistent dark border */
+  padding: 10px 12px;
+  text-align: left;
+}
+
+.postBody-module__Mf2ZlW__content table th,
+.elementor .elementor-text-editor table th {
+  font-weight: 700;
+  background-color: #ff7a18; /* orange header */
+  color: #fff;
+}
+
+.postBody-module__Mf2ZlW__content table tr:nth-child(even),
+.elementor .elementor-text-editor table tr:nth-child(even) {
+  background-color: #fff8f0; /* subtle shading for rows */
+}
+
+.postBody-module__Mf2ZlW__content table tr:hover,
+.elementor .elementor-text-editor table tr:hover {
+  background-color: #ffe6cc; /* row hover effect */
+}
+
+/* Responsive table text */
+@media (max-width: 768px) {
+  .postBody-module__Mf2ZlW__content table th,
+  .postBody-module__Mf2ZlW__content table td,
+  .elementor .elementor-text-editor table th,
+  .elementor .elementor-text-editor table td {
+    font-size: 14px;
+    padding: 8px 10px;
+  }
+}
+
+/* ------------------------------- */
+/* Headings inside content */
+/* ------------------------------- */
+.postBody-module__Mf2ZlW__content h2,
+.postBody-module__Mf2ZlW__content h3,
+.postBody-module__Mf2ZlW__content h4,
+.elementor .elementor-text-editor h2,
+.elementor .elementor-text-editor h3,
+.elementor .elementor-text-editor h4 {
+  color: #222;
+  font-weight: 700;
+  line-height: 1.3;
+  margin-top: 24px;
+  margin-bottom: 16px;
+  font-family: "Arial", sans-serif;
+}
+
+.tj-sidebar-widget.tj-recent-posts .post-thumb a img {
+  height: revert-layer;
+}
+
+.tj-sidebar-widget-custom.widget-categories {
+  max-height: 200px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+
+.tj-sidebar-widget-custom ul.filter-ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.tj-sidebar-widget-custom ul.filter-ul li {
+  width: 16%; /* two items per row */
+}
+
+.tj-sidebar-widget-custom.widget-categories ul li a span.title {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+
+blockquote p {
+  font-weight: normal;
+  font-style: italic;
+}
+
+
+.loader {
+  width: 16px;
+  height: 16px;
+  border: 2px solid #e5e7eb;
+  border-top: 2px solid #000;
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.form-success,
+.form-error {
+  margin-top: 18px;
+  padding: 12px 16px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.4;
+  animation: fadeSlideIn 0.35s ease-out;
+}
+
+/* Success */
+.form-success {
+  color: #166534;
+  background-color: #ecfdf5;
+  border: 1px solid #a7f3d0;
+}
+
+/* Error */
+.form-error {
+  color: #991b1b;
+  background-color: #fef2f2;
+  border: 1px solid #fecaca;
+}
+
+/* Animation */
+@keyframes fadeSlideIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Disable hover for Services dropdown */
+/*
+.services-dropdown:hover > .sub-menu {
+  display: none;
+  opacity: 0;
+  visibility: hidden;
+}
+
+!* Default hidden *!
+.services-dropdown > .sub-menu {
+  display: none;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+}
+
+!* Show on click *!
+.services-dropdown.open > .sub-menu {
+  display: block;
+  opacity: 1;
+  visibility: visible;
+}*/

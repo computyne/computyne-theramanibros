@@ -1,0 +1,362 @@
+[
+	{
+		"id": 0,
+		"name": "Home",
+		"path": "/"
+	},
+	{
+		"id": 1,
+		"name": "Services",
+		"path": "#",
+		"submenu": [
+			{
+				"id": 1,
+				"name": "Data Collection",
+				"path": "/data-collection-services",
+				"items": [
+					{
+						"id": 1,
+						"name": "Data Extraction",
+						"desc": "Accurate extraction of structured and unstructured data from multiple digital sources.",
+						"path": "/data-extraction-services",
+						"badge": null
+					},
+					{
+						"id": 2,
+						"name": "Data Mining",
+						"desc": "Discover patterns, trends, and insights from large datasets using advanced techniques.",
+						"path": "/data-mining-services",
+						"badge": null
+					},
+					{
+						"id": 3,
+						"name": "Web Research",
+						"desc": "In-depth web research to collect reliable and verified business information.",
+						"path": "/web-research-services",
+						"badge": null
+					},
+					{
+						"id": 4,
+						"name": "List Building",
+						"desc": "Targeted and verified lead lists tailored to your business requirements.",
+						"path": "/list-building-services",
+						"badge": null
+					},
+					{
+						"id": 5,
+						"name": "Web Scraping",
+						"desc": "Automated web scraping solutions for fast and scalable data collection.",
+						"path": "/web-scraping-services",
+						"badge": null
+					},
+					{
+						"id": 6,
+						"name": "Property Data Collection",
+						"desc": "Comprehensive real estate data collection for property insights and analysis.",
+						"path": "/property-data-collection-services",
+						"badge": null
+					}
+				]
+			},
+			{
+				"id": 2,
+				"name": "Data Management",
+				"path": "/data-management-services",
+				"items": [
+					{
+						"id": 1,
+						"name": "Data Enrichment",
+						"desc": "Enhance existing data with additional attributes for better decision-making.",
+						"path": "/data-enrichment-services",
+						"badge": null
+					},
+					{
+						"id": 2,
+						"name": "Data Cleansing",
+						"desc": "Remove errors, duplicates, and inconsistencies to ensure data accuracy.",
+						"path": "/data-cleansing-services",
+						"badge": null
+					},
+					{
+						"id": 3,
+						"name": "Data Appending",
+						"desc": "Append missing information to improve data completeness and value.",
+						"path": "/data-appending-services",
+						"badge": null
+					},
+					{
+						"id": 4,
+						"name": "Data Validation",
+						"desc": "Validate data accuracy and reliability using strict quality checks.",
+						"path": "/data-validation-services",
+						"badge": null
+					},
+					{
+						"id": 5,
+						"name": "Data Standardization",
+						"desc": "Standardize data formats for consistency across all systems.",
+						"path": "/data-standarization-services",
+						"badge": null
+					},
+					{
+						"id": 6,
+						"name": "Data Hygiene",
+						"desc": "Maintain clean, updated, and compliant datasets over time.",
+						"path": "/data-hygiene-services",
+						"badge": null
+					},
+					{
+						"id": 7,
+						"name": "Competitor Analysis",
+						"desc": "Actionable competitor insights to support smarter business strategies.",
+						"path": "/competitor-analysis-services",
+						"badge": null
+					}
+				]
+			},
+			{
+				"id": 3,
+				"name": "Data Annotation",
+				"path": "/data-annotation-services",
+				"items": [
+					{
+						"id": 1,
+						"name": "Text Annotation",
+						"desc": "High-quality text labeling to train NLP and AI models accurately.",
+						"path": "/text-annotation-services",
+						"badge": null
+					},
+					{
+						"id": 2,
+						"name": "Image Annotation",
+						"desc": "Precise image labeling for computer vision and AI applications.",
+						"path": "/image-annotation-services",
+						"badge": null
+					},
+					{
+						"id": 3,
+						"name": "Data Labeling",
+						"desc": "The process of annotating raw data to make it usable for training machine learning models.",
+						"path": "/data-labeling-services",
+						"badge": null
+					},
+					{
+						"id": 4,
+						"name": "Video Annotation",
+						"desc": "Frame-level video annotation for advanced AI and ML training.",
+						"path": "/video-annotation-services",
+						"badge": null
+					},
+					{
+						"id": 5,
+						"name": "Multimodal Annotation",
+						"desc": "Unified annotation across text, image, audio, and video data.",
+						"path": "/multimodal-annotation-services",
+						"badge": null
+					}
+				]
+			},
+			{
+				"id": 4,
+				"name": "Document Processing",
+				"path": "/document-processing-services",
+				"items": [
+					{
+						"id": 1,
+						"name": "Freight Audit",
+						"desc": "Audit freight invoices to reduce errors and control logistics costs.",
+						"path": "/freight-audit-services",
+						"badge": null
+					},
+					{
+						"id": 2,
+						"name": "Invoice Processing",
+						"desc": "Automated and accurate invoice processing for faster operations.",
+						"path": "/invoice-processing-services",
+						"badge": null
+					},
+					{
+						"id": 3,
+						"name": "Resume Formatting",
+						"desc": "Professional resume formatting for consistency and ATS compatibility.",
+						"path": "/resume-formatting-services",
+						"badge": null
+					},
+					{
+						"id": 4,
+						"name": "Forms Processing",
+						"desc": "Efficient extraction and processing of data from business forms.",
+						"path": "/forms-processing-services",
+						"badge": null
+					},
+					{
+						"id": 5,
+						"name": "Document Digitization",
+						"desc": "Convert physical documents into secure, searchable digital formats.",
+						"path": "/document-digitization-services",
+						"badge": null
+					}
+				]
+			},
+			{
+				"id": 5,
+				"name": "Data Entry",
+				"path": "/data-entry-services",
+				"items": [
+					{
+						"id": 1,
+						"name": "Image Data Entry",
+						"desc": "Accurate data entry services from scanned and digital images.",
+						"path": "/image-data-entry-services",
+						"badge": null
+					},
+					{
+						"id": 2,
+						"name": "Logistics Data Entry",
+						"desc": "Reliable logistics data entry to streamline supply chain operations.",
+						"path": "/logistics-data-entry-services",
+						"badge": null
+					},
+					{
+						"id": 3,
+						"name": "Bill of Lading Data Entry",
+						"desc": "Precise bill of lading data entry for shipping accuracy.",
+						"path": "/bill-of-lading-data-entry-services",
+						"badge": null
+					},
+					{
+						"id": 4,
+						"name": "Appraisal & Valuation Data Entry",
+						"desc": "Structured appraisal data entry for valuation and reporting needs.",
+						"path": "/appraisal-data-entry-services",
+						"badge": null
+					},
+					{
+						"id": 5,
+						"name": "Real Estate Property Listing",
+						"desc": "Accurate property listing data for real estate platforms.",
+						"path": "/real-estate-property-listing-services",
+						"badge": null
+					}
+				]
+			},
+			{
+				"id": 5,
+				"name": "Data Solutions",
+				"path": "/data-solutions-services",
+				"items": []
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Hire Resources",
+		"path": "/hire-resources",
+		"submenu": [
+			{
+				"id": 1,
+				"name": "Hire Web Researchers",
+				"path": "/hire-web-researchers",
+				"badge": null
+			},
+			{
+				"id": 2,
+				"name": "Hire Data Entry Specialists",
+				"path": "/hire-data-entry-specialists",
+				"badge": null
+			},
+			{
+				"id": 3,
+				"name": "Hire Virtual Assistants",
+				"path": "/hire-virtual-assistants",
+				"badge": null
+			},
+			{
+				"id": 4,
+				"name": "Hire Data Science Specialists",
+				"path": "/hire-data-science-specialist",
+				"badge": null
+			}
+
+		]
+	},
+	{
+		"id":3,
+		"name": "Industries",
+		"path": "#",
+		"submenu": [
+			{
+				"id": 1,
+				"name": "Real Estate",
+				"icon": "tji-service-1",
+				"path": "/real-estate"
+			},
+			{
+				"id": 2,
+				"name": "Logistics & Transportation",
+				"icon": "tji-service-2",
+				"path": "/logistics-and-transportation"
+			},
+			{
+				"id": 3,
+				"name": "Ecommerce",
+				"icon": "tji-service-3",
+				"path": "/ecommerce"
+			},
+			{
+				"id": 4,
+				"name": "ITES",
+				"icon": "tji-service-4",
+				"path": "/ites"
+			},
+			{
+				"id": 5,
+				"name": "Finance & Accounting",
+				"icon": "tji-service-5",
+				"path": "/finance-and-accounting"
+			},
+			{
+				"id": 6,
+				"name": "Energy & Utilities",
+				"icon": "tji-service-6",
+				"path": "/energy-and-utilities"
+			},
+			{
+				"id": 7,
+				"name": "Healthcare",
+				"icon": "tji-service-1",
+				"path": "/healthcare"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "About Us",
+		"path": "/about-us"
+	},
+	{
+		"id": 5,
+		"name": "Insight",
+		"path": "/blogs",
+		"submenu": [
+			{
+				"id": 1,
+				"name": "Blog",
+				"path": "/blog",
+				"badge": "NEW"
+			},
+			{
+				"id": 2,
+				"name": "Case Studies",
+				"path": "/case-studies",
+				"badge": null
+			}
+
+		]
+	},
+	{
+		"id": 6,
+		"name": "Contact Us",
+		"path": "/contact-us"
+	}
+]

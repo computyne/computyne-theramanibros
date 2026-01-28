@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"name": "BBB",
+		"icon": "/images/tech/BBB.webp",
+		"path": "#"
+	},
+	{
+		"id": 2,
+		"name": "Clutch",
+		"icon": "/images/tech/Clutch.webp",
+		"path": "#"
+	},
+	{
+		"id": 3,
+		"name": "GDPR",
+		"icon": "/images/tech/GDPR.webp",
+		"path": "#"
+	},
+	{
+		"id": 4,
+		"name": "GoodFirm",
+		"icon": "/images/tech/GoodFirm.webp",
+		"path": "#"
+	},
+	{
+		"id": 5,
+		"name": "ISO",
+		"icon": "/images/tech/ISO.webp",
+		"path": "#"
+	},
+	{
+		"id": 6,
+		"name": "TrustPilot",
+		"icon": "/images/tech/TrustPilot.webp",
+		"path": "#"
+	}
+]
