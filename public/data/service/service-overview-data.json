@@ -1051,7 +1051,7 @@
     "data-annotation-services": {
         "banner": {
             "image": "",
-            "h1": "Enterprise Data Annotation Services for Scalable AI",
+            "h1": "Data Annotation Services",
             "tagline": "High-precision labeled datasets that power accurate, production-ready Machine Learning models.",
             "cta": "Get a Free Quote"
         },
