@@ -37,9 +37,8 @@ const Aboutus = ({type}) => {
                                     key={index}
                                     className="desc wow fadeInUp mb-0"
                                     data-wow-delay=".8s"
-                                >
-                                    {text}
-                                </p>
+                                    dangerouslySetInnerHTML={{ __html: text }}
+                                  />
                             ))}
                         </div>
                     </div>
