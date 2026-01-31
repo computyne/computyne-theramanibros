@@ -10,21 +10,11 @@ const Funfact = () => {
                         <div className="heading-wrap-content">
                             <div className="sec-heading style-4">
 								<span className="sub-title wow fadeInUp" data-wow-delay=".3s">
-									<i className="tji-box"></i>OUR FUN FACT
+									<i className="tji-box"></i>OUR PERFORMANCE
 								</span>
                                 <h2 className="sec-title title-anim">
                                     Numbers and facts that define performance.
                                 </h2>
-                            </div>
-                            <div className="progress-item">
-                                <div className="progress-circle">
-                                    <ProgressBar/>
-                                </div>
-                                <div className="progress-text">
-									<span className="sub-title">
-										Increased revenue in the last 6 months.
-									</span>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -40,8 +30,8 @@ const Funfact = () => {
 							</span>
                             <span className="steps">01.</span>
                             <div className="count-inner">
-                                <span className="count-text">Faster Growth</span>
-                                <FunfactSingle currentValue={8.5} symbol={"X"}/>
+                                <span className="count-text">Project Delivered</span>
+                                <FunfactSingle currentValue={1200} symbol={"+"}/>
                             </div>
                         </div>
                     </div>
@@ -55,8 +45,8 @@ const Funfact = () => {
 							</span>
                             <span className="steps">02.</span>
                             <div className="count-inner">
-                                <span className="count-text">Reach Worldwide</span>
-                                <FunfactSingle currentValue={20} symbol={"M"}/>
+                                <span className="count-text">Year Experience</span>
+                                <FunfactSingle currentValue={15} symbol={"+"}/>
                             </div>
                         </div>
                     </div>
@@ -70,8 +60,8 @@ const Funfact = () => {
 							</span>
                             <span className="steps">03.</span>
                             <div className="count-inner">
-                                <span className="count-text">Projects Completed.</span>
-                                <FunfactSingle currentValue={93} symbol={"%"}/>
+                                <span className="count-text">Empowered Employees</span>
+                                <FunfactSingle currentValue={250} symbol={"+"}/>
                             </div>
                         </div>
                     </div>

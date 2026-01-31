@@ -9,6 +9,7 @@ import Faq from "@/components/sections/about-page/Faq";
 import Team from "@/components/sections/about-page/Team";
 import Footer from "@/components/layout/footer/Footer";
 import SubFooter from "@/components/layout/footer/subFooter";
+import HowWeWork from "@/components/sections/about-page/HowWeWork";
 
 export default function About() {
     return (
@@ -21,13 +22,13 @@ export default function About() {
                     <main>
                         <div className="top-space-15"></div>
                         <Hero title={"About Us"}
-                              text={"Our business process services - driven by data, technology, and people - help" +
-                                  " clients save time, reduce costs, and improve operational efficiency worldwide."}/>
+                              cta={"Ready to Scale? Contact Our Experts"}
+                              text={"Empowering Your Business Growth Through Precise Data Solutions, Innovative Outsourcing, and Scalable Back-Office Excellence."}/>
                         <AboutCard type={1}/>
                         <Features type={2}/>
                         <Funfact/>
-                        <Faq type={2}/>
                         <Team type={3}/>
+                        <HowWeWork/>
                         <SubFooter/>
                     </main>
                     <Footer/>

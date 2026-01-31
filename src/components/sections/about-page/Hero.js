@@ -1,6 +1,7 @@
 import React from "react";
+import ButtonPrimary from "./ButtonPrimary";
 
-const Hero = ({title, text, isShowButton = false, buttonLabel, buttonLink}) => {
+const Hero = ({title, text, isShowButton = false, buttonLabel, buttonLink, cta}) => {
     return (
         <section
             className="tj-page-header-mod section-gap-x"
@@ -13,6 +14,9 @@ const Hero = ({title, text, isShowButton = false, buttonLabel, buttonLink}) => {
                             <h1 className={`tj-page-title`}>{title}</h1>
                             <div className="tagline mt tj-page-header-tagline">
                                 {text}
+                            </div>
+                            <div className="btn-area wow fadeInUp mt-4" data-wow-delay=".8s">
+                                <ButtonPrimary text={cta} url={"/contact-us"}/>
                             </div>
                         </div>
                     </div>
