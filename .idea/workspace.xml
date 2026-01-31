@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="about us overview text moved to html text" />
+    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="about us overview text moved to html text">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/about-us/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/about-us/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/about-page/AboutCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/about-page/AboutCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/about-page/Features.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/about-page/Features.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/about-page/Funfact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/about-page/Funfact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/about-page/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/about-page/Hero.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769779417173</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="about us overview text moved to html text">
+      <option name="closed" value="true" />
+      <created>1769838215955</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1769838215955</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
