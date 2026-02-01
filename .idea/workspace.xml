@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="about us overview text moved to html text">
+    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="about us added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/about-us/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/about-us/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/about-page/AboutCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/about-page/AboutCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/about-page/Features.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/about-page/Features.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/about-page/Funfact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/about-page/Funfact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/about-page/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/about-page/Hero.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,12 +10,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="main" />
+    <option name="BRANCH" value="RBYR-about-us-how-we-work-feature" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="RBYR-about-us-how-we-work-feature" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,21 +40,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "RBYR-about-us-how-we-work-feature",
-    "js.debugger.nextJs.config.created.client": "true",
-    "js.debugger.nextJs.config.created.server": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/rmnakash/AkashRamani/YashRamani/nextjs/computyne-theramanibros/src/components/sections/about-page",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
+    &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rmnakash/AkashRamani/YashRamani/nextjs/computyne-theramanibros/src/components/sections/about-page&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/components/sections/about-page" />
@@ -168,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769838215955</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="about us added">
+      <option name="closed" value="true" />
+      <created>1769839099670</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1769839099670</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +222,7 @@
     <MESSAGE value="Menu click event added for service" />
     <MESSAGE value="YASH about us changes as on 28-01-2026" />
     <MESSAGE value="about us overview text moved to html text" />
-    <option name="LAST_COMMIT_MESSAGE" value="about us overview text moved to html text" />
+    <MESSAGE value="about us added" />
+    <option name="LAST_COMMIT_MESSAGE" value="about us added" />
   </component>
 </project>
