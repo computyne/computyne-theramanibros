@@ -49,8 +49,8 @@ const CasestudyDetailsPrimary2 = ({option}) => {
 
                     </div>
                 </div>
-                <div className="col-lg-4">
-                    <aside className="tj-main-sidebar">
+                <div className="col-lg-4 slidebar-stickiy-container">
+                    <aside className="tj-main-sidebar slidebar-stickiy">
                         {/* <!-- category --> */}
                         <div
                             className="tj-sidebar-widget widget-categories wow fadeInUp"
@@ -64,10 +64,10 @@ const CasestudyDetailsPrimary2 = ({option}) => {
                         </div>
                         {/* <!-- cta --> */}
                         <div
-                            className="tj-sidebar-widget widget-feature-item wow fadeInUp"
+                            className="tj-sidebar-widget widget-feature-item wow fadeInUp "
                             data-wow-delay=".3s"
                         >
-                            <CtaSidebar/>
+                                <CtaSidebar />
                         </div>
                     </aside>
                 </div>

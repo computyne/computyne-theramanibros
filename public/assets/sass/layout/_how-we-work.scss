@@ -1,7 +1,7 @@
 @use "../utilities/index" as *;
 
 /**----------------------------------------
-START: Team CSS
+START: How We Work CSS
 ----------------------------------------*/
 .tj-hww-section {
     padding-top: 120px;
@@ -214,6 +214,30 @@ START: Team CSS
 .team-pad-18 {
     padding: 18px;
 }
+
+
+
+.slidebar-stickiy-container-new {
+  flex: 1;
+
+  @media #{$lg, $xl} {
+    position: relative; /* important */
+  }
+}
+
+.slidebar-stickiy-new {
+  @media #{$lg, $xl} {
+    position: sticky;
+    top: 120px; /* header height */
+    
+    /* 🔥 KEY FIX */
+    max-height: calc(100vh - 140px);
+    overflow-y: auto;
+
+    align-self: flex-start;
+  }
+}
+
 
 .how-we-work-item {
     position: relative;
@@ -743,4 +767,4 @@ START: Team CSS
     }
 }
 
-/* !END: Team CSS */
+/* !END: How We Work CSS */
