@@ -189,7 +189,9 @@ const HowWeWork = () => {
 				<div className="row">
 					<div className="col-12">
 						<div className="how-we-work-wrapper">
-							<div className="how-we-work-item-wrap">
+							<div className="how-we-work-item-wrap slidebar-stickiy-container" >
+								<div className="slidebar-stickiy">
+
 								{itemMainHowWeWork?.length
 									? itemMainHowWeWork.map((item, idx) => (
 										<HowWeWorkLeftCard
@@ -201,8 +203,9 @@ const HowWeWork = () => {
 										/>
 									))
 									: ""}
+								</div>
 							</div>
-							
+
 							{activeHww.id === 1 && (<div className="how-we-work-right-wrap wow fadeInUp" data-wow-delay=".1s">
 								<div
 									id="how-we-work-right"
