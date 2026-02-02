@@ -42,10 +42,12 @@
             "image": "/images/service/overview/data-extraction-overview.webp",
             "h2": "Scalable Data Extraction Solutions for Clean, Decision-Ready Data",
             "content": [
-                "Managing high volumes of unstructured and fragmented information often slows business operations and limits visibility. Computyne delivers professional Data Extraction Services that transform raw data into structured, reliable, and analytics-ready datasets.",
-                "As a trusted data extraction company, we help organizations extract business-critical information from websites, PDFs, documents, databases, APIs, and digital repositories with precision and consistency. Our managed data extraction services reduce manual effort while ensuring data accuracy, completeness, and usability.",
-                "Each data extraction solution is tailored to your business goals. By combining intelligent automation, AI-assisted tools, and expert manual validation, our specialists capture relevant data points and deliver verified outputs formatted for seamless system integration. Every dataset undergoes strict quality checks before delivery.",
-                "We support industries such as retail, healthcare, finance, logistics, real estate, and technology with scalable web data extraction services that power reporting, analytics, and operational efficiency. Whether processing high-volume files or managing complex, multi-source environments, we deliver fast turnaround times without compromising data quality."
+              "Managing <strong>disparate</strong> information often creates operational bottlenecks and obscures visibility. <strong>Computyne</strong> provides professional data extraction services that transform raw, unstructured data into reliable, analytics-ready datasets. As your specialized partner, we bridge the gap between manual effort and digital efficiency with absolute precision.",
+              "<h5>Comprehensive Extraction Across Digital Touchpoints</h5> Our specialists utilize a blend of intelligent automation, AI tools, and expert validation to retrieve data from:</p><ul style=\"padding-left:2rem;\"><li><strong>Websites &amp; Repositories:</strong> High-speed scraping and data harvesting.</li><li><strong>Documents &amp; PDFs:</strong> Converting static files into searchable, structured formats.</li><li><strong>APIs &amp; Databases:</strong> Integrating complex technical infrastructures seamlessly.</li></ul>",
+                "<h5>Industry-Specific Solutions for Global Impact</h5> We deliver scalable solutions designed for unique regulatory and operational demands:",
+                "<ul style=\"padding-left:2rem;\"><li><strong>Finance &amp; Insurance:</strong> Automating extraction from financial statements and claims for risk compliance.</li><li><strong>Healthcare:</strong> Converting patient records and clinical data into secure, interoperable formats.</li><li><strong>Retail &amp; E-commerce:</strong> Powering price intelligence and competitor monitoring via web scraping.</li><li><strong>Logistics:</strong> Streamlining workflows by capturing data from bills of lading and manifests.</li><li><strong>Real Estate &amp; Tech:</strong> Aggregating market trends and API data to fuel machine learning models.</li></ul>",
+                "<p>We deliver rapid turnaround times without compromising integrity. Optimize your operational efficiency with verified, high-quality insights.</p>",
+                "<a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Power your Growth with Verified Data Intelligence.</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a>"
             ]
         }
     },
@@ -225,7 +227,7 @@
             {
                 "label": "Cost Saving",
                 "value": null,
-                "symbol": "40 to 60%"
+                "symbol": "60%"
             },
             {
                 "label": "Data Support",
@@ -240,13 +242,14 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-collection-overview.webp",
-            "h2": "Data Collection Services That Deliver Accurate, Scalable, Business-Ready Data",
+            "h2": "Outsourced Data Collection for AI, Analytics & Market Intelligence",
             "content": [
-                "Computyne delivers professional data collection services that help organizations eliminate manual workloads, reduce operational costs, and access reliable, decision-ready datasets. Our outsourced data collection services support enterprise analytics, AI initiatives, eCommerce intelligence, and market research with speed, accuracy, and security.",
-                "Many organizations struggle with fragmented, outdated, or incomplete data that delays insights and weakens decision-making. Computyne resolves these challenges through scalable data collection outsourcing that combines automated web data collection, API-based harvesting, and enterprise-grade validation workflows.",
-                "Our experienced data specialists help businesses accelerate AI adoption, automate reporting, optimize pricing strategies, and expand market intelligence—without the cost and complexity of internal hiring or infrastructure investment.",
-                "We collect and structure information from diverse global sources, including websites and online marketplaces, databases and APIs, SaaS tools and enterprise systems, PDFs and scanned documents, spreadsheets, unstructured content, and industry-specific digital records and government portals.",
-                "Every dataset is cleaned, validated, deduplicated, and formatted to integrate seamlessly with BI dashboards, CRM platforms, automation tools, AI pipelines, and enterprise analytics environments."
+                "<strong>Computyne</strong> delivers <span style=\"color:#f36523;\"><strong><i>professional data collection services</i></strong></span> that empower organizations to eliminate manual workloads and drastically reduce operational costs. We provide high-fidelity, decision-ready datasets designed to fuel enterprise analytics, AI initiatives, and global market research with unmatched speed and security.",
+                "<h5>Overcoming Data Fragmentation</h5> Many businesses struggle with fragmented or incomplete data that stalls decision-making. Computyne resolves these bottlenecks through <strong>scalable data collection outsourcing.</strong>",
+                "Our approach integrates:",
+                "<ul style=\"padding-left:2rem;\"><li><strong>Automated Web Harvesting:</strong> Rapid extraction from global marketplaces.</li><li><strong>API-Based Collection:</strong> Seamless data retrieval from SaaS and enterprise tools.</li><li><strong>Rigorous Validation:</strong> Multi-tier workflows ensuring 100% accuracy.</li></ul>",
+                "<h5>Business-Ready Data for AI and Analytics</h5><p>Our specialists help you accelerate AI adoption and optimize pricing strategies without the overhead of internal infrastructure. We transform unstructured content, including PDFs, scanned documents, and government portals, into clean, structured formats.</p><p>Every dataset is meticulously <strong>cleaned, deduplicated, and validated</strong> to integrate seamlessly into your BI dashboards, CRM platforms, and AI pipelines. Partner with Computyne to turn complex data into your most valuable strategic asset.</p>",
+                "<a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Partner with Computyne for Scalable, Accurate Data.</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a>"
             ]
         }
     },
