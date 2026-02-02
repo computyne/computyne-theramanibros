@@ -1,4 +1,4 @@
-import {gsap} from "@/libs/gsap.config";
+import { gsap } from "@/libs/gsap.config";
 import rtlValue from "./rtlValue";
 
 const tjScrollSlider = selector => {
@@ -7,7 +7,12 @@ const tjScrollSlider = selector => {
         const sliders = gsap.utils.toArray(".tj-scroll-slider");
         if (sliders?.length) {
             sliders.forEach(slider => {
-                let panels = gsap.utils.toArray(".tj-scroll-slider-item");
+                // let panels = gsap.utils.toArray(".tj-scroll-slider-item");
+                const panels = slider.querySelectorAll(".tj-scroll-slider-item");
+
+                // 🔴 IMPORTANT FIX
+                if (panels.length <= 1) return;
+
                 gsap.to(panels, {
                     xPercent: rtlValue(-100) * (panels.length - 1),
                     force3D: true,

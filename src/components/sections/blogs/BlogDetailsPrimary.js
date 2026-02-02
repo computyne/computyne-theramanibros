@@ -22,14 +22,23 @@ const BlogDetailsPrimary = ({option}) => {
             setHtmlString(data || "<p>Content not found</p>");
         });
     }, [slug]);
+
+      // 🔥 KEY FIX
+  useEffect(() => {
+    if (!htmlString) return;
+    window.dispatchEvent(new Event("resize"));
+  }, [htmlString]);
+
     return (
-        <section className="tj-blog-section section-gap slidebar-stickiy-container">
+        <section className="tj-blog-section section-gap ">
             <div className="container">
                 <div className="row row-gap-5">
                     <div className="postBody-module__Mf2ZlW__content col-lg-8"
                          dangerouslySetInnerHTML={{__html: htmlString}}/>
-                    <div className="col-lg-4">
-                        <BlogSidebar tags={tags}/>
+                    <div className="col-lg-4 slidebar-stickiy-container">
+                        <div className="slidebar-stickiy">
+                            <BlogSidebar tags={tags} />
+                        </div>
                     </div>
                 </div>
             </div>
