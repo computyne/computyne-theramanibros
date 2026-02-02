@@ -55,82 +55,21 @@ const AboutCard = ({type}) => {
 									<i className="tji-box"></i>Get to Know Us
 								</span>
                                 <h2 className="sec-title title-anim">
-                                    {type === 2 ? (
-                                        <>
-                                            <span>Computyne</span> : Stronger Operations, Smarter Growth
-                                        </>
-                                    ) : (
-                                        "Driving Innovation and Excellence for Sustainable Corporate Success Worldwide."
-                                    )}
+                                   Computyne: Global Enterprise Data Solutions Partner
                                 </h2>
                             </div>
                         </div>
                         <div className="about-bottom-area">
                             <p>
-                                Computyne partners with medium to large enterprises and MNCs across the USA, Canada,
-                                Australia, UK, and Europe,
-                                delivering smarter outsourcing solutions that power growth. We take care of the routine,
-                                complex, and high-volume
-                                back-office and data processing tasks, freeing your teams to focus on innovation and
-                                business impact.
+                                Computyne is a trusted global provider of BPO, BPM, and KPO services, supporting enterprises across the USA, UK, Europe, Canada, Australia, Singapore, and the GCC countries. Since 2009, we have specialized in high-volume back-office operations that allow internal teams to focus on innovation, strategy, and measurable business outcomes. Serving as a dependable operational backbone for Fortune 500 organizations, Computyne improves efficiency, optimizes cost structures, and delivers scalable outsourcing built on execution excellence.
                             </p>
                             <p>
-                                Our expertise spans data support & capture, data entry, data conversion, document
-                                processing, web research & data
-                                collection, and data cleansing & validation-delivered with speed, accuracy, and
-                                scalability.
+                                Our capabilities span a full spectrum of enterprise data services organized into specialized solution clusters. These include high-accuracy Data Annotation Services for AI training, reliable Data Collection Services for structured and unstructured datasets, and intelligent Document Processing Services that digitize records into usable intelligence. We also provide advanced Data Management Services, Data Entry Services, and compliant web scraping solutions. Each service is engineered to transform raw data into actionable insights, enabling speed, precision, and enterprise-grade scalability for sustainable growth.
                             </p>
                             <p>
-                                With Computyne as your backbone, you gain a reliable partner that drives efficiency,
-                                reduces costs, and helps your
-                                business stay ahead in a competitive market.
+                               Certified under ISO/IEC 27001:2022, Computyne operates with a strong commitment to information security, data confidentiality, and quality assurance. Our mature delivery frameworks support consistent performance, regulatory compliance, and controlled execution across every engagement. By combining technical depth with global delivery strength, we help organizations scale with confidence, enhance digital operations, and strengthen decision-making through trusted, secure, and intelligent data solutions that drive measurable business advantage.
                             </p>
-                            {/*<div
-								className="mission-vision-box wow fadeInLeft"
-								data-wow-delay=".5s"
-							>
-								<h4 className="title">Our Mission</h4>
-								<p className="desc">
-									our mission is empower businesses through innovate best
-									solution, exceptional service.
-								</p>
-								<ul className="list-items">
-									<li>
-										<i className="tji-list"></i>Innovation & Excellence
-									</li>
-									<li>
-										<i className="tji-list"></i>Exceptional Customer
-									</li>
-									<li>
-										<i className="tji-list"></i>Business Growth
-									</li>
-								</ul>
-							</div>
-							<div
-								className="mission-vision-box wow fadeInRight"
-								data-wow-delay=".5s"
-							>
-								<h4 className="title">Our Vision</h4>
-								<p className="desc">
-									Our vision is to become a global leader in providing
-									transformative business solutions.
-								</p>
-								<ul className="list-items">
-									<li>
-										<i className="tji-list"></i>Global Leadership
-									</li>
-									<li>
-										<i className="tji-list"></i>Transformative Impact
-									</li>
-									<li>
-										<i className="tji-list"></i>Sustainable Success
-									</li>
-								</ul>
-							</div>*/}
                         </div>
-                        {/*<div className="about-btn-area wow fadeInUp" data-wow-delay=".5s">
-                            <ButtonPrimary text={"Connect With Us Today"} url={"/contact-us"}/>
-                        </div>*/}
                     </div>
                 </div>
             </div>
