@@ -110,7 +110,7 @@ const Footer = () => {
                                         <Link href="/case-studies">Case Studies</Link>
                                     </li>
                                     <li>
-                                        <Link href="/blogs">Blogs</Link>
+                                        <Link href="/blog">Blogs</Link>
                                     </li>
                                     <li>
                                         <Link href="/contact-us">Contact us</Link>
@@ -132,16 +132,16 @@ const Footer = () => {
 										</span>
                                     </div>
                                     <div className="contact-item">
-                                        <Link href="tel:000-000-0000">
+                                        <Link href="tel:+1 402-513-7304">
 											<span>
-													<i className="tji-phone"></i> 000-000-0000
+													<i className="tji-phone"></i> +1 402-513-7304
 											</span>
                                         </Link>
                                     </div>
                                     <div className="contact-item">
-                                        <Link href="mailto:support@computyne.com">
+                                        <Link href="mailto:info@computyne.com">
 											<span>
-													<i className="tji-envelop"></i> support@computyne.com
+													<i className="tji-envelop"></i> info@computyne.com
 											</span>
                                         </Link>
                                     </div>
@@ -165,11 +165,11 @@ const Footer = () => {
                                 <div className="footer-contact-mod">
                                     <ul>
                                         <li>
-                                            <Link href="tel:000-000-0000">
+                                            <Link href="tel:+1 402-513-7304">
 												<span className="icon">
 													<i className="tji-phone-2"></i>
 												</span>
-                                                <span className="text">000-000-0000</span>
+                                                <span className="text">+1 402-513-7304</span>
                                             </Link>
                                         </li>
                                         <li>
@@ -211,7 +211,7 @@ const Footer = () => {
                                     <p>
                                         &copy; 2025
                                         {" "}<Link
-                                        href="https://themeforest.net/user/theme-junction/portfolio"
+                                        href="https://www.computyne.com/"
                                         target="_blank"
                                     >
                                         Computyne
