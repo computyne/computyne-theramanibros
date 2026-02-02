@@ -6,7 +6,7 @@ const CallSchedule = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-12">
-                        <Link className="circle-icon" href="/about">
+                        <Link className="circle-icon" href="/contact-us">
                             <div className="cta-area">
                                 <div className="cta-content-mod">
                                     <h2 className="title title-anim">

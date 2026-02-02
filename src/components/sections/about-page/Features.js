@@ -4,17 +4,17 @@ const Features = ({type}) => {
     const features = [
         {
             title: "Our Vision",
-            desc: "Our vision is to be a global leader in IT solutions and services with impetus on innovation, excellence, and implementation of ethical Business Strategies - with the ultimate aim of giving back to the society.",
+            desc: "Our vision is to become a globally recognized leader in intelligent data solutions and KPO services, driving innovation and operational excellence through ethical business practices. We aim to set industry benchmarks for sustainable enterprise growth by integrating advanced technology with a human-centric operating model. By empowering global organizations through smarter decision-making and responsible innovation, we strive to deliver long-term value to the businesses and societies we serve.",
             icon: "tji-innovative",
         },
         {
             title: "Our Mission",
-            desc: "Our mission is to create innovative products and deliver excellence in services. We strongly believe tech should be more in helping people and building a better environment. That's why we put quality and value ahead.",
+            desc: "Our mission is to design intelligent solutions and deliver execution excellence across our BPO, BPM, and KPO service ecosystem. We believe technology should serve people and the environment, which is why we embed quality, accountability, and purpose in every engagement. By delivering scalable, precision-driven outsourcing, we help our partners optimize operations and build a resilient, technology-enabled future for a global market.",
             icon: "tji-award",
         },
         {
             title: "Quality Policy",
-            desc: "We deliver effective quality solutions and services to our clients - meeting project requirements and achieving continuous excellence in all our products and services – guided by our defined global standards.",
+            desc: "Computyne is committed to delivering effective, enterprise-grade solutions that consistently exceed client expectations and project benchmarks. Our operations are governed by the ISO/IEC 27001:2022 standard, ensuring world-class information security, data integrity, and continuous improvement across all services. Through disciplined delivery models and globally aligned standards, we provide the reliability, accuracy, and control required for sustainable enterprise-grade outcomes.",
             icon: "tji-support",
         },
     ];
