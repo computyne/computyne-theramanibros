@@ -894,11 +894,12 @@
         ],
         "overview": {
             "image": "/images/service/overview/web-research-overview.webp",
-            "h2": "Reliable Web Research Services Delivering Validated, Decision-Ready Intelligence",
+            "h2": "Scalable Web Research: Your On-Demand Intelligence Engine",
             "content": [
-                "Access timely, relevant, and verified information through professional web research services designed to support confident business decisions. Computyne delivers high-quality online research services that uncover actionable insights from vast digital data sources while reducing operational burden and research timelines.",
-                "As a trusted web research company, Computyne supports startups, enterprises, and global teams with business web research services spanning market intelligence, competitive analysis, data collection, lead research, and industry-specific insights. Each engagement is customized to align with defined objectives, target markets, and preferred output formats.",
-                "Our outsourced web research services combine skilled analysts, structured methodologies, and secure workflows to deliver accurate, relevant, and decision-ready information. From strategic planning to sales enablement and market expansion, our research solutions help organizations act faster and with greater confidence."
+                "<i><strong>High-Impact Web Research Services for Actionable Business Intelligence</strong></i>",
+                "<p>In a data-saturated landscape, the difference between a missed opportunity and a market breakthrough is the quality of your information. <strong>Computyne</strong> provides professional web research services designed to transform vast digital noise into verified, decision-ready intelligence. By outsourcing your data requirements to a specialized web research company, you gain access to timely and relevant insights that fuel confident business strategies while significantly reducing operational overhead.</p><p>Our comprehensive suite of <strong>business web research services</strong> is tailored to meet the evolving needs of startups and global enterprises alike. We specialize in:</p> <ul style=\"padding-left:2rem;\"><li><strong>Market Intelligence:</strong> Identifying emerging trends and shifting consumer behaviors.</li><li><strong>Competitive Analysis:</strong> Benchmarking rival strategies to maintain your market edge.</li><li><strong>Lead Research:</strong> Building high-conversion prospect lists through rigorous verification.</li><li><strong>Industry Insights:</strong> Delivering deep-dives into niche sectors for strategic planning.</li></ul>",
+                "<p>At Computyne, we combine skilled human analysts with structured methodologies and secure workflows. This ensures every data point is accurate, compliant, and formatted for immediate use. Whether you are seeking sales enablement tools or a blueprint for market expansion, our research solutions empower your organization to act faster, mitigate risk, and lead with precision.</p></section>",
+                "<a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Get Started with Data-Driven Growth Today.</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a>"
             ]
         }
     },

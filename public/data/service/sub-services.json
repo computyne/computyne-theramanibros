@@ -2351,8 +2351,28 @@
             },
             {
                 "id": 3,
+                "title": "Email & Address Verification Research",
+                "desc": "Maximize campaign ROI and outreach accuracy through our rigorously verified contact and location data research services.",
+                "url": "#",
+                "data": [
+                    {
+                        "value": "Email accuracy and deliverability validation"
+                    },
+                    {
+                        "value": "Physical address and location verification"
+                    },
+                    {
+                        "value": "Reduced bounce rates and data wastage"
+                    },
+                    {
+                        "value": "Enhanced outreach precision and engagement"
+                    }
+                ]
+            },
+            {
+                "id": 4,
                 "title": "Lead & Prospect Research",
-                "desc": "Build accurate, compliant, and conversion-ready databases using B2B and B2C lead research services.",
+                "desc": "Enhance your sales pipeline with verified B2B and B2C databases through our compliant lead research services.",
                 "url": "#",
                 "data": [
                     {
@@ -2370,47 +2390,7 @@
                 ]
             },
             {
-                "id": 4,
-                "title": "Data Mining & Web Data Collection",
-                "desc": "Extract large volumes of structured and unstructured information using scalable web data collection services.",
-                "url": "#",
-                "data": [
-                    {
-                        "value": "Data collection from websites, portals, and directories"
-                    },
-                    {
-                        "value": "Real-time and historical market data capture"
-                    },
-                    {
-                        "value": "Secondary data and public data research"
-                    },
-                    {
-                        "value": "Clean, analytics-ready dataset delivery"
-                    }
-                ]
-            },
-            {
                 "id": 5,
-                "title": "Data Cleansing & Validation Services",
-                "desc": "Ensure reliable insights with accurate, standardized, and verified datasets.",
-                "url": "#",
-                "data": [
-                    {
-                        "value": "Removal of duplicates and outdated records"
-                    },
-                    {
-                        "value": "Correction of inconsistencies and formatting issues"
-                    },
-                    {
-                        "value": "Multi-source data validation checks"
-                    },
-                    {
-                        "value": "Improved data quality for reporting and analytics"
-                    }
-                ]
-            },
-            {
-                "id": 6,
                 "title": "Web & Database Research",
                 "desc": "Support complex research requirements with deep online investigations and structured database creation.",
                 "url": "#",
@@ -2430,27 +2410,7 @@
                 ]
             },
             {
-                "id": 7,
-                "title": "Email & Address Verification Research",
-                "desc": "Improve outreach accuracy and campaign ROI with verified contact and location data.",
-                "url": "#",
-                "data": [
-                    {
-                        "value": "Email accuracy and deliverability validation"
-                    },
-                    {
-                        "value": "Physical address and location verification"
-                    },
-                    {
-                        "value": "Reduced bounce rates and data wastage"
-                    },
-                    {
-                        "value": "Enhanced outreach precision and engagement"
-                    }
-                ]
-            },
-            {
-                "id": 8,
+                "id": 6,
                 "title": "Academic & Educational Research Support",
                 "desc": "Structured research assistance for educational institutions and EdTech platforms.",
                 "url": "#",
@@ -2468,7 +2428,71 @@
                         "value": "Faster, reliable research outcomes"
                     }
                 ]
+            },
+            {
+                "id": 7,
+                "title": "LinkedIn and Social Media Research",
+                "desc": "Identify key influencers and decision-makers with precision through our specialized social media research and monitoring.",
+                "url": "#",
+                "data": [
+                    {
+                        "value": "Targeted lead generation for outreach"
+                    },
+                    {
+                        "value": "In-depth executive and stakeholder profiles"
+                    },
+                    {
+                        "value": "Strategic brand sentiment and tracking"
+                    },
+                    {
+                        "value": "Mapping professional networks and connections"
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "title": "Data Mining & Web Data Collection",
+                "desc": "Extract large volumes of structured and unstructured information using scalable web data collection services.",
+                "url": "/data-mining-services",
+                "data": [
+                    {
+                        "value": "Data collection from websites, portals, and directories"
+                    },
+                    {
+                        "value": "Real-time and historical market data capture"
+                    },
+                    {
+                        "value": "Secondary data and public data research"
+                    },
+                    {
+                        "value": "Clean, analytics-ready dataset delivery"
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "title": "Data Cleansing & Validation Services",
+                "desc": "Ensure reliable insights with accurate, standardized, and verified datasets.",
+                "url": "/data-cleansing-services",
+                "data": [
+                    {
+                        "value": "Removal of duplicates and outdated records"
+                    },
+                    {
+                        "value": "Correction of inconsistencies and formatting issues"
+                    },
+                    {
+                        "value": "Multi-source data validation checks"
+                    },
+                    {
+                        "value": "Improved data quality for reporting and analytics"
+                    }
+                ]
             }
+
+
+
+
         ]
     },
     "web-scraping-services": {
