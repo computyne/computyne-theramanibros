@@ -158,6 +158,16 @@ const HowWeWork = () => {
 		}, 100);
 	}, []);
 
+	useEffect(() => {
+		// Recalculate sticky AFTER content & animations update
+		const timeout = setTimeout(() => {
+			window.dispatchEvent(new Event("resize"));
+		}, 10); // small delay = layout finalized
+
+		return () => clearTimeout(timeout);
+	}, [activeHww?.id]);
+
+
 
 	useEffect(() => {
 		return () => {
