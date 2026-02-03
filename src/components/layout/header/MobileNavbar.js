@@ -41,10 +41,11 @@ const MobileNavbar = () => {
                                             ? servicesNav?.submenu?.map((pageItem, idx) => (
                                                 <div key={idx} className="mega-menu-pages-single">
                                                     <div className="mega-menu-pages-single-inner">
-                                                        <h6 className="mega-menu-title">
-                                                            {pageItem?.name}
-                                                        </h6>
-                                                        {/* <Link href={"/"} className="mega-menu-title">{pageItem?.name}</Link> */}
+                                                        <Link href={pageItem?.path} className="mega-menu-title">
+                                                            <h6 className="mega-menu-title">
+                                                                {pageItem?.name}
+                                                            </h6>
+                                                        </Link>
                                                         <div className="mega-menu-list">
                                                             {pageItem?.items?.length
                                                                 ? pageItem?.items?.map((item, idx2) => (
