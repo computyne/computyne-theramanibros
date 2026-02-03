@@ -95,12 +95,12 @@ const Header = ({
                                     {headerType === 4 || headerType === 6 ? (
                                         <Link
                                             className="header-contact d-none d-xl-inline-flex"
-                                            href="tel:000-000-0000"
+                                            href="tel:+1 402-513-7304"
                                         >
 											<span className="call-icon">
 												<i className="tji-phone"></i>
 											</span>
-                                            <span className="call-text">000-000-0000</span>
+                                            <span className="call-text">+1 402-513-7304</span>
                                         </Link>
                                     ) : headerType === 5 ? (
                                         ""

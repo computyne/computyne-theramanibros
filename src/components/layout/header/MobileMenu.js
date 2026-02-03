@@ -38,8 +38,8 @@ const MobileMenu = ({isMobileMenuOpen, setIsMobileMenuOpen}) => {
                             <div className="contact-info">
                                 <div className="contact-item">
                                     <span className="subtitle">Phone</span>
-                                    <Link className="contact-link" href="tel:000-000-0000">
-                                        000-000-0000
+                                    <Link className="contact-link" href="tel:+1 402-513-7304">
+                                        +1 402-513-7304
                                     </Link>
                                 </div>
                                 <div className="contact-item">
