@@ -457,7 +457,7 @@
         "banner": {
             "image": "/images/service/banner/data-mining-banner.webp",
             "h1": "Data Mining Services",
-            "tagline": "Turn Complex Data into Actionable Business Intelligence",
+            "tagline": "Precision Data Mining to Give Your Business a Competitive Edge.",
             "cta": "Request Data Mining Consultation"
         },
         "counter": [
@@ -494,12 +494,18 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-mining-overview.webp",
-            "h2": "Secure Web and Document Data Mining for Scalable Insights",
+            "h2": "Secure Web & Document Data Mining for Scalable Insights",
             "content": [
-                "Computyne delivers professional data mining services designed to transform complex, high-volume information into reliable business intelligence. Our secure and scalable data mining solutions help organizations identify patterns, uncover trends, and generate accurate forecasts without the cost or complexity of managing in-house analytics infrastructure.",
-                "As a trusted data mining service provider, we deliver customized data mining solutions aligned with your business objectives. Our specialists apply advanced techniques such as clustering, regression analysis, association rules, and pattern recognition to convert raw, unstructured data into clean, decision-ready datasets.",
-                "Every data mining output supports reporting, performance analysis, and strategic planning, enabling confident, data-driven decision-making across the organization.",
-                "Through automated web data mining and document data mining services, we extract and structure information from websites, online platforms, PDFs, scanned documents, and legacy systems. By outsourcing data mining services to Computyne, businesses gain a secure, cost-effective partner committed to accuracy, consistency, and compliance."
+
+                "Computyne provides professional data mining services designed to transform complex, high-volume information into reliable business intelligence. Our secure and scalable solutions help organizations identify patterns, uncover trends, and generate accurate forecasts without the cost or complexity of managing in-house analytics infrastructure.",
+                "As a trusted data mining service provider, we deliver customized solutions aligned with your specific business objectives. Our specialists apply advanced techniques, such as clustering, regression analysis, association rules, and pattern recognition—to convert raw, unstructured data into clean, decision-ready datasets.",
+                "<h5>Key Benefits of Our Data Mining Services:</h5>",
+                "<ul style=\"padding-left:2rem;\"\n><li><strong>Actionable Intelligence:</strong> Every output supports reporting, performance analysis, and strategic planning.</li><li><strong>Automated Extraction:</strong> We structure data from websites, PDFs, scanned documents, and legacy systems.</li><li><strong>Strategic Growth:</strong> Enable confident, data-driven decision-making across your entire organization.</li><li><strong>Operational Efficiency:</strong> Reduce overhead by outsourcing to a partner committed to accuracy and compliance.</li></ul>",
+                "<p>By partnering with Computyne, businesses gain a secure, cost-effective edge in the digital landscape. We ensure your data is consistent, compliant, and ready to drive measurable results.</p>",
+                "<a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Unlock Scalable Insights With Us</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a>"
+
+
+
             ]
         }
     },
@@ -946,10 +952,10 @@
             "image": "/images/service/overview/web-scrapping-overview.webp",
             "h2": "Custom Web Scraping and Data Delivery Tailored to Your Needs",
             "content": [
-                "Manually collecting data from multiple websites is time-intensive, error-prone, and difficult to scale. Computyne delivers professional Web Scraping Services that automate data extraction and convert scattered online information into clean, structured, and reliable datasets.",
-                "As a trusted web scraping company, we help organizations collect accurate website data for research, analytics, and reporting while reducing manual effort and improving data consistency and quality. Our solutions are designed to align with specific business objectives and industry requirements.",
-                "Computyne builds custom automated web scraping workflows to extract critical data from eCommerce platforms, real estate portals, job boards, financial websites, and public directories. Every dataset is validated, standardized, and formatted for immediate usability across enterprise systems.",
-                "Using advanced web crawler services and enterprise-grade extraction methodologies, we enable pricing tracking, competitor monitoring, and real-time market analysis. By outsourcing web scraping services to Computyne, businesses gain secure, scalable, and performance-driven data solutions that transform unstructured web content into actionable intelligence."
+                "<p>Manually gathering web data is a bottleneck that leads to errors and scaling plateaus. <strong>Computyne</strong> provides professional web scraping services that automate extraction, transforming fragmented online information into clean, structured, and ready-to-use datasets.</p><h5>Why Partner with Computyne?</h5><p>We bridge the gap between raw web content and actionable business intelligence. Our custom workflows are designed to improve data consistency while significantly reducing manual overhead.</p><ul  style=\"padding-left:2rem;\"><li><strong>Custom Automated Workflows:</strong> Tailored extraction for eCommerce, real estate, finance, and public directories.</li><li><strong>Data Integrity:</strong> Every dataset is validated, standardized, and formatted for seamless integration into your enterprise systems.</li><li><strong>Enterprise-Grade Technology:</strong> Advanced web crawlers capable of handling complex site architectures and high-volume requests.</li></ul>",
+                "<h5>Strategic Data Solutions</h5><p>By outsourcing your data needs to Computyne, you gain a competitive edge through:</p><ul  style=\"padding-left:2rem;\"><li><strong>Real-Time Market Analysis:</strong> Monitor price fluctuations and competitor shifts as they happen.</li><li><strong>Strategic Research:</strong> High-fidelity data collection for deep-dive reporting and analytics.</li><li><strong>Scalable Infrastructure:</strong> Secure solutions that grow alongside your data requirements.</li></ul></section><section id=\"result\">",
+                "<p>We transform unstructured web content into reliable intelligence, allowing your team to focus on strategy rather than data entry.</p>",
+                "<a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Start Your Custom Scraping Project</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a>"
             ]
         }
     },

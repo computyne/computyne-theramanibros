@@ -33,5 +33,12 @@
 		"img": "/images/service/Data Entry.webp",
 		"link": "/data-entry-services",
 		"desc": "Accurate, scalable data entry services that eliminate manual workload, reduce processing time, and let your teams focus on strategic growth and customer success."
+	},
+	{
+		"id": 6,
+		"title": "Hire Remote Team",
+		"img": "/images/service/Data Entry.webp",
+		"link": "/hire-resources",
+		"desc": "Finding the right remote talent shouldn't be a headache. I can help you streamline your operations with a versatile team ready to tackle your back-office needs."
 	}
 ]

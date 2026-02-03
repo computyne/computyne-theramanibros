@@ -12,7 +12,7 @@ const Portfolios = () => {
                         <div className="col-12">
                             <div className="sec-heading-wrap style-3">
 								<span className="sub-title wow fadeInUp" data-wow-delay=".3s">
-									<i className="tji-box"></i>Proud Projects
+									<i className="tji-box"></i>Case Studies
 								</span>
                                 <div className="heading-wrap-content">
                                     <div className="sec-heading style-3">
