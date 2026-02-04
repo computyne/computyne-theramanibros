@@ -44,7 +44,7 @@ export default function RootLayout({children}) {
 
         <head>
             {/* Google Tag Manager */}
-            <Script id="gtm-script" strategy="beforeInteractive">
+            <Script strategy="beforeInteractive">
                 {`
             (function(w,d,s,l,i){
               w[l]=w[l]||[];
