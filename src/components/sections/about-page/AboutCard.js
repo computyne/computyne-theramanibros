@@ -19,33 +19,7 @@ const AboutCard = ({type}) => {
                                     height={639}
                                 />
                             </div>
-                            <div className={`box-area ${type === 2 ? "style-2" : ""}`}>
-                                <div className="progress-box wow fadeInUp" data-wow-delay=".3s">
-                                    <h4 className="title">Business Progress</h4>
-                                    <ul className="tj-progress-list">
-                                        <li>
-                                            <h6 className="tj-progress-title">Revenue</h6>
-                                            <div className="tj-progress">
-                                                <span className="tj-progress-percent">82%</span>
-                                                <div
-                                                    className="tj-progress-bar"
-                                                    data-percent="82"
-                                                ></div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <h6 className="tj-progress-title">Satisfaction</h6>
-                                            <div className="tj-progress">
-                                                <span className="tj-progress-percent">90%</span>
-                                                <div
-                                                    className="tj-progress-bar"
-                                                    data-percent="90"
-                                                ></div>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
+
                         </div>
                     </div>
                     <div className="col-xl-6 col-lg-6 order-lg-2 order-1">
