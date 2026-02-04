@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="banner and mobile menu issue solved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="RBYR-about-us-how-we-work-feature" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -229,6 +228,7 @@
       <map>
         <entry key="12f552cb-ff4f-4ede-8bf8-e9b0294c2f07" value="TOOL_WINDOW" />
         <entry key="6320684b-93d4-43ae-870c-6580b3c62d83" value="TOOL_WINDOW" />
+        <entry key="e8fd2736-ab11-46e2-9841-c4639e293b61" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="TAB_STATES">
@@ -286,6 +286,31 @@
         <entry key="MAIN">
           <value>
             <State />
+          </value>
+        </entry>
+        <entry key="e8fd2736-ab11-46e2-9841-c4639e293b61">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
           </value>
         </entry>
       </map>
