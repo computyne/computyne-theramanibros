@@ -44,7 +44,7 @@ export default function RootLayout({children}) {
 
         <head>
             {/* Google Tag Manager */}
-            <Script id="gtm-script" strategy="afterInteractive">
+            <Script id="gtm-script" strategy="beforeInteractive">
                 {`
             (function(w,d,s,l,i){
               w[l]=w[l]||[];
@@ -63,15 +63,15 @@ export default function RootLayout({children}) {
         <body className={`${bodyFont.variable} ${headingFont.variable}`}>
 
         {/* Google Tag Manager (noscript) */}
-        <noscript>
-            <iframe
-                src="https://www.googletagmanager.com/ns.html?id=GTM-KFWT3PN"
-                height="0"
-                width="0"
-                style={{ display: 'none', visibility: 'hidden' }}
-            />
-        </noscript>
-        {/* End Google Tag Manager (noscript) */}
+               <noscript>
+                 <iframe
+                   src="https://www.googletagmanager.com/ns.html?id=GTM-KFWT3PN"
+                   height="0"
+                   width="0"
+                   style={{ display: "none", visibility: "hidden" }}
+                 />
+               </noscript>
+               {/* End Google Tag Manager (noscript) */}
 
         {children}
 
