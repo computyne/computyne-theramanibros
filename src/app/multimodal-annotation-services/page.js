@@ -57,7 +57,7 @@ export default function multiModalAnnptationServices() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"multimodal-annotation-services"} type={1}/>
                             <Subservices/>
                             <Casestudy/>
                             <Whychooseus/>

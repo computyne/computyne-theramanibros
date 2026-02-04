@@ -55,7 +55,7 @@ export default function appraisalDataEntryServices() {
                             <div className="top-space-15"></div>
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"appraisal-data-entry-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Proven Results from Appraisal & Valuation Data Projects"/>
                             <Whychooseus/>

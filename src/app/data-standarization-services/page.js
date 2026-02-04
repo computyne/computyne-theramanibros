@@ -58,7 +58,7 @@ export default function dataStandarizationServices() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"data-standardization-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Enterprise Data Standardization Case Studies with Proven Results"/>
                             <Whychooseus/>

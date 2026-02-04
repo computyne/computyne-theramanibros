@@ -56,7 +56,7 @@ export default function hireWebResearchers() {
                             <div className="top-space-15"></div>
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"hire-web-researchers"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Impactful Results from Professional Web Research Services"/>
                             <Whychooseus/>

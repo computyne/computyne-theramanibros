@@ -34,7 +34,7 @@ export default function realEstate() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"real-estate"} type={1}/>
                             <Subservices/>
                             <Whychooseus/>
                             <Casestudy text="Operational Excellence in Real Estate and Property Management"/>

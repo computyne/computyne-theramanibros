@@ -56,7 +56,7 @@ export default function resumeFormattingServices() {
                             <div className="top-space-15"></div>
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"resume-formatting-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Proven Results from Our Resume Services"/>
                             <Whychooseus/>

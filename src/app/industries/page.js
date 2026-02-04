@@ -25,7 +25,7 @@ export default function industriesPage() {
                         <div className="top-space-15"></div>
                         <Banner/>
                         <Counter/>
-                        <Aboutus type={1}/>
+                        <Aboutus slug={"industries"} type={1}/>
                         <Subservices/>
                         <Casestudy/>
                         <Whychooseus/>

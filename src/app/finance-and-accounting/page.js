@@ -34,7 +34,7 @@ export default function financeAndAccounting() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"finance-and-accounting"} type={1}/>
                             <Subservices/>
                             <Whychooseus/>
                             <Casestudy text="Measurable Business Impact Through Finance and Accounting Outsourcing"/>

@@ -57,7 +57,7 @@ export default function documentProcessingServices() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"document-processing-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Real-World Document Processing Success Stories Across Industries"/>
                             <Whychooseus/>

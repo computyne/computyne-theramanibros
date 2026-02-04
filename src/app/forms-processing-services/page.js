@@ -58,7 +58,7 @@ export default function formsProcessingServices() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"forms-processing-services"} type={1}/>
                             <Subservices/>
                             <Casestudy/>
                             <Whychooseus/>

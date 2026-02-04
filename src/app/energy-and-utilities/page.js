@@ -34,7 +34,7 @@ export default function energyAndUtilities() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"energy-and-utilities"} type={1}/>
                             <Subservices/>
                             <Whychooseus/>
                             <Casestudy text="BPO Success Across Energy and Utility Enterprises"/>

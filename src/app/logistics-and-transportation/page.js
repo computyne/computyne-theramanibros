@@ -34,7 +34,7 @@ export default function logisticsAndTransportation() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"logistics-and-transportation"} type={1}/>
                             <Subservices/>
                             <Whychooseus/>
                             <Casestudy text="Proven Results from Logistics BPO Engagements"/>

@@ -57,7 +57,7 @@ export default function logisticsDataEntryServices() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"logistics-data-entry-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Proven Results from Logistics Data Entry Engagements"/>
                             <Whychooseus/>

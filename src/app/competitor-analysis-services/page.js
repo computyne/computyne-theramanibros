@@ -56,7 +56,7 @@ export default function competitorAnalysisServices() {
                             <div className="top-space-15"></div>
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"competitor-analysis-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="From Pricing Challenges to Growth: Competitor Analysis Case Studies"/>
                             <Whychooseus/>

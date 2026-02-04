@@ -57,7 +57,7 @@ export default function dataEntryServices() {
                             <div className="top-space-15"></div>
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"data-entry-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Outsourced Data Entry Solutions - Real Client Success Stories"/>
                             <Whychooseus/>

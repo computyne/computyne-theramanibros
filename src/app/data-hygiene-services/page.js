@@ -56,7 +56,7 @@ export default function dataHydieneServices() {
                             <div className="top-space-15"></div>
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"data-hygiene-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Client Success Stories Powered by Continuous Data Hygiene Services"/>
                             <Whychooseus/>

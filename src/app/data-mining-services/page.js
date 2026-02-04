@@ -57,7 +57,7 @@ export default function dataMiningServices() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"data-mining-services"} type={1}/>
                             <Subservices/>
                             <Casestudy/>
                             <Whychooseus/>

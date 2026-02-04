@@ -60,7 +60,7 @@ export default function webScrapingServices() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"web-scraping-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="How Our Web Scraping Services Drive Business Outcomes"/>
                             <Whychooseus/>

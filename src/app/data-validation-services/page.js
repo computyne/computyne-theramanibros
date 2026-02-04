@@ -57,7 +57,7 @@ export default function dataValidationServices() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"data-validation-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Enterprise Data Validation Case Studies with Measurable Results"/>
                             <Whychooseus/>
