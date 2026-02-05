@@ -2,6 +2,7 @@ import ButtonPrimary from "./ButtonPrimary";
 
 const IndustriesCard = ({industry, idx}) => {
     const {title, desc, id, img, url} = industry || {};
+    const isValidUrl = !!url && url.trim() !== "" && url.trim() !== "#";
     return (
         <div className="blog-item style-2">
             <div className="blog-thumb wd-30">
@@ -16,11 +17,14 @@ const IndustriesCard = ({industry, idx}) => {
                         {desc}
                     </p>
                 </div>
-                <ButtonPrimary
-                    text={"Read More"}
-                    url={url}
-                    isTextBtn={true}
-                />
+
+                {isValidUrl && (
+                    <ButtonPrimary
+                        text={"Read More"}
+                        url={url}
+                        isTextBtn={true}
+                    />
+                )}
             </div>
         </div>
     );
