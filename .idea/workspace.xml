@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="header changes">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="Revert &quot;header changes&quot;&#10;&#10;This reverts commit 21df81cd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/home-page/IndustriesCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/home-page/IndustriesCard.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,7 +226,23 @@
       <option name="project" value="LOCAL" />
       <updated>1770276933763</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="gitignore updated">
+      <option name="closed" value="true" />
+      <created>1770292991985</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1770292991985</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Revert &quot;header changes&quot;&#10;&#10;This reverts commit 21df81cd">
+      <option name="closed" value="true" />
+      <created>1770293050986</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1770293050986</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,6 +354,8 @@
     <MESSAGE value="quick changes" />
     <MESSAGE value="banner and mobile menu issue solved" />
     <MESSAGE value="header changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="header changes" />
+    <MESSAGE value="gitignore updated" />
+    <MESSAGE value="Revert &quot;header changes&quot;&#10;&#10;This reverts commit 21df81cd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;header changes&quot;&#10;&#10;This reverts commit 21df81cd" />
   </component>
 </project>
