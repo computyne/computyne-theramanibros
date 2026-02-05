@@ -38,6 +38,15 @@ const IndustriesCard = ({industry, idx}) => {
                         </ul>
                     </div>
 
+                     <Link className="text-btn" href={url}>
+                                            					<span className="btn-text">
+                                            						<span>Read More</span>
+                                            					</span>
+                                                                <span className="btn-icon">
+                                            						<i className="tji-arrow-right-long"></i>
+                                            					</span>
+                                                            </Link>
+
                 </div>
 
             </div>
