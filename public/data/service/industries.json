@@ -6,61 +6,61 @@
                 "id": 1,
                 "title": "Retail & eCommerce",
                 "desc": "We extract product data, pricing, inventory, and competitor information to support catalog management, dynamic pricing, demand forecasting, and market intelligence initiatives.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 2,
                 "title": "Healthcare & Life Sciences",
                 "desc": "We extract patient records, clinical data, research documents, and reports while maintaining strict confidentiality, regulatory compliance, and data accuracy.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 3,
                 "title": "Banking, Financial Services & Insurance (BFSI)",
                 "desc": "We extract financial statements, transaction data, customer records, and regulatory documents to support reporting, risk analysis, audits, and compliance.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 4,
                 "title": "Real Estate & Property Management",
                 "desc": "We collect property listings, valuation data, lease records, and market trends to support portfolio analysis, investment decisions, and accurate property intelligence.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 5,
                 "title": "Logistics & Supply Chain",
                 "desc": "Our data extraction services capture shipment records, invoices, tracking data, and vendor information to improve visibility, optimize workflows, and support supply chain analytics.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 6,
                 "title": "Manufacturing & Industrial",
                 "desc": "We extract production data, inventory records, supplier details, and quality reports to enable operational insights, forecasting, and process optimization.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 7,
                 "title": "Technology & SaaS",
                 "desc": "We extract structured and unstructured data from platforms, APIs, and documents to support analytics, customer insights, product optimization, and system integration.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/it-technology.webp"
             },
             {
                 "id": 8,
                 "title": "Education & eLearning",
                 "desc": "We extract student records, academic content, assessments, and administrative data to support reporting, digital transformation, and learning analytics.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/education.webp"
             },
             {
                 "id": 9,
                 "title": "Media, Research & Market Intelligence",
                 "desc": "We collect large-scale datasets from online sources, publications, and reports to support research, sentiment analysis, competitive intelligence, and trend forecasting.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/media.webp"
             },
             {
                 "id": 10,
                 "title": "Government & Public Sector",
                 "desc": "We extract data from public records, forms, reports, and legacy systems to support transparency, digitization initiatives, analytics, and informed policy decisions.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/government.webp"
             }
         ]
     },
@@ -71,13 +71,13 @@
                 "id": 1,
                 "title": "eCommerce & Online Marketplaces",
                 "desc": "We track competitor prices, promotions, and product availability to help businesses optimize pricing strategies and improve profitability across online marketplaces.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 2,
                 "title": "Retail & Consumer Goods",
                 "desc": "We analyze competitor pricing and product assortments to enhance margins, improve demand forecasting, and strengthen overall market competitiveness.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             }
         ]
     },
@@ -88,19 +88,19 @@
                 "id": 1,
                 "title": "B2B Marketing and Sales",
                 "desc": "We support lead database appending and prospect data enrichment to improve targeting accuracy, engagement, and conversion rates.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/marketing.webp"
             },
             {
                 "id": 2,
                 "title": "Technology and IT Services",
                 "desc": "We enrich account and prospect data with job roles, company size, and technographics to drive account-based marketing (ABM) success.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/it-technology.webp"
             },
             {
                 "id": 3,
                 "title": "eCommerce and Retail",
                 "desc": "We enhance customer datasets by appending verified contact and demographic attributes to enable personalization and customer insights.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 4,
@@ -112,37 +112,37 @@
                 "id": 5,
                 "title": "Healthcare and Life Sciences",
                 "desc": "We append provider, facility, and organizational data while maintaining strict data privacy and regulatory compliance.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 6,
                 "title": "Real Estate",
                 "desc": "We enrich property, agent, and client records with accurate contact details and geographic intelligence.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 7,
                 "title": "Manufacturing and Supply Chain",
                 "desc": "We append supplier, distributor, and buyer data to improve sourcing intelligence and partner communication.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 8,
                 "title": "Professional Services",
                 "desc": "We enhance client and prospect profiles to strengthen relationship management, pipeline visibility, and lead generation.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/consulting.webp"
             },
             {
                 "id": 9,
                 "title": "Education and EdTech",
                 "desc": "We append institutional and student-related data to support outreach programs, enrollment initiatives, and engagement strategies.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/education.webp"
             },
             {
                 "id": 10,
                 "title": "Media, Advertising, and Agencies",
                 "desc": "We enrich audience and advertiser datasets to improve segmentation, targeting accuracy, and campaign performance.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/media.webp"
             }
         ]
     },
@@ -153,61 +153,61 @@
                 "id": 1,
                 "title": "Technology and IT Services",
                 "desc": "We cleanse application, user, and operational data to improve analytics accuracy, data integrity, and overall system performance.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/it-technology.webp"
             },
             {
                 "id": 2,
                 "title": "Banking and Financial Services",
                 "desc": "We deliver accurate and compliant financial and customer data to support reporting, audits, and risk management initiatives.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 3,
                 "title": "Healthcare and Life Sciences",
                 "desc": "We clean patient, provider, and clinical datasets to support regulatory compliance and reliable healthcare analytics.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 4,
                 "title": "eCommerce and Retail",
                 "desc": "We cleanse product, pricing, inventory, and customer data to improve personalization, demand forecasting, and operational efficiency.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 5,
                 "title": "Manufacturing and Supply Chain",
                 "desc": "We standardize and cleanse supplier, production, and inventory data to improve planning accuracy and operational efficiency.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 6,
                 "title": "Real Estate",
                 "desc": "We cleanse property listings, ownership, and transaction data to enhance valuation accuracy and reporting reliability.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 7,
                 "title": "Marketing and Advertising",
                 "desc": "We clean CRM, audience, and campaign datasets to improve targeting precision, conversions, and performance measurement.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/marketing.webp"
             },
             {
                 "id": 8,
                 "title": "Education and EdTech",
                 "desc": "We ensure accurate academic, enrollment, and institutional data for reporting, planning, and compliance needs.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/education.webp"
             },
             {
                 "id": 9,
                 "title": "Logistics and Transportation",
                 "desc": "We cleanse shipment, routing, and delivery data to improve operational visibility, tracking, and decision-making.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 10,
                 "title": "Professional Services",
                 "desc": "We clean client, project, and resource data to improve reporting accuracy, utilization tracking, and business insights.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/consulting.webp"
             }
         ]
     },
@@ -218,43 +218,43 @@
                 "id": 1,
                 "title": "AI & ML",
                 "desc": "AI training data collection services delivering clean, labeled, and high-accuracy datasets for model training, validation, and optimization.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ai-and-ml.webp"
             },
             {
                 "id": 2,
                 "title": "eCommerce & Retail",
                 "desc": "Competitor price tracking, product catalog extraction, SKU-level monitoring, and stock intelligence across global marketplaces.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 3,
                 "title": "Property & Real Estate",
                 "desc": "MLS scraping, real estate listing data collection, rental trend analysis, neighborhood insights, and property document data capture.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 4,
                 "title": "Enterprise & B2B",
                 "desc": "Large-scale enterprise data sourcing, B2B list building, business intelligence datasets, and actionable lead insights.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/marketing.webp"
             },
             {
                 "id": 5,
                 "title": "Finance & Data Providers",
                 "desc": "Financial market data scraping, real-time pricing feeds, and KYC-aligned data capture services.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 6,
                 "title": "Healthcare",
                 "desc": "Compliance-focused healthcare data collection supporting analytics, research, and regulatory reporting workflows.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 7,
                 "title": "Travel & Hospitality",
                 "desc": "Hotel rate monitoring, OTA review collection, pricing intelligence, and travel platform analytics.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/food-and-beverage.webp"
             }
         ]
     },
@@ -265,61 +265,61 @@
                 "id": 1,
                 "title": "Technology & IT Services",
                 "desc": "Enriched datasets support lead intelligence, account profiling, market expansion initiatives, and sales acceleration strategies.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/it-technology.webp"
             },
             {
                 "id": 2,
                 "title": "eCommerce & Retail",
                 "desc": "Customer data enrichment improves personalization, audience segmentation, inventory planning, and omnichannel marketing performance.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 3,
                 "title": "Finance & Banking",
                 "desc": "Data enrichment strengthens risk assessment, compliance reporting, customer profiling, and investment decision accuracy.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 4,
                 "title": "Healthcare & Life Sciences",
                 "desc": "Enhanced datasets support provider profiling, patient insights, research accuracy, and operational efficiency.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 5,
                 "title": "Real Estate",
                 "desc": "Enriched property and contact data improve valuation accuracy, prospect targeting, and market analysis.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 6,
                 "title": "Marketing & Advertising",
                 "desc": "Data enrichment enables precise audience segmentation, personalization, campaign optimization, and ROI measurement.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/marketing.webp"
             },
             {
                 "id": 7,
                 "title": "Manufacturing & Supply Chain",
                 "desc": "Improved supplier and customer data supports demand forecasting, sourcing decisions, and operational planning.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 8,
                 "title": "Recruitment & Staffing",
                 "desc": "Enriched candidate and employer data accelerates placements, improves matching accuracy, and outreach effectiveness.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/recruitment.webp"
             },
             {
                 "id": 9,
                 "title": "Professional Services",
                 "desc": "Accurate firmographic enrichment supports client profiling, opportunity identification, and business development.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/consulting.webp"
             },
             {
                 "id": 10,
                 "title": "Education & EdTech",
                 "desc": "Enhanced data improves student segmentation, institutional research, outreach effectiveness, and enrollment planning.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/education.webp"
             }
         ]
     },
@@ -330,49 +330,49 @@
                 "id": 1,
                 "title": "eCommerce & Retail",
                 "desc": "Product catalog management, pricing updates, inventory records, and marketplace data entry to support accurate listings and operational efficiency.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 2,
                 "title": "Healthcare & Life Sciences",
                 "desc": "Medical data entry services delivered with strict compliance, confidentiality, and accuracy to support healthcare operations and analytics.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 3,
                 "title": "Real Estate & Property Management",
                 "desc": "Property listings, MLS data entry, appraisal records, and real estate documentation digitization for reliable reporting and analysis.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 4,
                 "title": "Logistics & Transportation",
                 "desc": "Shipment records, bills of lading, delivery data, and supply chain data entry to improve visibility and operational decision-making.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 5,
                 "title": "Banking, Financial Services & Insurance",
                 "desc": "Financial, accounting, invoice, and transactional data entry services supporting compliance, reporting, and risk management.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 6,
                 "title": "Manufacturing & Supply Chain",
                 "desc": "Supplier records, inventory data, and production data management to support planning accuracy and operational efficiency.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 7,
                 "title": "Education & EdTech",
                 "desc": "Student records management, admissions data entry, and academic document digitization for reporting and institutional planning.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/education.webp"
             },
             {
                 "id": 8,
                 "title": "Legal & Professional Services",
                 "desc": "Case files, contracts, legal documentation, and professional records data entry with accuracy and confidentiality.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/legal-and-compliance.webp"
             }
         ]
     },
@@ -383,49 +383,49 @@
                 "id": 1,
                 "title": "Technology & IT Services",
                 "desc": "We maintain enterprise data hygiene to ensure accuracy, seamless integration, strong governance, scalability, and long-term data reliability.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/it-technology.webp"
             },
             {
                 "id": 2,
                 "title": "eCommerce & Retail",
                 "desc": "We support eCommerce data hygiene for product catalogs, pricing accuracy, and inventory consistency across channels.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 3,
                 "title": "Finance & Banking",
                 "desc": "We deliver financial data hygiene services that ensure regulatory compliance, data accuracy, and effective risk control.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 4,
                 "title": "Healthcare & Life Sciences",
                 "desc": "We support healthcare data hygiene to enable interoperability, regulatory compliance, and accurate healthcare analytics.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 5,
                 "title": "Real Estate",
                 "desc": "We maintain real estate data hygiene to support accurate reporting, portfolio visibility, and informed investment decisions.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 6,
                 "title": "Manufacturing & Supply Chain",
                 "desc": "We maintain supplier, inventory, and logistics data hygiene to improve planning accuracy and operational visibility.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 7,
                 "title": "Marketing & Advertising",
                 "desc": "We deliver marketing data hygiene solutions that enable accurate attribution, performance measurement, and ROI tracking.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/marketing.webp"
             },
             {
                 "id": 8,
                 "title": "Education & EdTech",
                 "desc": "We maintain education data hygiene to support reporting consistency, data integrity, and actionable analytics insights.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/education.webp"
             }
         ]
     },
@@ -436,73 +436,73 @@
                 "id": 1,
                 "title": "E-commerce & Retail",
                 "desc": "We organize, cleanse, and enrich product, customer, and inventory data to power accurate listings, demand insights, and better buying decisions.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 2,
                 "title": "Healthcare & Life Sciences",
                 "desc": "We securely structure patient, clinical, and compliance data to enable reliable research workflows and quality care delivery.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 3,
                 "title": "Real Estate",
                 "desc": "We standardize and manage property, ownership, and listing data to support faster transactions, valuations, and reporting.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 4,
                 "title": "Banking, Financial Services & Insurance",
                 "desc": "We secure and manage financial, KYC, and customer records to improve compliance, underwriting accuracy, and operational efficiency.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 5,
                 "title": "Logistics & Supply Chain",
                 "desc": "We consolidate shipment, vendor, and tracking data to deliver end-to-end visibility and optimized supply chain performance.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 6,
                 "title": "Manufacturing",
                 "desc": "We unify production, supplier, and inventory datasets to support forecasting accuracy and digital transformation initiatives.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 7,
                 "title": "Staffing & Recruitment",
                 "desc": "We structure candidate and client databases to accelerate submissions, improve matching accuracy, and increase placement success.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/recruitment.webp"
             },
             {
                 "id": 8,
                 "title": "Education & EdTech",
                 "desc": "We process academic records and learning platform data to enhance reporting, personalization, and educational outcomes.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/education.webp"
             },
             {
                 "id": 9,
                 "title": "Travel & Hospitality",
                 "desc": "We manage reservation, availability, and pricing data to help brands improve occupancy, revenue management, and customer loyalty.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/food-and-beverage.webp"
             },
             {
                 "id": 10,
                 "title": "Telecom & Technology",
                 "desc": "We standardize subscriber, usage, and service data to support scalable innovation, analytics, and service optimization.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/telecommunications.webp"
             },
             {
                 "id": 11,
                 "title": "Automotive",
                 "desc": "We integrate parts, dealer, service, and maintenance data to enable predictive operations and effective inventory control.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/automotive.webp"
             },
             {
                 "id": 12,
                 "title": "Market Research & Consulting",
                 "desc": "We collect, validate, and enrich research datasets to support credible analysis and data-backed insight delivery.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/consulting.webp"
             }
         ]
     },
@@ -513,61 +513,61 @@
                 "id": 1,
                 "title": "Retail & eCommerce",
                 "desc": "Retail and eCommerce data mining solutions improve demand forecasting, pricing analysis, customer behavior insights, and personalization strategies.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 2,
                 "title": "Healthcare & Life Sciences",
                 "desc": "Healthcare data mining services support outcome analysis, operational optimization, predictive insights, and evidence-based decision-making.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 3,
                 "title": "Banking & Financial Services",
                 "desc": "Financial data mining services enhance risk detection, fraud prevention, compliance monitoring, and forecasting accuracy.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 4,
                 "title": "Sales & Marketing",
                 "desc": "Marketing data mining solutions optimize audience targeting, conversion rates, campaign performance, and revenue growth.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/marketing.webp"
             },
             {
                 "id": 5,
                 "title": "Technology & SaaS",
                 "desc": "Technology data mining improves product usage analysis, customer retention strategies, churn prediction, and growth planning.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/it-technology.webp"
             },
             {
                 "id": 6,
                 "title": "Logistics & Supply Chain",
                 "desc": "Logistics data mining services enhance route optimization, operational efficiency, demand prediction, and supply chain planning.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 7,
                 "title": "Manufacturing",
                 "desc": "Manufacturing data mining supports predictive maintenance, quality control, process optimization, and operational efficiency.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 8,
                 "title": "Real Estate",
                 "desc": "Real estate data mining delivers market trend analysis, pricing intelligence, investment insights, and portfolio optimization.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 9,
                 "title": "Media & Entertainment",
                 "desc": "Audience and content data mining guides engagement strategies, monetization planning, and programming decisions.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/media.webp"
             },
             {
                 "id": 10,
                 "title": "Education & EdTech",
                 "desc": "Education data mining analytics improve learner engagement, performance tracking, outcome prediction, and academic planning.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/education.webp"
             }
         ]
     },
@@ -578,61 +578,61 @@
                 "id": 1,
                 "title": "Staffing & Recruitment",
                 "desc": "We standardize, enrich, and format candidate data to enable faster submissions, reduce backlogs, and improve placement turnaround times.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/recruitment.webp"
             },
             {
                 "id": 2,
                 "title": "eCommerce",
                 "desc": "We manage product catalogs, inventory data, and customer records to improve listing accuracy, order processing speed, and conversion outcomes.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 3,
                 "title": "Transportation & Logistics",
                 "desc": "We digitize shipment documents, track freight data, and maintain route information to enable faster operations, improved visibility, and reduced delays.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 4,
                 "title": "Banking, Financial Services & Insurance (BFSI)",
                 "desc": "We securely process financial forms, customer KYC data, and policy records to ensure compliance, accuracy, reporting efficiency, and risk reduction.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 5,
                 "title": "Healthcare & Medical Practices",
                 "desc": "We digitize medical records, patient forms, and billing data while ensuring confidentiality, seamless access, improved care coordination, and compliance.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 6,
                 "title": "Real Estate",
                 "desc": "We organize property listings, transaction documents, and lead databases to enable faster deals, better data visibility, and streamlined client servicing.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 7,
                 "title": "Marketing & Advertising Agencies",
                 "desc": "We consolidate campaign performance data, lead lists, and analytics inputs to empower smarter targeting, stronger reporting, and improved ROI.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/marketing.webp"
             },
             {
                 "id": 8,
                 "title": "Technology & SaaS",
                 "desc": "We maintain user data, product datasets, and CRM information to fuel automation, product intelligence, onboarding efficiency, and customer retention.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/it-technology.webp"
             },
             {
                 "id": 9,
                 "title": "Manufacturing",
                 "desc": "We digitize production records, supplier data, and BOM files to improve accuracy, resource planning, compliance, and operational forecasting.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 10,
                 "title": "Research & Consulting Firms",
                 "desc": "We extract market research data, structure datasets, and cleanse inputs to accelerate analysis, improve insights, and strengthen advisory recommendations.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/consulting.webp"
             }
         ]
     },
@@ -643,49 +643,49 @@
                 "id": 1,
                 "title": "Technology & IT Services",
                 "desc": "We standardize multi-source technical data to enable accurate analytics, seamless system integration, strong governance, and digital transformation.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/it-technology.webp"
             },
             {
                 "id": 2,
                 "title": "eCommerce & Retail",
                 "desc": "We standardize product, pricing, and inventory data to support omnichannel consistency, operational efficiency, and revenue growth.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 3,
                 "title": "Finance & Banking",
                 "desc": "We deliver financial data standardization that ensures accuracy, regulatory compliance, transparency, and effective risk reduction.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 4,
                 "title": "Healthcare & Life Sciences",
                 "desc": "We support healthcare data standardization to enable interoperability, compliance, accurate analytics, and operational efficiency.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 5,
                 "title": "Real Estate",
                 "desc": "We standardize property and transactional data to enable reliable reporting, market analysis, and informed investment decisions.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 6,
                 "title": "Manufacturing & Supply Chain",
                 "desc": "We standardize supplier, inventory, and logistics data to improve visibility, planning accuracy, and supply chain performance.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 7,
                 "title": "Marketing & Advertising",
                 "desc": "We standardize marketing data to enable reliable attribution, accurate personalization, and measurable ROI tracking.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/marketing.webp"
             },
             {
                 "id": 8,
                 "title": "Education & EdTech",
                 "desc": "We standardize student, academic, and performance data to support reporting consistency and analytics-driven insights.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/education.webp"
             }
         ]
     },
@@ -696,61 +696,61 @@
                 "id": 1,
                 "title": "Retail & eCommerce",
                 "desc": "We validate customer, product, and pricing data to improve targeting accuracy, inventory reliability, and overall conversion performance.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 2,
                 "title": "Healthcare & Life Sciences",
                 "desc": "We verify patient, provider, and clinical data to ensure accuracy, regulatory compliance, and reliable healthcare decision-making.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 3,
                 "title": "Banking & Financial Services",
                 "desc": "We validate customer, transaction, and compliance data to reduce risk, prevent errors, and support regulatory reporting.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 4,
                 "title": "Insurance",
                 "desc": "We ensure accurate policyholder, claims, and contact data to enable faster processing and improve customer experience.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/insurance.webp"
             },
             {
                 "id": 5,
                 "title": "Automotive",
                 "desc": "We validate dealer, inventory, pricing, and customer data to enhance sales performance and strengthen market intelligence.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/automotive.webp"
             },
             {
                 "id": 6,
                 "title": "Real Estate",
                 "desc": "We verify property listings, ownership details, pricing, and location data to support confident investment and transaction decisions.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 7,
                 "title": "Technology & SaaS",
                 "desc": "We validate CRM, lead, and subscription data to support accurate growth analytics, forecasting, and revenue planning.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/it-technology.webp"
             },
             {
                 "id": 8,
                 "title": "Manufacturing & Supply Chain",
                 "desc": "We ensure supplier, logistics, and inventory data accuracy to streamline operations and improve demand planning.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 9,
                 "title": "Education & EdTech",
                 "desc": "We validate student, institutional, and enrollment data to enable analytics-driven academic and administrative decisions.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/education.webp"
             },
             {
                 "id": 10,
                 "title": "Marketing & Advertising",
                 "desc": "We ensure accurate audience, campaign, and performance data to support optimized targeting and measurable ROI.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/marketing.webp"
             }
         ]
     },
@@ -761,55 +761,55 @@
                 "id": 1,
                 "title": "Banking & Financial Services",
                 "desc": "We process financial documents with high accuracy to ensure regulatory compliance, faster reporting cycles, and improved risk management.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 2,
                 "title": "Healthcare & Life Sciences",
                 "desc": "We securely digitize and validate healthcare documents to support regulatory compliance, data integrity, and clinical efficiency.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 3,
                 "title": "Insurance",
                 "desc": "We streamline claims, underwriting, and policy document processing to improve turnaround times and service accuracy.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/insurance.webp"
             },
             {
                 "id": 4,
                 "title": "eCommerce & Retail",
                 "desc": "We process product catalogs, orders, and invoice documents to support analytics, inventory management, and pricing decisions.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 5,
                 "title": "Real Estate",
                 "desc": "We digitize property documents and transaction records to enable faster processing, better accessibility, and reliable reporting.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 6,
                 "title": "Logistics & Transportation",
                 "desc": "We process freight, shipping, and delivery documents to improve cost control, operational visibility, and compliance.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 7,
                 "title": "Manufacturing",
                 "desc": "We manage production, supplier, and compliance documents to enable accurate reporting, operational efficiency, and audit readiness.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 8,
                 "title": "IT & Technology Services",
                 "desc": "We process operational and customer-facing documents to support analytics, service delivery improvement, and decision-making.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/it-technology.webp"
             },
             {
                 "id": 9,
                 "title": "Education & EdTech",
                 "desc": "We digitize academic and administrative documents to improve accessibility, reporting accuracy, and institutional transparency.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/education.webp"
             }
         ]
     },
@@ -820,61 +820,61 @@
                 "id": 1,
                 "title": "Technology & IT Services",
                 "desc": "Targeted B2B contact lists for CIOs, CTOs, and IT leaders to support account-based marketing (ABM) and enterprise sales initiatives.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/it-technology.webp"
             },
             {
                 "id": 2,
                 "title": "SaaS & Software Companies",
                 "desc": "Segmented prospect lists based on tech stack, company size, and job roles to drive product demos, trials, and subscriptions.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/it-technology.webp"
             },
             {
                 "id": 3,
                 "title": "eCommerce & Retail",
                 "desc": "Accurate contact data for retailers, brands, and suppliers to support partnerships, vendor outreach, and growth campaigns.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 4,
                 "title": "Manufacturing & Industrial",
                 "desc": "Industry-specific prospect lists of procurement, operations, and supply chain leaders to accelerate B2B growth.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 5,
                 "title": "Healthcare & Life Sciences",
                 "desc": "Validated and compliant contact lists supporting healthcare outreach, research initiatives, and market expansion efforts.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 6,
                 "title": "Finance & Banking",
                 "desc": "Clean and compliant B2B databases designed for regulated outreach and relationship-driven financial growth.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 7,
                 "title": "Marketing & Advertising Agencies",
                 "desc": "Segmented decision-maker contact lists to support new business development, pitching, and client acquisition.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/marketing.webp"
             },
             {
                 "id": 8,
                 "title": "Real Estate & Property Services",
                 "desc": "Accurate contact data for developers, brokers, investors, and buyers to enable targeted outreach and deal sourcing.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 9,
                 "title": "Professional & Business Services",
                 "desc": "Custom B2B contact lists for consulting, legal, HR, and outsourcing firms to support pipeline generation and growth.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/consulting.webp"
             },
             {
                 "id": 10,
                 "title": "Education & EdTech",
                 "desc": "Verified contact lists supporting admissions campaigns, partnerships, institutional outreach, and enrollment initiatives.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/education.webp"
             }
         ]
     },
@@ -885,61 +885,61 @@
                 "id": 1,
                 "title": "Real Estate Developers",
                 "desc": "We collect land records, pricing data, approvals, and market intelligence to support informed development planning and feasibility decisions.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 2,
                 "title": "Real Estate Brokers and Agencies",
                 "desc": "We deliver accurate property listings and pricing intelligence to enable faster deal closures and improved market competitiveness.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 3,
                 "title": "Property Management Firms",
                 "desc": "We centralize tenant, lease, and asset data to support efficient portfolio management and operational visibility.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 4,
                 "title": "Real Estate Investors",
                 "desc": "We provide valuation data, rental yields, and market trends to support confident investment analysis and decision-making.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 5,
                 "title": "Commercial Real Estate Firms",
                 "desc": "We aggregate commercial real estate data to enable portfolio optimization, performance analysis, and risk management.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 6,
                 "title": "Multiple Listing Service (MLS) Providers",
                 "desc": "We standardize and enrich MLS listings to ensure data accuracy and consistency across member platforms.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 7,
                 "title": "Appraisers and Valuation Firms",
                 "desc": "We supply verified comparable sales, transaction histories, and market data to support precise property valuations.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 8,
                 "title": "Financial Institutions and Lenders",
                 "desc": "We provide ownership, transaction, and valuation data to support lending risk assessment and underwriting decisions.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 9,
                 "title": "Government and Municipal Authorities",
                 "desc": "We collect and structure property records, zoning data, and regulatory information to support compliance and governance initiatives.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/government.webp"
             },
             {
                 "id": 10,
                 "title": "Market Research and Consulting Firms",
                 "desc": "We deliver structured property datasets to support market analysis, forecasting, and data-driven advisory services.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/marketing.webp"
             }
         ]
     },
@@ -950,49 +950,49 @@
                 "id": 1,
                 "title": "Recruitment Agencies & HR Firms",
                 "desc": "We deliver ATS-optimized, branded resume formatting that accelerates candidate submissions, reduces recruiter workload, and increases successful placements with consistent, professional CV presentation.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/recruitment.webp"
             },
             {
                 "id": 2,
                 "title": "Staffing & Outsourcing Companies",
                 "desc": "We streamline high-volume resume formatting to enable faster talent onboarding, reduce manual editing, and provide scalable support for bulk hiring, contract staffing, and temporary workforce deployment.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/recruitment.webp"
             },
             {
                 "id": 3,
                 "title": "Corporate HR Departments",
                 "desc": "We polish internal candidate resumes into clean, branded formats to improve HR screening efficiency, interview readiness, and faster hiring decisions across departments.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/recruitment.webp"
             },
             {
                 "id": 4,
                 "title": "Job Portals & Career Services",
                 "desc": "We convert unstructured resumes into standardized, keyword-optimized CVs to improve applicant matching, boost job-seeker visibility, and enable premium resume services.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/recruitment.webp"
             },
             {
                 "id": 5,
                 "title": "Universities & Career Counseling Centers",
                 "desc": "We transform student resumes into industry-ready formats that highlight academic achievements, skills, and internships to enhance graduate placements and employer engagement.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/education.webp"
             },
             {
                 "id": 6,
                 "title": "Individual Job Seekers",
                 "desc": "We redesign personal resumes with modern formatting, ATS keywords, and clear achievements to improve hiring visibility, interview conversions, and job search outcomes.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/recruitment.webp"
             },
             {
                 "id": 7,
                 "title": "B2B & Professional Services",
                 "desc": "We format resumes that emphasize expertise, measurable results, and client impact to help professionals present credibility, win projects, and secure new business opportunities.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/consulting.webp"
             },
             {
                 "id": 8,
                 "title": "Education & EdTech",
                 "desc": "We convert learner resumes into structured, professional templates that support employability, skills visibility, and improved placement rates for educational platforms and institutions.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/education.webp"
             }
         ]
     },
@@ -1003,49 +1003,49 @@
                 "id": 1,
                 "title": "Technology & IT Services",
                 "desc": "We research technology trends, competitor landscapes, pricing models, buyer intent signals, and high-quality qualified leads to support growth and strategic planning.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/it-technology.webp"
             },
             {
                 "id": 2,
                 "title": "eCommerce & Retail",
                 "desc": "We analyze product trends, dynamic pricing, customer reviews, marketplace performance, demand signals, and competitor activity to inform merchandising and pricing decisions.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 3,
                 "title": "Finance & Banking",
                 "desc": "We gather market intelligence, company profiles, financial benchmarks, risk indicators, and global regulatory insights to support informed financial decisions.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 4,
                 "title": "Healthcare & Life Sciences",
                 "desc": "We research healthcare providers, medical products, clinical trends, regulatory landscapes, and emerging opportunities to support strategy and market entry.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 5,
                 "title": "Education & EdTech",
                 "desc": "We support curriculum research, education market analysis, learner needs assessment, technology adoption trends, and competitive positioning.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/education.webp"
             },
             {
                 "id": 6,
                 "title": "Real Estate",
                 "desc": "We research property listings, pricing trends, location intelligence, demand indicators, market potential, and competitive landscapes.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 7,
                 "title": "Marketing & Advertising",
                 "desc": "We analyze target audiences, competitor strategies, digital trends, campaign performance data, and growth opportunities.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/marketing.webp"
             },
             {
                 "id": 8,
                 "title": "Manufacturing & Supply Chain",
                 "desc": "We research suppliers, demand patterns, sourcing insights, cost structures, capacity planning data, and supply chain risks.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             }
         ]
     },
@@ -1056,61 +1056,61 @@
                 "id": 1,
                 "title": "eCommerce & Retail",
                 "desc": "We extract product details, pricing intelligence, and customer review data to support competitive analysis and informed pricing decisions.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 2,
                 "title": "Real Estate",
                 "desc": "We collect property listings, pricing trends, and location insights to support market analysis and investment decisions.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 3,
                 "title": "Finance & Banking",
                 "desc": "We gather financial reports, market data, and company intelligence to support strategic analysis and forecasting.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 4,
                 "title": "Technology & SaaS",
                 "desc": "We scrape competitor data, feature comparisons, and market trends to guide product strategy and positioning.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/it-technology.webp"
             },
             {
                 "id": 5,
                 "title": "Healthcare & Life Sciences",
                 "desc": "We extract publicly available healthcare data, provider listings, and research information to generate actionable insights.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 6,
                 "title": "Recruitment & Staffing",
                 "desc": "We collect job postings, hiring trends, and skills demand data to support workforce planning and talent strategy.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/recruitment.webp"
             },
             {
                 "id": 7,
                 "title": "Marketing & Advertising",
                 "desc": "We gather audience data, competitor intelligence, and campaign insights to improve targeting and performance measurement.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/marketing.webp"
             },
             {
                 "id": 8,
                 "title": "Travel & Hospitality",
                 "desc": "We extract pricing, availability, and customer review data to support revenue optimization and market analysis.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 9,
                 "title": "Manufacturing & Supply Chain",
                 "desc": "We collect supplier, product, and market data to optimize sourcing strategies and supply chain visibility.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 10,
                 "title": "Media & Research Firms",
                 "desc": "We deliver structured web data to support research initiatives, reporting accuracy, and content analysis.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/media.webp"
             }
         ]
     },
@@ -1121,43 +1121,43 @@
                 "id": 1,
                 "title": "Real Estate Appraisal Firms",
                 "desc": "We deliver accurate appraisal data entry with standardized formats and faster valuation turnaround times.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 2,
                 "title": "Mortgage Lenders",
                 "desc": "We support mortgage appraisal data entry for quicker underwriting and streamlined loan approval workflows.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 3,
                 "title": "Banks & Financial Institutions",
                 "desc": "We provide compliance-driven appraisal data to support risk assessment, auditing, and regulatory reporting.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 4,
                 "title": "Asset Management Companies",
                 "desc": "We deliver structured valuation data that supports accurate asset tracking and portfolio-level analysis.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 5,
                 "title": "Valuation & Advisory Firms",
                 "desc": "We manage high-volume valuation data efficiently, enabling analysts to focus on higher-value advisory insights.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 6,
                 "title": "Property Management Companies",
                 "desc": "We organize and maintain property valuation records to support reporting, compliance, and asset management needs.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 7,
                 "title": "Real Estate Investment Firms",
                 "desc": "We support due diligence with accurate and validated valuation data for acquisition analysis and investment decisions.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             }
         ]
     },
@@ -1168,37 +1168,37 @@
                 "id": 1,
                 "title": "Freight Carriers",
                 "desc": "Ensure accurate and compliant Bill of Lading data entry to support billing accuracy, shipment tracking, dispute reduction, and faster settlement cycles.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 2,
                 "title": "Logistics Providers & 3PLs",
                 "desc": "Streamline high-volume Bill of Lading data entry to improve shipment visibility, compliance, turnaround times, and overall customer satisfaction.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 3,
                 "title": "Shipping Lines & Maritime Operators",
                 "desc": "Manage complex Bill of Lading data entry while ensuring regulatory compliance, cargo accuracy, and seamless port coordination.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 4,
                 "title": "Air Cargo Companies",
                 "desc": "Support time-sensitive Bill of Lading data entry to enable faster processing, strict compliance adherence, and reduced operational errors.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 5,
                 "title": "Trucking & Road Transport Companies",
                 "desc": "Handle daily Bill of Lading data entry to improve dispatch accuracy, billing precision, and overall operational efficiency.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 6,
                 "title": "Manufacturers & Distributors",
                 "desc": "Convert shipment paperwork into accurate Bill of Lading data to enable compliance, shipment traceability, and faster invoicing cycles.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             }
         ]
     },
@@ -1209,55 +1209,55 @@
                 "id": 1,
                 "title": "Autonomous Vehicles",
                 "desc": "High-precision labeled data for perception systems, LiDAR navigation, and object detection to ensure safe and reliable autonomous driving.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 2,
                 "title": "Healthcare & Life Sciences",
                 "desc": "Secure, ISO-certified annotation for medical imaging and clinical records, ensuring high precision and complete patient data privacy.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 3,
                 "title": "Retail & E-commerce",
                 "desc": "Granular product categorization and visual data labeling for visual search, recommendations, and inventory management to enhance customer experience.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 4,
                 "title": "Finance & Insurance",
                 "desc": "Secure document verification and risk assessment data processing to automate compliance, auditing, and fraud detection workflows.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 5,
                 "title": "Media & Entertainment",
                 "desc": "Metadata tagging, content moderation, and video intelligence services to streamline digital asset management and personalized content delivery.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/media.webp"
             },
             {
                 "id": 6,
                 "title": "Manufacturing",
                 "desc": "Visual data annotation for defect detection and predictive maintenance, minimizing downtime and ensuring consistent production quality.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 7,
                 "title": "Real Estate",
                 "desc": "Feature extraction from property images and documents to power automated valuation models and data-driven market analysis.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 8,
                 "title": "Geospatial (GIS)",
                 "desc": "Satellite imagery segmentation and mapping data to support urban planning, environmental monitoring, and advanced location intelligence.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/geospatial.webp"
             },
             {
                 "id": 9,
                 "title": "Logistics",
                 "desc": "Object tracking, route optimization, and operational data labeling to streamline supply chains and improve fleet efficiency.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             }
         ]
     },
@@ -1268,43 +1268,43 @@
                 "id": 1,
                 "title": "Healthcare & Medical AI",
                 "desc": "Secure radiology and pathology annotation for diagnostic AI models, ensuring clinical-grade accuracy and strict patient data privacy.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 2,
                 "title": "Autonomous Vehicles & Mobility",
                 "desc": "Accurate 2D and 3D labeling for traffic signs, lanes, vehicles, and obstacles to train advanced perception and navigation systems.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/automotive.webp"
             },
             {
                 "id": 3,
                 "title": "Retail & E-commerce",
                 "desc": "Image and document labeling for visual search, shelf monitoring, receipt transcription, and inventory optimization across retail operations.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 4,
                 "title": "Finance & Fintech",
                 "desc": "Secure document and transaction data processing for KYC verification, invoice extraction, and fraud detection model training.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 5,
                 "title": "AgriTech & Geospatial",
                 "desc": "Aerial and satellite imagery annotation for crop health monitoring, weed detection, yield analysis, and precision field mapping.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/agritech.webp"
             },
             {
                 "id": 6,
                 "title": "Security & Surveillance",
                 "desc": "Event timestamping and object tracking in video streams to enable real-time anomaly detection and threat analysis.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/security-and-surveillance.webp"
             },
             {
                 "id": 7,
                 "title": "Technology & SaaS",
                 "desc": "High-quality training data for enterprise platforms, recommendation engines, and intelligent automation systems.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/it-technology.webp"
             }
         ]
     },
@@ -1315,43 +1315,43 @@
                 "id": 1,
                 "title": "Banking & Financial Services",
                 "desc": "We deliver document digitization for banking institutions, enabling regulatory compliance, faster audits, secure data access, and improved records management.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 2,
                 "title": "Healthcare & Life Sciences",
                 "desc": "Healthcare document digitization ensures secure medical records, regulatory compliance, system interoperability, and improved patient care outcomes.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 3,
                 "title": "Insurance",
                 "desc": "Insurance document digitization accelerates claims processing, improves data accuracy, and supports compliance with industry regulations.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/insurance.webp"
             },
             {
                 "id": 4,
                 "title": "Legal & Compliance",
                 "desc": "Legal document digitization enables secure document retrieval, litigation support, contract management, and audit readiness.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/legal-and-compliance.webp"
             },
             {
                 "id": 5,
                 "title": "Manufacturing & Logistics",
                 "desc": "Digitized production, inventory, and shipping records improve traceability, operational visibility, and supply chain efficiency.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 6,
                 "title": "Government & Public Sector",
                 "desc": "Government record digitization improves transparency, citizen access, compliance, and long-term preservation of public records.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/government.webp"
             },
             {
                 "id": 7,
                 "title": "Education & Research",
                 "desc": "Education document digitization supports content preservation, digital accessibility, research continuity, and knowledge sharing.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/education.webp"
             }
         ]
     },
@@ -1362,49 +1362,49 @@
                 "id": 1,
                 "title": "Banking & Financial Services",
                 "desc": "Securely process high-volume financial forms to ensure accuracy, regulatory compliance, faster approvals, and streamlined customer onboarding workflows.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 2,
                 "title": "Healthcare",
                 "desc": "Digitize patient, insurance, and clinical forms while maintaining strict data security, regulatory compliance, and operational efficiency.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 3,
                 "title": "Insurance",
                 "desc": "Accurately process policy, claims, and underwriting forms to reduce turnaround times and improve overall customer satisfaction.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/insurance.webp"
             },
             {
                 "id": 4,
                 "title": "Government & Public Sector",
                 "desc": "Enable efficient citizen form processing through secure digitization, compliance adherence, and transparent data management.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/government.webp"
             },
             {
                 "id": 5,
                 "title": "Education",
                 "desc": "Convert admission, examination, and administrative forms into structured digital records to support faster and more efficient operations.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/education.webp"
             },
             {
                 "id": 6,
                 "title": "Retail & eCommerce",
                 "desc": "Automate vendor, purchase, and customer form processing to improve data accuracy, scalability, and business decision-making.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 7,
                 "title": "Travel & Hospitality",
                 "desc": "Process booking, customer, and partner forms efficiently to support faster service delivery and improved data accessibility.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/food-and-beverage.webp"
             },
             {
                 "id": 8,
                 "title": "Logistics & Transportation",
                 "desc": "Handle shipment, compliance, and operational forms accurately to improve visibility, compliance, and logistics control.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             }
         ]
     },
@@ -1415,25 +1415,25 @@
                 "id": 1,
                 "title": "Logistics & Transportation",
                 "desc": "We audit freight invoices to recover overcharges, ensure carrier compliance, improve cost visibility, and streamline freight payment processes.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 2,
                 "title": "Manufacturing",
                 "desc": "We audit freight invoices to verify contracted rates, eliminate overcharges, improve cost accuracy, and ensure carrier and contract compliance.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 3,
                 "title": "Food & Beverage",
                 "desc": "We audit freight invoices to prevent billing errors, control temperature-sensitive logistics costs, and maintain compliance across supply chains.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/food-and-beverage.webp"
             },
             {
                 "id": 4,
                 "title": "Pharmaceuticals & Healthcare",
                 "desc": "We audit freight invoices to ensure regulatory compliance, accurate billing, and effective cost control across domestic and international shipments.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             }
         ]
     },
@@ -1444,55 +1444,55 @@
                 "id": 1,
                 "title": "Technology & SaaS Companies",
                 "desc": "Fast-scaling technology teams rely on data assistant services, web research, CRM management, and remote virtual assistants to support day-to-day operations and growth.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/it-technology.webp"
             },
             {
                 "id": 2,
                 "title": "Finance & Professional Services",
                 "desc": "Accuracy, confidentiality, and structured workflows are supported through data entry services, data processing, and managed virtual assistant solutions.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 3,
                 "title": "Healthcare & Life Sciences",
                 "desc": "Regulated healthcare environments depend on high-accuracy data entry, secure data management, and compliance-driven virtual assistant support.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 4,
                 "title": "Ecommerce & Retail",
                 "desc": "Product catalogs, customer records, and pricing intelligence are maintained through ecommerce data management, web research, and administrative virtual support.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 5,
                 "title": "Logistics & Supply Chain",
                 "desc": "Operational visibility improves with logistics data support, database management services, and virtual assistants aligned across reporting and coordination tasks.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 6,
                 "title": "Real Estate & Property Services",
                 "desc": "Listings, market insights, and transaction records stay organized through data entry services, market research support, and dedicated virtual assistants.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 7,
                 "title": "Startups & Growing Businesses",
                 "desc": "Early-stage teams gain flexibility through managed data support services, remote data assistants, CRM updates, and research-driven execution.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/it-technology.webp"
             },
             {
                 "id": 8,
                 "title": "Enterprises & Large Organizations",
                 "desc": "Complex enterprise environments rely on managed data services, enterprise data entry support, analytics reporting, and secure remote assistants.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/startups.webp"
             },
             {
                 "id": 9,
                 "title": "Consulting & Advisory Firms",
                 "desc": "Client engagements remain efficient through web research, data analysis and reporting, data enrichment, and virtual assistant coordination.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/consulting.webp"
             }
         ]
     },
@@ -1503,49 +1503,49 @@
                 "id": 1,
                 "title": "Logistics & Supply Chain",
                 "desc": "Accurate shipment, invoice, and tracking data supports real-time operational visibility, cost control, and regulatory compliance.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 2,
                 "title": "Real Estate & Property Management",
                 "desc": "Structured property, lease, and tenant data enables faster transactions, improved reporting, and informed decision-making.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 3,
                 "title": "eCommerce & Retail",
                 "desc": "Clean and consistent product catalogs, pricing, and inventory data support seamless omnichannel operations and customer experiences.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 4,
                 "title": "Finance & Accounting",
                 "desc": "Precise billing, ledger, and transactional data improves financial reporting accuracy, audit readiness, and compliance.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 5,
                 "title": "Healthcare & Life Sciences",
                 "desc": "Secure clinical, patient, and claims data entry supports regulatory requirements, continuity of care, and data integrity.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 6,
                 "title": "Insurance",
                 "desc": "Accurate policy, underwriting, and claims data improves processing speed, service quality, and compliance outcomes.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/insurance.webp"
             },
             {
                 "id": 7,
                 "title": "Manufacturing",
                 "desc": "Standardized production, inventory, and quality data enhances operational planning, forecasting, and performance tracking.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 8,
                 "title": "Telecommunications",
                 "desc": "Clean subscriber, usage, and billing data improves reporting accuracy and end-to-end customer lifecycle management.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/telecommunications.webp"
             }
         ]
     },
@@ -1556,55 +1556,55 @@
                 "id": 1,
                 "title": "Banking, Financial Services & Insurance (BFSI)",
                 "desc": "Delivering data science solutions for banking and finance through fraud detection, credit risk modeling, regulatory analytics, and predictive forecasting.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 2,
                 "title": "Healthcare & Life Sciences",
                 "desc": "Providing healthcare data science for patient analytics, clinical outcome forecasting, operational optimization, and population health insights.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 3,
                 "title": "Retail & E-Commerce",
                 "desc": "Supporting retail data science initiatives for demand forecasting, customer personalization, pricing optimization, and inventory intelligence.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 4,
                 "title": "Logistics & Supply Chain",
                 "desc": "Offering logistics data science services to optimize routes, reduce transportation costs, improve forecasting accuracy, and enhance supply chain visibility.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 5,
                 "title": "Manufacturing & Industrial Operations",
                 "desc": "Enabling predictive analytics for maintenance optimization, quality control, throughput improvement, and operational efficiency across manufacturing environments.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/marketing.webp"
             },
             {
                 "id": 6,
                 "title": "Telecommunications",
                 "desc": "Delivering telecom data science solutions for churn prediction, network optimization, usage analytics, and customer segmentation.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/telecommunications.webp"
             },
             {
                 "id": 7,
                 "title": "SaaS & Technology Companies",
                 "desc": "Enhancing product analytics, user behavior modeling, experimentation frameworks, and AI-driven insights to support scalable growth.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/it-technology.webp"
             },
             {
                 "id": 8,
                 "title": "Marketing & Digital Advertising",
                 "desc": "Optimizing marketing performance through attribution modeling, audience segmentation, campaign analytics, and ROI measurement.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/marketing.webp"
             },
             {
                 "id": 9,
                 "title": "Energy & Utilities",
                 "desc": "Applying predictive analytics for demand forecasting, asset performance optimization, outage prediction, and operational reliability.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/energy.webp"
             }
         ]
     },
@@ -1615,37 +1615,37 @@
                 "id": 1,
                 "title": "Healthcare",
                 "desc": "Virtual assistants manage scheduling, data entry, reporting, and compliance-related tasks to support efficient, accurate, and compliant healthcare operations.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 2,
                 "title": "Real Estate",
                 "desc": "Virtual assistants handle property listings, documentation, client coordination, and follow-ups, helping real estate teams close deals faster.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 3,
                 "title": "E-commerce",
                 "desc": "Virtual assistants manage product listings, order processing, inventory updates, and customer inquiries to ensure smooth e-commerce operations.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 4,
                 "title": "Finance & Accounting",
                 "desc": "Virtual assistants support data processing, reconciliations, financial reporting, and documentation to improve accuracy and regulatory compliance.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 5,
                 "title": "Logistics & Supply Chain",
                 "desc": "Virtual assistants manage shipment data, documentation, tracking updates, and coordination to enhance supply chain visibility and operational efficiency.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 6,
                 "title": "Marketing & Digital Agencies",
                 "desc": "Virtual assistants support campaign execution, reporting, research, content scheduling, and coordination to enable scalable marketing operations.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/marketing.webp"
             }
         ]
     },
@@ -1656,37 +1656,37 @@
                 "id": 1,
                 "title": "Real Estate",
                 "desc": "Our virtual web research team gathers property data, ownership records, market trends, and comparable listings to support informed investment, valuation, and acquisition decisions.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 2,
                 "title": "Healthcare & Life Sciences",
                 "desc": "We support healthcare organizations with provider research, clinical data sourcing, medical market analysis, and verified contact databases while maintaining confidentiality and regulatory compliance.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 3,
                 "title": "Logistics & Supply Chain",
                 "desc": "Our team researches carrier information, shipment trends, vendor profiles, and logistics benchmarks to improve cost control, operational efficiency, and supply chain visibility.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 4,
                 "title": "Finance & Banking",
                 "desc": "We deliver accurate financial research, company profiling, regulatory data collection, and market intelligence to support risk assessment, compliance, and strategic planning.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 5,
                 "title": "eCommerce & Retail",
                 "desc": "Our web research assistants collect product data, pricing intelligence, competitor insights, and consumer trends to optimize assortments, pricing strategies, and go-to-market planning.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 6,
                 "title": "Technology & SaaS",
                 "desc": "We support technology firms with market sizing, competitor tracking, prospect research, and product intelligence to enable sales execution, market entry, and scalable growth.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/it-technology.webp"
             }
         ]
     },
@@ -1697,37 +1697,37 @@
                 "id": 1,
                 "title": "Automotive & Autonomous Systems",
                 "desc": "High-precision data annotation for object detection, lane recognition, and scene understanding to support advanced driver assistance and autonomous systems.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/automotive.webp"
             },
             {
                 "id": 2,
                 "title": "Healthcare & Medical Imaging",
                 "desc": "Accurate labeling for diagnostic imaging, radiology workflows, and clinical AI models while maintaining strict data privacy and compliance.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 3,
                 "title": "Retail & E-commerce",
                 "desc": "Image tagging and classification for visual search, product discovery, recommendation engines, and inventory intelligence.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 4,
                 "title": "Geospatial & Satellite Imaging",
                 "desc": "Detailed annotation for land use analysis, mapping, urban planning, and environmental monitoring using aerial and satellite imagery.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/geospatial.webp"
             },
             {
                 "id": 5,
                 "title": "Manufacturing & Industrial Automation",
                 "desc": "Visual data labeling for defect detection, quality inspection, and predictive maintenance to ensure production efficiency and quality control.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 6,
                 "title": "Security & Surveillance",
                 "desc": "Reliable annotation for object tracking, facial recognition, and activity detection to support intelligent security and monitoring systems.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/security-and-surveillance.webp"
             }
         ]
     },
@@ -1738,49 +1738,49 @@
                 "id": 1,
                 "title": "Banking & Financial Services",
                 "desc": "Accurate image data entry ensures secure processing of financial documents, records, statements, and transaction data while maintaining compliance and data integrity.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 2,
                 "title": "Healthcare & Life Sciences",
                 "desc": "Image data entry converts medical records, reports, prescriptions, and forms into compliant, searchable digital formats that support continuity of care and regulatory requirements.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 3,
                 "title": "Insurance",
                 "desc": "Insurance image data entry streamlines claims documents, policy records, underwriting files, and supporting evidence with high accuracy and faster turnaround times.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/insurance.webp"
             },
             {
                 "id": 4,
                 "title": "Retail & eCommerce",
                 "desc": "Retail image data entry supports product catalogs, invoices, labels, receipts, and inventory records to ensure consistency across omnichannel operations.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 5,
                 "title": "Logistics & Transportation",
                 "desc": "Logistics image data entry digitizes shipping documents, bills of lading, delivery receipts, and freight records to improve visibility and operational efficiency.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 6,
                 "title": "Publishing & Media",
                 "desc": "Image digitization and data entry transform books, manuscripts, archives, photographs, and artwork into searchable digital assets for preservation and reuse.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/media.webp"
             },
             {
                 "id": 7,
                 "title": "Manufacturing",
                 "desc": "Manufacturing image data entry processes engineering drawings, quality inspection reports, and production records to support traceability and process optimization.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 8,
                 "title": "Government & Public Sector",
                 "desc": "Secure image data entry enables digitization of citizen records, legal documents, permits, and administrative forms while ensuring compliance and long-term accessibility.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/government.webp"
             }
         ]
     },
@@ -1791,43 +1791,43 @@
                 "id": 1,
                 "title": "Manufacturing",
                 "desc": "We automate high-volume manufacturing invoice processing, three-way matching, and exception handling to ensure timely and accurate supplier payments.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 2,
                 "title": "Healthcare",
                 "desc": "Our healthcare invoice processing services ensure compliance by validating rates, taxes, approvals, and safeguarding sensitive financial data.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 3,
                 "title": "Retail & eCommerce",
                 "desc": "We deliver retail invoice processing solutions that support multi-channel invoices, vendor reconciliation, and accelerated payment cycles.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 4,
                 "title": "Banking, Financial Services & Insurance (BFSI)",
                 "desc": "Our BFSI invoice processing ensures secure, audit-ready workflows with strict financial controls and regulatory compliance.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 5,
                 "title": "Logistics & Transportation",
                 "desc": "We manage logistics invoice processing by validating freight, carrier, and service charges while resolving billing discrepancies faster.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 6,
                 "title": "Energy & Utilities",
                 "desc": "We streamline utility invoice processing by accurately validating consumption data, tariffs, taxes, and contract terms.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/energy.webp"
             },
             {
                 "id": 7,
                 "title": "Telecommunications",
                 "desc": "Our telecom invoice processing services reconcile usage, contracts, and rate structures to prevent revenue leakage and billing errors.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/telecommunications.webp"
             }
         ]
     },
@@ -1838,43 +1838,43 @@
                 "id": 1,
                 "title": "Transportation & Logistics Companies",
                 "desc": "We streamline shipment, freight, and tracking data entry to improve visibility, accuracy, and overall operational efficiency.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 2,
                 "title": "Retail & eCommerce Businesses",
                 "desc": "We manage order, inventory, and fulfillment data to enable accurate stock control, faster order processing, and improved customer satisfaction.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 3,
                 "title": "Manufacturing Enterprises",
                 "desc": "We standardize procurement, inventory, and shipment data to support production planning, materials management, and on-time delivery.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/manufacturing.webp"
             },
             {
                 "id": 4,
                 "title": "Third-Party Logistics (3PL) Providers",
                 "desc": "We deliver scalable logistics data entry services that support fluctuating shipment volumes, multi-client reporting, and SLA compliance.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 5,
                 "title": "Warehousing & Distribution Centers",
                 "desc": "We maintain accurate inbound, outbound, and inventory records to optimize warehouse operations and improve space utilization.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 6,
                 "title": "Freight Forwarders & Customs Brokers",
                 "desc": "We capture freight, compliance, and shipping documentation accurately to support smooth cargo movement and regulatory adherence.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             },
             {
                 "id": 7,
                 "title": "Supply Chain & Distribution Companies",
                 "desc": "We create centralized, standardized logistics databases to improve system integration, reporting accuracy, and supply chain transparency.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/logistics-&-supply-chain.webp"
             }
         ]
     },
@@ -1885,31 +1885,31 @@
                 "id": 1,
                 "title": "Autonomous Systems",
                 "desc": "Sensor fusion combining LiDAR and camera data to support path planning, obstacle detection, and safe autonomous navigation.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ai-and-ml.webp"
             },
             {
                 "id": 2,
                 "title": "Healthcare AI",
                 "desc": "Merging DICOM medical images with physician notes and patient history to enable accurate diagnostic support and clinical decision-making.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 3,
                 "title": "Retail & E-commerce",
                 "desc": "Enhancing visual search and product discovery by linking product images with customer reviews and sentiment data.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 4,
                 "title": "Security & Surveillance",
                 "desc": "Correlating video anomalies with audio triggers to enable real-time threat detection and intelligent monitoring systems.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/security-and-surveillance.webp"
             },
             {
                 "id": 5,
                 "title": "Generative AI",
                 "desc": "Creating large-scale image-text instruction datasets required to train foundation models and advanced generative AI systems.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ai-and-ml.webp"
             }
         ]
     },
@@ -1920,43 +1920,43 @@
                 "id": 1,
                 "title": "Real Estate Agencies",
                 "desc": "We maintain accurate and structured property listings across multiple platforms, improving visibility, compliance, and buyer engagement.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 2,
                 "title": "Property Developers",
                 "desc": "We manage high-volume project listings with verified and consistent data, supporting timely launches and coordinated market releases.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 3,
                 "title": "Commercial Real Estate Firms",
                 "desc": "We structure complex commercial property data to improve clarity, regulatory compliance, and investor decision-making.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 4,
                 "title": "Property Management Companies",
                 "desc": "We continuously update rental and portfolio listings to improve data accuracy, occupancy visibility, and tenant conversions.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 5,
                 "title": "Real Estate Portals & Marketplaces",
                 "desc": "We standardize and optimize large property datasets to support SEO performance, data consistency, and seamless user experiences.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 6,
                 "title": "Real Estate Investors & Funds",
                 "desc": "We deliver verified, analytics-ready listing data to support portfolio evaluation, due diligence, and informed investment decisions.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             },
             {
                 "id": 7,
                 "title": "MLS Providers",
                 "desc": "We ensure MLS-compliant data entry with standardized fields and formats, reducing listing rejections across submission channels.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/real-estate.webp"
             }
         ]
     },
@@ -1967,31 +1967,31 @@
                 "id": 1,
                 "title": "Finance & FinTech",
                 "desc": "Annotating transaction data, earnings call transcripts, and market sentiment to support predictive analytics, risk modeling, and financial intelligence.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/finance.webp"
             },
             {
                 "id": 2,
                 "title": "Healthcare & Life Sciences",
                 "desc": "Labeling electronic health records, clinical trial notes, and medical research data to power diagnostic AI and healthcare analytics.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 3,
                 "title": "Legal & Compliance",
                 "desc": "Classifying contracts, case law, and discovery documents to automate legal review, compliance monitoring, and case analysis workflows.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/legal-and-compliance.webp"
             },
             {
                 "id": 4,
                 "title": "Retail & E-commerce",
                 "desc": "Tagging product reviews, search queries, and catalog descriptions to enhance recommendation engines, search relevance, and customer experience.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 5,
                 "title": "Technology & Software",
                 "desc": "Preparing high-quality training data for search algorithms, coding assistants, conversational AI, and voice-activated software systems.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/it-technology.webp"
             }
         ]
     },
@@ -2002,37 +2002,37 @@
                 "id": 1,
                 "title": "Autonomous Vehicles",
                 "desc": "Training data for lane detection, object recognition, pedestrian tracking, and driver behavior modeling to support advanced perception and autonomy.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/automotive.webp"
             },
             {
                 "id": 2,
                 "title": "Retail & E-commerce",
                 "desc": "Video intelligence for foot traffic analysis, shelf interaction monitoring, and cashier-less checkout systems to optimize in-store and omnichannel experiences.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/ecommerce.webp"
             },
             {
                 "id": 3,
                 "title": "Healthcare & Medical",
                 "desc": "Surgical video analysis, diagnostic imaging datasets, and patient monitoring footage to power clinical AI and improve care outcomes.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/healthcare.webp"
             },
             {
                 "id": 4,
                 "title": "Security & Surveillance",
                 "desc": "Crowd management, intrusion detection, anomaly recognition, and continuous monitoring to enhance situational awareness and safety.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/security-and-surveillance.webp"
             },
             {
                 "id": 5,
                 "title": "Sports & Media",
                 "desc": "Player performance tracking, automated highlight generation, broadcast analytics, and audience engagement insights using video data.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/media.webp"
             },
             {
                 "id": 6,
                 "title": "Agriculture & Agritech",
                 "desc": "Crop health monitoring, automated harvesting workflows, livestock tracking, and precision agriculture powered by video and sensor data.",
-                "img": "/images/blog/blog-1.webp"
+                "img": "/images/industries-services/agritech.webp"
             }
         ]
     },

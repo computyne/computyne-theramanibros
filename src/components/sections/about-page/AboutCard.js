@@ -13,7 +13,7 @@ const AboutCard = ({type}) => {
                             <div className="about-img overflow-hidden">
                                 <Image
                                     data-speed=".8"
-                                    src="/images/about/aboutMod.webp"
+                                    src="/images/about/about-us.webp"
                                     alt=""
                                     width={591}
                                     height={639}

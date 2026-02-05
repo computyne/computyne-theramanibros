@@ -5,7 +5,7 @@ const Hero = ({title, text, isShowButton = false, buttonLabel, buttonLink, cta})
     return (
         <section
             className="tj-page-header-mod section-gap-x"
-            style={{backgroundImage: `url('/images/bg/pheader-bg.webp')`}}
+            style={{backgroundImage: `url('/images/bg/about-us-banner.webp')`}}
         >
             <div className="container">
                 <div className="row">

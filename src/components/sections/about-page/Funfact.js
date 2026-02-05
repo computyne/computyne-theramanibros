@@ -19,7 +19,7 @@ const Funfact = () => {
                         </div>
                     </div>
                 </div>
-                <div className="row row-gap-4">
+                <div className="row row-gap-8">
                     <div className="col-lg-4 col-md-6">
                         <div
                             className="countup-item style-2 wow fadeInUp"
@@ -50,6 +50,7 @@ const Funfact = () => {
                             </div>
                         </div>
                     </div>
+
                     <div className="col-lg-4 col-md-6">
                         <div
                             className="countup-item style-2 wow fadeInUp"
