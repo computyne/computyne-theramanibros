@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="Revert &quot;header changes&quot;&#10;&#10;This reverts commit 21df81cd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/subservice/IndustriesCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/subservice/IndustriesCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sass/layout/_custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sass/layout/_custom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/blogs/BlogDetailsPrimary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/blogs/BlogDetailsPrimary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/shared/sidebar/BlogSidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/shared/sidebar/BlogSidebar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -249,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770293376707</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Revert &quot;header changes&quot;&#10;&#10;This reverts commit 21df81cd">
+      <option name="closed" value="true" />
+      <created>1770293616154</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1770293616154</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
