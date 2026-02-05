@@ -1,7 +1,7 @@
 import ButtonPrimary from "./ButtonPrimary";
 
 const IndustriesCard = ({industry, idx}) => {
-    const {title, desc, id, img} = industry || {};
+    const {title, desc, id, img, url} = industry || {};
     return (
         <div className="blog-item style-2">
             <div className="blog-thumb wd-30">
@@ -18,7 +18,7 @@ const IndustriesCard = ({industry, idx}) => {
                 </div>
                 <ButtonPrimary
                     text={"Read More"}
-                    url="#"
+                    url={url}
                     isTextBtn={true}
                 />
             </div>
