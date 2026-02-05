@@ -27,7 +27,7 @@ export default async function BlogDetails({params}) {
             <div id="smooth-wrapper">
                 <div id="smooth-content">
                     <main>
-                        <HeaderSpace/>
+                        <div className="top-space-15"></div>
                         <BlogDetailsMain currentItem={currentItem}/>
                         <SubFooter/>
                     </main>
