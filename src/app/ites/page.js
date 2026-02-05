@@ -34,7 +34,7 @@ export default function ites() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"ites"} type={1}/>
                             <Subservices/>
                             <Whychooseus/>
                             <Casestudy text="ITES BPO Case Studies Delivering Measurable Outcomes"/>

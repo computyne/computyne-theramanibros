@@ -55,7 +55,7 @@ export default function hireDataScienceSpecialists() {
                             <div className="top-space-15"></div>
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"hire-data-science-specialist"} type={1}/>
                             <Subservices/>
                             <Casestudy/>
                             <Whychooseus/>

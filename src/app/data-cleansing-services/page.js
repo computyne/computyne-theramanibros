@@ -55,7 +55,7 @@ export default function dataCleansingServices() {
                             <div className="top-space-15"></div>
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"data-cleansing-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Real-World Data Cleansing Use Cases and Outcomes"/>
                             <Whychooseus/>

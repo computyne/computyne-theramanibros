@@ -58,7 +58,7 @@ export default function dataExtractionServices() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"data-labeling-services"} type={1}/>
                             <Subservices/>
                             <Casestudy/>
                             <Whychooseus/>

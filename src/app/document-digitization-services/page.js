@@ -57,7 +57,7 @@ export default function documentDigitizationServices() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"document-digitization-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Proven Document Digitization Success Stories from Data-Driven Enterprises"/>
                             <Whychooseus/>

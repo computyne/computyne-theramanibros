@@ -57,7 +57,7 @@ export default function listBuildingServices() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"list-building-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Measurable Outcomes from Our List Building Services"/>
                             <Whychooseus/>

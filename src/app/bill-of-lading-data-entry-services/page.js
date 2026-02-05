@@ -55,7 +55,7 @@ export default function billOfLadingDataEntryServices() {
                             <div className="top-space-15"></div>
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"bill-of-lading-data-entry-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Freight Documentation Optimization Case Studies"/>
                             <Whychooseus/>

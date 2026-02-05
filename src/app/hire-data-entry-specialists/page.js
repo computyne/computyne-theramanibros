@@ -56,7 +56,7 @@ export default function hireDataEntrySpecialists() {
                             <div className="top-space-15"></div>
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"hire-data-entry-specialists"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Trusted by Businesses for Remote Data Entry Excellence"/>
                             <Whychooseus/>

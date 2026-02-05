@@ -57,7 +57,7 @@ export default function invoiceProcessingServices() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"invoice-processing-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Proven Results from Our Invoice Processing Services"/>
                             <Whychooseus/>

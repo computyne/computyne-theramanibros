@@ -56,7 +56,7 @@ export default function hireVirtualAssistants() {
                             <div className="top-space-15"></div>
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"hire-virtual-assistants"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Client Success Stories with Dedicated Virtual Assistants"/>
                             <Whychooseus/>

@@ -55,7 +55,7 @@ export default function dataAnnotationServices() {
                             <div className="top-space-15"></div>
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"data-annotation-services"} type={1}/>
                             <Subservices/>
                             <Casestudy/>
                             <Whychooseus/>

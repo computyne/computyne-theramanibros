@@ -56,7 +56,7 @@ export default function dataManagementServices() {
                             <div className="top-space-15"></div>
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"data-management-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Proven Data Management Results Across Industries"/>
                             <Whychooseus/>

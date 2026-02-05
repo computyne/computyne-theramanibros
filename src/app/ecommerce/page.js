@@ -34,7 +34,7 @@ export default function ecommerce() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"ecommerce"} type={1}/>
                             <Subservices/>
                             <Whychooseus/>
                             <Casestudy text="Results-Driven eCommerce BPO Case Studies"/>

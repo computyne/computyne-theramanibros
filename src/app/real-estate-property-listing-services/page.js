@@ -57,7 +57,7 @@ export default function realEstatePropertyListingServices() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"real-estate-property-listing-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Property Listing Data Entry Case Studies Across Real Estate Segments"/>
                             <Whychooseus/>

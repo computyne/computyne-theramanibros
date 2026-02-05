@@ -57,7 +57,7 @@ export default function imageDataEntryServices() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"image-data-entry-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="How Our Image Data Entry Services Solved Complex Data Challenges"/>
                             <Whychooseus/>

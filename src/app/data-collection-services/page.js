@@ -56,7 +56,7 @@ export default function dataCollectionServices() {
                             <div className="top-space-15"></div>
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"data-collection-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Real Business Impact Through Scalable Data Collection"/>
                             <Whychooseus/>

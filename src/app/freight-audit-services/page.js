@@ -57,7 +57,7 @@ export default function freightAuditServices() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"freight-audit-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Proven Results from Our Freight Audit Services"/>
                             <Whychooseus/>

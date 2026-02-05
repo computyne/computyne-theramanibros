@@ -57,7 +57,7 @@ export default function textAnnotationServices() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"text-annotation-services"} type={1}/>
                             <Subservices isDefaultSubServiceCard={false}/>
                             <Casestudy/>
                             <Whychooseus/>

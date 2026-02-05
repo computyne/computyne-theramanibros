@@ -57,7 +57,7 @@ export default function imageAnnotationServices() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"image-annotation-services"} type={1}/>
                             <Subservices/>
                             <Casestudy/>
                             <Whychooseus/>

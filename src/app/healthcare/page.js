@@ -34,7 +34,7 @@ export default function healthcare() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"healthcare"} type={1}/>
                             <Subservices/>
                             <Whychooseus/>
                             <Casestudy text="Proven Results from Our Healthcare BPO Engagements"/>

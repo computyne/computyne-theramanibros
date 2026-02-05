@@ -57,7 +57,7 @@ export default function webResearchServices() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"web-research-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Real Business Results Achieved Through Our Web Research Services"/>
                             <Whychooseus/>

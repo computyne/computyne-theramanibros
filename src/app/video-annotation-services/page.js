@@ -58,7 +58,7 @@ export default function videoAnnotationServices() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"video-annotation-services"} type={1}/>
                             <Subservices/>
                             <Casestudy />
                             <Whychooseus/>

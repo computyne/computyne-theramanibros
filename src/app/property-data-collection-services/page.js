@@ -58,7 +58,7 @@ export default function propertyDataCollectionServices() {
                             
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"property-data-collection-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Property Data Collection Success Stories Across Industries"/>
                             <Whychooseus/>

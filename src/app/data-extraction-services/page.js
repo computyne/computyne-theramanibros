@@ -57,7 +57,7 @@ export default function dataExtractionServices() {
                             <div className="top-space-15"></div>
                             <Banner/>
                             <Counter/>
-                            <Aboutus type={1}/>
+                            <Aboutus slug={"data-extraction-services"} type={1}/>
                             <Subservices/>
                             <Casestudy text="How We Solve Complex Data Extraction Challenges"/>
                             <Whychooseus/>
