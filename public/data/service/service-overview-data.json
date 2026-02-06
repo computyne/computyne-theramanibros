@@ -752,9 +752,8 @@
             "image": "/images/service/overview/list-building-overview.webp",
             "h2": "Accelerate Your Sales Pipeline with High-Quality B2B Prospecting",
             "content": [
-                "<p>In today’s competitive landscape, accurate prospect data is the bedrock of high-performing sales and marketing. <strong>Computyne’s B2B List Building Services</strong> empower organizations to research, compile, and validate reliable contact data with precision, eliminating the inefficiencies of manual research.</p>",
-                "<h5>Strategic Data Solutions for Measurable Growth</h5>",
-                "<p>We follow a structured, scalable methodology tailored to your specific business objectives. Our custom list-building process integrates <strong>intelligent sourcing</strong> with multi-level verification, ensuring every record is current, compliant, and ready for immediate outreach. By leveraging advanced automation and expert validation, we extract high-quality data from professional networks, industry databases, and trusted directories.</p>",
+                "In today’s competitive landscape, accurate prospect data is the bedrock of high-performing sales and marketing. <strong>Computyne’s B2B List Building Services</strong> empower organizations to research, compile, and validate reliable contact data with precision, eliminating the inefficiencies of manual research.",
+                "<h5>Strategic Data Solutions for Measurable Growth</h5> We follow a structured, scalable methodology tailored to your specific business objectives. Our custom list-building process integrates <strong>intelligent sourcing</strong> with multi-level verification, ensuring every record is current, compliant, and ready for immediate outreach. By leveraging advanced automation and expert validation, we extract high-quality data from professional networks, industry databases, and trusted directories.",
                 "<h5>Optimized for CRM and Sales Enablement</h5><p>Beyond new list creation, we specialize in <strong>data enrichment and cleansing</strong>. We transform outdated datasets into clean, standardized, and CRM-ready files optimized for marketing automation and predictive analytics.</p><p>Our Core Capabilities Include:</p><ul style=\"padding-left:2rem;\"><li><strong>Custom Prospect Sourcing:</strong> Targeted data aligned with your ICP.</li><li><strong>Multi-Level Validation:</strong> Ensuring 100% deliverability and accuracy.</li><li><strong>Data Enrichment:</strong> Converting stale records into actionable insights.</li></ul>",
                 "<p>Every list Computyne delivers is built for long-term value, supporting smarter engagement and sustainable revenue growth. Partner with us to fuel your sales pipeline with data you can trust.</p>",
                 "<a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Access Your Sales-Ready Leads Now</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a>"
@@ -766,7 +765,7 @@
             "image": "/images/service/banner/property-data-collection-banner.webp",
             "h1": "Property Data Collection Services",
             "tagline": "Automated Property Data Collection Enabling Faster Analysis and Better Decisions",
-            "cta": "Get a Free Quote"
+            "cta": "Get Accurate Property Data Now"
         },
         "counter": [
             {
@@ -1253,21 +1252,22 @@
     "hire-resources": {
         "banner": {
             "image": "",
-            "h1": "Hire Data & Virtual Assistants for Scalable Business Support",
+            "h1": "Hire Data & Virtual Assistants",
             "tagline": "Dedicated experts delivering managed data support and virtual assistance for growing businesses.",
-            "cta": "Get a Free Quote"
+            "cta": "Hire Your Dedicated Assistant"
         },
         "counter": [],
         "overview": {
             "image": "",
-            "h2": "Smarter Data and Virtual Assistant Services for Growing Teams",
+            "h2": "Scalable Operations: Data & Virtual Assistant Services",
             "content": [
-                "Hiring data and virtual assistants means engaging trained remote professionals who handle data, research, and administrative tasks through a managed delivery model that ensures consistency, accuracy, and accountability.",
-                "As organizations scale, operational complexity often increases before efficiency catches up. Data volumes expand. Research requests grow. Administrative responsibilities multiply across teams.",
-                "Over time, skilled employees spend valuable hours on essential but non-strategic work. Updating records. Validating data. Managing inboxes. Coordinating reports. These tasks are necessary, yet they quietly slow execution and dilute focus on growth.",
-                "Hiring full-time staff for each operational function is rarely practical. Recruitment cycles are long. Training adds cost. Fixed headcount limits flexibility as workloads fluctuate.",
-                "When you hire data and virtual assistants through Computyne, those pressures ease. Our remote professionals integrate directly into your workflows, operate within your tools, and follow documented processes from day one. The outcome is consistent delivery, fewer operational bottlenecks, and more time for your internal teams to focus on decisions that move the business forward.",
-                "In real-world execution, this results in faster turnaround on data tasks, cleaner reporting, and reliable day-to-day support without expanding internal teams."
+                "As your organization grows, operational complexity shouldn't hinder your momentum. At <span class=\"highlight\">Computyne</span>, we provide trained remote professionals who handle your high-volume data, research, and administrative tasks through a managed delivery model.",
+                "We bridge the gap between <strong>rising workloads</strong> and <strong>internal capacity</strong>, ensuring your core team stays focused on strategy while we handle the execution.",
+                "<h5>The Challenge of Scaling</h5> In many growing companies, skilled employees eventually become \"bottlenecked\" by essential but non-strategic work, such as:",
+                "<ul style=\"padding-left:2rem;\"><li><strong>Data Management:</strong> Validating records and managing expanding databases.</li><li><strong>Research & Analysis:</strong> Executing time-consuming market or lead research.</li><li><strong>Administrative Overhead:</strong> Inbox management, report coordination, and scheduling.</li></ul>",
+                "<h5>Why Choose Managed Remote Support?</h5> Hiring full-time staff for every operational function is often slow and expensive. Our model offers a flexible alternative:",
+                "<div class=\"computyne-section\" style=\"font-family:'Inter',-apple-system,sans-serif;color:#334155;max-width:900px;margin:auto;line-height:1.7;\"><div class=\"table-container\" style=\"margin:30px 0;border-radius:8px;overflow:hidden;box-shadow:0 4px 6px -1px rgba(0,0,0,0.1);\"><table style=\"width:100%;border-collapse:collapse;background:white;\"><thead><tr><th style=\"background-color:#0a1f44;color:white;padding:18px;text-align:left;font-weight:600;font-size:0.9rem;text-transform:uppercase;\">Focus Area</th><th style=\"background-color:#0a1f44;color:white;padding:18px;text-align:left;font-weight:600;font-size:0.9rem;text-transform:uppercase;\">In-House Hiring</th><th style=\"background-color:#0a1f44;color:white;padding:18px;text-align:left;font-weight:600;font-size:0.9rem;text-transform:uppercase;\">Computyne Solutions</th></tr></thead><tbody><tr><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;font-weight:bold;color:#0a1f44;width:25%;\">Recruitment</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;\">Long cycles (30-90 days)</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Rapid deployment</td></tr><tr><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;font-weight:bold;color:#0a1f44;width:25%;\">Cost Structure</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;\">High fixed headcount costs</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Scalable, flexible pricing</td></tr><tr><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;font-weight:bold;color:#0a1f44;width:25%;\">Onboarding</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;\">Internal training required</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Pre-trained; follows your docs</td></tr><tr><td style=\"padding:16px;border-bottom:none;font-weight:bold;color:#0a1f44;width:25%;\">Consistency</td><td style=\"padding:16px;border-bottom:none;\">Risk of single-point failure</td><td style=\"padding:16px;border-bottom:none;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Managed delivery &amp; accountability</td></tr></tbody></table></div><div class=\"cta-highlight\" style=\"border-left:4px solid #f47920;background:#edf2f7;padding:20px;margin-top:25px;font-style:italic;\"><strong>The Outcome:</strong> Consistent delivery, fewer operational bottlenecks, and more time for your internal teams to focus on decisions that move the business forward.</div></div>",
+                "<p><a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Build Your Scalable Remote Data Team Now</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a></p>"
             ]
         }
     },

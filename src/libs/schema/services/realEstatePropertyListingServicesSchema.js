@@ -13,7 +13,7 @@ export const realEstatePropertyListingServicesSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -79,7 +79,7 @@ export const realEstatePropertyListingServicesSchema = {
             "@type": "Product",
             "name": "Outsourced Real Estate Property Listing Services",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "Enterprise-grade real estate property listing services delivering structured, verified, and SEO-optimized listings for residential, commercial, and mixed-use property portfolios.",
             "url":
@@ -88,7 +88,7 @@ export const realEstatePropertyListingServicesSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

@@ -12,7 +12,7 @@ export const virtualAssistantServicesSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -93,7 +93,7 @@ export const virtualAssistantServicesSchema = {
             "@type": "Product",
             "name": "Dedicated Virtual Assistant Solutions",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "Computyne’s dedicated virtual assistant solutions provide cost-effective, secure, and scalable remote support for administrative, operational, customer service, marketing, and e-commerce workflows.",
             "url": "https://www.computyne.com/virtual-assistant-services",
@@ -101,7 +101,7 @@ export const virtualAssistantServicesSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

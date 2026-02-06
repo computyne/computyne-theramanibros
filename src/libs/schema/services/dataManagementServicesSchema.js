@@ -12,7 +12,7 @@ export const dataManagementServicesSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -101,7 +101,7 @@ export const dataManagementServicesSchema = {
             "@type": "Product",
             "name": "Data Management Services",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "Comprehensive data management services delivering centralized, secure, compliant, and analytics-ready enterprise data for improved performance, governance, and strategic decision-making.",
             "url": "https://www.computyne.com/data-management-services",
@@ -109,7 +109,7 @@ export const dataManagementServicesSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

@@ -1663,7 +1663,7 @@
                 "title": "Technology & SaaS Companies",
                 "desc": "Fast-scaling technology teams rely on data assistant services, web research, CRM management, and remote virtual assistants to support day-to-day operations and growth.",
                 "img": "/images/industries-services/it-technology.webp",
-                "url": "#"
+                "url": "/ites"
             },
             {
                 "id": 2,
@@ -1684,7 +1684,7 @@
                 "title": "Ecommerce & Retail",
                 "desc": "Product catalogs, customer records, and pricing intelligence are maintained through ecommerce data management, web research, and administrative virtual support.",
                 "img": "/images/industries-services/ecommerce.webp",
-                "url": "#"
+                "url": "/ecommerce"
             },
             {
                 "id": 5,

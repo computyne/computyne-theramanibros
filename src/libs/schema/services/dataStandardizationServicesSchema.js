@@ -12,7 +12,7 @@ export const dataStandardizationServicesSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -94,7 +94,7 @@ export const dataStandardizationServicesSchema = {
             "@type": "Product",
             "name": "Data Standardization Services",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "Computyne provides enterprise-grade data standardization services that ensure clean, unified, compliant, and analytics-ready data across CRM, ERP, BI, and AI systems.",
             "url": "https://www.computyne.com/data-standardization-services",
@@ -102,7 +102,7 @@ export const dataStandardizationServicesSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

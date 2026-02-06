@@ -10,7 +10,7 @@ export const competitorAnalysisSchema = {
                 "@type": "Organization",
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
-                "logo": "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "logo": "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -84,13 +84,13 @@ export const competitorAnalysisSchema = {
         {
             "@type": "Product",
             "name": "Competitor and Price Analysis Services",
-            "image": "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+            "image": "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description": "Computyne provides scalable competitor price intelligence services delivering real-time market visibility, optimized pricing strategies, and measurable revenue and margin gains.",
             "url": "https://www.computyne.com/competitor-price-analysis-services",
             "brand": {
                 "@type": "Brand",
                 "name": "Computyne",
-                "logo": "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                "logo": "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
