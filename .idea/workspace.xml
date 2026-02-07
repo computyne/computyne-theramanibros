@@ -4,57 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="Main Page Services change, Overview Change, Footer Facebook link change.">
+    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="Schmea and Overview Changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/service/industries.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/service/industries.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/data/service/service-overview-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/service/service-overview-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/service/sub-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/service/sub-services.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/appraisalValuationDataEntrySchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/appraisalValuationDataEntrySchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/competitorAnalysisServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/competitorAnalysisServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/dataAppendingServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/dataAppendingServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/dataCleansingServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/dataCleansingServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/dataCollectionServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/dataCollectionServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/dataEnrichmentServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/dataEnrichmentServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/dataEntryServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/dataEntryServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/dataExtractionServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/dataExtractionServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/dataHygieneServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/dataHygieneServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/dataLabelingAnnotationSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/dataLabelingAnnotationSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/dataManagementServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/dataManagementServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/dataMiningServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/dataMiningServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/dataStandardizationServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/dataStandardizationServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/dataValidationServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/dataValidationServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/dataVirtualAssistantSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/dataVirtualAssistantSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/documentDigitizationSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/documentDigitizationSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/documentProcessingServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/documentProcessingServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/eCommerceIndustrySchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/eCommerceIndustrySchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/energyAndUtilitiesIndustrySchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/energyAndUtilitiesIndustrySchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/enterpriseDataAnnotationSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/enterpriseDataAnnotationSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/enterpriseDataServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/enterpriseDataServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/financeAndAccountingIndustrySchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/financeAndAccountingIndustrySchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/formProcessingSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/formProcessingSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/freightAuditSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/freightAuditSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/freightBillOfLadingSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/freightBillOfLadingSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/healthCareIndustrySchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/healthCareIndustrySchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/hireDataScienceSpecialistsSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/hireDataScienceSpecialistsSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/hireWebResearchExpertsSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/hireWebResearchExpertsSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/imageAnnotationServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/imageAnnotationServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/imageDataEntryServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/imageDataEntryServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/invoiceProcessingServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/invoiceProcessingServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/itesIndustrySchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/itesIndustrySchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/listBuildingServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/listBuildingServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/logisticAndTransportationIndustrySchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/logisticAndTransportationIndustrySchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/logisticsDataEntryServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/logisticsDataEntryServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/multimodalAnnotationServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/multimodalAnnotationServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/propertyDataCollectionServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/propertyDataCollectionServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/realEstateIndustrySchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/realEstateIndustrySchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/realEstatePropertyListingServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/realEstatePropertyListingServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/remoteDataEntrySchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/remoteDataEntrySchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/resumeCvFormattingServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/resumeCvFormattingServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/textAnnotationServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/textAnnotationServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/videoAnnotationServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/videoAnnotationServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/virtualAssistantServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/virtualAssistantServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/webResearchServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/webResearchServicesSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/schema/services/webScrapingServicesSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/schema/services/webScrapingServicesSchema.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,25 +44,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "RB-Computyne",
-    "js.debugger.nextJs.config.created.client": "true",
-    "js.debugger.nextJs.config.created.server": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/rmnakash/AkashRamani/YashRamani/nextjs/computyne-theramanibros/src/components/sections/about-page",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2025.3.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;RB-Computyne&quot;,
+    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
+    &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rmnakash/AkashRamani/YashRamani/nextjs/computyne-theramanibros/src/components/sections/about-page&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2025.3.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -163,6 +115,7 @@
       <workItem from="1770046842407" duration="454000" />
       <workItem from="1770083745842" duration="380000" />
       <workItem from="1770286286060" duration="7163000" />
+      <workItem from="1770454129187" duration="7000000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -252,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770047163080</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Schmea and Overview Changes">
+      <option name="closed" value="true" />
+      <created>1770382259216</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1770382259216</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,6 +297,7 @@
     <MESSAGE value="about us overview text moved to html text" />
     <MESSAGE value="about us added" />
     <MESSAGE value="quick changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="quick changes" />
+    <MESSAGE value="Schmea and Overview Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Schmea and Overview Changes" />
   </component>
 </project>
