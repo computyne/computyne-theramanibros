@@ -12,7 +12,7 @@ export const dataCollectionServicesSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -94,7 +94,7 @@ export const dataCollectionServicesSchema = {
             "@type": "Product",
             "name": "Data Collection Services",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "Computyne provides enterprise-grade data collection services delivering high-accuracy, scalable, and secure datasets for analytics, AI training, and market intelligence.",
             "url": "https://www.computyne.com/data-collection-services",
@@ -102,7 +102,7 @@ export const dataCollectionServicesSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

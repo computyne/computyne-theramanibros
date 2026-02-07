@@ -13,7 +13,7 @@ export const invoiceProcessingServicesSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -87,7 +87,7 @@ export const invoiceProcessingServicesSchema = {
             "@type": "Product",
             "name": "Outsourced Invoice Processing Services",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "End-to-end outsourced invoice processing services that ensure faster approvals, high accuracy, regulatory compliance, reduced processing costs, and scalable performance across global invoice environments.",
             "url": "https://www.computyne.com/invoice-processing-services",
@@ -95,7 +95,7 @@ export const invoiceProcessingServicesSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

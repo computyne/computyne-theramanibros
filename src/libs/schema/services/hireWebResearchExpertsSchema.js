@@ -12,7 +12,7 @@ export const hireWebResearchExpertsSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -85,7 +85,7 @@ export const hireWebResearchExpertsSchema = {
             "@type": "Product",
             "name": "Hire Web Research Experts",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "Hire skilled web research experts from Computyne to collect, verify, analyze, and structure high-quality online data for market intelligence, lead generation, competitor benchmarking, and strategic decision-making.",
             "url": "https://www.computyne.com/web-research-services",
@@ -93,7 +93,7 @@ export const hireWebResearchExpertsSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

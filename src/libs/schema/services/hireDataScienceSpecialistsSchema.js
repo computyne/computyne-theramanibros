@@ -12,7 +12,7 @@ export const hireDataScienceSpecialistsSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -92,7 +92,7 @@ export const hireDataScienceSpecialistsSchema = {
             "@type": "Product",
             "name": "Outsourced Data Science Specialists",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "On-demand data science specialists delivering predictive intelligence, machine learning, AI analytics, and business intelligence without the overhead of permanent hiring.",
             "url": "https://www.computyne.com/hire-data-science-specialists",
@@ -100,7 +100,7 @@ export const hireDataScienceSpecialistsSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

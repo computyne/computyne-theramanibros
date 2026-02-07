@@ -13,7 +13,7 @@ export const logisticsDataEntryServicesSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -80,7 +80,7 @@ export const logisticsDataEntryServicesSchema = {
             "@type": "Product",
             "name": "Outsourced Logistics Data Entry Services",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "End-to-end outsourced logistics data entry services delivering high-accuracy, standardized, and compliant logistics data to support supply chain operations, reporting, and system integrations.",
             "url": "https://www.computyne.com/logistics-data-entry-services",
@@ -88,7 +88,7 @@ export const logisticsDataEntryServicesSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

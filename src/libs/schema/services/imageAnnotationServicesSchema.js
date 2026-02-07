@@ -12,7 +12,7 @@ export const imageAnnotationServicesSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -85,7 +85,7 @@ export const imageAnnotationServicesSchema = {
             "@type": "Product",
             "name": "Managed Image Annotation Services",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "Enterprise-grade managed image annotation services designed for scalable computer vision pipelines. Computyne ensures accuracy, security, and operational consistency across large image datasets.",
             "url": "https://www.computyne.com/image-annotation-services",
@@ -93,7 +93,7 @@ export const imageAnnotationServicesSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

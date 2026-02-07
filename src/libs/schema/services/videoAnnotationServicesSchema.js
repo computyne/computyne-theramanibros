@@ -12,7 +12,7 @@ export const videoAnnotationServicesSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -92,7 +92,7 @@ export const videoAnnotationServicesSchema = {
             "@type": "Product",
             "name": "Managed Video Annotation Services",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "End-to-end managed video annotation services delivering temporally consistent, training-ready datasets for computer vision, autonomous systems, healthcare AI, and video intelligence platforms.",
             "url": "https://www.computyne.com/video-annotation-services",
@@ -100,7 +100,7 @@ export const videoAnnotationServicesSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

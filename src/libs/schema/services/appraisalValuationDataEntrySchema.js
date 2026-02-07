@@ -12,7 +12,7 @@ export const appraisalValuationDataEntrySchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -92,7 +92,7 @@ export const appraisalValuationDataEntrySchema = {
             "@type": "Product",
             "name": "Outsourced Appraisal & Valuation Data Entry Services",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "Computyne delivers scalable, secure, and high-accuracy appraisal and valuation data entry services that support underwriting, regulatory compliance, reporting, and informed real estate decision-making.",
             "url":
@@ -101,7 +101,7 @@ export const appraisalValuationDataEntrySchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

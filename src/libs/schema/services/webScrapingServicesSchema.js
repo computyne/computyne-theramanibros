@@ -12,7 +12,7 @@ export const webScrapingServicesSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -115,7 +115,7 @@ export const webScrapingServicesSchema = {
             "@type": "Product",
             "name": "Web Scraping Services",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "Computyne provides scalable and secure web scraping services delivering high-accuracy, structured datasets for analytics, reporting, and competitive intelligence.",
             "url": "https://www.computyne.com/web-scraping-services",
@@ -123,7 +123,7 @@ export const webScrapingServicesSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

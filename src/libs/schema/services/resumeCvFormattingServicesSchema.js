@@ -12,7 +12,7 @@ export const resumeCvFormattingServicesSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -87,7 +87,7 @@ export const resumeCvFormattingServicesSchema = {
             "@type": "Product",
             "name": "Resume and CV Formatting Services",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "Scalable resume and CV formatting services delivering ATS-friendly, branded, and recruiter-ready candidate profiles for staffing firms, HR teams, and job portals.",
             "url": "https://www.computyne.com/resume-formatting-services",
@@ -95,7 +95,7 @@ export const resumeCvFormattingServicesSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

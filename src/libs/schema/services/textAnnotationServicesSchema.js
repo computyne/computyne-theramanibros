@@ -12,7 +12,7 @@ export const textAnnotationServicesSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -85,7 +85,7 @@ export const textAnnotationServicesSchema = {
             "@type": "Product",
             "name": "Managed Text Annotation for NLP",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "A fully managed text annotation solution designed for scalable NLP model training, ensuring linguistic accuracy, domain expertise, security, and predictable delivery.",
             "url": "https://www.computyne.com/text-annotation-services",
@@ -93,7 +93,7 @@ export const textAnnotationServicesSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

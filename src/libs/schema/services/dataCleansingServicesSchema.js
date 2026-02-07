@@ -12,7 +12,7 @@ export const dataCleansingServicesSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -94,7 +94,7 @@ export const dataCleansingServicesSchema = {
             "@type": "Product",
             "name": "Data Cleansing Services",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "Computyne provides scalable data cleansing and data quality management services that deliver accurate, compliant, and analytics-ready datasets for enterprise decision-making.",
             "url": "https://www.computyne.com/data-cleansing-services",
@@ -102,7 +102,7 @@ export const dataCleansingServicesSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

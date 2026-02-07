@@ -12,7 +12,7 @@ export const remoteDataEntrySchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -92,7 +92,7 @@ export const remoteDataEntrySchema = {
             "@type": "Product",
             "name": "Remote Data Entry Specialists",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "Computyne’s remote data entry specialists deliver accurate, secure, and scalable data processing services that reduce costs, improve turnaround times, and ensure enterprise-grade data quality.",
             "url": "https://www.computyne.com/remote-data-entry-services",
@@ -100,7 +100,7 @@ export const remoteDataEntrySchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

@@ -13,7 +13,7 @@ export const multimodalAnnotationServicesSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -96,7 +96,7 @@ export const multimodalAnnotationServicesSchema = {
             "@type": "Product",
             "name": "Enterprise Multimodal Annotation Services",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "Computyne delivers secure, scalable, and accuracy-driven multimodal annotation services designed to power Generative AI, autonomous systems, and foundation models.",
             "url": "https://www.computyne.com/multimodal-annotation-services",
@@ -104,7 +104,7 @@ export const multimodalAnnotationServicesSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
