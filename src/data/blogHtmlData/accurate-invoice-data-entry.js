@@ -15,10 +15,10 @@ const htmlString = `
       </p>
 
       <!-- LAYOUT -->
-      <div style="display:flex;gap:30px;align-items:flex-start;">
+      <div class="slidebar-stickiy-container" style="display:flex;gap:30px;align-items:flex-start;">
 
         <!-- TABLE OF CONTENTS -->
-        <div style="width:300px;position:sticky;top:20px;
+        <div class="slidebar-stickiy" style="width:300px;position:sticky;top:20px;
                     background:#f9f9f9;border:1px solid #ddd;
                     border-radius:6px;padding:20px;">
           <h3 style="margin-top:0;font-size:18px;">📌 Table of Contents</h3>
