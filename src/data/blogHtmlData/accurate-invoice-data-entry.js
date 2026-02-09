@@ -20,7 +20,7 @@ const htmlString = `
         <!-- TABLE OF CONTENTS -->
         <div class="slidebar-stickiy" style="width:300px;position:sticky;top:20px;
                     background:#f9f9f9;border:1px solid #ddd;
-                    border-radius:6px;padding:20px;">
+                    border-radius:6px;padding:20px;margin-bottom: 20px;">
           <h3 style="margin-top:0;font-size:18px;">📌 Table of Contents</h3>
           <ul style="padding-left:18px;font-size:14px;">
             <li><a href="#intro">Introduction</a></li>

@@ -39,7 +39,7 @@ const BlogDetailsPrimary = ({option}) => {
                          <div className="postBody-module__Mf2ZlW__content"
                                dangerouslySetInnerHTML={{__html: htmlString}}/>
                                <BlogTagsWidget tags={tags}/>
-                                <RecentBlogWidgetGrid/>
+                               <RecentBlogWidgetGrid/>
                     </div>
                     
                     <div className="col-lg-4 slidebar-stickiy-container">
