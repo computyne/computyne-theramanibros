@@ -40,7 +40,7 @@ const htmlString = `
 
           <!-- POINT 1 -->
           <h3 id="point1">What Is Data Cleansing? (And Why Excel Is Still the Best Tool)</h3>
-          <p class="intro"> <a href="https://www.computyne.com/invoice-processing-services">Data cleansing</a> refers to the process of identifying and eliminating errors, inconsistencies, and inaccuracies within a dataset. These issues typically arise from human entry mistakes, formatting problems, missing values, or poorly structured imports.</p>
+          <p class="intro"> <a href="https://www.computyne.com/data-cleansing-services">Data cleansing</a> refers to the process of identifying and eliminating errors, inconsistencies, and inaccuracies within a dataset. These issues typically arise from human entry mistakes, formatting problems, missing values, or poorly structured imports.</p>
 
     
 <style>
