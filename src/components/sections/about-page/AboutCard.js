@@ -13,7 +13,7 @@ const AboutCard = ({type}) => {
                             <div className="about-img overflow-hidden">
                                 <Image
                                     data-speed=".8"
-                                    src="/images/about/about-us.webp"
+                                    src="/images/about/about-us-overview.webp"
                                     alt=""
                                     width={591}
                                     height={639}
@@ -34,15 +34,9 @@ const AboutCard = ({type}) => {
                             </div>
                         </div>
                         <div className="about-bottom-area">
-                            <p>
-                                Computyne is a trusted global provider of BPO, BPM, and KPO services, supporting enterprises across the USA, UK, Europe, Canada, Australia, Singapore, and the GCC countries. Since 2009, we have specialized in high-volume back-office operations that allow internal teams to focus on innovation, strategy, and measurable business outcomes. Serving as a dependable operational backbone for Fortune 500 organizations, Computyne improves efficiency, optimizes cost structures, and delivers scalable outsourcing built on execution excellence.
-                            </p>
-                            <p>
-                                Our capabilities span a full spectrum of enterprise data services organized into specialized solution clusters. These include high-accuracy Data Annotation Services for AI training, reliable Data Collection Services for structured and unstructured datasets, and intelligent Document Processing Services that digitize records into usable intelligence. We also provide advanced Data Management Services, Data Entry Services, and compliant web scraping solutions. Each service is engineered to transform raw data into actionable insights, enabling speed, precision, and enterprise-grade scalability for sustainable growth.
-                            </p>
-                            <p>
-                               Certified under ISO/IEC 27001:2022, Computyne operates with a strong commitment to information security, data confidentiality, and quality assurance. Our mature delivery frameworks support consistent performance, regulatory compliance, and controlled execution across every engagement. By combining technical depth with global delivery strength, we help organizations scale with confidence, enhance digital operations, and strengthen decision-making through trusted, secure, and intelligent data solutions that drive measurable business advantage.
-                            </p>
+                            <p>Computyne is a trusted global provider of BPO, BPM, and KPO services, supporting enterprises across the USA, UK, Europe, Canada, Australia, Singapore, and the GCC countries. Since 2009, we have specialized in high-volume back-office operations that allow internal teams to focus on innovation, strategy, and measurable business outcomes. Serving as a dependable operational backbone for Fortune 500 organizations, Computyne improves efficiency, optimizes cost structures, and delivers scalable outsourcing built on execution excellence.</p>
+                            <p>Our capabilities span a full spectrum of enterprise data services organized into specialized solution clusters. These include high-accuracy Data Annotation Services for AI training, reliable Data Collection Services for structured and unstructured datasets, and intelligent Document Processing Services that digitize records into usable intelligence. We also provide advanced Data Management Services, Data Entry Services, and compliant web scraping solutions. Each service is engineered to transform raw data into actionable insights, enabling speed, precision, and enterprise-grade scalability for sustainable growth.</p>
+                            <p>Certified under ISO/IEC 27001:2022, Computyne operates with a strong commitment to information security, data confidentiality, and quality assurance. Our mature delivery frameworks support consistent performance, regulatory compliance, and controlled execution across every engagement. By combining technical depth with global delivery strength, we help organizations scale with confidence, enhance digital operations, and strengthen decision-making through trusted, secure, and intelligent data solutions that drive measurable business advantage.</p>
                         </div>
                     </div>
                 </div>

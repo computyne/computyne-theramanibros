@@ -10,6 +10,7 @@ import Team from "@/components/sections/about-page/Team";
 import Footer from "@/components/layout/footer/Footer";
 import SubFooter from "@/components/layout/footer/subFooter";
 import HowWeWork from "@/components/sections/about-page/HowWeWork";
+import Blogs from "@/components/sections/home-page/Blogs";
 
 export default function About() {
     return (
@@ -29,6 +30,7 @@ export default function About() {
                         <Funfact/>
                         <Team type={3}/>
                         <HowWeWork/>
+                        <Blogs/>
                         <SubFooter/>
                     </main>
                     <Footer/>

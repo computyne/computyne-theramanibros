@@ -4,9 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="Schmea and Overview Changes">
+    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="Overview Changes">
+      <change afterPath="$PROJECT_DIR$/public/images/about/about-us-overview.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog/5-essential-steps-cleaning-your-data.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog/8-proven-steps-to-cleanse-data-in-excel-like-a-pro.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog/top-5-most-critical-data-cleansing-mistakes-to-avoid.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog/top-5-pro-level-tips-to-maintain-clean-data-in-excel.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/data/service/service-overview-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/service/service-overview-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/data/service/sub-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/service/sub-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/about-us/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/about-us/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/about-page/AboutCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/about-page/AboutCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/about-page/HowWeWork.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/about-page/HowWeWork.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/blogHtmlData/how-to-cleanse-data-in-excel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/blogHtmlData/how-to-cleanse-data-in-excel.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,34 +55,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;RB-Computyne&quot;,
-    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
-    &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/rmnakash/AkashRamani/YashRamani/nextjs/computyne-theramanibros/src/components/sections/about-page&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2025.3.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "RB-Computyne",
+    "js.debugger.nextJs.config.created.client": "true",
+    "js.debugger.nextJs.config.created.server": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/admin/IdeaProjects/computyne-theramanibros/public/images/blog",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2025.3.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\blog" />
+      <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\about" />
       <recent name="$PROJECT_DIR$/src/components/sections/about-page" />
       <recent name="$PROJECT_DIR$/src/data/casestudy-schema" />
       <recent name="$PROJECT_DIR$/src/app/about-us" />
-      <recent name="$PROJECT_DIR$/src/app" />
-      <recent name="$PROJECT_DIR$/public/assets/sass/layout" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\industries-services" />
@@ -115,7 +126,9 @@
       <workItem from="1770046842407" duration="454000" />
       <workItem from="1770083745842" duration="380000" />
       <workItem from="1770286286060" duration="7163000" />
-      <workItem from="1770454129187" duration="7000000" />
+      <workItem from="1770454129187" duration="7310000" />
+      <workItem from="1770625453591" duration="827000" />
+      <workItem from="1770626822482" duration="14605000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -213,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770382259216</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Overview Changes">
+      <option name="closed" value="true" />
+      <created>1770469472848</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1770469472848</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,6 +319,7 @@
     <MESSAGE value="about us added" />
     <MESSAGE value="quick changes" />
     <MESSAGE value="Schmea and Overview Changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Schmea and Overview Changes" />
+    <MESSAGE value="Overview Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Overview Changes" />
   </component>
 </project>

@@ -225,11 +225,17 @@ const HowWeWork = () => {
 										opacity: fade ? 1 : 0.3,
 									}}
 								>
+									<h4>
+										The Transition Process
+									</h4>
 									<p>
-										<strong>The Transition Process</strong> Successful outsourcing relies on a smooth transition of business processes. We draw on over a decade of experience transitioning complex <strong>Data Management, KPO, and BPO/BPM solutions</strong> to ensure your move to our environment is seamless.
+										Successful outsourcing relies on a smooth transition of business processes. We draw on over a decade of experience transitioning complex <strong>Data Management, KPO, and BPO/BPM solutions</strong> to ensure your move to our environment is seamless.
 									</p>
+									<h5>
+										Data Transfer: Flexible Engagement Models
+									</h5>
 									<p>
-										<strong>Data Transfer: Flexible Engagement Models</strong> We offer two secure methods for handling your data:
+										We offer two secure methods for handling your data:
 									</p>
 									<div className="row row-gap-4">
 
@@ -260,7 +266,7 @@ const HowWeWork = () => {
 													<i className="tji-worldwide"></i>
 												</span>
 												<div className="process-content">
-													<h5 className="title">Computyne Environment (Managed Secure Server)</h5>
+													<h5 className="title">Computyne Environment (Secure Server)</h5>
 													<p className="desc">We create a dedicated, secure network environment for you at our facilities.</p>
 												</div>
 												<ul className="wow fadeInUp">
@@ -280,7 +286,8 @@ const HowWeWork = () => {
 										</div>
 
 										<div className="process-content">
-											<h6 >Identification Our experts collaborate with you to map the scope of work.</h6>
+											<h5 >Identification</h5>
+											<p>Our experts collaborate with you to map the scope of work.</p>
 										</div>
 										<ul className="wow fadeInUp">
 											<li><span><i className="tji-check"></i></span>Analyze: Determine the volume and nature of the business processes to outsource.</li>
@@ -297,7 +304,8 @@ const HowWeWork = () => {
 											<span>02</span>
 										</div>
 										<div className="process-content">
-											<h5 >Target Operating Model Using data from the identification phase, we build a custom operating model.</h5>
+											<h5 >Target Operating Model</h5>
+											<p>Using data from the identification phase, we build a custom operating model.</p>
 										</div>
 										<ul className="wow fadeInUp">
 											<li><span><i className="tji-check"></i></span>Define Boundaries: Clearly distinguish between Computyne’s responsibilities and your internal operations.</li>
@@ -314,8 +322,14 @@ const HowWeWork = () => {
 											<span>03</span>
 										</div>
 										<div className="process-content">
-											<h5>Strategic Planning We design a comprehensive migration plan covering resource deployment, technology infrastructure, and timelines to ensure the project stays on track.</h5>
+											<h5>Strategic Planning</h5>
+											<p>We design a comprehensive migration plan covering resource deployment, technology infrastructure, and timelines to ensure the project stays on track.</p>
 										</div>
+										<ul className="wow fadeInUp">
+											<li><span><i className="tji-check"></i></span>Architecting the Roadmap: Developing a detailed migration blueprint that aligns resource allocation with technical infrastructure requirements.</li>
+											<li><span><i className="tji-check"></i></span>Phased Implementation: Establishing rigorous timelines and milestones to maintain project momentum and minimize operational downtime.</li>
+											<li><span><i className="tji-check"></i></span>Infrastructure Optimization: Orchestrating the deployment of hardware and software assets to ensure a seamless transition to the new environment.</li>
+										</ul>
 									</div>
 
 									<div
@@ -326,7 +340,8 @@ const HowWeWork = () => {
 											<span>04</span>
 										</div>
 										<div className="process-content">
-											<h5>Implementation We execute the transition based on the project’s size and complexity.</h5>
+											<h5>Implementation</h5>
+											<p>We execute the transition based on the project’s size and complexity.</p>
 										</div>
 										<ul className="wow fadeInUp">
 											<li><span><i className="tji-check"></i></span>Timeline: We customize timelines based on project complexity. We use a rapid deployment strategy to ensure operations start as quickly as possible.</li>
@@ -344,7 +359,8 @@ const HowWeWork = () => {
 											<span>05</span>
 										</div>
 										<div className="process-content">
-											<h5>Monitoring & Review We maintain strict quality control through constant monitoring.</h5>
+											<h5>Monitoring & Review</h5>
+											<p>We maintain strict quality control through constant monitoring.</p>
 										</div>
 										<ul className="wow fadeInUp">
 											<li><span><i className="tji-check"></i></span>Precision: Extra control checks and rigorous validation ensure high accuracy.</li>
@@ -368,9 +384,10 @@ const HowWeWork = () => {
 									<p>
 										We help clients drive efficiency and reduce operational costs by providing high-quality, precise <strong>Data Management, KPO, and BPO/BPM solutions.</strong> We offer flexible engagement models tailored to your specific business needs.
 									</p>
-									<p>
-										<strong>Dedicated Resource (FTE) Model</strong> This model acts as an extension of your team. You are assigned dedicated resources or a full team solely focused on your project. If you opt for a team, a dedicated Project Manager serves as your single point of contact. You receive daily or monthly reports to track output and status transparently.
-									</p>
+									<h5>
+										Dedicated Resource (FTE) Model
+									</h5>
+									<p> This model acts as an extension of your team. You are assigned dedicated resources or a full team solely focused on your project. If you opt for a team, a dedicated Project Manager serves as your single point of contact. You receive daily or monthly reports to track output and status transparently.</p>
 									<p>
 										This model is ideal for both large enterprises and startups seeking predictability. Fixed monthly fees and clear SLAs ensure you know exactly what is being delivered and at what cost.
 									</p>
@@ -388,9 +405,11 @@ const HowWeWork = () => {
 											</div>
 										</BootstrapWrapper>
 									</div>
-									<p className="mt-24">
-										<strong>Volume-Based Pricing Model</strong> Designed for clients with established outsourcing processes, this model links costs directly to output. Success relies on a clear understanding of data volumes and processing time. Pricing is determined by the volume handled (e.g., per record or per form). We use a tiered pricing system where the cost per unit drops as your volume grows.
-									</p>
+									<p></p>
+									<h5>
+										Volume-Based Pricing Model
+									</h5>
+									<p>Designed for clients with established outsourcing processes, this model links costs directly to output. Success relies on a clear understanding of data volumes and processing time. Pricing is determined by the volume handled (e.g., per record or per form). We use a tiered pricing system where the cost per unit drops as your volume grows.</p>
 									<p>
 										We recommend this model for businesses with predictable volume patterns. Alternatively, we can start with an FTE model to establish benchmarks before transitioning to volume-based pricing.
 									</p>
@@ -424,9 +443,10 @@ const HowWeWork = () => {
 									<p>
 										At Computyne, security is more than just compliance. It is the foundation of our business. We are proud to be <strong>ISO/IEC 27001:2022 certified and GDPR compliant.</strong> This ensures our Information Security Management Systems meet the highest global standards. We employ a multi-layered security approach to protect our <strong>Data Management, KPO, and BPO</strong> operations.
 									</p>
-									<p>
-										<strong>Our Data Protection Commitment</strong>
-									</p>
+									<h5>
+										Our Data Protection Commitment
+									</h5>
+									<p></p>
 									<div className={`col-lg-12`}>
 										<BootstrapWrapper>
 											<div
@@ -441,9 +461,11 @@ const HowWeWork = () => {
 											</div>
 										</BootstrapWrapper>
 									</div>
-									<p className="mt-24">
-										<strong>Operational & Physical Security</strong> Our facilities are designed to be secure environments. This ensures that your data remains safe at rest and in transit.
-									</p>
+									<p></p>
+									<h5>
+										Operational & Physical Security
+									</h5>
+									<p>Our facilities are designed to be secure environments. This ensures that your data remains safe at rest and in transit.</p>
 									<div className={`col-lg-12 mt-24`}>
 										<BootstrapWrapper>
 											<div

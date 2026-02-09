@@ -444,12 +444,14 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-management-overview.webp",
-            "h2": "Enterprise-Ready Data Management Services with Proven Governance",
+            "h2": "Trusted Data Management for Regulated, High-Scale Operations",
             "content": [
-                "Many organizations struggle with disorganized data, incompatible systems, incomplete records, and outdated information, which ultimately weakens business intelligence and decision accuracy. When data is scattered across tools and departments, analytics becomes unreliable and valuable insights are lost.",
-                "Processing heterogeneous datasets also requires strong security controls, compliance alignment, and regulatory governance, making in-house data management complex and time-intensive. Without a unified strategy, businesses face operational delays, reporting inefficiencies, and increased regulatory risk.",
-                "Computyne delivers comprehensive Data Management Services designed to centralize, structure, and secure enterprise data across every touchpoint. Through managed and outsourced engagement models, we support data collection, cleansing, validation, enrichment, integration, governance, and secure cloud-ready storage.",
-                "Using structured methodologies, automation, and scalable delivery frameworks, Computyne transforms fragmented databases into trusted, analytics-ready business assets. By partnering with Computyne, organizations build a future-ready data foundation that improves operational efficiency, strengthens analytics, and accelerates confident, data-driven decision-making."
+                "Many organizations struggle with disorganized data, incompatible systems, and incomplete records, which weaken business intelligence and decision accuracy. When data is scattered across departments, analytics become unreliable and valuable insights are lost.",
+                "Processing heterogeneous datasets requires strong security controls and regulatory governance, making in-house management complex. Without a unified strategy, businesses face operational delays and increased compliance risks.",
+                "<h5>Centralized Data Excellence</h5> Computyne delivers comprehensive Data Management Services designed to centralize, structure, and secure enterprise data. Through managed and outsourced engagement models, we provide:",
+                "        <ul style=\"padding-left:2rem;\"><li><strong>Data Cleansing &amp; Validation:</strong> Ensuring accuracy and eliminating duplicates.</li><li><strong>Enrichment &amp; Integration:</strong> Unifying fragmented sources into a single source of truth.</li><li><strong>Robust Governance:</strong> Implementing security controls and compliance alignment.</li><li><strong>Cloud-Ready Storage:</strong> Providing scalable, secure delivery frameworks.</li></ul>",
+                "<h5>Transform Fragments into Assets</h5> <p>Using structured methodologies and automation, Computyne transforms fragmented databases into <strong>analytics-ready business assets</strong>. By partnering with us, organizations build a future-ready foundation that improves operational efficiency, strengthens reporting, and accelerates confident, data-driven decision-making.</p>",
+                "<a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Optimize Your Enterprise Data Strategy Today</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a>"
             ]
         }
     },
@@ -803,10 +805,12 @@
             "image": "/images/service/overview/property-data-collection-overview.webp",
             "h2": "End-to-End Property Data Collection for Real Estate Excellence",
             "content": [
-                "The real estate industry is expanding at an unprecedented pace, generating large volumes of structured and unstructured data across multiple stakeholders. From complex transaction documents to continuously evolving property records, managing this information requires secure, accurate, and scalable property data collection services.",
-                "By leveraging outsourced property data collection, organizations can capture business-critical information with precision while maintaining data accuracy, consistency, and integrity. This enables internal teams to stay focused on strategic growth initiatives rather than manual data handling.",
-                "Powered by deep real estate domain expertise and AI-powered property data collection tools, Computyne delivers reliable real estate data collection services for firms, developers, MLS providers, property managers, and appraisers.",
-                "We collect, process, and structure real estate data from diverse online and offline sources, supporting operational efficiency, real estate analytics, and confident decision-making for agencies, investors, and brokers."
+"The real estate industry is expanding at an unprecedented pace, generating massive volumes of data across stakeholders. From complex transaction documents to evolving property records, managing this influx requires <strong>secure, scalable, and accurate data collection.</strong>",
+"By outsourcing property data services, organizations capture business-critical information with precision. This ensures data integrity and consistency, allowing internal teams to shift focus from manual data entry to <strong>strategic growth initiatives.</strong>",
+                "<h5>Precision-Driven Real Estate Solutions</h5> Computyne leverages deep domain expertise and <strong>AI-powered data collection tools</strong> to support firms, developers, MLS providers, and appraisers. We bridge the gap between fragmented information and actionable insights by structuring data from diverse online and offline sources.",
+                "<h5>Key Benefits of Our Data Services:</h5> <ul style=\"padding-left:2rem;\"><li><strong>Operational Efficiency:</strong> Streamlined workflows via automated ingestion.</li><li><strong>Advanced Analytics:</strong> Data sets optimized for predictive modeling.</li><li><strong>Informed Decision-Making:</strong> Reliable intelligence for investors and brokers.</li></ul>",
+                "<p>Whether you are managing large-scale portfolios or localized listings, our end-to-end approach ensures your data is a reliable asset rather than a logistical burden. Partner with Computyne to transform raw property records into a competitive advantage.</p>",
+                "<a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Transform Your Data into Actionable Insights</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a>"
             ]
         }
     },
