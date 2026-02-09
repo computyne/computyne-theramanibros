@@ -5,13 +5,13 @@ import BackToTop from "@/components/shared/others/BackToTop";
 import HeaderSpace from "@/components/shared/others/HeaderSpace";
 import ClientWrapper from "@/components/shared/wrappers/ClientWrapper";
 import getBlogs from "@/libs/getBlogs";
-import {notFound} from "next/navigation";
+import { notFound } from "next/navigation";
 import SubFooter from "@/components/layout/footer/subFooter";
 
 const items = getBlogs();
 
-export default async function BlogDetails({params}) {
-    const {slug} = await params;
+export default async function BlogDetails({ params }) {
+    const { slug } = await params;
 
     const currentItem = items.find((item) => item.slug === slug);
 
@@ -21,10 +21,10 @@ export default async function BlogDetails({params}) {
 
     return (
         <div>
-            <BackToTop/>
-            <Header headerType={5}/>
-            <Header headerType={5} isStickyHeader={true}/>
-            <div id="smooth-wrapper">
+            <BackToTop />
+            <Header headerType={5} />
+            <Header headerType={5} isStickyHeader={true} />
+            {/* <div id="smooth-wrapper">
                 <div id="smooth-content">
                     <main>
                         <div className="top-space-15"></div>
@@ -33,8 +33,15 @@ export default async function BlogDetails({params}) {
                     </main>
                     <Footer/>
                 </div>
-            </div>
-            <ClientWrapper/>
+            </div> */}
+            <main>
+                <div className="top-space-15"></div>
+                <BlogDetailsMain currentItem={currentItem} />
+                <SubFooter />
+            </main>
+            <Footer />
+
+            <ClientWrapper />
         </div>
     );
 }
@@ -43,7 +50,7 @@ export default async function BlogDetails({params}) {
 // 	return items?.map(({ id }) => ({ id: id.toString() }));
 // }
 export async function generateStaticParams() {
-    return items.map(({slug}) => ({
+    return items.map(({ slug }) => ({
         slug,
     }));
 }

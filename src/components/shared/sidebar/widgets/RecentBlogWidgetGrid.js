@@ -11,7 +11,7 @@ const RecentBlogWidgetGrid = () => {
     return (
         <div className="tj-sidebar-widget tj-recent-posts">
             <h4 className="widget-title">Recent Blogs</h4>
-            <ul class="recentBlogs">
+            <ul className="recentBlogs">
                 {recentBlogs?.length
                     ? recentBlogs?.map(
                         (
