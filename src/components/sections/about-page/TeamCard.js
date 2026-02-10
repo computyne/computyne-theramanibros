@@ -42,7 +42,7 @@ const TeamCard = ({teamMember}) => {
             </div>
             <div className="team-content">
                 <h4 className="title">
-                    <Link href={`/team/${id}`}>{name}</Link>
+                    {name}
                 </h4>
                 <span className="designation">{desig}</span><br></br>
                 {/*<Link className="mail-at" href={`mailto:${email}`}>

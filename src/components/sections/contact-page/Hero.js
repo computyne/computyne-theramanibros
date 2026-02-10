@@ -4,7 +4,7 @@ import Funfact from "./Funfact";
 const Hero = ({title, text, breadcrums = []}) => {
     return (
         <section
-            className="tj-page-header section-gap-x"
+            className="tj-page-header-mod section-gap-x"
             style={{backgroundImage: `url('/images/bg/contact-us.webp')`}}
         >
             <div className="container">
