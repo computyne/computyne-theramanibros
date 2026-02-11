@@ -11,9 +11,9 @@
 		"date2": "December 16, 2025",
 		"day": 16,
 		"month": "DEC",
-		"category": "Corporate",
+		"category": "Data Cleansing",
 		"tags": ["Business Data Management", "Clean Business Data", "Data Cleansing", "Data Validation in Excel", "Excel Data Cleaning", "Excel Data Management", "Excel for Data Analysis", "Remove Duplicates in Excel"],
-		"author": "John Doe"
+		"author": "By: Ravinder Singh"
 	},
     {
 		"id": 2,
@@ -29,7 +29,7 @@
 		"month": "SEP",
 		"category": "Corporate",
 		"tags": ["BusinessSavings", "CostSavings", "FreightAudit", "FreightManagement", "LogisticsAudit", "PostAudit", "PreAudit", "ShippingCosts", "SupplyChainManagement"],
-		"author": "John Doe"
+		"author": "Ravinder Singh"
 	},
     {
 		"id": 3,
@@ -45,7 +45,7 @@
 		"month": "SEP",
 		"category": "Corporate",
 		"tags": ["#Outsourcing", "BusinessEfficiency", "FreightAudit", "FreightManagement", "InHouseVsOutsource", "LogisticsSolutions", "SupplyChainManagement"],
-		"author": "John Doe"
+		"author": "Ravinder Singh"
 	},
     {
 		"id": 4,
@@ -62,7 +62,7 @@
 		"category": "Corporate",
 		"tags": ["data entry outsourcing company", "Invoice Data Entry", "invoice data entry services", "outsource invoice data entry services", "outsource invoice processing services"],
 		"status": "",
-		"author": "John Doe"
+		"author": "Ravinder Singh"
 	},
     {
 		"id": 5,
@@ -78,7 +78,7 @@
 		"month": "APR",
 		"category": "Corporate",
 		"tags": ["Data Entry", "Data Entry Company", "data entry outsourcing company", "Outsource Data Entry", "outsource invoice processing services", "outsourcing data entry"],
-		"author": "John Doe"
+		"author": "Ravinder Singh"
 	},
     {
 		"id": 6,
@@ -94,7 +94,7 @@
 		"month": "APR",
 		"category": "Corporate",
 		"tags": ["data entry outsourcing company", "Outsource Data Entry", "outsource invoice processing services", "Outsource Real Estate"],
-		"author": "John Doe"
+		"author": "Ravinder Singh"
 	}
     
 ]

@@ -438,11 +438,29 @@ By following this guide, you can:
 </ul>
 <p>Clean data isn’t just an operational task, it’s a competitive advantage. The sooner you implement these steps, the faster your team will gain clarity, productivity, and decision-making power.
 </p>
-
-
         </div>
       </div>
     </div>
+    <div class="author-bio-card" style="margin-top: 50px; padding: 30px; background: #f4f7f9; border-left: 5px solid #004a99; display: flex; align-items: center; gap: 25px; border-radius: 8px;">
+    
+    <div style="flex-shrink: 0;">
+        <div style="width: 120px; height: 120px; border-radius: 50%; background: #ddd; display: flex; align-items: center; justify-content: center; overflow: hidden; border: 3px solid #fff; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+            <img src="/images/team/ravindar.webp" alt="Ravinder Singh" style="width: 100%; height: 100%; object-fit: cover;">
+        </div>
+    </div>
+
+    <div class="bio-content">
+        <h3 style="margin: 0 0 10px 0; color: #004a99; font-size: 22px;">Ravinder Singh</h3>
+        <p style="margin: 0 0 15px 0; font-size: 15px; color: #444; line-height: 1.6;">
+            Ravinder Singh is Head of Business Development and Marketing at Computyne. He leads strategic growth initiatives, delivering comprehensive data outsourcing solutions that power global AI programs and complex enterprise operations, enabling scalable and high impact digital transformation.
+        </p>
+        
+        <div style="display: flex; gap: 15px;">
+            <a href="https://www.linkedin.com/in/ravinder-s-08117313b/" style="text-decoration: none; color: #0077b5; font-weight: bold; font-size: 14px;">LinkedIn ↗</a>
+                        
+        </div>
+    </div>
+</div>
 `;
 
 export default htmlString;

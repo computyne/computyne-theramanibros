@@ -1596,9 +1596,17 @@
             "image": "",
             "h2": "Automated Invoice Processing for Faster Payment Cycles",
             "content": [
-                "Managing invoices across multiple sources, formats, and geographies presents ongoing challenges for accounts payable and accounts receivable teams. Manual invoice sorting, invoice data entry, and invoice posting services consume valuable time, increase operational costs, and introduce avoidable errors. Even minor inaccuracies can delay payments, trigger penalties, strain vendor relationships, and negatively impact credit ratings.",
-                "To overcome these challenges, organizations increasingly adopt outsourced invoice processing services and automated invoice processing services. As a trusted invoice processing company, Computyne enables accounts payable digital transformation by combining intelligent invoice automation, invoice OCR services, and human-led validation to support global invoice processing requirements securely and at scale.",
-                "Our invoice processing solutions follow a structured, scalable delivery model that integrates OCR invoice data extraction, AI-driven classification, and expert review. Acting as an extension of your finance team, we handle invoice data capture services, validate invoice data across multiple invoice types, including standard, proforma, debit, credit, and commercial invoices, and process supporting documents such as purchase orders, delivery receipts, and vouchers within defined SLAs. The result is a future-ready, audit-ready, and cost-effective invoice processing solution that scales seamlessly with evolving business needs."
+                "In 2026, slow invoice data entry is a risk your business cannot afford. Manual work leads to errors, late fees, and unhappy vendors. Computyne solves this with smart invoice processing that saves you time and money. We turn your paperwork into a fast, digital workflow.",
+                "<h5>Smart Data Capture &amp; Invoice Automation</h5> As a top invoice processing company, we use the best invoice OCR services to read your bills instantly. We combine smart AI speed with human checks to reach 99.9% accuracy. We help you with:",
+                "<ul style=\"padding-left:2rem;\"> <li><strong>Billing Data Entry:</strong> Fast and clean data for every bill.</li><li><strong>Smart Matching: </strong>We check invoices against POs and receipts automatically.</li><li> <strong>Easy Sync: </strong> We send data straight to your ERP like SAP, Oracle, or QuickBooks.</li></ul>",
+                "<h5>Why Partner with Computyne?</h5> Our outsourced invoice processing services grow as you grow. We handle all types of bills—standard, proforma, and commercial—with ease.",
+                "<ul style=\"padding-left:2rem;\"><li><strong>Lower Costs: </strong>Cut your processing spend by up to 60%.</li><li><strong>Stay Safe:</strong> Our ISO-certified steps keep your data secure and audit-ready.</li><li><strong>Get Paid Faster:</strong> No more delays. Enjoy real-time tracking and quick approvals.</li></ul>",
+                "<p>Stop letting manual accounts payable tasks hold you back. Trust Computyne for simple, secure, and error-free invoice management.</p>",
+                "<a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Streamline Your Invoice Processing Today.</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a>"
+
+
+
+
             ]
         }
     },

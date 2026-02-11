@@ -1,9 +1,6 @@
 const htmlString = `
     <div style="max-width:1100px;margin:0 auto;font-family:Arial,Helvetica,sans-serif;
                 color:#222;line-height:1.8;">
-
-      
-
       <!-- LAYOUT -->
       <div class="slidebar-stickiy-container" style="display:flex;gap:30px;align-items:flex-start;">
 
@@ -110,9 +107,9 @@ const htmlString = `
 
     <style>
         .cta-banner {
-            background-color: #0e0e0e;
-            background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), #0e0e0e), 
-                              url('https://www.computyne.com/images/bg/contact-us.webp'); /* Replace with your relevant background image */
+            background-color: #3f5266;
+            background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), #3f5266), 
+                              url('/images/bg/contact-us.webp'); /* Replace with your relevant background image */
             background-size: cover;
             background-position: center;
             border-radius: 12px;
@@ -133,6 +130,7 @@ const htmlString = `
             line-height: 1.4;
             margin: 0;
             font-weight: 700;
+            color: #ffffff;            
         }
 
         .cta-button-container {
@@ -140,7 +138,7 @@ const htmlString = `
         }
 
         .talk-to-experts-btn {
-            background-color: #ff3b3b; /* Vibrant red from your image */
+            background-color: #f36523; /* Vibrant red from your image */
             color: #ffffff;
             padding: 16px 36px;
             font-size: 18px;
@@ -190,7 +188,26 @@ const htmlString = `
 </div>
 
           </div>
+<div class="author-bio-card" style="margin-top: 50px; padding: 30px; background: #f4f7f9; border-left: 5px solid #004a99; display: flex; align-items: center; gap: 25px; border-radius: 8px;">
+    
+    <div style="flex-shrink: 0;">
+        <div style="width: 120px; height: 120px; border-radius: 50%; background: #ddd; display: flex; align-items: center; justify-content: center; overflow: hidden; border: 3px solid #fff; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+            <img src="/images/team/ravindar.webp" alt="Ravinder Singh" style="width: 100%; height: 100%; object-fit: cover;">
+        </div>
+    </div>
 
+    <div class="bio-content">
+        <h3 style="margin: 0 0 10px 0; color: #004a99; font-size: 22px;">Ravinder Singh</h3>
+        <p style="margin: 0 0 15px 0; font-size: 15px; color: #444; line-height: 1.6;">
+            Ravinder Singh is Head of Business Development and Marketing at Computyne. He leads strategic growth initiatives, delivering comprehensive data outsourcing solutions that power global AI programs and complex enterprise operations, enabling scalable and high impact digital transformation.
+        </p>
+        
+        <div style="display: flex; gap: 15px;">
+            <a href="https://www.linkedin.com/in/ravinder-s-08117313b/" style="text-decoration: none; color: #0077b5; font-weight: bold; font-size: 14px;">LinkedIn ↗</a>
+                        
+        </div>
+    </div>
+</div>
         
 `;
 
