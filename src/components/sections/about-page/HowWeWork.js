@@ -187,7 +187,7 @@ const HowWeWork = () => {
 							</span>
 							<div className="heading-wrap-content">
 								<div className="sec-heading-about style-3">
-									<h2 className="sec-title title-anim">We follow a structured, transparent approach that takes you from onboarding to delivery with confidence.</h2>
+									<h2 className="sec-title title-anim">Structured and Transparent Approach from Onboarding to Delivery</h2>
 								</div>
 								{/* <div className="btn-wrap wow fadeInUp" data-wow-delay=".5s">
 									<ButtonPrimary text="More Members" url="/team" />
