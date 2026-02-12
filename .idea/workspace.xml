@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="Responsive issue and some extra link removed">
+    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="Blogs improvements">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/blogs.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/blogs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/org-blogs.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/getBlogs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/getBlogs.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +120,7 @@
       <workItem from="1770720590476" duration="3781000" />
       <workItem from="1770786883847" duration="10000" />
       <workItem from="1770797093479" duration="294000" />
+      <workItem from="1770810312509" duration="40000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
