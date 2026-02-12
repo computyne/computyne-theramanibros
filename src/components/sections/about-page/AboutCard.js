@@ -14,7 +14,7 @@ const AboutCard = ({type}) => {
                                 <Image
                                     data-speed=".8"
                                     src="/images/about/about-us-overview.webp"
-                                    alt=""
+                                    alt="Team of professionals collaborating in the Computyne office"
                                     width={591}
                                     height={639}
                                 />
@@ -42,10 +42,10 @@ const AboutCard = ({type}) => {
                 </div>
             </div>
             <div className="bg-shape-1">
-                <img src="/images/shape/pattern-2.svg" alt=""/>
+                <img src="/images/shape/pattern-2.svg" alt="Back-ground Shape 1"/>
             </div>
             <div className="bg-shape-2">
-                <img src="/images/shape/pattern-3.svg" alt=""/>
+                <img src="/images/shape/pattern-3.svg" alt="Back-ground Shape 2"/>
             </div>
         </section>
     );

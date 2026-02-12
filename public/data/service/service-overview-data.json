@@ -2,6 +2,7 @@
     "data-extraction-services": {
         "banner": {
             "image": "/images/service/banner/data-extraction-banner.webp",
+            "alt": "Professional data extraction services banner representing structured business intelligence",
             "h1": "Data Extraction Services",
             "tagline": "Turn Raw Data into Accurate, Actionable Business Intelligence",
             "cta": "Get Clean Structured Data"
@@ -40,6 +41,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-extraction-overview.webp",
+            "alt": "Infographic showing the process of converting raw unstructured data into structured business intelligence",
             "h2": "Scalable Data Extraction Solutions for Clean, Decision-Ready Data",
             "content": [
               "Managing <strong>disparate</strong> information often creates operational bottlenecks and obscures visibility. <strong>Computyne</strong> provides professional data extraction services that transform raw, unstructured data into reliable, analytics-ready datasets. As your specialized partner, we bridge the gap between manual effort and digital efficiency with absolute precision.",
@@ -54,6 +56,7 @@
     "competitor-analysis-services": {
         "banner": {
             "image": "/images/service/banner/competitor-price-analysis-banner.webp",
+            "alt": "Competitor price monitoring and market analysis dashboard showing revenue growth trends",
             "h1": "Competitor and Price Analysis Services",
             "tagline": "Turn Competitive Intelligence and Price Insights into Measurable Revenue and Margin Gains",
             "cta": "Talk to Our Data Expert"
@@ -92,6 +95,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/competitor-price-analysis-overview.webp",
+            "alt": "E-commerce price tracking and competitor analysis visualization showing market trends and pricing intelligence",
             "h2": "Competitor Pricing Intelligence That Improves Revenue and Demand Forecasting",
             "content": [
                 "In today’s highly competitive eCommerce landscape, a single product often competes against hundreds or even thousands of sellers across multiple channels. Even small price changes can significantly influence customer purchasing decisions, making accurate and ongoing competitor price tracking essential for sustainable growth.",
@@ -104,6 +108,7 @@
     "data-appending-services": {
         "banner": {
             "image": "/images/service/banner/data-appending-banner.webp",
+            "alt": "Data appending services visualization showing the process of completing and enriching missing database information",
             "h1": "Data Appending Services",
             "tagline": "Complete Incomplete Datasets with Reliable, Up-to-Date, Decision-Ready Information",
             "cta": "Request a Data Appending Quote"
@@ -142,6 +147,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-appending-overview.webp",
+            "alt": "Conceptual illustration of data enrichment and B2B data appending process to fill database gaps",
             "h2": "Close Data Gaps with Scalable, Secure Data Appending Services",
             "content": [
                 "In today’s data-driven business landscape, organizations rely on large volumes of consumer and B2B data to power marketing initiatives, improve operational efficiency, and reduce business risk. Incomplete or outdated contact information, however, limits the effectiveness of even the most advanced strategies.",
@@ -154,6 +160,7 @@
     "data-cleansing-services": {
         "banner": {
             "image": "/images/service/banner/data-cleansing-banner.webp",
+            "alt": "Professional data cleansing services banner showing the transformation of raw data into clean validated insights",
             "h1": "Data Cleansing Services",
             "tagline": "Transform Messy Data into Clean, Validated, Decision-Ready Business Intelligence",
             "cta": "Get Clean, Reliable Data"
@@ -192,6 +199,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-cleansing-overview.webp",
+            "alt": "Comprehensive data cleansing and standardization process showing the removal of duplicates and data error correction",
             "h2": "Data Cleansing Services Designed for Accurate, Decision-Ready Insights",
             "content": [
                 "Dirty and inconsistent data weakens decision-making, increases operational costs, and reduces organizational productivity. To remain competitive, businesses need clean, consistent, and continuously updated datasets that support real-time analytics and reliable insights across operations.",
@@ -204,6 +212,7 @@
     "data-collection-services": {
         "banner": {
             "image": "/images/service/banner/data-collection-banner.webp",
+            "alt": "Scalable data collection services banner representing the aggregation of global data sources for business intelligence",
             "h1": "Data Collection Services",
             "tagline": "Fuel Data-Driven Growth with Scalable, Accurate, and Outsourced Data Collection Services",
             "cta": "Start Secure Data Collection"
@@ -242,6 +251,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-collection-overview.webp",
+            "alt": "Advanced data collection process showing web harvesting and API-based data retrieval for AI and analytics",
             "h2": "Outsourced Data Collection for AI, Analytics & Market Intelligence",
             "content": [
                 "<strong>Computyne</strong> delivers <span style=\"color:#f36523;\"><strong><i>professional data collection services</i></strong></span> that empower organizations to eliminate manual workloads and drastically reduce operational costs. We provide high-fidelity, decision-ready datasets designed to fuel enterprise analytics, AI initiatives, and global market research with unmatched speed and security.",
@@ -256,6 +266,7 @@
     "data-enrichment-services": {
         "banner": {
             "image": "/images/service/banner/data-enrichment-banner.webp",
+            "alt": "Data enrichment services banner showing the process of enhancing raw datasets with deep business insights",
             "h1": "Data Enrichment Services",
             "tagline": "Transform Raw Data into Enriched, Accurate, and Actionable Business Intelligence",
             "cta": "Unlock Data Intelligence"
@@ -294,6 +305,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-enrichment-overview.webp",
+            "alt": "B2B and CRM data enrichment process showing the enhancement of customer profiles with verified business intelligence",
             "h2": "Enhance Data Quality with Scalable Data Enrichment Services",
             "content": [
                 "Every business depends on high-quality data to power marketing initiatives, strengthen professional networks, and accelerate growth. Continuous data inflow, however, makes it challenging to maintain accuracy, relevance, and freshness across enterprise datasets.",
@@ -306,6 +318,7 @@
     "data-entry-services": {
         "banner": {
             "image": "/images/service/banner/data-entry-banner.webp",
+            "alt": "Professional data entry services banner featuring accurate and secure digital data processing",
             "h1": "Data Entry Services",
             "tagline": "Accurate, Secure, and Scalable Data Entry Solutions for Growing Businesses",
             "cta": "Talk to a Data Entry Expert"
@@ -344,6 +357,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-entry-overview.webp",
+            "alt": "Secure data entry and digitization process showing professional data processing and OCR-assisted automation",
             "h2": "Reliable Data Entry Services That Keep Business Data Organized and Decision-Ready",
             "content": [
                 "Managing high volumes of business information in-house often leads to errors, delays, and fragmented records. Computyne delivers professional data entry services that help organizations digitize, structure, and maintain critical data with precision, ensuring operational continuity and confident decision-making.",
@@ -356,6 +370,7 @@
     "data-hygiene-services": {
         "banner": {
             "image": "/images/service/banner/data-hygiene-banner.webp",
+            "alt": "Data hygiene services banner showcasing the maintenance of clean, accurate, and compliant enterprise databases",
             "h1": "Data Hygiene Services",
             "tagline": "Ensure Long-Term Data Accuracy, Consistency, and Compliance with Data Hygiene Services",
             "cta": "Talk to a Data Quality Expert"
@@ -394,6 +409,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-hygiene-overview.webp",
+            "alt": "Data hygiene and maintenance process showing continuous monitoring of enterprise databases for long-term data quality",
             "h2": "Data Hygiene Services Ensuring Consistent, Up-To-Date Enterprise Data",
             "content": [
                 "Data hygiene services are essential for maintaining accurate, consistent, and reliable enterprise data as information continuously flows from CRM systems, ERP platforms, marketing tools, cloud applications, databases, and external sources. Even well-maintained datasets naturally degrade over time due to duplication, outdated records, missing values, inconsistent formats, and system-driven errors.",
@@ -406,6 +422,7 @@
     "data-management-services": {
         "banner": {
             "image": "/images/service/banner/data-management-banner.webp",
+            "alt": "Comprehensive data management services banner representing secure and compliant enterprise data lifecycle management",
             "h1": "Data Management Services",
             "tagline": "Secure, Compliant, and Consistently Accurate Data Management Solutions",
             "cta": "Consult Our Data Experts"
@@ -444,6 +461,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-management-overview.webp",
+            "alt": "Strategic data management framework showing the centralization and governance of enterprise data assets",
             "h2": "Trusted Data Management for Regulated, High-Scale Operations",
             "content": [
                 "Many organizations struggle with disorganized data, incompatible systems, and incomplete records, which weaken business intelligence and decision accuracy. When data is scattered across departments, analytics become unreliable and valuable insights are lost.",
@@ -458,6 +476,7 @@
     "data-mining-services": {
         "banner": {
             "image": "/images/service/banner/data-mining-banner.webp",
+            "alt": "Professional data mining services banner illustrating the extraction of hidden patterns and competitive insights from complex datasets",
             "h1": "Data Mining Services",
             "tagline": "Precision Data Mining to Give Your Business a Competitive Edge.",
             "cta": "Request Data Mining Consultation"
@@ -496,6 +515,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-mining-overview.webp",
+            "alt": "Data mining and pattern recognition process showing trend analysis and predictive insights from unstructured data",
             "h2": "Secure Web & Document Data Mining for Scalable Insights",
             "content": [
 
@@ -514,6 +534,7 @@
     "data-solutions-services": {
         "banner": {
             "image": "/images/service/banner/data-solution-banner.webp",
+            "alt": "Enterprise data services banner showing end-to-end solutions for secure data processing, management, and analytics",
             "h1": "Data Services",
             "tagline": "Accelerate Growth with Secure, Scalable & Enterprise-Grade Data Services",
             "cta": "Outsource Your Data Operations"
@@ -552,6 +573,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-solutions-overview.webp",
+            "alt": "End-to-end enterprise data lifecycle management showing the transformation of raw data into decision-ready business intelligence",
             "h2": "Business-Ready Data That Powers Decision-Making",
             "content": [
                 "The demand for accurate, secure, and efficient data management has never been greater. Organizations must meet increasing operational, commercial, and regulatory requirements while handling rapidly growing volumes of complex data.",
@@ -564,6 +586,7 @@
     "data-standardization-services": {
         "banner": {
             "image": "/images/service/banner/data-standardization-banner.webp",
+            "alt": "Data standardization services banner showing the conversion of inconsistent data formats into a unified enterprise structure",
             "h1": "Data Standardization Services",
             "tagline": "Transform Disparate Data into Consistent, Reliable, and Decision-Ready Intelligence",
             "cta": "Request a Quote"
@@ -602,6 +625,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-standardization-overview.webp",
+            "alt": "Data standardization and normalization process showing the transformation of fragmented datasets into a unified single source of truth",
             "h2": "Data Standardization: Building Consistent, Trusted Enterprise Datasets",
             "content": [
                 "Data quality challenges can significantly hinder business operations, making clean, consistent, and standardized data essential for operational efficiency, analytics accuracy, and sustainable growth. As data volumes increase, consolidating disparate data sources into a unified structure becomes complex, time-consuming, and costly.",
@@ -614,6 +638,7 @@
     "data-validation-services": {
         "banner": {
             "image": "/images/service/banner/data-validation-banner.webp",
+            "alt": "Professional data validation services banner illustrating the verification and authentication of enterprise data for accuracy",
             "h1": "Data Validation Services",
             "tagline": "Turn Unverified Data into Trusted Intelligence with Advanced Data Validation",
             "cta": "Request a Data Validation Quote"
@@ -652,6 +677,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-validation-overview.webp",
+            "alt": "Comprehensive data validation and verification process showing multi-source cross-checking to ensure data integrity and accuracy",
             "h2": "Advanced Data Validation to Detect Errors, Duplicates, and Inconsistencies",
             "content": [
                 "Accurate and validated data is the foundation of effective business strategy, analytics, and customer engagement. Decisions based on unverified or outdated information negatively impact sales performance, marketing ROI, and overall revenue outcomes.",
@@ -664,6 +690,7 @@
     "document-processing-services": {
         "banner": {
             "image": "/images/service/banner/document-processing-banner.webp",
+            "alt": "Document processing services banner showing the automation of digital document workflows for improved business efficiency",
             "h1": "Document Processing Services",
             "tagline": "Automate Document Processing for Faster, Error-Free, Scalable Business Operations",
             "cta": "Connect with a Data Specialist"
@@ -702,6 +729,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/document-processing-overview.webp",
+            "alt": "End-to-end document processing workflow showing data extraction, digitization, and AI-powered analysis for structured business intelligence",
             "h2": "Unlock the Full Value of Your Data with Outsourced Data Processing Services",
             "content": [
                 "The rapid growth of diverse data types and sources has resulted in duplication, inconsistencies, and fragmented datasets. As data volumes increase, organizations face mounting pressure to process information quickly and make timely, data-driven decisions while managing rising infrastructure costs and limited in-house resources.",
@@ -714,6 +742,7 @@
     "list-building-services": {
         "banner": {
             "image": "/images/service/banner/list-building-banner.webp",
+            "alt": "B2B list building services banner showing the creation of targeted prospect databases for sales and marketing outreach",
             "h1": "List Building Services",
             "tagline": "Accurate B2B Contact Lists That Fuel Revenue Growth",
             "cta": "Request Your Custom Prospect List"
@@ -752,6 +781,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/list-building-overview.webp",
+            "alt": "Strategic B2B list building process showing targeted prospect sourcing, multi-level verification, and CRM-ready data integration",
             "h2": "Accelerate Your Sales Pipeline with High-Quality B2B Prospecting",
             "content": [
                 "In today’s competitive landscape, accurate prospect data is the bedrock of high-performing sales and marketing. <strong>Computyne’s B2B List Building Services</strong> empower organizations to research, compile, and validate reliable contact data with precision, eliminating the inefficiencies of manual research.",
@@ -765,6 +795,7 @@
     "property-data-collection-services": {
         "banner": {
             "image": "/images/service/banner/property-data-collection-banner.webp",
+            "alt": "Property data collection services banner showing automated real estate data aggregation and market intelligence",
             "h1": "Property Data Collection Services",
             "tagline": "Automated Property Data Collection Enabling Faster Analysis and Better Decisions",
             "cta": "Get Accurate Property Data Now"
@@ -803,6 +834,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/property-data-collection-overview.webp",
+            "alt": "Comprehensive property data collection workflow showing the aggregation of real estate records, transaction documents, and market listings into a structured database",
             "h2": "End-to-End Property Data Collection for Real Estate Excellence",
             "content": [
 "The real estate industry is expanding at an unprecedented pace, generating massive volumes of data across stakeholders. From complex transaction documents to evolving property records, managing this influx requires <strong>secure, scalable, and accurate data collection.</strong>",
@@ -817,6 +849,7 @@
     "resume-formatting-services": {
         "banner": {
             "image": "/images/service/banner/resume-formatting-banner.webp",
+            "alt": "Professional resume and CV formatting services banner featuring clean, corporate-grade document layouts for recruiters and staffing agencies",
             "h1": "Resume / CV Formatting Services",
             "tagline": "Delivering Clean, Corporate-Grade Resume Formatting that Gets You Noticed by Decision-Makers",
             "cta": "Start Your 7-Day Free Trial"
@@ -855,6 +888,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/resume-formatting-overview.webp",
+            "alt": "Standardized resume formatting workflow showing the conversion of diverse CV styles into clean, ATS-friendly corporate templates for recruitment agencies",
             "h2": "Outsource Resume & CV Formatting to Boost Hiring Speed and Productivity",
             "content": [
                 "Computyne delivers professional resume and CV formatting services for recruitment agencies, HR departments, and job portals across the UK, USA, Australia, Singapore, and the UAE. We standardize candidate resumes into clean, consistent, and recruiter-ready documents that help teams evaluate talent faster and hire with confidence.",
@@ -867,6 +901,7 @@
     "web-research-services": {
         "banner": {
             "image": "/images/service/banner/web-research-banner.webp",
+            "alt": "Comprehensive web research services banner representing deep-dive data harvesting and market intelligence gathering",
             "h1": "Web Research Services",
             "tagline": "Accelerate Decision-Making with Cost-Effective, Accurate, and Responsive Web Research Solutions",
             "cta": "Request Web Research Consultation"
@@ -905,6 +940,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/web-research-overview.webp",
+            "alt": "Web research and market intelligence workflow showing the collection of competitive data, consumer trends, and verified leads",
             "h2": "Scalable Web Research: Your On-Demand Intelligence Engine",
             "content": [
                 "<i><strong>High-Impact Web Research Services for Actionable Business Intelligence</strong></i>",
@@ -917,6 +953,7 @@
     "web-scraping-services": {
         "banner": {
             "image": "/images/service/banner/web-scrapping-banner.webp",
+            "alt": "Web scraping services banner showcasing automated data extraction from complex websites into structured, actionable formats",
             "h1": "Web Scraping Services",
             "tagline": "Turn Web Data into Structured Intelligence at Enterprise Scale",
             "cta": "Request a Web Scraping Quote"
@@ -955,6 +992,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/web-scrapping-overview.webp",
+            "alt": "Technical web scraping workflow showing automated data crawlers extracting unstructured web content and delivering structured, validated datasets",
             "h2": "Custom Web Scraping and Data Delivery Tailored to Your Needs",
                "content": [
                 "<p>Manually gathering web data is a bottleneck that leads to errors and scaling plateaus. <strong>Computyne</strong> provides professional web scraping services that automate extraction, transforming fragmented online information into clean, structured, and ready-to-use datasets.</p><h5>Why Partner with Computyne?</h5><p>We bridge the gap between raw web content and actionable business intelligence. Our custom workflows are designed to improve data consistency while significantly reducing manual overhead.</p><ul  style=\"padding-left:2rem;\"><li><strong>Custom Automated Workflows:</strong> Tailored extraction for eCommerce, real estate, finance, and public directories.</li><li><strong>Data Integrity:</strong> Every dataset is validated, standardized, and formatted for seamless integration into your enterprise systems.</li><li><strong>Enterprise-Grade Technology:</strong> Advanced web crawlers capable of handling complex site architectures and high-volume requests.</li></ul>",
@@ -966,7 +1004,8 @@
     },
     "appraisal-data-entry-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/appraisal-and-valuation-data-entry-banner.webp",
+            "alt": "Appraisal and valuation data entry services banner featuring professional real estate assessment and compliant document processing",
             "h1": "Appraisal & Valuation Data Entry Services",
             "tagline": "Accurate. Compliant. Decision-Ready Valuation Data.",
             "cta": "Request a Tailored Pricing Proposal"
@@ -1004,8 +1043,9 @@
             }
         ],
         "overview": {
-            "image": "",
-            "h2": "Reliable Property Data Management for Accurate Appraisals and Valuations",
+            "image": "/images/service/overview/appraisal-and-valuation-data-entry-overview.webp",
+            "alt": "Comprehensive appraisal data entry process showing the verification of property characteristics, ownership details, and comparable sales for audit-ready valuation reports",
+            "h2": "Trusted Property Data Operations for Accurate Appraisal Outcomes",
             "content": [
                 "Accurate property data is the foundation of every successful appraisal and valuation process. Incomplete figures, inconsistent records, or unstructured reports can delay valuations, underwriting decisions, and mortgage approvals. Computyne’s Appraisal & Valuation Data Entry Services help real estate, mortgage, and financial organizations maintain precise, well-structured, and compliance-driven property datasets, ready for rapid analysis, approvals, and regulatory reporting.",
                 "Manual appraisal data entry often leads to duplication, calculation errors, and inconsistent valuation outcomes that compromise accuracy and efficiency. Our experienced professionals deliver accurate appraisal data entry by capturing property characteristics, ownership details, comparable sales data, valuation adjustments, market value information, and financial records. Using standardized templates, validation frameworks, and quality-controlled appraisal data entry processes, we ensure every dataset is consistent, verified, and audit-ready.",
@@ -1015,7 +1055,8 @@
     },
     "bill-of-lading-data-entry-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/bill-of-landing-data-entry-banner.webp",
+            "alt": "Freight Bill of Lading data entry services banner featuring professional logistics documentation management for international shipping",
             "h1": "Freight Bill of Lading Services",
             "tagline": "Error-Free Freight Bill of Lading Management for Seamless Domestic and International Shipping",
             "cta": "Talk to a Freight Expert"
@@ -1053,7 +1094,8 @@
             }
         ],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/bill-of-landing-data-entry-overview.webp",
+            "alt": "Freight Bill of Lading processing workflow showing document verification, automated data entry via OCR and EDI, and integration with TMS platforms for shipping compliance",
             "h2": "Streamlined Freight Bill of Lading Management",
             "content": [
                 "Is your logistics business challenged by inaccurate documentation, limited shipment visibility, inefficient tracking, and complex regulatory requirements? These issues often result in billing discrepancies, carrier disputes, shipment delays, and increased administrative overhead. Computyne delivers tailored Freight Bill of Lading (BOL) services that simplify documentation, tracking, and invoicing while ensuring end-to-end regulatory compliance across the freight lifecycle.",
@@ -1065,14 +1107,16 @@
     },
     "data-annotation-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/data-annotation-services-banner.webp",
+            "alt": "Data annotation services banner featuring high-precision image, text, and video labeling for training Machine Learning and AI models",
             "h1": "Data Annotation Services",
             "tagline": "High-precision labeled datasets that power accurate, production-ready Machine Learning models.",
             "cta": "Get a Free Quote"
         },
         "counter": [],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/data-annotation-services-overview.webp",
+            "alt": "Data annotation lifecycle showing the transformation of raw multimodal data into ground truth datasets through validation, auditing, and secure labeling workflows",
             "h2": "Reliable Data Labeling for Next-Gen Model Training",
             "content": [
                 "Data annotation is the critical process of labeling raw text, image, audio, video, and multimodal data to create the \"ground truth\" required for machine learning. These labeled datasets serve as the educational foundation for Computer Vision, Natural Language Processing (NLP), and sophisticated AI systems.",
@@ -1089,14 +1133,16 @@
     },
     "data-labeling-services": {
         "banner": {
-            "image": "",
-            "h1": "Data Labeling Services for Scalable AI & Machine Learning",
+            "image": "/images/service/banner/data-labeling-services-banner.webp",
+            "alt": "Professional data labeling services banner for high-volume AI training datasets featuring human-in-the-loop validation and secure workflows",
+            "h1": "Data Labeling Services",
             "tagline": "Accurate training data. Managed workflows. Enterprise-grade security.",
             "cta": "Get a Free Quote"
         },
         "counter": [],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/data-labeling-services-overview.webp",
+            "alt": "Strategic data labeling overview illustrating a Human-in-the-Loop (HITL) workflow that converts raw data into high-quality Ground Truth for machine learning models",
             "h2": "Operational Excellence for Growing AI Initiatives",
             "content": [
                 "Building reliable AI and machine learning models depends on one critical factor: Ground Truth. Without consistent, high-quality labeling, even the most advanced algorithms fail to generalize in real-world conditions.",
@@ -1106,7 +1152,8 @@
     },
     "document-digitization-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/document-digitization-services-banner.webp",
+            "alt": "Professional document digitization services banner showcasing the conversion of physical paper records into searchable digital formats and cloud-ready assets",
             "h1": "Document Digitization Services",
             "tagline": "Convert Paper-Based Records into Secure, Searchable, Business-Ready Digital Assets",
             "cta": "Start Your Document Digitization Project"
@@ -1144,8 +1191,9 @@
             }
         ],
         "overview": {
-            "image": "",
-            "h2": "Paperless Document Digitization for Faster, Smarter Business Operations",
+            "image": "/images/service/overview/document-digitization-services-overview.webp",
+            "alt": "End-to-end document digitization lifecycle showing secure scanning, OCR data extraction, indexing, and the creation of audit-ready digital archives",
+            "h2": "Transform Paper into Actionable Digital Intelligence",
             "content": [
                 "Many organizations continue to store physical records for extended periods, resulting in data loss, misplacement, limited accessibility, and underutilization. As digital transformation accelerates, enterprises face increasing pressure to convert legacy documents into structured, searchable digital formats that simplify data access, management, and utilization across systems. Addressing this challenge, Computyne delivers professional Document Digitization Services designed to help data-intensive organizations transition seamlessly to secure, paperless operations.",
                 "Our end-to-end document digitization solutions cover the complete lifecycle, from physical document collection and secure document scanning to OCR data extraction, indexing, validation, and delivery of audit-ready digital records. By converting unstructured and semi-structured data into actionable intelligence, we enable intelligent document processing, automated workflows, and improved operational efficiency across departments.",
@@ -1155,7 +1203,8 @@
     },
     "forms-processing-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/forms-processing-services-banner.webp",
+            "alt": "Intelligent forms processing services banner showcasing automated data capture and digitization of structured and unstructured business forms",
             "h1": "Form Processing Services",
             "tagline": "Eliminate Manual Form Handling with Intelligent Automation",
             "cta": "Get a Free Quote"
@@ -1193,8 +1242,9 @@
             }
         ],
         "overview": {
-            "image": "",
-            "h2": "Accelerate Digital Transformation with Automated Form Processing Services",
+            "image": "/images/service/overview/forms-processing-services-overview.webp",
+            "alt": "End-to-end forms processing workflow showing automated data extraction from invoices, surveys, and legal records using OCR and ICR technology for secure digitization",
+            "h2": "Turn Forms into Faster Decisions with Intelligent Automation",
             "content": [
                 "Form processing is a critical prerequisite for modern enterprises managing data across multiple formats, including invoices, vouchers, survey forms, insurance documents, financial and legal records, purchase orders, tax statements, and more. As businesses increasingly rely on both paper-based and digital forms, accurate and timely data extraction becomes essential for operational efficiency, compliance, and informed decision-making.",
                 "Computyne delivers end-to-end form processing services that simplify information retrieval and eliminate manual workloads. Our comprehensive service portfolio includes document and form processing services, form data processing services, data management services, address management services, list building services, payroll processing services, form data normalization, survey form data entry services, and online form processing services. These solutions help organizations achieve error-free form processing, faster turnaround times, and measurable productivity gains.",
@@ -1205,7 +1255,8 @@
     },
     "freight-audit-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/freight-audit-services-banner.webp",
+            "alt": "Professional freight audit services banner showcasing freight invoice verification, overcharge detection, and logistics cost optimization",
             "h1": "Freight Audit Services",
             "tagline": "Ensure Freight Invoice Accuracy. Eliminate Overcharges. Protect Margins.",
             "cta": "Request a Custom Freight Audit Quote"
@@ -1243,7 +1294,8 @@
             }
         ],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/freight-audit-services-overview.webp",
+            "alt": "Strategic freight audit workflow showing the validation of carrier invoices against contracted rates, discrepancy resolution, and cost allocation for transportation spend analytics",
             "h2": "Intelligent Freight Audit Services for Accurate Billing and Cost Control",
             "content": [
                 "Does your supply chain business face invoicing errors, complex carrier contracts, delayed payments, or disconnected systems? These challenges often lead to freight billing discrepancies, strained carrier relationships, operational inefficiencies, and increased administrative workload. A reliable freight audit partner is essential to regain control. Our freight audit and payment services deliver accurate freight invoice auditing, cost validation, timely carrier payments, and detailed reporting.",
@@ -1255,14 +1307,16 @@
     },
     "hire-resources": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/hire-data-and-virtual-assistants-banner.webp",
+            "alt": "Hire dedicated data experts and virtual assistants banner featuring managed support for back-office operations and data-driven business growth",
             "h1": "Hire Data & Virtual Assistants",
             "tagline": "Dedicated experts delivering managed data support and virtual assistance for growing businesses.",
             "cta": "Hire Your Dedicated Assistant"
         },
         "counter": [],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/hire-data-and-virtual-assistants-overview.webp",
+            "alt": "Comparison of in-house hiring versus Computyne's managed remote data and virtual assistant solutions for scalable business operations",
             "h2": "Scalable Operations: Data & Virtual Assistant Services",
             "content": [
                 "As your organization grows, operational complexity shouldn't hinder your momentum. At <span class=\"highlight\">Computyne</span>, we provide trained remote professionals who handle your high-volume data, research, and administrative tasks through a managed delivery model.",
@@ -1277,7 +1331,8 @@
     },
     "hire-data-entry-specialists": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/hire-data-entry-specialists-banner.webp",
+            "alt": "Hire remote data entry specialists banner featuring dedicated data management teams for scalable enterprise operations",
             "h1": "Hire Remote Data Entry Specialists",
             "tagline": "Scale Data Operations Seamlessly with Remote Data Entry Specialists",
             "cta": "Request a Custom Hiring Plan"
@@ -1315,7 +1370,8 @@
             }
         ],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/hire-data-entry-specialists-overview.webp",
+            "alt": "Comprehensive overview of remote data entry specialists providing managed services for CRM updates, product catalogs, and database maintenance with ISO-grade security",
             "h2": "The Impact of Accurate Data Entry on Business Growth",
             "content": [
                 "As your data requirements expand, information gaps shouldn't hinder your momentum. At <span class=\"highlight\">Computyne</span>, we provide skilled remote data entry professionals who transform fragmented records into structured, actionable assets through a managed delivery model.",

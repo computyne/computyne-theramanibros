@@ -1,8 +1,8 @@
 const htmlString = `
-    <div style="max-width:1100px;margin:0 auto;font-family:Arial,Helvetica,sans-serif;
+        
+        <div style="max-width:1100px;margin:0 auto;font-family:Arial,Helvetica,sans-serif;
                 color:#222;line-height:1.8;">
 
-      
 
       <!-- LAYOUT -->
       <div class="slidebar-stickiy-container" style="display:flex;gap:30px;align-items:flex-start;">

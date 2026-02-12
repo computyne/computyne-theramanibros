@@ -4,11 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="Blogs improvements">
-      <change afterPath="$PROJECT_DIR$/src/app/case-studies/caseStudiesClient.js" afterDir="false" />
+    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="Overview Changes">
+      <change afterPath="$PROJECT_DIR$/public/images/service/banner/appraisal-and-valuation-data-entry-banner.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service/banner/bill-of-landing-data-entry-banner.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service/banner/data-annotation-services-banner.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service/banner/data-labeling-services-banner.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service/banner/document-digitization-services-banner.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service/banner/forms-processing-services-banner.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service/banner/freight-audit-services-banner.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service/banner/hire-data-and-virtual-assistants-banner.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service/overview/appraisal-and-valuation-data-entry-overview.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service/overview/bill-of-landing-data-entry-overview.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service/overview/data-annotation-services-overview.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service/overview/data-labeling-services-overview.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service/overview/document-digitization-services-overview.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service/overview/forms-processing-services-overview.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service/overview/freight-audit-services-overview.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service/overview/hire-data-and-virtual-assistants-overview.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/blog/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/blog/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/case-studies/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/case-studies/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/data/service/service-overview-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/service/service-overview-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/data/team-members.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/team-members.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/about-page/AboutCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/about-page/AboutCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/about-page/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/about-page/Hero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/blogHtmlData/how-to-cleanse-data-in-excel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/blogHtmlData/how-to-cleanse-data-in-excel.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,12 +34,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="RB-Computyne" />
+    <option name="BRANCH" value="main" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="RB-Computyne" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,7 +53,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/computyne/computyne-theramanibros.git&quot;,
-    &quot;accountId&quot;: &quot;a62d60aa-470d-4615-8eca-44bf5b12ab63&quot;
+    &quot;accountId&quot;: &quot;86b1841b-671d-4066-9f56-a9be7c96aa97&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -53,11 +71,11 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "RB-Computyne",
     "js.debugger.nextJs.config.created.client": "true",
     "js.debugger.nextJs.config.created.server": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/admin/IdeaProjects/computyne-theramanibros/public/images/blog",
+    "last_opened_file_path": "C:/Users/admin/IdeaProjects/computyne-theramanibros/public/images/service/overview",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,11 +87,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\service\overview" />
+      <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\service\banner" />
       <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\blog" />
       <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\about" />
       <recent name="$PROJECT_DIR$/src/components/sections/about-page" />
-      <recent name="$PROJECT_DIR$/src/data/casestudy-schema" />
-      <recent name="$PROJECT_DIR$/src/app/about-us" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\industries-services" />
@@ -124,6 +142,8 @@
       <workItem from="1770786883847" duration="10000" />
       <workItem from="1770797093479" duration="294000" />
       <workItem from="1770810312509" duration="40000" />
+      <workItem from="1770898332640" duration="292000" />
+      <workItem from="1770898662934" duration="5410000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -253,13 +273,13 @@
       <option name="project" value="LOCAL" />
       <updated>1770741149911</updated>
     </task>
-    <task id="LOCAL-00017" summary="Blog and casestudy metadata added">
+    <task id="LOCAL-00017" summary="Overview Changes">
       <option name="closed" value="true" />
-      <created>1770895713296</created>
+      <created>1770899252698</created>
       <option name="number" value="00017" />
       <option name="presentableId" value="LOCAL-00017" />
       <option name="project" value="LOCAL" />
-      <updated>1770895713296</updated>
+      <updated>1770899252698</updated>
     </task>
     <option name="localTasksCounter" value="18" />
     <servers />
@@ -346,9 +366,9 @@
     <MESSAGE value="about us added" />
     <MESSAGE value="quick changes" />
     <MESSAGE value="Schmea and Overview Changes" />
-    <MESSAGE value="Overview Changes" />
     <MESSAGE value="Responsive issue and some extra link removed" />
     <MESSAGE value="Blog and casestudy metadata added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Blog and casestudy metadata added" />
+    <MESSAGE value="Overview Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Overview Changes" />
   </component>
 </project>
