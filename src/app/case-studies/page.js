@@ -3,22 +3,25 @@ import CaseStudiesClient from "./caseStudiesClient";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Bill of Lading Data Entry Services | Shipping Document Processing | Computyne",
+    title: "BPO Success Stories & Data Solutions Case Studies | Computyne",
     description:
-        "Reliable bill of lading data entry services by Computyne ensuring accurate capture of freight, consignee, and shipment details for efficient logistics operations.",
+        "Explore Computyne’s case studies to see how our data-driven BPO services help global clients improve operational efficiency, reduce costs, and achieve faster processing.",
 
     keywords: [
-        "bill of lading data entry services",
-        "bill of lading processing",
-        "shipping document data entry",
-        "freight documentation services",
-        "logistics document processing",
-        "shipment data entry",
-        "transport document management",
+        "BPO case studies",
+        "Outsourcing success stories",
+        "Data collection case studies",
+        "Logistics outsourcing results",
+        "Real estate data solutions case study",
+        "Invoice processing efficiency",
+        "Business process optimization cases",
+        "Data extraction project results",
+        "Operational efficiency improvements",
+        "Offshore data services success",
     ],
 
     alternates: {
-        canonical: "https://www.computyne.com/bill-of-lading-data-entry-services",
+        canonical: "https://www.computyne.com/case-studies",
     },
 };
 

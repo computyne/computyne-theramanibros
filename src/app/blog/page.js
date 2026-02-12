@@ -10,22 +10,25 @@ import SubFooter from "@/components/layout/footer/subFooter";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Bill of Lading Data Entry Services | Shipping Document Processing | Computyne",
+    title: "BPO & Data Solutions Blog: Insights & Trends | Computyne",
     description:
-        "Reliable bill of lading data entry services by Computyne ensuring accurate capture of freight, consignee, and shipment details for efficient logistics operations.",
+        "Stay ahead with Computyne’s blog. Explore expert insights on BPO trends, data management, AI training, and back-office outsourcing to optimize your business operations.",
 
     keywords: [
-        "bill of lading data entry services",
-        "bill of lading processing",
-        "shipping document data entry",
-        "freight documentation services",
-        "logistics document processing",
-        "shipment data entry",
-        "transport document management",
+        "BPO industry insights",
+        "Data management trends",
+        "Outsourcing best practices",
+        "AI training data blog",
+        "Back-office automation tips",
+        "Business process outsourcing trends",
+        "Healthcare BPO insights",
+        "Real estate data solutions blog",
+        "Logistics BPO updates",
+        "Digital transformation for BPO",
     ],
 
     alternates: {
-        canonical: "https://www.computyne.com/bill-of-lading-data-entry-services",
+        canonical: "https://www.computyne.com/blog",
     },
 };
 
