@@ -5,7 +5,6 @@ import BackToTop from "@/components/shared/others/BackToTop";
 import ClientWrapper from "@/components/shared/wrappers/ClientWrapper";
 import HeroInnerMod from "@/components/sections/hero/HeroInnerMod";
 import SubFooter from "@/components/layout/footer/subFooter";
-import JsonLd from "@/components/seo/JsonLd";
 
 
 export const metadata = {
