@@ -17,7 +17,7 @@ import Testimonials from "@/components/layout/common/Testimonials";
 
 
 export const metadata = {
-    metadataBase: new URL("https://computyne-one.vercel.app"),
+    metadataBase: new URL("https://wwww.computyne.com"),
 
     title: "Data Labeling Services | Accurate Training Data for AI & ML | Computyne",
     description:
@@ -34,7 +34,7 @@ export const metadata = {
     ],
 
     alternates: {
-        canonical: "https://computyne-one.vercel.app/data-labeling-services",
+        canonical: "https://wwww.computyne.com/data-labeling-services",
     },
 };
 

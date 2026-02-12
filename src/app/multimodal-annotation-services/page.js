@@ -16,7 +16,7 @@ import SubFooter from "@/components/layout/footer/subFooter";
 import Testimonials from "@/components/layout/common/Testimonials";
 
 export const metadata = {
-    metadataBase: new URL("https://computyne-one.vercel.app"),
+    metadataBase: new URL("https://wwww.computyne.com"),
 
     title: "Multimodal Annotation Services | AI & ML Training Data Experts | Computyne",
     description:
@@ -33,7 +33,7 @@ export const metadata = {
     ],
 
     alternates: {
-        canonical: "https://computyne-one.vercel.app/multimodal-annotation-services",
+        canonical: "https://wwww.computyne.com/multimodal-annotation-services",
     },
 };
 
