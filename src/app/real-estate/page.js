@@ -14,7 +14,30 @@ import {multimodalAnnotationServicesSchema} from "@/libs/schema/services/multimo
 import SubFooter from "@/components/layout/footer/subFooter";
 import Testimonials from "@/components/layout/common/Testimonials";
 import {realEstateIndustrySchema} from "@/libs/schema/services/realEstateIndustrySchema";
+export const metadata = {
+    metadataBase: new URL("https://www.computyne.com"),
 
+    title: "Real Estate Outsourcing & Property Data Solutions | Computyne",
+    description:
+        "Streamline your property business with Computyne’s real estate outsourcing. We offer property data entry, MLS listing updates, photo editing, and market research to boost your operational efficiency.",
+
+    keywords: [
+        "Real estate outsourcing services",
+        "Property data entry services",
+        "MLS listing update services",
+        "Real estate data management",
+        "Property data collection",
+        "Real estate photo editing services",
+        "Real estate market research",
+        "Appraisal data entry services",
+        "Real estate back office support",
+        "Property document digitization",
+    ],
+
+    alternates: {
+        canonical: "https://www.computyne.com/real-estate",
+    },
+};
 export default function realEstate() {
 
     return (

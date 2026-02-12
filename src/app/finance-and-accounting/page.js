@@ -14,7 +14,30 @@ import {multimodalAnnotationServicesSchema} from "@/libs/schema/services/multimo
 import SubFooter from "@/components/layout/footer/subFooter";
 import Testimonials from "@/components/layout/common/Testimonials";
 import {financeAndAccountingIndustrySchema} from "@/libs/schema/services/financeAndAccountingIndustrySchema";
+export const metadata = {
+    metadataBase: new URL("https://www.computyne.com"),
 
+    title: "Finance and Accounting Outsourcing Services (F&A) | Computyne",
+    description:
+        "Streamline your financial operations with Computyne’s finance and accounting outsourcing services. We offer accounts payable, receivable, payroll, and compliance-ready reporting for sustainable cost efficiency.",
+
+    keywords: [
+        "Finance and accounting outsourcing services",
+        "F&A outsourcing company",
+        "Accounts payable outsourcing services",
+        "Accounts receivable outsourcing services",
+        "General ledger accounting outsourcing",
+        "Payroll processing services",
+        "Financial reporting outsourcing",
+        "Outsourced accounting for businesses",
+        "Compliance-ready accounting services",
+        "Financial lifecycle management outsourcing",
+    ],
+
+    alternates: {
+        canonical: "https://www.computyne.com/finance-and-accounting",
+    },
+};
 export default function financeAndAccounting() {
 
     return (

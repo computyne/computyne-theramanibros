@@ -14,7 +14,30 @@ import {multimodalAnnotationServicesSchema} from "@/libs/schema/services/multimo
 import SubFooter from "@/components/layout/footer/subFooter";
 import Testimonials from "@/components/layout/common/Testimonials";
 import {energyAndUtilitiesIndustrySchema} from "@/libs/schema/services/energyAndUtilitiesIndustrySchema";
+export const metadata = {
+    metadataBase: new URL("https://www.computyne.com"),
 
+    title: "Energy & Utilities Management Services | Computyne Outsourcing",
+    description:
+        "Optimize resource usage with Computyne’s energy & utilities solutions. We provide energy monitoring, cost optimization, sustainability planning, and regulatory compliance to streamline your utility operations.",
+
+    keywords: [
+        "Energy and utilities management",
+        "Utility bill auditing services",
+        "Energy consumption analysis",
+        "Utility cost optimization",
+        "Sustainability planning services",
+        "Energy resource management",
+        "Utility data processing",
+        "Energy regulatory compliance",
+        "Renewable energy integration support",
+        "Utility operational efficiency",
+    ],
+
+    alternates: {
+        canonical: "https://www.computyne.com/energy-and-utilities",
+    },
+};
 export default function energyAndUtilities() {
 
     return (

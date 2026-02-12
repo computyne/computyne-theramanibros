@@ -14,7 +14,30 @@ import {multimodalAnnotationServicesSchema} from "@/libs/schema/services/multimo
 import SubFooter from "@/components/layout/footer/subFooter";
 import Testimonials from "@/components/layout/common/Testimonials";
 import {logisticAndTransportationIndustrySchema} from "@/libs/schema/services/logisticAndTransportationIndustrySchema";
+export const metadata = {
+    metadataBase: new URL("https://www.computyne.com"),
 
+    title: "Logistics BPO & Transportation Data Services | Computyne",
+    description:
+        "Streamline your supply chain with Computyne’s logistics BPO services. We offer freight audit, bill of lading data entry, document digitization, and back-office support to improve operational accuracy.",
+
+    keywords: [
+        "Logistics BPO services",
+        "Transportation data management",
+        "Freight audit services",
+        "Bill of lading data entry",
+        "Logistics back-office support",
+        "Supply chain data solutions",
+        "Freight invoice processing",
+        "Shipment data verification",
+        "Logistics document digitization",
+        "3PL data entry services",
+    ],
+
+    alternates: {
+        canonical: "https://www.computyne.com/logistics-and-transportation",
+    },
+};
 export default function logisticsAndTransportation() {
 
     return (

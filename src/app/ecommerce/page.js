@@ -14,7 +14,30 @@ import {multimodalAnnotationServicesSchema} from "@/libs/schema/services/multimo
 import SubFooter from "@/components/layout/footer/subFooter";
 import Testimonials from "@/components/layout/common/Testimonials";
 import {eCommerceIndustrySchema} from "@/libs/schema/services/eCommerceIndustrySchema";
+export const metadata = {
+    metadataBase: new URL("https://www.computyne.com"),
 
+    title: "eCommerce BPO Services & Back Office Outsourcing | Computyne",
+    description:
+        "Scale your online business with Computyne’s eCommerce BPO services. We provide expert catalog management, order processing, inventory support, and multi-channel customer service to optimize your operations.",
+
+    keywords: [
+        "eCommerce BPO services",
+        "eCommerce outsourcing solutions",
+        "eCommerce back office support",
+        "Product catalog management services",
+        "Order processing outsourcing",
+        "Inventory management services",
+        "Marketplace management services",
+        "eCommerce customer support outsourcing",
+        "SKU enrichment services",
+        "Online retail process outsourcing",
+    ],
+
+    alternates: {
+        canonical: "https://www.computyne.com/ecommerce",
+    },
+};
 export default function ecommerce() {
 
     return (

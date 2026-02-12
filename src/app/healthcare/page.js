@@ -14,7 +14,30 @@ import {multimodalAnnotationServicesSchema} from "@/libs/schema/services/multimo
 import SubFooter from "@/components/layout/footer/subFooter";
 import Testimonials from "@/components/layout/common/Testimonials";
 import {healthCareIndustrySchema} from "@/libs/schema/services/healthCareIndustrySchema";
+export const metadata = {
+    metadataBase: new URL("https://www.computyne.com"),
 
+    title: "Healthcare BPO Services & Medical Billing Outsourcing | Computyne",
+    description:
+        "Optimize healthcare operations with Computyne’s HIPAA-compliant BPO services. We offer medical billing, RCM, claims processing, and healthcare data management to reduce costs and improve care.",
+
+    keywords: [
+        "Healthcare BPO services",
+        "Medical billing outsourcing",
+        "Revenue cycle management (RCM) services",
+        "Healthcare process outsourcing",
+        "HIPAA compliant BPO services",
+        "Insurance claims processing outsourcing",
+        "Healthcare data management services",
+        "Medical records processing",
+        "Provider credentialing services",
+        "Healthcare back-office support",
+    ],
+
+    alternates: {
+        canonical: "https://www.computyne.com/healthcare",
+    },
+};
 export default function healthcare() {
 
     return (
