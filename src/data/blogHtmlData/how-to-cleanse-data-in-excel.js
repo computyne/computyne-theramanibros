@@ -61,7 +61,7 @@ const htmlString = `
             font-size: 26px;
             margin-top: 40px;
             margin-bottom: 20px;
-            color: #004a99;
+            color: #212529;
         }
 
         h5 {
@@ -75,17 +75,12 @@ const htmlString = `
             font-size: 18px;
             margin-top: 25px;
             margin-bottom: 12px;
-            color: #004a99;
+            color: #212529;
         }
 
         p {
             margin-bottom: 15px;
         }
-
-        strong {
-            color: #004a99;
-        }
-
         code {
             background: #f4f4f4;
             padding: 2px 6px;
@@ -130,7 +125,7 @@ const htmlString = `
         }
 
         th {
-            background-color: #004a99;
+            background-color: #212529;
             color: #ffffff;
             font-weight: 600;
             text-align: left;
@@ -175,14 +170,14 @@ const htmlString = `
         .tip {
             background: #e7f3ff;
             padding: 15px;
-            border-left: 4px solid #004a99;
+            border-left: 4px solid #212529;
             margin: 20px 0;
             border-radius: 4px;
         }
 
         .stat {
             font-weight: bold;
-            color: #004a99;
+            color: #212529;
         }
 
         .warning {
@@ -211,7 +206,7 @@ const htmlString = `
             margin-bottom: 50px;
             padding: 30px;
             background: #f4f7f9;
-            border-left: 5px solid #004a99;
+            border-left: 5px solid #212529;
             display: flex;
             align-items: center;
             gap: 25px;
@@ -244,7 +239,7 @@ const htmlString = `
 
         .bio-content h3 {
             margin: 0 0 10px 0;
-            color: #004a99;
+            color: #212529;
             font-size: 22px;
         }
 
