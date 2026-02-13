@@ -1385,7 +1385,8 @@
     },
     "hire-data-science-specialist": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/hire-data-science-specialist-banner.webp",
+            "alt": "Hire data science specialists banner featuring expert talent for predictive modeling, statistical analysis, and AI-driven business intelligence",
             "h1": "Hire Data Science Specialists",
             "tagline": "Transform Data into Predictive Intelligence with Expert Data Science Talent",
             "cta": "Request a Custom Hiring Plan"
@@ -1423,7 +1424,8 @@
             }
         ],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/hire-data-science-specialist-overview.webp",
+            "alt": "Data science specialist overview illustrating the transition from raw unstructured data to predictive business intelligence through statistical modeling and advanced analytics",
             "h2": "Transform Complex Data into Predictive Business Intelligence",
             "content": [
                 "As your data volume expands, hidden complexities shouldn't stall your growth. At <span class=\"highlight\">Computyne</span>, our data science specialists provide the advanced analytical expertise required to convert raw, unstructured information into predictive intelligence.",
@@ -1437,7 +1439,8 @@
     },
     "hire-virtual-assistants": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/hire-virtual-assistants-banner.webp",
+            "alt": "Hire dedicated virtual assistants banner featuring professional administrative support for workflow optimization and business productivity",
             "h1": "Hire Virtual Assistants",
             "tagline": "Hire Skilled Virtual Assistants to Simplify Workflows and Maximize Productivity",
             "cta": "Get a Dedicated Virtual Assistant"
@@ -1475,7 +1478,8 @@
             }
         ],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/hire-virtual-assistants-overview.webp",
+            "alt": "Operational overview of managed virtual assistant services showing the transition from administrative bottlenecks to scalable, process-driven support",
             "h2": "Dedicated Virtual Assistant Services for Business Growth",
             "content": [
                 "As your business expands, operational bottlenecks shouldn't hinder your momentum. At <span class=\"highlight\">Computyne</span>, we provide dedicated virtual assistants who manage high-volume administrative tasks and daily operations through a managed delivery model.",
