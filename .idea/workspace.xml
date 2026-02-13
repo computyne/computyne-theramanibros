@@ -5,27 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="Overview Changes">
-      <change afterPath="$PROJECT_DIR$/public/images/service/banner/appraisal-and-valuation-data-entry-banner.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/banner/bill-of-landing-data-entry-banner.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/banner/data-annotation-services-banner.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/banner/data-labeling-services-banner.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/banner/document-digitization-services-banner.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/banner/forms-processing-services-banner.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/banner/freight-audit-services-banner.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/banner/hire-data-and-virtual-assistants-banner.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/overview/appraisal-and-valuation-data-entry-overview.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/overview/bill-of-landing-data-entry-overview.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/overview/data-annotation-services-overview.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/overview/data-labeling-services-overview.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/overview/document-digitization-services-overview.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/overview/forms-processing-services-overview.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/overview/freight-audit-services-overview.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/overview/hire-data-and-virtual-assistants-overview.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/service/service-overview-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/service/service-overview-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/team-members.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/team-members.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/about-page/AboutCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/about-page/AboutCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/about-page/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/about-page/Hero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sass/layout/_custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sass/layout/_custom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/shared/sidebar/BlogSidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/shared/sidebar/BlogSidebar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/data/blogHtmlData/how-to-cleanse-data-in-excel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/blogHtmlData/how-to-cleanse-data-in-excel.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,12 +32,12 @@
     &quot;assignee&quot;: &quot;ramanibros&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/computyne/computyne-theramanibros.git&quot;,
-    &quot;accountId&quot;: &quot;86b1841b-671d-4066-9f56-a9be7c96aa97&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/computyne/computyne-theramanibros.git",
+    "accountId": "a62d60aa-470d-4615-8eca-44bf5b12ab63"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -64,27 +46,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "RB-Computyne",
-    "js.debugger.nextJs.config.created.client": "true",
-    "js.debugger.nextJs.config.created.server": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/admin/IdeaProjects/computyne-theramanibros/public/images/service/overview",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2025.3.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
+    &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/IdeaProjects/computyne-theramanibros/public/images/service/overview&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2025.3.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\service\overview" />
@@ -144,6 +126,7 @@
       <workItem from="1770810312509" duration="40000" />
       <workItem from="1770898332640" duration="292000" />
       <workItem from="1770898662934" duration="5410000" />
+      <workItem from="1770949400134" duration="2215000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
