@@ -1494,7 +1494,8 @@
     },
     "hire-web-researchers": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/hire-web-researchers.webp",
+            "alt": "Hire web research experts banner showcasing professional data mining, market research, and lead generation services for actionable business intelligence",
             "h1": "Hire Web Research Experts",
             "tagline": "Skilled Web Research Assistants Delivering Accurate, Actionable Data",
             "cta": "Get a Custom Web Research Plan"
@@ -1532,7 +1533,8 @@
             }
         ],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/hire-web-researchers.webp",
+            "alt": "Comprehensive web research overview showing dedicated researchers managing high-volume data collection and verification through a managed delivery model",
             "h2": "Eliminate Data Bottlenecks with Dedicated Web Research Support",
             "content": [
                 "As your data requirements expand, information gaps shouldn't hinder your momentum. At <span class=\"highlight\">Computyne</span>, we provide trained research professionals who manage high-volume data collection and verification through a managed delivery model.",
@@ -1547,14 +1549,16 @@
     },
     "image-annotation-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/image-annotation-services-banner.webp",
+            "alt": "Professional image annotation services banner featuring pixel-perfect labeling, bounding boxes, and semantic segmentation for high-accuracy computer vision models",
             "h1": "Image Annotation Services for Computer Vision",
             "tagline": "Secure, pixel-perfect labeling managed by experts.",
             "cta": "Get a Free Quote"
         },
         "counter": [],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/image-annotation-services-overview.webp",
+            "alt": "Comprehensive image annotation overview showing a managed production pipeline for high-volume computer vision datasets with ISO-standard quality assurance",
             "h2": "Scalable Image Annotation Services Without Operational Bottlenecks",
             "content": [
                 "High-performing computer vision models require large volumes of accurately labeled image data. As AI initiatives scale, image volumes increase, annotation guidelines grow more complex, and internal teams struggle to keep pace without diverting focus from core model development.",
@@ -1566,7 +1570,8 @@
     },
     "image-data-entry-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/image-data-entry-services-banner.webp",
+            "alt": "Image data entry services banner illustrating the extraction of structured information from visual documents and images into digital databases",
             "h1": "Image Data Entry Services",
             "tagline": "From Images to Intelligence: Reliable Data Entry at Scale",
             "cta": "Talk to a Data Expert"
@@ -1604,7 +1609,8 @@
             }
         ],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/image-data-entry-services-overview.webp",
+            "alt": "Strategic image data entry overview showing the conversion of unstructured visual files like PDFs, charts, and photographs into searchable, structured digital databases",
             "h2": "Streamlining Image-to-Data Conversion for Faster Decision-Making",
             "content": [
                 "Are you facing challenges converting information from images into accurate digital formats? Inconsistent image quality, complex data structures, and growing scalability demands often slow image data entry operations. Our image data entry services are purpose-built to overcome these challenges efficiently and cost-effectively. We specialize in image to data conversion from paper documents, photographs, charts, graphs, books, artwork, spreadsheets, pamphlets, and digital files such as PDF, XML, and JSON.",
@@ -1615,7 +1621,8 @@
     },
     "invoice-processing-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/invoice-processing-services-banner.webp",
+            "alt": "Professional invoice processing services banner showcasing automated data extraction, accounts payable streamlining, and financial document management",
             "h1": "Invoice Processing Services",
             "tagline": "Accurate Invoice Processing for Faster, Error-Free Financial Operations",
             "cta": "Reduce Invoice Processing Costs"
@@ -1653,7 +1660,8 @@
             }
         ],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/invoice-processing-services-overview.webp",
+            "alt": "Comprehensive invoice processing overview showing the digital transformation of manual paperwork into automated accounts payable workflows for faster payment cycles",
             "h2": "Automated Invoice Processing for Faster Payment Cycles",
             "content": [
                 "In 2026, slow invoice data entry is a risk your business cannot afford. Manual work leads to errors, late fees, and unhappy vendors. Computyne solves this with smart invoice processing that saves you time and money. We turn your paperwork into a fast, digital workflow.",
@@ -1672,7 +1680,8 @@
     },
     "logistics-data-entry-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/logistics-data-entry-services-banner.webp",
+            "alt": "Logistics data entry services banner showcasing professional management of shipping documents, bills of lading, and freight tracking data for global supply chains",
             "h1": "Logistics Data Entry Services",
             "tagline": "Transform Logistics Data into Actionable, Error-Free Intelligence",
             "cta": "Talk to a Data Expert"
@@ -1710,7 +1719,8 @@
             }
         ],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/logistics-data-entry-services-overview.webp",
+            "alt": "Comprehensive logistics data entry overview illustrating the systematic processing of bills of lading, freight bills, and inventory records to enhance supply chain visibility",
             "h2": "Intelligent Logistics Data Entry for Accurate, Scalable, and Connected Supply Chain Operations",
             "content": [
                 "Is logistics data entry becoming increasingly complex for your organization? Managing diverse data formats, reducing manual errors, and ensuring seamless data flow across supply chain systems often impacts operational efficiency. Our logistics data entry services are designed to address these challenges by delivering accurate, structured, and consistently formatted databases that improve visibility, control, and decision-making across logistics operations.",
@@ -1722,14 +1732,16 @@
     },
     "multimodal-annotation-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/multimodal-annotation-services-banner.webp",
+            "alt": "Multimodal annotation services banner showing the synchronization of text, image, audio, and video data for training complex Generative AI and cross-modal perception models",
             "h1": "Multimodal Annotation Services for Advanced AI",
             "tagline": "Build reliable Generative AI & Perception Models with precisely aligned data.",
             "cta": "Get a Free Quote"
         },
         "counter": [],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/multimodal-annotation-services-overview.webp",
+            "alt": "Strategic multimodal annotation overview illustrating temporal synchronization and cross-modal grounding for training Large Multimodal Models (LMMs) and autonomous systems",
             "h2": "Operational Support for the Next Generation of AI",
             "content": [
                 "Modern AI has evolved beyond single tasks. Today’s Large Multimodal Models (LMMs) and autonomous systems must interpret images, text, audio, and sensor data as a unified signal. Multimodal Annotation is the critical process of synchronizing these diverse inputs to teach machines context, continuity, and reasoning.",
@@ -1741,7 +1753,8 @@
     },
     "real-estate-property-listing-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/real-estate-property-listing-services-banner.webp",
+            "alt": "Real estate property listing services banner featuring optimized MLS data entry, high-quality property descriptions, and digital listing management for increased market visibility",
             "h1": "Real Estate Property Listing Services",
             "tagline": "Structured Property Listings That Increase Accuracy, Visibility, and Speed in Real Estate",
             "cta": "Optimize Listings Today"
@@ -1779,7 +1792,8 @@
             }
         ],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/real-estate-property-listing-services-overview.webp",
+            "alt": "Real estate property listing overview showing the conversion of fragmented property data into verified, high-visibility listings for MLS and digital platforms",
             "h2": "Intelligent Property Listing Management for Growing Real Estate Portfolios",
             "content": [
                 "Accurate property listings are critical for maintaining transparency, strengthening buyer confidence, and accelerating decision-making. In a competitive real estate environment, even small data inconsistencies can lead to buyer confusion, reduced engagement, missed opportunities, or delayed transactions. Our Real Estate Property Listing Services help agencies, developers, and brokers maintain accurate, verified, and consistently updated listings that enhance visibility, credibility, and trust across digital and print channels.",
@@ -1790,14 +1804,16 @@
     },
     "text-annotation-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/text-annotation-services-banner.webp",
+            "alt": "Text annotation services banner featuring Named Entity Recognition (NER), sentiment analysis, and intent classification for high-performance NLP and Large Language Models",
             "h1": "Text Annotation Services",
             "tagline": "Enterprise-grade text labeling for accurate, scalable NLP model training.",
             "cta": "Get a Free Quote"
         },
         "counter": [],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/text-annotation-services-overview.webp",
+            "alt": "Strategic text annotation overview illustrating the manual labeling of raw text for sentiment analysis, entity extraction, and intent classification to fuel NLP models",
             "h2": "Text Annotation Built for Production-Grade NLP Systems",
             "content": [
                 "Text annotation is the foundation of high-performance Natural Language Processing (NLP) models. It involves the meticulous labeling of raw text data to train machine learning algorithms in understanding sentiment, intent, syntax, and context.",
@@ -1811,14 +1827,16 @@
     },
     "video-annotation-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/video-annotation-services-banner.webp",
+            "alt": "Video annotation services banner featuring frame-by-frame object tracking, semantic segmentation, and temporal labeling for autonomous driving and action recognition AI",
             "h1": "Video Annotation Services for Scalable Computer Vision",
             "tagline": "Pixel-perfect data labeling. Managed workflows. Enterprise-grade security.",
             "cta": "Get a Free Quote"
         },
         "counter": [],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/video-annotation-services-overview.webp",
+            "alt": "Strategic video annotation overview illustrating temporal object tracking and frame-by-frame labeling to ensure consistency in computer vision training sets",
             "h2": "Operational Support for Growing AI Initiatives",
             "content": [
                 "Building reliable computer vision models requires large volumes of accurately labeled video data. Video annotation converts raw footage into structured datasets that algorithms can interpret, enabling machines to understand movement, behavior, and context over time. Without consistently annotated video data, even advanced AI models struggle to perform reliably in real-world environments.",
@@ -1831,6 +1849,7 @@
     "ecommerce": {
         "banner": {
             "image": "/images/service/banner/retails-and-ecommerce-banner.webp",
+            "alt": "eCommerce BPO services banner illustrating high-volume product data entry, catalog management, and digital shelf optimization for online retailers and marketplaces",
             "h1": "BPO Services for eCommerce Industry",
             "tagline": "Accuracy-Driven BPO Services for Competitive eCommerce Operations",
             "cta": "Get a Cost Optimization Quote"
@@ -1838,6 +1857,7 @@
         "counter": [],
         "overview": {
             "image": "/images/service/overview/retails-and-ecommerce-overview.webp",
+            "alt": "End-to-end eCommerce BPO overview highlighting product lifecycle management, multi-channel catalog updates, and back-office operational support for high-growth retail brands",
             "h2": "End-to-End eCommerce Process Outsourcing for High-Growth Brands",
             "content": [
                 "Computyne delivers comprehensive eCommerce BPO services that enable brands to streamline back-office operations, improve customer experience, and scale efficiently across digital channels. As a specialized eCommerce process outsourcing company, we support online retailers, marketplaces, and D2C businesses in managing high-volume operations with greater speed, precision, and cost control.",
@@ -1849,6 +1869,7 @@
     "energy-and-utilities": {
         "banner": {
             "image": "/images/service/banner/Energy-and-utilities-banner.webp",
+            "alt": "BPO services for energy and utilities banner highlighting smart meter data management, utility billing processing, and infrastructure record digitization for sustainable energy operations",
             "h1": "BPO Services for Energy & Utilities",
             "tagline": "Powering Efficiency Across Energy and Utility Operations",
             "cta": "Reduce Operational Overheads Today"
@@ -1856,6 +1877,7 @@
         "counter": [],
         "overview": {
             "image": "/images/service/overview/Energy-and-utilities-overview.webp",
+            "alt": "Strategic energy and utilities BPO overview illustrating the integration of meter-to-cash outsourcing, asset data management, and regulatory compliance reporting for utility providers",
             "h2": "Reliable Business Process Outsourcing for the Energy and Utilities Sector",
             "content": [
                 "Energy and utility organizations operate in highly regulated, asset-intensive environments where accuracy, data integrity, and operational efficiency are essential. Managing high-volume back-office operations alongside evolving regulatory mandates, customer expectations, and sustainability initiatives places significant pressure on internal teams.",
@@ -1868,6 +1890,7 @@
     "finance-and-accounting": {
         "banner": {
             "image": "/images/service/banner/Finance-and-Accounting-banner.webp",
+            "alt": "Finance and accounting outsourcing services banner showcasing comprehensive accounts payable, accounts receivable, and general ledger management for improved financial transparency",
             "h1": "Finance and Accounting Outsourcing Services",
             "tagline": "Accuracy-Driven Finance & Accounting Outsourcing Services",
             "cta": "Speak with an Accounting Specialist"
@@ -1875,6 +1898,7 @@
         "counter": [],
         "overview": {
             "image": "/images/service/overview/Finance-and-Accounting-overview.webp",
+            "alt": "Comprehensive finance and accounting overview illustrating an audit-ready financial lifecycle from accounts payable and receivable to general ledger and regulatory reporting",
             "h2": "Compliance-Ready Finance and Accounting Outsourcing You Can Trust",
             "content": [
                 "Computyne delivers end-to-end Finance and Accounting Outsourcing Services that help organizations streamline financial operations, strengthen compliance, and achieve sustainable cost efficiency. As a trusted finance and accounting outsourcing company, we support businesses across industries by managing complex, high-volume finance processes with precision, consistency, and enterprise-grade data security.",
@@ -1887,6 +1911,7 @@
     "healthcare": {
         "banner": {
             "image": "/images/service/banner/Healthcare-banner.webp",
+            "alt": "Healthcare BPO services banner featuring HIPAA-compliant medical data entry, claims processing, and revenue cycle management to enhance patient care and operational efficiency",
             "h1": "BPO Services for Healthcare",
             "tagline": "Optimizing Healthcare Back-Office Operations with Accuracy and Care",
             "cta": "Reduce Healthcare Operational Costs"
@@ -1894,6 +1919,7 @@
         "counter": [],
         "overview": {
             "image": "/images/service/overview/retails-and-ecommerce-overview.webp",
+            "alt": "Healthcare BPO overview showing the integration of medical data management, payer operations, and HIPAA-compliant administrative support for hospitals and healthcare networks",
             "h2": "Trusted Healthcare BPO Services for Regulatory-Driven Environments",
             "content": [
                 "Computyne delivers specialized healthcare BPO services designed to help healthcare organizations streamline administrative operations, strengthen regulatory compliance, and improve overall operational efficiency without compromising patient care. As a trusted healthcare outsourcing company, we support organizations operating in highly regulated, data-sensitive environments.",
@@ -1906,6 +1932,7 @@
     "ites": {
         "banner": {
             "image": "/images/service/banner/ITES-Banner.webp",
+            "alt": "BPO support for ITES industry banner showing integrated technical data processing, back-office automation, and lifecycle management for global IT and tech firms",
             "h1": "BPO Support for the ITES Industry",
             "tagline": "Precision-Driven Data and Back-Office Support for High-Performance ITES Operations",
             "cta": "Talk to a Data Support Expert"
@@ -1913,6 +1940,7 @@
         "counter": [],
         "overview": {
             "image": "/images/service/overview/ITES-overview.webp",
+            "alt": "ITES BPO overview illustrating the integration of data validation, workflow automation, and structured document management for high-performance IT-enabled service providers",
             "h2": "Driving ITES Efficiency Through Intelligent Process Management",
             "content": [
                 "Computyne delivers specialized BPO support services for ITES organizations, helping IT-enabled service providers streamline operations, improve data accuracy, and scale service delivery with confidence. Our ITES-focused outsourcing solutions are purpose-built for high-volume, process-intensive environments, combining structured workflows, skilled domain teams, and technology-enabled quality controls.",
@@ -1924,6 +1952,7 @@
     "logistics-and-transportation": {
         "banner": {
             "image": "/images/service/banner/Logistics-and-supply-Chain-banner.webp",
+            "alt": "Logistics and transportation BPO banner featuring freight bill auditing, bill of lading processing, and supply chain data management for global shipping and freight forwarders",
             "h1": "Logistics BPO Support Services",
             "tagline": "Streamlining Logistics Operations Through Intelligent Process Outsourcing",
             "cta": "Talk to a Logistics Outsourcing Expert"
@@ -1931,6 +1960,7 @@
         "counter": [],
         "overview": {
             "image": "/images/service/overview/Logistics-and-supply-Chain-overview.webp",
+            "alt": "Logistics BPO overview illustrating integrated TMS and WMS support, freight document automation, and real-time supply chain visibility for 3PL and 4PL operators",
             "h2": "End-to-End Logistics Process Outsourcing Built for Performance",
             "content": [
                 "Computyne provides end-to-end Logistics BPO services designed to optimize back-office operations, improve process accuracy, and strengthen supply chain visibility across complex logistics environments. As a specialized logistics BPO company, we support logistics providers, freight forwarders, 3PL/4PL operators, and enterprise supply chain teams by managing mission-critical operational workflows with precision, scalability, and compliance.",
@@ -1942,6 +1972,7 @@
     "real-estate": {
         "banner": {
             "image": "/images/service/banner/Real-Estate-Banner.webp",
+            "alt": "Real estate BPO services banner featuring property data management, lease abstraction, MLS data entry, and valuation support for global property management firms",
             "h1": "Real Estate and Property Management Solution",
             "tagline": "End-to-End Property Intelligence for Smarter Real Estate Decisions",
             "cta": "Talk to an Expert"
@@ -1949,6 +1980,7 @@
         "counter": [],
         "overview": {
             "image": "/images/service/overview/Real-Estate-overview.webp",
+            "alt": "Real estate data management overview illustrating the transformation of raw property listings and legal documents into structured digital portfolios for agencies and developers",
             "h2": "Accurate, Compliant Property Data Management You Can Trust",
             "content": [
                 "The modern property sector depends on structured, accurate, and up-to-date data to enable efficient sales, leasing, and transaction management. Real estate organizations handle extensive information volumes, including property listings, floor plans, client records, valuation reports, and legal documentation. Without standardized real estate data workflows, inconsistencies, duplication, and manual errors can delay transactions, impact compliance, and increase operational costs across property management operations.",
