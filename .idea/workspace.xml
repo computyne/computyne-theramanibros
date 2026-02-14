@@ -4,40 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="Overview Changes">
-      <change afterPath="$PROJECT_DIR$/public/images/service/banner/hire-web-researchers-banner.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/banner/image-annotation-services-banner.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/banner/image-data-entry-services-banner.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/banner/invoice-processing-services-banner.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/banner/logistics-data-entry-services-banner.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/banner/multimodal-annotation-services-banner.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/banner/real-estate-property-listing-services-banner.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/banner/text-annotation-services-banner.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/banner/video-annotation-services-banner.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/overview/hire-web-researchers-overview.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/overview/image-annotation-services-overview.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/overview/image-data-entry-services-overview.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/overview/invoice-processing-services-overview.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/overview/logistics-data-entry-services-overview.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/overview/multimodal-annotation-services-overview.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/overview/real-estate-property-listing-services-overview.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/overview/text-annotation-services-overview.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/overview/video-annotation-services-overview.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/service/service-overview-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/service/service-overview-data.json" afterDir="false" />
-    </list>
+    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="Overview Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="main" />
+    <option name="BRANCH" value="RBYR-about-us-how-we-work-feature" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="RBYR-about-us-how-we-work-feature" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,27 +41,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "RB-Computyne",
-    "js.debugger.nextJs.config.created.client": "true",
-    "js.debugger.nextJs.config.created.server": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/admin/IdeaProjects/computyne-theramanibros/public/images/service/overview",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2025.3.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;RB-Computyne&quot;,
+    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
+    &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/IdeaProjects/computyne-theramanibros/public/images/service/overview&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/cs-admin/Programs/idea-IU-253.30387.90/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\service\overview" />
