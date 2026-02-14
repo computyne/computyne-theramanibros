@@ -10,7 +10,7 @@ export const energyAndUtilitiesIndustrySchema = {
                 "@type": "Organization",
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
-                "logo": "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "logo": "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Sales",

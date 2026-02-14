@@ -12,7 +12,7 @@ export const formProcessingSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -86,7 +86,7 @@ export const formProcessingSchema = {
             "@type": "Product",
             "name": "Outsourced Form Processing Services",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "End-to-end outsourced form processing services that eliminate manual handling, improve data accuracy, ensure compliance, and support scalable digital transformation initiatives.",
             "url": "https://www.computyne.com/forms-processing-services",
@@ -94,7 +94,7 @@ export const formProcessingSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

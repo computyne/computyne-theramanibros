@@ -7,7 +7,8 @@
     "linkedin": "https://www.linkedin.com/in/ravinder-s-08117313b/",
     "img": "/images/team/ravindar.webp",
     "img2": "/images/team/ravindar.webp",
-    "imgLarge": "/images/team/ravindar.webp"
+    "imgLarge": "/images/team/ravindar.webp",
+    "alt": "Ravinder Singh - Head of Business Development & Marketing at Computyne"
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
     "linkedin": "https://www.linkedin.com/in/bhavesh-panchal-4a4816388/",
     "img": "/images/team/bhavesh.webp",
     "img2": "/images/team/bhavesh.webp",
-    "imgLarge": "/images/team/bhavesh.webp"
+    "imgLarge": "/images/team/bhavesh.webp",
+    "alt": "Bhavesh Panchal - Head of Operations & Growth Strategist at Computyne"
   },
   {
     "id": 3,
@@ -27,6 +29,7 @@
     "linkedin": "https://www.linkedin.com/in/champakpol/",
     "img": "/images/team/champak.webp",
     "img2": "/images/team/champak.webp",
-    "imgLarge": "/images/team/champak.webp"
+    "imgLarge": "/images/team/champak.webp",
+    "alt": "Champak Pol - Business Head at Computyne"
   }
 ]

@@ -12,7 +12,7 @@ export const listBuildingServicesSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -94,7 +94,7 @@ export const listBuildingServicesSchema = {
             "@type": "Product",
             "name": "List Building Services",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "Accurate B2B list building services delivering verified, segmented, and CRM-ready prospect data that fuels revenue growth and improves campaign performance.",
             "url": "https://www.computyne.com/list-building-services",
@@ -102,7 +102,7 @@ export const listBuildingServicesSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

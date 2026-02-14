@@ -17,7 +17,7 @@ import Testimonials from "@/components/layout/common/Testimonials";
 
 
 export const metadata = {
-    metadataBase: new URL("https://computyne-one.vercel.app"),
+    metadataBase: new URL("https://www.computyne.com"),
 
     title: "Video Annotation Services | AI Training Data for Computer Vision | Computyne",
     description:
@@ -34,7 +34,7 @@ export const metadata = {
     ],
 
     alternates: {
-        canonical: "https://computyne-one.vercel.app/video-annotation-services",
+        canonical: "https://www.computyne.com/video-annotation-services",
     },
 };
 

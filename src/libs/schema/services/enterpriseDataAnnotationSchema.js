@@ -13,7 +13,7 @@ export const enterpriseDataAnnotationSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -86,7 +86,7 @@ export const enterpriseDataAnnotationSchema = {
             "@type": "Product",
             "name": "Managed Data Annotation Services",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "Enterprise-ready data annotation services delivering consistent, auditable, and high-accuracy labeled datasets to support AI model training, retraining, and continuous learning at scale.",
             "url": "https://www.computyne.com/data-annotation-services",
@@ -94,7 +94,7 @@ export const enterpriseDataAnnotationSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

@@ -12,7 +12,7 @@ export const dataExtractionServicesSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -108,7 +108,7 @@ export const dataExtractionServicesSchema = {
             "@type": "Product",
             "name": "Data Extraction Services",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "Computyne provides scalable, secure data extraction services that deliver clean, structured, and decision-ready business intelligence across industries.",
             "url": "https://www.computyne.com/data-extraction-services",
@@ -116,7 +116,7 @@ export const dataExtractionServicesSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

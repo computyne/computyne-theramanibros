@@ -12,7 +12,7 @@ export const dataLabelingAnnotationSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -85,7 +85,7 @@ export const dataLabelingAnnotationSchema = {
             "@type": "Product",
             "name": "Enterprise Data Labeling Services",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "End-to-end managed data labeling services designed to produce accurate, model-ready training data for AI and machine learning systems across regulated and high-scale environments.",
             "url": "https://www.computyne.com/data-labeling-services",
@@ -93,7 +93,7 @@ export const dataLabelingAnnotationSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

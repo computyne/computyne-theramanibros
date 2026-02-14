@@ -126,7 +126,7 @@
         ]
     },
     "data-management-services": {
-        "h2": "Managed Data Services for Enterprise Accuracy and Performance",
+        "h2": "End-to-End Data Management Solutions for Complex Enterprises",
         "desc": "We deliver customizable data management services to organize, maintain, and protect mission-critical business information securely.",
         "services": [
             {
@@ -3291,9 +3291,9 @@
         "services": [
             {
                 "id": 1,
-                "title": "Web Research Services",
+                "title": "Hire Web Research Experts",
                 "desc": "Targeted web research services that support lead generation, market analysis, and competitive intelligence with validated and structured data.",
-                "url": "#",
+                "url": "hire-web-researchers",
                 "data": [
                     {
                         "value": "Prospect and lead research with verified accuracy"
@@ -3311,9 +3311,9 @@
             },
             {
                 "id": 2,
-                "title": "Data Entry Services",
+                "title": "Hire Data Entry Specialists",
                 "desc": "High-accuracy data entry services built for organizations managing large volumes of structured and unstructured information.",
-                "url": "#",
+                "url": "hire-data-entry-specialists",
                 "data": [
                     {
                         "value": "Data input, cleansing, and normalization across systems"
@@ -3331,9 +3331,9 @@
             },
             {
                 "id": 3,
-                "title": "Virtual Assistant Services",
+                "title": "Dedicate Virtual Assistant",
                 "desc": "Dedicated virtual assistant services that keep daily business operations organized, responsive, and moving forward.",
-                "url": "#",
+                "url": "hire-virtual-assistants",
                 "data": [
                     {
                         "value": "Inbox and email management"
@@ -3351,9 +3351,9 @@
             },
             {
                 "id": 4,
-                "title": "Data Science and Analytics Services",
+                "title": "Hire Data Science Specialists",
                 "desc": "Business-focused data science services that turn complex datasets into clear, actionable insight for leadership and product teams.",
-                "url": "#",
+                "url": "hire-data-science-specialist",
                 "data": [
                     {
                         "value": "Interactive dashboards and performance reporting"

@@ -10,7 +10,32 @@ import Team from "@/components/sections/about-page/Team";
 import Footer from "@/components/layout/footer/Footer";
 import SubFooter from "@/components/layout/footer/subFooter";
 import HowWeWork from "@/components/sections/about-page/HowWeWork";
+import Blogs from "@/components/sections/home-page/Blogs";
 
+export const metadata = {
+    metadataBase: new URL("https://www.computyne.com"),
+
+    title: "About Computyne | Global BPO & Data Outsourcing Company",
+    description:
+        "Discover Computyne, a leader in global business process services. With 15+ years of experience, we provide scalable data processing, BPO, and AI-powered solutions to help MNCs and enterprises worldwide improve efficiency.",
+
+    keywords: [
+        "About Computyne",
+        "Global BPO company",
+        "Business process outsourcing firm",
+        "Data processing experts",
+        "Back-office outsourcing partner",
+        "ISO 27001 certified BPO",
+        "Scalable data solutions",
+        "Enterprise outsourcing services",
+        "BPO success and leadership",
+        "Global delivery model BPO",
+    ],
+
+    alternates: {
+        canonical: "https://www.computyne.com/about-us",
+    },
+};
 export default function About() {
     return (
         <div>
@@ -29,6 +54,7 @@ export default function About() {
                         <Funfact/>
                         <Team type={3}/>
                         <HowWeWork/>
+                        <Blogs/>
                         <SubFooter/>
                     </main>
                     <Footer/>

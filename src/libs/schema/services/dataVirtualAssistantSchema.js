@@ -12,7 +12,7 @@ export const dataVirtualAssistantSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -85,7 +85,7 @@ export const dataVirtualAssistantSchema = {
             "@type": "Product",
             "name": "Managed Data and Virtual Assistant Services",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "Computyne delivers dedicated remote data assistants and virtual assistants through a managed delivery model that ensures accuracy, security, scalability, and consistent operational support for growing businesses.",
             "url": "https://www.computyne.com/data-virtual-assistants",
@@ -93,7 +93,7 @@ export const dataVirtualAssistantSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

@@ -1,91 +1,587 @@
 const htmlString = `
-<div class="postBody-module__Mf2ZlW__content">
-   <div>
-      <p>You will be amazed to know that 20% of all freight bills have errors, and some of them lead to overcharges of around 5-15% per invoice. Poorly tracked freight bills can quickly increase the bills and unnecessary expenses. Hence, freight audit acts as a crucial tool for businesses to reduce costs.&nbsp;</p>
-      <p>But all audits are not the same. Businesses frequently choose between pre-audits and post-audits to manage the freight bills. Though each audit has unique steps, advantages, and disadvantages, these two types of audits aim to ensure error-free billing.&nbsp;</p>
-      <p>Let’s understand and analyze <a href="https://www.computyne.com/outsource-freight-audit-services"><strong>freight audit services</strong></a>, both pre-audits and post-audits, to help you decide which approach can result in long-term savings.&nbsp;</p>
-      <h2><strong><em>What Are Freight Audits?</em></strong></h2>
-      <p>The process of confirming and validating freight bills that carriers generate to ensure billing accuracy is known as a freight audit. Overcharges, duplicate charges, inaccurate weight classifications, accessorial charges, and other discrepancies are among the issues that these audits help identify. Freight audits ensure you pay the right amount by keeping a check on the billing mistakes, overcharges, or duplicate charges. <a href="https://www.computyne.com/outsource-freight-audit-services"><strong>Freight audit services</strong></a> offer financial transparency in logistics operations and protect businesses from unnecessary expenses.&nbsp;</p>
-      <p>Freight audits are typically divided into two categories:</p>
-      <ul>
-         <li><strong>Pre-Audit&nbsp;</strong></li>
-         <li><strong>Post-Audit</strong></li>
-      </ul>
-      <p>Both have different methods and implications. Let’s explore them.</p>
-      <h2><strong><em>What is a pre-audit of a freight bill?</em></strong></h2>
-      <p>A pre-audit of the freight bill is done before the carrier is paid. In this process, the freight invoice is studied and confirmed against the terms of the contract, shipping information, and agreements. With pre-audit of the freight bills, you can save money, ensure that the contracts are followed, and verify correct taxes.&nbsp;</p>
-      <h3><strong>Key Features of Pre-Audit:</strong></h3>
-      <ul>
-         <li>Cost Verification Before Payment.</li>
-         <li>Immediate Cost Savings.</li>
-         <li>Rate Compliance.</li>
-         <li>Reduced Risk.</li>
-      </ul>
-      <p>This method is helpful to businesses that handle a large number of shipments and want to regulate each freight payment.&nbsp;</p>
-      <h2><strong><em>What is a post-audit of a freight bill?</em></strong></h2>
-      <p>The post-audit of freight is conducted after payment to confirm whether you have been overcharged or overbilled. It involves the establishment of recurring feeds of electronic invoices, lading bills, contracts, and payment details to perform a review.</p>
-      <h3><strong>Key Features of Post-Audit:</strong></h3>
-      <ul>
-         <li>Identifies overcharges &amp; duplicate billing</li>
-         <li>Check of invoices, contracts, &amp; tariffs</li>
-         <li>Files and manages claims to recover overpayments</li>
-         <li>Finds opportunities for savings</li>
-         <li>&nbsp;Improves long-term freight management</li>
-      </ul>
-      <p>This method benefits all kinds of businesses with significant freight, shipping costs, or logistics. Even minor billing errors can cost large amounts.&nbsp;</p>
-      <h2><strong>Freight Bill Pre Audit vs Freight Bill Post Audit</strong></h2>
-      <figure class="wp-block-table">
-         <table>
-            <tbody>
-               <tr>
-                  <td><strong>Parameters</strong></td>
-                  <td><strong>Pre Audit</strong></td>
-                  <td><strong>Post- Audit</strong></td>
-               </tr>
-               <tr>
-                  <td><strong>Timing</strong></td>
-                  <td>Conducted before payment of bills.</td>
-                  <td>Conducted after payment, usually a few months later.</td>
-               </tr>
-               <tr>
-                  <td><strong>Scope</strong></td>
-                  <td>Limited to a specific set of bills.</td>
-                  <td>Analyse all payments through ongoing feeds.</td>
-               </tr>
-               <tr>
-                  <td><strong>Insight Provided</strong></td>
-                  <td>Only checks bills before payment.</td>
-                  <td>Provides a comprehensive view of billing.</td>
-               </tr>
-               <tr>
-                  <td><strong>Error Detection</strong></td>
-                  <td>Detect billing errors before paying.</td>
-                  <td>Find hidden or ongoing errors missed in pre-audit</td>
-               </tr>
-               <tr>
-                  <td><strong>Business Impact</strong></td>
-                  <td>Prevents incorrect charges, but doesn’t show the full picture.</td>
-                  <td>Helps avoid large, ongoing, and significant losses.</td>
-               </tr>
-               <tr>
-                  <td><strong>Best Practice</strong></td>
-                  <td>Should be paired with a post-audit for a complete picture.</td>
-                  <td>Integral to long-term cost recovery and billing accuracy.</td>
-               </tr>
-            </tbody>
-         </table>
-      </figure>
-      <h2><strong><em>Which is better for your Savings?</em></strong></h2>
-      <h3><strong>Depending on your business’s logistics plan:</strong></h3>
-      <ul>
-         <li>Businesses that focus on cost control from the beginning should use Pre-Audit.&nbsp;</li>
-         <li>Post-Audit is a stepping stone to resolving past inconsistencies and crafting plans.&nbsp;</li>
-      </ul>
-      <p><strong>Best Practice: </strong>Any logistics and transportation department will certainly have many moving components and be complex! This makes it simple to experience overcharging and billing problems. It’s critical to realise that these mistakes are frequently the consequence of human error. Regretfully, these mistakes cannot be fully captured by a pre-audit of the freight bill unless you do a post-audit as well. Because if these issues are not identified and fixed, they may persist for a long time and have an unfavourable effect on your profitability. Pre-audits, on the other hand, stop overpayments beforehand, safeguarding your business’s cash flow and lessening the administrative strain of subsequent fund recovery.</p>
-      <p>This is where comprehensive freight audit services become important. The Computyne team has put in place a mechanism that can promptly identify mistakes and recover funds that are due to your company.&nbsp; A smart combination of both Pre and Post-Audits offers holistic protection, effective cost saving, and long-term benefits.&nbsp;</p>
-      <p><strong>(CTA) </strong>Computyne offers reliable outsourcing of <a href="https://www.computyne.com/outsource-freight-audit-services"><strong>Freight Audit Services</strong></a>. The team is dedicated to assisting companies related to different niches in achieving operational effectiveness and financial solutions.&nbsp;</p>
-   </div>
+    <style>
+        /* Base Styles */
+        * {
+            box-sizing: border-box;
+        }
+
+        /* Layout */
+        .slidebar-stickiy-container {
+            display: flex;
+            gap: 30px;
+            align-items: flex-start;
+        }
+
+        /* Sidebar/Table of Contents */
+        .slidebar-stickiy-left {
+            width: 300px;
+            position: sticky;
+            top: 20px;
+            background: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        .slidebar-stickiy-left h3 {
+            margin-top: 0;
+            font-size: 18px;
+        }
+
+        .slidebar-stickiy-left ul {
+            padding-left: 18px;
+            font-size: 14px;
+        }
+
+        .slidebar-stickiy-left a {
+            color: #f36523;
+            text-decoration: none;
+        }
+
+        .slidebar-stickiy-left a:hover {
+            text-decoration: underline;
+        }
+
+        /* Content Area */
+        .content {
+            flex: 1;
+            min-width: 0;
+        }
+
+        /* Typography */
+        h2 {
+            font-size: 34px;
+            margin-bottom: 15px;
+            color: #222;
+        }
+
+        h3 {
+            font-size: 26px;
+            margin-top: 40px;
+            margin-bottom: 20px;
+            color: #212529;
+        }
+
+        h5 {
+            font-size: 20px;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            color: #333;
+        }
+
+        h6 {
+            font-size: 18px;
+            margin-top: 25px;
+            margin-bottom: 12px;
+            color: #212529;
+        }
+
+        p {
+            margin-bottom: 15px;
+        }
+        code {
+            background: #f4f4f4;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: 'Courier New', monospace;
+            font-size: 14px;
+        }
+
+        /* Lists */
+        ul {
+            margin: 15px 0;
+            padding-left: 30px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        /* Images */
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+
+        /* Data Table Styles */
+        .data-table-container {
+            max-width: 1000px;
+            margin: 30px 0;
+            border: 1px solid #e1e8ed;
+            border-radius: 4px;
+            overflow: hidden;
+            overflow-x: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: #fff;
+        }
+
+        th {
+            background-color: #212529;
+            color: #ffffff;
+            font-weight: 600;
+            text-align: left;
+            padding: 18px 20px;
+            font-size: 16px;
+            border-bottom: 3px solid #003366;
+        }
+
+        td {
+            padding: 15px 20px;
+            border-bottom: 1px solid #eee;
+            font-size: 15px;
+            vertical-align: top;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f8fafd;
+        }
+
+        tr:hover {
+            background-color: #f1f4f9;
+            transition: 0.3s;
+        }
+
+        .problem-col {
+            font-weight: 600;
+            color: #d9534f;
+            width: 45%;
+        }
+
+        .benefit-col {
+            color: #2e7d32;
+            width: 55%;
+        }
+
+        .check-icon {
+            color: #27ae60;
+            margin-right: 8px;
+        }
+
+        /* Special Elements */
+        .tip {
+            background: #e7f3ff;
+            padding: 15px;
+            border-left: 4px solid #212529;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+
+        .stat {
+            font-weight: bold;
+            color: #212529;
+        }
+
+        .warning {
+            background: #fff3cd;
+            padding: 15px;
+            border-left: 4px solid #ff9800;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+
+        .solution {
+            background: #e8f5e9;
+            padding: 15px;
+            border-left: 4px solid #4caf50;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+
+        section {
+            margin-bottom: 30px;
+        }
+
+        /* Author Bio Card */
+        .author-bio-card {
+            margin-top: 50px;
+            margin-bottom: 50px;
+            padding: 30px;
+            background: #f4f7f9;
+            border-left: 5px solid #212529;
+            display: flex;
+            align-items: center;
+            gap: 25px;
+            border-radius: 8px;
+        }
+
+        .author-bio-card .author-image {
+            flex-shrink: 0;
+        }
+
+        .author-bio-card .author-image div {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            background: #ddd;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            border: 3px solid #fff;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+
+        .author-bio-card img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            margin: 0;
+        }
+
+        .bio-content h3 {
+            margin: 0 0 10px 0;
+            color: #212529;
+            font-size: 22px;
+        }
+
+        .bio-content p {
+            margin: 0 0 15px 0;
+            font-size: 15px;
+            color: #444;
+            line-height: 1.6;
+        }
+
+        .bio-content .social-links {
+            display: flex;
+            gap: 15px;
+        }
+
+        .bio-content .social-links a {
+            text-decoration: none;
+            color: #0077b5;
+            font-weight: bold;
+            font-size: 14px;
+        }
+
+        /* Mobile Responsive Styles */
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+
+            .slidebar-stickiy-container {
+                flex-direction: column;
+                gap: 20px;
+            }
+
+            .slidebar-stickiy-left {
+                width: 100%;
+                position: static;
+                margin-bottom: 20px;
+            }
+
+            h2 {
+                font-size: 26px;
+            }
+
+            h3 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 18px;
+            }
+
+            h6 {
+                font-size: 16px;
+            }
+
+            th, td {
+                padding: 12px 10px;
+                font-size: 14px;
+            }
+
+            .problem-col,
+            .benefit-col {
+                width: 50%;
+            }
+
+            .author-bio-card {
+                flex-direction: column;
+                padding: 20px;
+                gap: 15px;
+                text-align: center;
+            }
+
+            .author-bio-card .author-image div {
+                width: 100px;
+                height: 100px;
+            }
+
+            .bio-content h3 {
+                font-size: 20px;
+            }
+
+            .bio-content p {
+                font-size: 14px;
+            }
+
+            .bio-content .social-links {
+                justify-content: center;
+            }
+        }
+
+        @media (max-width: 480px) {
+            h2 {
+                font-size: 22px;
+            }
+
+            h3 {
+                font-size: 20px;
+            }
+
+            h6 {
+                font-size: 15px;
+            }
+
+            th, td {
+                padding: 10px 8px;
+                font-size: 13px;
+            }
+
+            .slidebar-stickiy-left h3 {
+                font-size: 16px;
+            }
+
+            .slidebar-stickiy-left ul {
+                font-size: 13px;
+            }
+
+            ul {
+                padding-left: 20px;
+            }
+
+            .tip, .warning, .solution {
+                padding: 12px;
+                font-size: 14px;
+            }
+
+            .author-bio-card {
+                padding: 15px;
+            }
+
+            .author-bio-card .author-image div {
+                width: 80px;
+                height: 80px;
+            }
+        }
+    </style>
+</head>
+    <div class="container">
+        <!-- LAYOUT -->
+        <div class="slidebar-stickiy-container">
+
+        <!-- TABLE OF CONTENTS -->
+        <div class="slidebar-stickiy slidebar-stickiy-left">
+                <h3>📌 Table of Contents</h3>
+                <ul>
+            <li><a href="#intro">Introduction</a></li>
+            <li><a href="#point1">What is a Freight Audit?</a></li>
+            <li><a href="#point2">Pre-Audit vs. Post-Audit: At a Glance</a></li>
+             <li><a href="#conclusion">The Verdict: A Hybrid Approach is Best</a></li>
+          </ul>
+        </div>
+
+        <!-- CONTENT -->
+         <div class="content">
+
+          <!-- INTRO SECTION -->
+          <div id="intro">
+          <style>
+
+        /* Section Colors */
+        .section-intro { background-color: #f4f7f6; padding: 25px; border-left: 5px solid #2980b9; border-radius: 5px; }
+        .section-pre { background-color: #e8f4fd; padding: 25px; margin-top: 20px; border-radius: 5px; }
+        .section-post { background-color: #fef9e7; padding: 25px; margin-top: 20px; border-radius: 5px; }
+        .section-comparison { background-color: #fdf2e9; padding: 25px; margin-top: 20px; border-radius: 5px; }
+    </style>
+</head>
+<body>
+
+<div id="intro">
+    <h2>Maximizing Savings: Pre-Audit vs. Post-Audit Freight Services</h2>
 </div>
+    <div class="section-intro">
+        <h4>The Cost of Freight Billing Errors</h4>
+        <p>Did you know that <span class="highlight">20% of all freight bills contain errors</span>? These discrepancies often lead to overcharges ranging from <strong>5% to 15%</strong> per invoice. Without a robust tracking system, these unnecessary expenses can cripple your logistics budget. Freight auditing serves as the ultimate tool for financial transparency and cost reduction.</p>
+    </div>
+
+     <h3 id="point1">What is a Freight Audit?</h3>
+    <p>A freight audit is the process of confirming and validating carrier invoices to ensure absolute billing accuracy. It identifies issues like duplicate charges, inaccurate weight classifications, and incorrect accessorial fees. This process is typically split into two essential categories:</p>
+    <div class="section-pre">
+        <h4>1. What is a Freight Bill Pre-Audit?</h4>
+        <p>A <strong>Pre-Audit</strong> is performed <em>before</em> the carrier is paid. The invoice is meticulously verified against contract terms and shipping agreements to ensure compliance.</p>
+        <h4>Key Features:</h4>
+        <ul>
+            <li><strong>Cost Verification:</strong> Confirm accuracy before funds leave your account.</li>
+            <li><strong>Immediate Savings:</strong> Stop overpayments in their tracks.</li>
+            <li><strong>Rate Compliance:</strong> Ensure all contractually agreed rates are applied.</li>
+            <li><strong>Reduced Risk:</strong> Avoid the administrative burden of recovering funds later.</li>
+        </ul>
+    </div>
+
+    <div class="section-post">
+        <h4>2. What is a Freight Bill Post-Audit?</h4>
+        <p>A <strong>Post-Audit</strong> is a deeper dive conducted <em>after</em> payment. It involves reviewing historical data, electronic invoices, and lading bills to uncover hidden overcharges.</p>
+        <h4>Key Features:</h4>
+        <ul>
+            <li><strong>Identify Overcharges:</strong> Catch errors missed during initial processing.</li>
+            <li><strong>Claims Management:</strong> File and manage claims to recover overpaid funds.</li>
+            <li><strong>Long-term Insights:</strong> Spot trends in carrier billing behavior.</li>
+            <li><strong>Comprehensive Recovery:</strong> Ensure no dollar is left on the table.</li>
+        </ul>
+    </div>
+
+    <div class="section-comparison">
+        <h2 id="point2">Pre-Audit vs. Post-Audit: At a Glance</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Parameters</th>
+                    <th>Pre-Audit</th>
+                    <th>Post-Audit</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Timing</strong></td>
+                    <td>Conducted before payment.</td>
+                    <td>Conducted after payment (historical).</td>
+                </tr>
+                <tr>
+                    <td><strong>Scope</strong></td>
+                    <td>Specific, immediate bills.</td>
+                    <td>Comprehensive historical review.</td>
+                </tr>
+                <tr>
+                    <td><strong>Impact</strong></td>
+                    <td>Protects immediate cash flow.</td>
+                    <td>Enables long-term cost recovery.</td>
+                </tr>
+                <tr>
+                    <td><strong>Error Detection</strong></td>
+                    <td>Prevents obvious mistakes.</td>
+                    <td>Uncovers deep, recurring errors.</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <h3 id="conclusion">The Verdict: A Hybrid Approach is Best</h3>
+    <p>While <strong>Pre-Audits</strong> protect your current cash flow, <strong>Post-Audits</strong> are essential for total billing accuracy and recovering significant losses that human error may have caused. For a truly effective logistics plan, combining both methods ensures holistic protection.</p>
+
+    <style>
+        .cta-banner {
+            background-color: #3f5266;
+            background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), #3f5266), 
+                              url('/images/bg/contact-us.webp'); /* Replace with your relevant background image */
+            background-size: cover;
+            background-position: center;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 40px 60px;
+            color: #ffffff;
+            margin: 40px 0;
+        }
+
+        .cta-content {
+            max-width: 60%;
+        }
+
+        .cta-content h2 {
+            font-size: 28px;
+            line-height: 1.4;
+            margin: 0;
+            font-weight: 700;
+            color: #ffffff;            
+        }
+
+        .cta-button-container {
+            flex-shrink: 0;
+        }
+
+        .talk-to-experts-btn {
+            background-color: #f36523; /* Vibrant red from your image */
+            color: #ffffff;
+            padding: 16px 36px;
+            font-size: 18px;
+            font-weight: 600;
+            text-decoration: none;
+            border-radius: 6px;
+            display: inline-block;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+            border: none;
+            cursor: pointer;
+        }
+
+        .talk-to-experts-btn:hover {
+            background-color: #e63535;
+            transform: translateY(-2px);
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            .cta-banner {
+                flex-direction: column;
+                text-align: center;
+                padding: 30px;
+            }
+            .cta-content {
+                max-width: 100%;
+                margin-bottom: 25px;
+            }
+            .cta-content h2 {
+                font-size: 22px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="cta-banner">
+        <div class="cta-content">
+            <h2>Stop Overpaying. Start Auditing.</h2>
+        </div>
+        <div class="cta-button-container">
+            <a href="https://www.computyne.com/contact-us" class="talk-to-experts-btn">Talk to Experts</a>
+        </div>
+    </div>
+
+</div>
+</div>
+
+          </div>
+<div class="author-bio-card" style="margin-top: 50px; padding: 30px; background: #f4f7f9; border-left: 5px solid #004a99; display: flex; align-items: center; gap: 25px; border-radius: 8px;">
+    
+    <div style="flex-shrink: 0;">
+        <div style="width: 120px; height: 120px; border-radius: 50%; background: #ddd; display: flex; align-items: center; justify-content: center; overflow: hidden; border: 3px solid #fff; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+            <img src="/images/team/ravindar.webp" alt="Ravinder Singh" style="width: 100%; height: 100%; object-fit: cover;">
+        </div>
+    </div>
+
+    <div class="bio-content">
+        <h3 style="margin: 0 0 10px 0; color: #004a99; font-size: 22px;">Ravinder Singh</h3>
+        <p style="margin: 0 0 15px 0; font-size: 15px; color: #444; line-height: 1.6;">
+            Ravinder Singh is Head of Business Development and Marketing at Computyne. He leads strategic growth initiatives, delivering comprehensive data outsourcing solutions that power global AI programs and complex enterprise operations, enabling scalable and high impact digital transformation.
+        </p>
+        
+        <div style="display: flex; gap: 15px;">
+            <a href="https://www.linkedin.com/in/ravinder-s-08117313b/" style="text-decoration: none; color: #0077b5; font-weight: bold; font-size: 14px;">LinkedIn ↗</a>
+                        
+        </div>
+    </div>
+</div>
+        
 `;
 
 export default htmlString;

@@ -6,7 +6,30 @@ import ContactCard from "@/components/sections/contact-page/ContactCard";
 import ContactLocation from "@/components/sections/contact-page/ContactLocation";
 import Footer from "@/components/layout/footer/Footer";
 import SubFooter from "@/components/layout/footer/subFooter";
+export const metadata = {
+    metadataBase: new URL("https://www.computyne.com/"),
 
+    title: "Contact Us for Data & BPO Solutions | Computyne Global",
+    description:
+        "Get in touch with Computyne today. Contact our data specialists for expert BPO, data processing, and AI training solutions. Let’s discuss how we can scale your business operations.",
+
+    keywords: [
+        "Contact Computyne",
+        "BPO services inquiry",
+        "Data processing solutions company",
+        "Outsourcing services India",
+        "Hire data specialists",
+        "Computyne office location",
+        "Business process outsourcing contact",
+        "Free pilot project inquiry",
+        "Global data services provider",
+        "Custom BPO solutions",
+    ],
+
+    alternates: {
+        canonical: "https://www.computyne.com/contact-us",
+    },
+};
 export default function Contact() {
     return (
         <div>

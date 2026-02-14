@@ -12,7 +12,7 @@ export const freightBillOfLadingSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Freight Documentation Support",
@@ -85,7 +85,7 @@ export const freightBillOfLadingSchema = {
             "@type": "Product",
             "name": "Outsourced Freight Bill of Lading Services",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "End-to-end outsourced Freight Bill of Lading services ensuring documentation accuracy, regulatory compliance, real-time shipment visibility, and efficient freight billing.",
             "url": "https://www.computyne.com/freight-bill-of-lading-services",
@@ -93,7 +93,7 @@ export const freightBillOfLadingSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

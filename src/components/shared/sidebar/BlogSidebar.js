@@ -31,7 +31,7 @@ const BlogSidebar = ({tags = []}) => {
         <aside className={`tj-main-sidebar`}>
  <div className="tj-sidebar-widget tj-recent-posts">
 			 <div
-                            className="contact-form style-4 wow fadeInUp"
+                            className="contact-form contact-form-blog style-4 wow fadeInUp"
                             data-wow-delay=".4s"
                         >
                             <div className="sec-heading style-4">

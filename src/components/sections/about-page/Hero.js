@@ -6,6 +6,9 @@ const Hero = ({title, text, isShowButton = false, buttonLabel, buttonLink, cta})
         <section
             className="tj-page-header-mod section-gap-x"
             style={{backgroundImage: `url('/images/bg/about-us-banner.webp')`}}
+            role="img"
+            aria-label="Aerial view of the city skyline at sunset - Computyne About Us Banner"
+
         >
             <div className="container">
                 <div className="row">

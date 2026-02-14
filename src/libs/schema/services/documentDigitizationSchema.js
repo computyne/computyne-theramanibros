@@ -12,7 +12,7 @@ export const documentDigitizationSchema = {
                 "name": "Computyne",
                 "url": "https://www.computyne.com",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "contactType": "Customer Support",
@@ -92,7 +92,7 @@ export const documentDigitizationSchema = {
             "@type": "Product",
             "name": "Enterprise Document Digitization Solutions",
             "image":
-                "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg",
+                "https://www.computyne.com/images/site-logo/blue-logo.svg",
             "description":
                 "End-to-end document digitization solutions delivering secure scanning, OCR-based data extraction, indexing, validation, and compliant digital archiving for large-volume and enterprise document environments.",
             "url": "https://www.computyne.com/document-digitization-services",
@@ -100,7 +100,7 @@ export const documentDigitizationSchema = {
                 "@type": "Brand",
                 "name": "Computyne",
                 "logo":
-                    "https://www.computyne.com/wp-content/uploads/2023/01/computyne-logo.svg"
+                    "https://www.computyne.com/images/site-logo/blue-logo.svg"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",

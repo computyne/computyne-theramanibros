@@ -6,7 +6,7 @@ const HeroInnerBlog = ({title, author, date = [], bgImg}) => {
 
     return (
         <section
-            className="tj-page-header section-gap-x"
+            className="tj-page-header-mod section-gap-x"
             style={{
                 backgroundImage: bgImg
                     ? `url(${bgImg})`

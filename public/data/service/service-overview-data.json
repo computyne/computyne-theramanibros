@@ -2,6 +2,7 @@
     "data-extraction-services": {
         "banner": {
             "image": "/images/service/banner/data-extraction-banner.webp",
+            "alt": "Professional data extraction services banner representing structured business intelligence",
             "h1": "Data Extraction Services",
             "tagline": "Turn Raw Data into Accurate, Actionable Business Intelligence",
             "cta": "Get Clean Structured Data"
@@ -40,6 +41,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-extraction-overview.webp",
+            "alt": "Infographic showing the process of converting raw unstructured data into structured business intelligence",
             "h2": "Scalable Data Extraction Solutions for Clean, Decision-Ready Data",
             "content": [
               "Managing <strong>disparate</strong> information often creates operational bottlenecks and obscures visibility. <strong>Computyne</strong> provides professional data extraction services that transform raw, unstructured data into reliable, analytics-ready datasets. As your specialized partner, we bridge the gap between manual effort and digital efficiency with absolute precision.",
@@ -54,6 +56,7 @@
     "competitor-analysis-services": {
         "banner": {
             "image": "/images/service/banner/competitor-price-analysis-banner.webp",
+            "alt": "Competitor price monitoring and market analysis dashboard showing revenue growth trends",
             "h1": "Competitor and Price Analysis Services",
             "tagline": "Turn Competitive Intelligence and Price Insights into Measurable Revenue and Margin Gains",
             "cta": "Talk to Our Data Expert"
@@ -92,6 +95,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/competitor-price-analysis-overview.webp",
+            "alt": "E-commerce price tracking and competitor analysis visualization showing market trends and pricing intelligence",
             "h2": "Competitor Pricing Intelligence That Improves Revenue and Demand Forecasting",
             "content": [
                 "In today’s highly competitive eCommerce landscape, a single product often competes against hundreds or even thousands of sellers across multiple channels. Even small price changes can significantly influence customer purchasing decisions, making accurate and ongoing competitor price tracking essential for sustainable growth.",
@@ -104,6 +108,7 @@
     "data-appending-services": {
         "banner": {
             "image": "/images/service/banner/data-appending-banner.webp",
+            "alt": "Data appending services visualization showing the process of completing and enriching missing database information",
             "h1": "Data Appending Services",
             "tagline": "Complete Incomplete Datasets with Reliable, Up-to-Date, Decision-Ready Information",
             "cta": "Request a Data Appending Quote"
@@ -142,6 +147,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-appending-overview.webp",
+            "alt": "Conceptual illustration of data enrichment and B2B data appending process to fill database gaps",
             "h2": "Close Data Gaps with Scalable, Secure Data Appending Services",
             "content": [
                 "In today’s data-driven business landscape, organizations rely on large volumes of consumer and B2B data to power marketing initiatives, improve operational efficiency, and reduce business risk. Incomplete or outdated contact information, however, limits the effectiveness of even the most advanced strategies.",
@@ -154,6 +160,7 @@
     "data-cleansing-services": {
         "banner": {
             "image": "/images/service/banner/data-cleansing-banner.webp",
+            "alt": "Professional data cleansing services banner showing the transformation of raw data into clean validated insights",
             "h1": "Data Cleansing Services",
             "tagline": "Transform Messy Data into Clean, Validated, Decision-Ready Business Intelligence",
             "cta": "Get Clean, Reliable Data"
@@ -192,6 +199,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-cleansing-overview.webp",
+            "alt": "Comprehensive data cleansing and standardization process showing the removal of duplicates and data error correction",
             "h2": "Data Cleansing Services Designed for Accurate, Decision-Ready Insights",
             "content": [
                 "Dirty and inconsistent data weakens decision-making, increases operational costs, and reduces organizational productivity. To remain competitive, businesses need clean, consistent, and continuously updated datasets that support real-time analytics and reliable insights across operations.",
@@ -204,6 +212,7 @@
     "data-collection-services": {
         "banner": {
             "image": "/images/service/banner/data-collection-banner.webp",
+            "alt": "Scalable data collection services banner representing the aggregation of global data sources for business intelligence",
             "h1": "Data Collection Services",
             "tagline": "Fuel Data-Driven Growth with Scalable, Accurate, and Outsourced Data Collection Services",
             "cta": "Start Secure Data Collection"
@@ -242,6 +251,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-collection-overview.webp",
+            "alt": "Advanced data collection process showing web harvesting and API-based data retrieval for AI and analytics",
             "h2": "Outsourced Data Collection for AI, Analytics & Market Intelligence",
             "content": [
                 "<strong>Computyne</strong> delivers <span style=\"color:#f36523;\"><strong><i>professional data collection services</i></strong></span> that empower organizations to eliminate manual workloads and drastically reduce operational costs. We provide high-fidelity, decision-ready datasets designed to fuel enterprise analytics, AI initiatives, and global market research with unmatched speed and security.",
@@ -256,6 +266,7 @@
     "data-enrichment-services": {
         "banner": {
             "image": "/images/service/banner/data-enrichment-banner.webp",
+            "alt": "Data enrichment services banner showing the process of enhancing raw datasets with deep business insights",
             "h1": "Data Enrichment Services",
             "tagline": "Transform Raw Data into Enriched, Accurate, and Actionable Business Intelligence",
             "cta": "Unlock Data Intelligence"
@@ -294,6 +305,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-enrichment-overview.webp",
+            "alt": "B2B and CRM data enrichment process showing the enhancement of customer profiles with verified business intelligence",
             "h2": "Enhance Data Quality with Scalable Data Enrichment Services",
             "content": [
                 "Every business depends on high-quality data to power marketing initiatives, strengthen professional networks, and accelerate growth. Continuous data inflow, however, makes it challenging to maintain accuracy, relevance, and freshness across enterprise datasets.",
@@ -306,6 +318,7 @@
     "data-entry-services": {
         "banner": {
             "image": "/images/service/banner/data-entry-banner.webp",
+            "alt": "Professional data entry services banner featuring accurate and secure digital data processing",
             "h1": "Data Entry Services",
             "tagline": "Accurate, Secure, and Scalable Data Entry Solutions for Growing Businesses",
             "cta": "Talk to a Data Entry Expert"
@@ -344,6 +357,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-entry-overview.webp",
+            "alt": "Secure data entry and digitization process showing professional data processing and OCR-assisted automation",
             "h2": "Reliable Data Entry Services That Keep Business Data Organized and Decision-Ready",
             "content": [
                 "Managing high volumes of business information in-house often leads to errors, delays, and fragmented records. Computyne delivers professional data entry services that help organizations digitize, structure, and maintain critical data with precision, ensuring operational continuity and confident decision-making.",
@@ -356,6 +370,7 @@
     "data-hygiene-services": {
         "banner": {
             "image": "/images/service/banner/data-hygiene-banner.webp",
+            "alt": "Data hygiene services banner showcasing the maintenance of clean, accurate, and compliant enterprise databases",
             "h1": "Data Hygiene Services",
             "tagline": "Ensure Long-Term Data Accuracy, Consistency, and Compliance with Data Hygiene Services",
             "cta": "Talk to a Data Quality Expert"
@@ -394,6 +409,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-hygiene-overview.webp",
+            "alt": "Data hygiene and maintenance process showing continuous monitoring of enterprise databases for long-term data quality",
             "h2": "Data Hygiene Services Ensuring Consistent, Up-To-Date Enterprise Data",
             "content": [
                 "Data hygiene services are essential for maintaining accurate, consistent, and reliable enterprise data as information continuously flows from CRM systems, ERP platforms, marketing tools, cloud applications, databases, and external sources. Even well-maintained datasets naturally degrade over time due to duplication, outdated records, missing values, inconsistent formats, and system-driven errors.",
@@ -406,6 +422,7 @@
     "data-management-services": {
         "banner": {
             "image": "/images/service/banner/data-management-banner.webp",
+            "alt": "Comprehensive data management services banner representing secure and compliant enterprise data lifecycle management",
             "h1": "Data Management Services",
             "tagline": "Secure, Compliant, and Consistently Accurate Data Management Solutions",
             "cta": "Consult Our Data Experts"
@@ -444,18 +461,22 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-management-overview.webp",
-            "h2": "Enterprise-Ready Data Management Services with Proven Governance",
+            "alt": "Strategic data management framework showing the centralization and governance of enterprise data assets",
+            "h2": "Trusted Data Management for Regulated, High-Scale Operations",
             "content": [
-                "Many organizations struggle with disorganized data, incompatible systems, incomplete records, and outdated information, which ultimately weakens business intelligence and decision accuracy. When data is scattered across tools and departments, analytics becomes unreliable and valuable insights are lost.",
-                "Processing heterogeneous datasets also requires strong security controls, compliance alignment, and regulatory governance, making in-house data management complex and time-intensive. Without a unified strategy, businesses face operational delays, reporting inefficiencies, and increased regulatory risk.",
-                "Computyne delivers comprehensive Data Management Services designed to centralize, structure, and secure enterprise data across every touchpoint. Through managed and outsourced engagement models, we support data collection, cleansing, validation, enrichment, integration, governance, and secure cloud-ready storage.",
-                "Using structured methodologies, automation, and scalable delivery frameworks, Computyne transforms fragmented databases into trusted, analytics-ready business assets. By partnering with Computyne, organizations build a future-ready data foundation that improves operational efficiency, strengthens analytics, and accelerates confident, data-driven decision-making."
+                "Many organizations struggle with disorganized data, incompatible systems, and incomplete records, which weaken business intelligence and decision accuracy. When data is scattered across departments, analytics become unreliable and valuable insights are lost.",
+                "Processing heterogeneous datasets requires strong security controls and regulatory governance, making in-house management complex. Without a unified strategy, businesses face operational delays and increased compliance risks.",
+                "<h5>Centralized Data Excellence</h5> Computyne delivers comprehensive Data Management Services designed to centralize, structure, and secure enterprise data. Through managed and outsourced engagement models, we provide:",
+                "        <ul style=\"padding-left:2rem;\"><li><strong>Data Cleansing &amp; Validation:</strong> Ensuring accuracy and eliminating duplicates.</li><li><strong>Enrichment &amp; Integration:</strong> Unifying fragmented sources into a single source of truth.</li><li><strong>Robust Governance:</strong> Implementing security controls and compliance alignment.</li><li><strong>Cloud-Ready Storage:</strong> Providing scalable, secure delivery frameworks.</li></ul>",
+                "<h5>Transform Fragments into Assets</h5> <p>Using structured methodologies and automation, Computyne transforms fragmented databases into <strong>analytics-ready business assets</strong>. By partnering with us, organizations build a future-ready foundation that improves operational efficiency, strengthens reporting, and accelerates confident, data-driven decision-making.</p>",
+                "<a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Optimize Your Enterprise Data Strategy Today</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a>"
             ]
         }
     },
     "data-mining-services": {
         "banner": {
             "image": "/images/service/banner/data-mining-banner.webp",
+            "alt": "Professional data mining services banner illustrating the extraction of hidden patterns and competitive insights from complex datasets",
             "h1": "Data Mining Services",
             "tagline": "Precision Data Mining to Give Your Business a Competitive Edge.",
             "cta": "Request Data Mining Consultation"
@@ -494,6 +515,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-mining-overview.webp",
+            "alt": "Data mining and pattern recognition process showing trend analysis and predictive insights from unstructured data",
             "h2": "Secure Web & Document Data Mining for Scalable Insights",
             "content": [
 
@@ -512,6 +534,7 @@
     "data-solutions-services": {
         "banner": {
             "image": "/images/service/banner/data-solution-banner.webp",
+            "alt": "Enterprise data services banner showing end-to-end solutions for secure data processing, management, and analytics",
             "h1": "Data Services",
             "tagline": "Accelerate Growth with Secure, Scalable & Enterprise-Grade Data Services",
             "cta": "Outsource Your Data Operations"
@@ -550,6 +573,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-solutions-overview.webp",
+            "alt": "End-to-end enterprise data lifecycle management showing the transformation of raw data into decision-ready business intelligence",
             "h2": "Business-Ready Data That Powers Decision-Making",
             "content": [
                 "The demand for accurate, secure, and efficient data management has never been greater. Organizations must meet increasing operational, commercial, and regulatory requirements while handling rapidly growing volumes of complex data.",
@@ -559,9 +583,10 @@
             ]
         }
     },
-    "data-standarization-services": {
+    "data-standardization-services": {
         "banner": {
             "image": "/images/service/banner/data-standardization-banner.webp",
+            "alt": "Data standardization services banner showing the conversion of inconsistent data formats into a unified enterprise structure",
             "h1": "Data Standardization Services",
             "tagline": "Transform Disparate Data into Consistent, Reliable, and Decision-Ready Intelligence",
             "cta": "Request a Quote"
@@ -600,6 +625,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-standardization-overview.webp",
+            "alt": "Data standardization and normalization process showing the transformation of fragmented datasets into a unified single source of truth",
             "h2": "Data Standardization: Building Consistent, Trusted Enterprise Datasets",
             "content": [
                 "Data quality challenges can significantly hinder business operations, making clean, consistent, and standardized data essential for operational efficiency, analytics accuracy, and sustainable growth. As data volumes increase, consolidating disparate data sources into a unified structure becomes complex, time-consuming, and costly.",
@@ -612,6 +638,7 @@
     "data-validation-services": {
         "banner": {
             "image": "/images/service/banner/data-validation-banner.webp",
+            "alt": "Professional data validation services banner illustrating the verification and authentication of enterprise data for accuracy",
             "h1": "Data Validation Services",
             "tagline": "Turn Unverified Data into Trusted Intelligence with Advanced Data Validation",
             "cta": "Request a Data Validation Quote"
@@ -650,6 +677,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/data-validation-overview.webp",
+            "alt": "Comprehensive data validation and verification process showing multi-source cross-checking to ensure data integrity and accuracy",
             "h2": "Advanced Data Validation to Detect Errors, Duplicates, and Inconsistencies",
             "content": [
                 "Accurate and validated data is the foundation of effective business strategy, analytics, and customer engagement. Decisions based on unverified or outdated information negatively impact sales performance, marketing ROI, and overall revenue outcomes.",
@@ -662,6 +690,7 @@
     "document-processing-services": {
         "banner": {
             "image": "/images/service/banner/document-processing-banner.webp",
+            "alt": "Document processing services banner showing the automation of digital document workflows for improved business efficiency",
             "h1": "Document Processing Services",
             "tagline": "Automate Document Processing for Faster, Error-Free, Scalable Business Operations",
             "cta": "Connect with a Data Specialist"
@@ -700,6 +729,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/document-processing-overview.webp",
+            "alt": "End-to-end document processing workflow showing data extraction, digitization, and AI-powered analysis for structured business intelligence",
             "h2": "Unlock the Full Value of Your Data with Outsourced Data Processing Services",
             "content": [
                 "The rapid growth of diverse data types and sources has resulted in duplication, inconsistencies, and fragmented datasets. As data volumes increase, organizations face mounting pressure to process information quickly and make timely, data-driven decisions while managing rising infrastructure costs and limited in-house resources.",
@@ -712,6 +742,7 @@
     "list-building-services": {
         "banner": {
             "image": "/images/service/banner/list-building-banner.webp",
+            "alt": "B2B list building services banner showing the creation of targeted prospect databases for sales and marketing outreach",
             "h1": "List Building Services",
             "tagline": "Accurate B2B Contact Lists That Fuel Revenue Growth",
             "cta": "Request Your Custom Prospect List"
@@ -750,11 +781,11 @@
         ],
         "overview": {
             "image": "/images/service/overview/list-building-overview.webp",
+            "alt": "Strategic B2B list building process showing targeted prospect sourcing, multi-level verification, and CRM-ready data integration",
             "h2": "Accelerate Your Sales Pipeline with High-Quality B2B Prospecting",
             "content": [
-                "<p>In today’s competitive landscape, accurate prospect data is the bedrock of high-performing sales and marketing. <strong>Computyne’s B2B List Building Services</strong> empower organizations to research, compile, and validate reliable contact data with precision, eliminating the inefficiencies of manual research.</p>",
-                "<h5>Strategic Data Solutions for Measurable Growth</h5>",
-                "<p>We follow a structured, scalable methodology tailored to your specific business objectives. Our custom list-building process integrates <strong>intelligent sourcing</strong> with multi-level verification, ensuring every record is current, compliant, and ready for immediate outreach. By leveraging advanced automation and expert validation, we extract high-quality data from professional networks, industry databases, and trusted directories.</p>",
+                "In today’s competitive landscape, accurate prospect data is the bedrock of high-performing sales and marketing. <strong>Computyne’s B2B List Building Services</strong> empower organizations to research, compile, and validate reliable contact data with precision, eliminating the inefficiencies of manual research.",
+                "<h5>Strategic Data Solutions for Measurable Growth</h5> We follow a structured, scalable methodology tailored to your specific business objectives. Our custom list-building process integrates <strong>intelligent sourcing</strong> with multi-level verification, ensuring every record is current, compliant, and ready for immediate outreach. By leveraging advanced automation and expert validation, we extract high-quality data from professional networks, industry databases, and trusted directories.",
                 "<h5>Optimized for CRM and Sales Enablement</h5><p>Beyond new list creation, we specialize in <strong>data enrichment and cleansing</strong>. We transform outdated datasets into clean, standardized, and CRM-ready files optimized for marketing automation and predictive analytics.</p><p>Our Core Capabilities Include:</p><ul style=\"padding-left:2rem;\"><li><strong>Custom Prospect Sourcing:</strong> Targeted data aligned with your ICP.</li><li><strong>Multi-Level Validation:</strong> Ensuring 100% deliverability and accuracy.</li><li><strong>Data Enrichment:</strong> Converting stale records into actionable insights.</li></ul>",
                 "<p>Every list Computyne delivers is built for long-term value, supporting smarter engagement and sustainable revenue growth. Partner with us to fuel your sales pipeline with data you can trust.</p>",
                 "<a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Access Your Sales-Ready Leads Now</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a>"
@@ -764,9 +795,10 @@
     "property-data-collection-services": {
         "banner": {
             "image": "/images/service/banner/property-data-collection-banner.webp",
+            "alt": "Property data collection services banner showing automated real estate data aggregation and market intelligence",
             "h1": "Property Data Collection Services",
             "tagline": "Automated Property Data Collection Enabling Faster Analysis and Better Decisions",
-            "cta": "Get a Free Quote"
+            "cta": "Get Accurate Property Data Now"
         },
         "counter": [
             {
@@ -802,18 +834,22 @@
         ],
         "overview": {
             "image": "/images/service/overview/property-data-collection-overview.webp",
+            "alt": "Comprehensive property data collection workflow showing the aggregation of real estate records, transaction documents, and market listings into a structured database",
             "h2": "End-to-End Property Data Collection for Real Estate Excellence",
             "content": [
-                "The real estate industry is expanding at an unprecedented pace, generating large volumes of structured and unstructured data across multiple stakeholders. From complex transaction documents to continuously evolving property records, managing this information requires secure, accurate, and scalable property data collection services.",
-                "By leveraging outsourced property data collection, organizations can capture business-critical information with precision while maintaining data accuracy, consistency, and integrity. This enables internal teams to stay focused on strategic growth initiatives rather than manual data handling.",
-                "Powered by deep real estate domain expertise and AI-powered property data collection tools, Computyne delivers reliable real estate data collection services for firms, developers, MLS providers, property managers, and appraisers.",
-                "We collect, process, and structure real estate data from diverse online and offline sources, supporting operational efficiency, real estate analytics, and confident decision-making for agencies, investors, and brokers."
+"The real estate industry is expanding at an unprecedented pace, generating massive volumes of data across stakeholders. From complex transaction documents to evolving property records, managing this influx requires <strong>secure, scalable, and accurate data collection.</strong>",
+"By outsourcing property data services, organizations capture business-critical information with precision. This ensures data integrity and consistency, allowing internal teams to shift focus from manual data entry to <strong>strategic growth initiatives.</strong>",
+                "<h5>Precision-Driven Real Estate Solutions</h5> Computyne leverages deep domain expertise and <strong>AI-powered data collection tools</strong> to support firms, developers, MLS providers, and appraisers. We bridge the gap between fragmented information and actionable insights by structuring data from diverse online and offline sources.",
+                "<h5>Key Benefits of Our Data Services:</h5> <ul style=\"padding-left:2rem;\"><li><strong>Operational Efficiency:</strong> Streamlined workflows via automated ingestion.</li><li><strong>Advanced Analytics:</strong> Data sets optimized for predictive modeling.</li><li><strong>Informed Decision-Making:</strong> Reliable intelligence for investors and brokers.</li></ul>",
+                "<p>Whether you are managing large-scale portfolios or localized listings, our end-to-end approach ensures your data is a reliable asset rather than a logistical burden. Partner with Computyne to transform raw property records into a competitive advantage.</p>",
+                "<a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Transform Your Data into Actionable Insights</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a>"
             ]
         }
     },
     "resume-formatting-services": {
         "banner": {
             "image": "/images/service/banner/resume-formatting-banner.webp",
+            "alt": "Professional resume and CV formatting services banner featuring clean, corporate-grade document layouts for recruiters and staffing agencies",
             "h1": "Resume / CV Formatting Services",
             "tagline": "Delivering Clean, Corporate-Grade Resume Formatting that Gets You Noticed by Decision-Makers",
             "cta": "Start Your 7-Day Free Trial"
@@ -852,6 +888,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/resume-formatting-overview.webp",
+            "alt": "Standardized resume formatting workflow showing the conversion of diverse CV styles into clean, ATS-friendly corporate templates for recruitment agencies",
             "h2": "Outsource Resume & CV Formatting to Boost Hiring Speed and Productivity",
             "content": [
                 "Computyne delivers professional resume and CV formatting services for recruitment agencies, HR departments, and job portals across the UK, USA, Australia, Singapore, and the UAE. We standardize candidate resumes into clean, consistent, and recruiter-ready documents that help teams evaluate talent faster and hire with confidence.",
@@ -864,6 +901,7 @@
     "web-research-services": {
         "banner": {
             "image": "/images/service/banner/web-research-banner.webp",
+            "alt": "Comprehensive web research services banner representing deep-dive data harvesting and market intelligence gathering",
             "h1": "Web Research Services",
             "tagline": "Accelerate Decision-Making with Cost-Effective, Accurate, and Responsive Web Research Solutions",
             "cta": "Request Web Research Consultation"
@@ -902,6 +940,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/web-research-overview.webp",
+            "alt": "Web research and market intelligence workflow showing the collection of competitive data, consumer trends, and verified leads",
             "h2": "Scalable Web Research: Your On-Demand Intelligence Engine",
             "content": [
                 "<i><strong>High-Impact Web Research Services for Actionable Business Intelligence</strong></i>",
@@ -914,6 +953,7 @@
     "web-scraping-services": {
         "banner": {
             "image": "/images/service/banner/web-scrapping-banner.webp",
+            "alt": "Web scraping services banner showcasing automated data extraction from complex websites into structured, actionable formats",
             "h1": "Web Scraping Services",
             "tagline": "Turn Web Data into Structured Intelligence at Enterprise Scale",
             "cta": "Request a Web Scraping Quote"
@@ -952,6 +992,7 @@
         ],
         "overview": {
             "image": "/images/service/overview/web-scrapping-overview.webp",
+            "alt": "Technical web scraping workflow showing automated data crawlers extracting unstructured web content and delivering structured, validated datasets",
             "h2": "Custom Web Scraping and Data Delivery Tailored to Your Needs",
                "content": [
                 "<p>Manually gathering web data is a bottleneck that leads to errors and scaling plateaus. <strong>Computyne</strong> provides professional web scraping services that automate extraction, transforming fragmented online information into clean, structured, and ready-to-use datasets.</p><h5>Why Partner with Computyne?</h5><p>We bridge the gap between raw web content and actionable business intelligence. Our custom workflows are designed to improve data consistency while significantly reducing manual overhead.</p><ul  style=\"padding-left:2rem;\"><li><strong>Custom Automated Workflows:</strong> Tailored extraction for eCommerce, real estate, finance, and public directories.</li><li><strong>Data Integrity:</strong> Every dataset is validated, standardized, and formatted for seamless integration into your enterprise systems.</li><li><strong>Enterprise-Grade Technology:</strong> Advanced web crawlers capable of handling complex site architectures and high-volume requests.</li></ul>",
@@ -963,7 +1004,8 @@
     },
     "appraisal-data-entry-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/appraisal-and-valuation-data-entry-banner.webp",
+            "alt": "Appraisal and valuation data entry services banner featuring professional real estate assessment and compliant document processing",
             "h1": "Appraisal & Valuation Data Entry Services",
             "tagline": "Accurate. Compliant. Decision-Ready Valuation Data.",
             "cta": "Request a Tailored Pricing Proposal"
@@ -1001,8 +1043,9 @@
             }
         ],
         "overview": {
-            "image": "",
-            "h2": "Reliable Property Data Management for Accurate Appraisals and Valuations",
+            "image": "/images/service/overview/appraisal-and-valuation-data-entry-overview.webp",
+            "alt": "Comprehensive appraisal data entry process showing the verification of property characteristics, ownership details, and comparable sales for audit-ready valuation reports",
+            "h2": "Trusted Property Data Operations for Accurate Appraisal Outcomes",
             "content": [
                 "Accurate property data is the foundation of every successful appraisal and valuation process. Incomplete figures, inconsistent records, or unstructured reports can delay valuations, underwriting decisions, and mortgage approvals. Computyne’s Appraisal & Valuation Data Entry Services help real estate, mortgage, and financial organizations maintain precise, well-structured, and compliance-driven property datasets, ready for rapid analysis, approvals, and regulatory reporting.",
                 "Manual appraisal data entry often leads to duplication, calculation errors, and inconsistent valuation outcomes that compromise accuracy and efficiency. Our experienced professionals deliver accurate appraisal data entry by capturing property characteristics, ownership details, comparable sales data, valuation adjustments, market value information, and financial records. Using standardized templates, validation frameworks, and quality-controlled appraisal data entry processes, we ensure every dataset is consistent, verified, and audit-ready.",
@@ -1012,7 +1055,8 @@
     },
     "bill-of-lading-data-entry-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/bill-of-landing-data-entry-banner.webp",
+            "alt": "Freight Bill of Lading data entry services banner featuring professional logistics documentation management for international shipping",
             "h1": "Freight Bill of Lading Services",
             "tagline": "Error-Free Freight Bill of Lading Management for Seamless Domestic and International Shipping",
             "cta": "Talk to a Freight Expert"
@@ -1050,7 +1094,8 @@
             }
         ],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/bill-of-landing-data-entry-overview.webp",
+            "alt": "Freight Bill of Lading processing workflow showing document verification, automated data entry via OCR and EDI, and integration with TMS platforms for shipping compliance",
             "h2": "Streamlined Freight Bill of Lading Management",
             "content": [
                 "Is your logistics business challenged by inaccurate documentation, limited shipment visibility, inefficient tracking, and complex regulatory requirements? These issues often result in billing discrepancies, carrier disputes, shipment delays, and increased administrative overhead. Computyne delivers tailored Freight Bill of Lading (BOL) services that simplify documentation, tracking, and invoicing while ensuring end-to-end regulatory compliance across the freight lifecycle.",
@@ -1062,14 +1107,16 @@
     },
     "data-annotation-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/data-annotation-services-banner.webp",
+            "alt": "Data annotation services banner featuring high-precision image, text, and video labeling for training Machine Learning and AI models",
             "h1": "Data Annotation Services",
             "tagline": "High-precision labeled datasets that power accurate, production-ready Machine Learning models.",
             "cta": "Get a Free Quote"
         },
         "counter": [],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/data-annotation-services-overview.webp",
+            "alt": "Data annotation lifecycle showing the transformation of raw multimodal data into ground truth datasets through validation, auditing, and secure labeling workflows",
             "h2": "Reliable Data Labeling for Next-Gen Model Training",
             "content": [
                 "Data annotation is the critical process of labeling raw text, image, audio, video, and multimodal data to create the \"ground truth\" required for machine learning. These labeled datasets serve as the educational foundation for Computer Vision, Natural Language Processing (NLP), and sophisticated AI systems.",
@@ -1086,14 +1133,16 @@
     },
     "data-labeling-services": {
         "banner": {
-            "image": "",
-            "h1": "Data Labeling Services for Scalable AI & Machine Learning",
+            "image": "/images/service/banner/data-labeling-services-banner.webp",
+            "alt": "Professional data labeling services banner for high-volume AI training datasets featuring human-in-the-loop validation and secure workflows",
+            "h1": "Data Labeling Services",
             "tagline": "Accurate training data. Managed workflows. Enterprise-grade security.",
             "cta": "Get a Free Quote"
         },
         "counter": [],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/data-labeling-services-overview.webp",
+            "alt": "Strategic data labeling overview illustrating a Human-in-the-Loop (HITL) workflow that converts raw data into high-quality Ground Truth for machine learning models",
             "h2": "Operational Excellence for Growing AI Initiatives",
             "content": [
                 "Building reliable AI and machine learning models depends on one critical factor: Ground Truth. Without consistent, high-quality labeling, even the most advanced algorithms fail to generalize in real-world conditions.",
@@ -1103,7 +1152,8 @@
     },
     "document-digitization-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/document-digitization-services-banner.webp",
+            "alt": "Professional document digitization services banner showcasing the conversion of physical paper records into searchable digital formats and cloud-ready assets",
             "h1": "Document Digitization Services",
             "tagline": "Convert Paper-Based Records into Secure, Searchable, Business-Ready Digital Assets",
             "cta": "Start Your Document Digitization Project"
@@ -1141,8 +1191,9 @@
             }
         ],
         "overview": {
-            "image": "",
-            "h2": "Paperless Document Digitization for Faster, Smarter Business Operations",
+            "image": "/images/service/overview/document-digitization-services-overview.webp",
+            "alt": "End-to-end document digitization lifecycle showing secure scanning, OCR data extraction, indexing, and the creation of audit-ready digital archives",
+            "h2": "Transform Paper into Actionable Digital Intelligence",
             "content": [
                 "Many organizations continue to store physical records for extended periods, resulting in data loss, misplacement, limited accessibility, and underutilization. As digital transformation accelerates, enterprises face increasing pressure to convert legacy documents into structured, searchable digital formats that simplify data access, management, and utilization across systems. Addressing this challenge, Computyne delivers professional Document Digitization Services designed to help data-intensive organizations transition seamlessly to secure, paperless operations.",
                 "Our end-to-end document digitization solutions cover the complete lifecycle, from physical document collection and secure document scanning to OCR data extraction, indexing, validation, and delivery of audit-ready digital records. By converting unstructured and semi-structured data into actionable intelligence, we enable intelligent document processing, automated workflows, and improved operational efficiency across departments.",
@@ -1152,7 +1203,8 @@
     },
     "forms-processing-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/forms-processing-services-banner.webp",
+            "alt": "Intelligent forms processing services banner showcasing automated data capture and digitization of structured and unstructured business forms",
             "h1": "Form Processing Services",
             "tagline": "Eliminate Manual Form Handling with Intelligent Automation",
             "cta": "Get a Free Quote"
@@ -1190,8 +1242,9 @@
             }
         ],
         "overview": {
-            "image": "",
-            "h2": "Accelerate Digital Transformation with Automated Form Processing Services",
+            "image": "/images/service/overview/forms-processing-services-overview.webp",
+            "alt": "End-to-end forms processing workflow showing automated data extraction from invoices, surveys, and legal records using OCR and ICR technology for secure digitization",
+            "h2": "Turn Forms into Faster Decisions with Intelligent Automation",
             "content": [
                 "Form processing is a critical prerequisite for modern enterprises managing data across multiple formats, including invoices, vouchers, survey forms, insurance documents, financial and legal records, purchase orders, tax statements, and more. As businesses increasingly rely on both paper-based and digital forms, accurate and timely data extraction becomes essential for operational efficiency, compliance, and informed decision-making.",
                 "Computyne delivers end-to-end form processing services that simplify information retrieval and eliminate manual workloads. Our comprehensive service portfolio includes document and form processing services, form data processing services, data management services, address management services, list building services, payroll processing services, form data normalization, survey form data entry services, and online form processing services. These solutions help organizations achieve error-free form processing, faster turnaround times, and measurable productivity gains.",
@@ -1202,7 +1255,8 @@
     },
     "freight-audit-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/freight-audit-services-banner.webp",
+            "alt": "Professional freight audit services banner showcasing freight invoice verification, overcharge detection, and logistics cost optimization",
             "h1": "Freight Audit Services",
             "tagline": "Ensure Freight Invoice Accuracy. Eliminate Overcharges. Protect Margins.",
             "cta": "Request a Custom Freight Audit Quote"
@@ -1240,7 +1294,8 @@
             }
         ],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/freight-audit-services-overview.webp",
+            "alt": "Strategic freight audit workflow showing the validation of carrier invoices against contracted rates, discrepancy resolution, and cost allocation for transportation spend analytics",
             "h2": "Intelligent Freight Audit Services for Accurate Billing and Cost Control",
             "content": [
                 "Does your supply chain business face invoicing errors, complex carrier contracts, delayed payments, or disconnected systems? These challenges often lead to freight billing discrepancies, strained carrier relationships, operational inefficiencies, and increased administrative workload. A reliable freight audit partner is essential to regain control. Our freight audit and payment services deliver accurate freight invoice auditing, cost validation, timely carrier payments, and detailed reporting.",
@@ -1252,28 +1307,32 @@
     },
     "hire-resources": {
         "banner": {
-            "image": "",
-            "h1": "Hire Data & Virtual Assistants for Scalable Business Support",
+            "image": "/images/service/banner/hire-data-and-virtual-assistants-banner.webp",
+            "alt": "Hire dedicated data experts and virtual assistants banner featuring managed support for back-office operations and data-driven business growth",
+            "h1": "Hire Data & Virtual Assistants",
             "tagline": "Dedicated experts delivering managed data support and virtual assistance for growing businesses.",
-            "cta": "Get a Free Quote"
+            "cta": "Hire Your Dedicated Assistant"
         },
         "counter": [],
         "overview": {
-            "image": "",
-            "h2": "Smarter Data and Virtual Assistant Services for Growing Teams",
+            "image": "/images/service/overview/hire-data-and-virtual-assistants-overview.webp",
+            "alt": "Comparison of in-house hiring versus Computyne's managed remote data and virtual assistant solutions for scalable business operations",
+            "h2": "Scalable Operations: Data & Virtual Assistant Services",
             "content": [
-                "Hiring data and virtual assistants means engaging trained remote professionals who handle data, research, and administrative tasks through a managed delivery model that ensures consistency, accuracy, and accountability.",
-                "As organizations scale, operational complexity often increases before efficiency catches up. Data volumes expand. Research requests grow. Administrative responsibilities multiply across teams.",
-                "Over time, skilled employees spend valuable hours on essential but non-strategic work. Updating records. Validating data. Managing inboxes. Coordinating reports. These tasks are necessary, yet they quietly slow execution and dilute focus on growth.",
-                "Hiring full-time staff for each operational function is rarely practical. Recruitment cycles are long. Training adds cost. Fixed headcount limits flexibility as workloads fluctuate.",
-                "When you hire data and virtual assistants through Computyne, those pressures ease. Our remote professionals integrate directly into your workflows, operate within your tools, and follow documented processes from day one. The outcome is consistent delivery, fewer operational bottlenecks, and more time for your internal teams to focus on decisions that move the business forward.",
-                "In real-world execution, this results in faster turnaround on data tasks, cleaner reporting, and reliable day-to-day support without expanding internal teams."
+                "As your organization grows, operational complexity shouldn't hinder your momentum. At <span class=\"highlight\">Computyne</span>, we provide trained remote professionals who handle your high-volume data, research, and administrative tasks through a managed delivery model.",
+                "We bridge the gap between <strong>rising workloads</strong> and <strong>internal capacity</strong>, ensuring your core team stays focused on strategy while we handle the execution.",
+                "<h5>The Challenge of Scaling</h5> In many growing companies, skilled employees eventually become \"bottlenecked\" by essential but non-strategic work, such as:",
+                "<ul style=\"padding-left:2rem;\"><li><strong>Data Management:</strong> Validating records and managing expanding databases.</li><li><strong>Research & Analysis:</strong> Executing time-consuming market or lead research.</li><li><strong>Administrative Overhead:</strong> Inbox management, report coordination, and scheduling.</li></ul>",
+                "<h5>Why Choose Managed Remote Support?</h5> Hiring full-time staff for every operational function is often slow and expensive. Our model offers a flexible alternative:",
+                "<div class=\"computyne-section\" style=\"font-family:'Inter',-apple-system,sans-serif;color:#334155;max-width:900px;margin:auto;line-height:1.7;\"><div class=\"table-container\" style=\"margin:30px 0;border-radius:8px;overflow:hidden;box-shadow:0 4px 6px -1px rgba(0,0,0,0.1);\"><table style=\"width:100%;border-collapse:collapse;background:white;\"><thead><tr><th style=\"background-color:#0a1f44;color:white;padding:18px;text-align:left;font-weight:600;font-size:0.9rem;text-transform:uppercase;\">Focus Area</th><th style=\"background-color:#0a1f44;color:white;padding:18px;text-align:left;font-weight:600;font-size:0.9rem;text-transform:uppercase;\">In-House Hiring</th><th style=\"background-color:#0a1f44;color:white;padding:18px;text-align:left;font-weight:600;font-size:0.9rem;text-transform:uppercase;\">Computyne Solutions</th></tr></thead><tbody><tr><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;font-weight:bold;color:#0a1f44;width:25%;\">Recruitment</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;\">Long cycles (30-90 days)</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Rapid deployment</td></tr><tr><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;font-weight:bold;color:#0a1f44;width:25%;\">Cost Structure</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;\">High fixed headcount costs</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Scalable, flexible pricing</td></tr><tr><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;font-weight:bold;color:#0a1f44;width:25%;\">Onboarding</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;\">Internal training required</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Pre-trained; follows your docs</td></tr><tr><td style=\"padding:16px;border-bottom:none;font-weight:bold;color:#0a1f44;width:25%;\">Consistency</td><td style=\"padding:16px;border-bottom:none;\">Risk of single-point failure</td><td style=\"padding:16px;border-bottom:none;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Managed delivery &amp; accountability</td></tr></tbody></table></div><div class=\"cta-highlight\" style=\"border-left:4px solid #f47920;background:#edf2f7;padding:20px;margin-top:25px;font-style:italic;\"><strong>The Outcome:</strong> Consistent delivery, fewer operational bottlenecks, and more time for your internal teams to focus on decisions that move the business forward.</div></div>",
+                "<p><a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Build Your Scalable Remote Data Team Now</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a></p>"
             ]
         }
     },
     "hire-data-entry-specialists": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/hire-data-entry-specialists-banner.webp",
+            "alt": "Hire remote data entry specialists banner featuring dedicated data management teams for scalable enterprise operations",
             "h1": "Hire Remote Data Entry Specialists",
             "tagline": "Scale Data Operations Seamlessly with Remote Data Entry Specialists",
             "cta": "Request a Custom Hiring Plan"
@@ -1311,19 +1370,23 @@
             }
         ],
         "overview": {
-            "image": "",
-            "h2": "Scale Faster with Skilled Remote Data Entry Professionals",
+            "image": "/images/service/overview/hire-data-entry-specialists-overview.webp",
+            "alt": "Comprehensive overview of remote data entry specialists providing managed services for CRM updates, product catalogs, and database maintenance with ISO-grade security",
+            "h2": "The Impact of Accurate Data Entry on Business Growth",
             "content": [
-                "In today’s fast-paced business environment, managing increasing data volumes can become complex, time-consuming, and costly. Manual processes, fragmented records, and inconsistent formats often result in errors, delays, and reduced productivity. When you hire remote data entry specialists, you gain immediate access to trained professionals who accurately capture, validate, and organize data across systems, ensuring speed, precision, and reliability.",
-                "From CRM updates and database management to product catalog maintenance and document digitization, our remote data entry professionals deliver structured, error-free information that supports faster decision-making and operational efficiency. Outsourcing data entry eliminates the burden of recruiting, training, and supervising internal teams while significantly reducing overhead costs.",
-                "Internal data handling is frequently prone to inaccuracies and scalability limitations, particularly during peak workloads. By choosing to hire remote data entry professionals for business, organizations minimize costly errors, improve turnaround times, and maintain consistent quality without compromising data security.",
-                "By partnering with Computyne, you benefit from standardized workflows, advanced validation tools, and a scalable delivery model. Our dedicated remote data entry staff efficiently support both short-term tasks and enterprise-level projects, allowing your teams to focus on strategic growth initiatives."
+                "As your data requirements expand, information gaps shouldn't hinder your momentum. At <span class=\"highlight\">Computyne</span>, we provide skilled remote data entry professionals who transform fragmented records into structured, actionable assets through a managed delivery model.",
+                "We bridge the gap between <strong>rising data volumes</strong> and <strong>internal capacity</strong>, ensuring your team stays focused on strategy while we handle the precise execution and validation of your records.",
+                "<h5>The Challenge of Data Management</h5> In many growing companies, operational efficiency is often \"bottlenecked\" by manual processes and inconsistent data formats. Internal teams become overwhelmed by:",
+                "<ul style=\"padding-left:2rem;\"><li><strong>CRM Updates:</strong> Manually managing and updating customer records across various platforms.</li><li><strong>Product Catalogs:</strong> Maintaining thousands of SKUs with accuracy for e-commerce stores.</li><li><strong>Database Maintenance:</strong> Cleaning fragmented or legacy data into searchable, structured formats.</li></ul>",
+                "<h5>Why Hire Remote Data Entry Professionals?</h5> Recruiting and training internal staff for data-heavy tasks is often slow and costly. Our model offers a flexible, high-precision alternative: <div class=\"computyne-section\" style=\"font-family:'Inter',-apple-system,sans-serif;color:#334155;max-width:900px;margin:auto;line-height:1.7;\"><div class=\"table-container\" style=\"margin:30px 0;border-radius:8px;overflow:hidden;box-shadow:0 4px 6px -1px rgba(0,0,0,0.1);\"><table style=\"width:100%;border-collapse:collapse;background:white;\"><thead><tr><th style=\"background-color:#0a1f44;color:white;padding:18px;text-align:left;font-weight:600;font-size:0.9rem;text-transform:uppercase;\">Focus Area</th><th style=\"background-color:#0a1f44;color:white;padding:18px;text-align:left;font-weight:600;font-size:0.9rem;text-transform:uppercase;\">In-House Entry</th><th style=\"background-color:#0a1f44;color:white;padding:18px;text-align:left;font-weight:600;font-size:0.9rem;text-transform:uppercase;\">Computyne Solutions</th></tr></thead><tbody><tr><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;font-weight:bold;color:#0a1f44;width:25%;\">Accuracy</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;\">High risk of manual errors</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">100% Data Validation Tools</td></tr><tr><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;font-weight:bold;color:#0a1f44;width:25%;\">Scalability</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;\">Limited by staff count</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Rapid, on-demand scaling</td></tr><tr><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;font-weight:bold;color:#0a1f44;width:25%;\">Security</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;\">Fragmented security protocols</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Bank-grade ISO security</td></tr><tr><td style=\"padding:16px;border-bottom:none;font-weight:bold;color:#0a1f44;width:25%;\">Turnaround</td><td style=\"padding:16px;border-bottom:none;\">Delays during peak loads</td><td style=\"padding:16px;border-bottom:none;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Standardized 24-48hr workflows</td></tr></tbody></table></div><div class=\"cta-highlight\" style=\"border-left:4px solid #f47920;background:#edf2f7;padding:20px;margin-top:25px;font-style:italic;\"><strong>The Outcome:</strong> Accurate, structured information that supports faster decision-making, significantly reduced overhead, and increased operational agility.</div></div>",
+                "<p><a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Hire Your Dedicated Data Entry Team Now</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a></p>"
             ]
         }
     },
     "hire-data-science-specialist": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/hire-data-science-specialist-banner.webp",
+            "alt": "Hire data science specialists banner featuring expert talent for predictive modeling, statistical analysis, and AI-driven business intelligence",
             "h1": "Hire Data Science Specialists",
             "tagline": "Transform Data into Predictive Intelligence with Expert Data Science Talent",
             "cta": "Request a Custom Hiring Plan"
@@ -1361,18 +1424,23 @@
             }
         ],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/hire-data-science-specialist-overview.webp",
+            "alt": "Data science specialist overview illustrating the transition from raw unstructured data to predictive business intelligence through statistical modeling and advanced analytics",
             "h2": "Transform Complex Data into Predictive Business Intelligence",
             "content": [
-                "Managing large volumes of data, uncovering hidden patterns, and generating predictive intelligence can quickly become complex, time-consuming, and resource-intensive. By choosing to hire data science specialists, organizations gain access to advanced analytics expertise that converts raw, unstructured data into actionable business insights. This enables smarter decision-making, stronger operational efficiency, and measurable improvements across enterprise functions.",
-                "Extracting meaningful intelligence from complex datasets requires advanced statistical modeling, specialized tools, and continuous analytical effort. Building a full-time internal team for every initiative often leads to higher costs and reduced flexibility. Fixed staffing models make it difficult to scale analytics capabilities, adapt to changing project requirements, or deploy niche expertise when business priorities shift.",
-                "Our data science specialists deliver comprehensive data science services without the overhead of permanent hiring. They integrate seamlessly with existing teams, workflows, and technology environments while quickly understanding operational processes and strategic goals. From predictive analytics services and trend analysis to business intelligence and analytics, our experts ensure every insight is accurate, relevant, and aligned with measurable business outcomes."
+                "As your data volume expands, hidden complexities shouldn't stall your growth. At <span class=\"highlight\">Computyne</span>, our data science specialists provide the advanced analytical expertise required to convert raw, unstructured information into predictive intelligence.",
+                "We bridge the gap between <strong>rising data complexity</strong> and <strong>operational capacity</strong>, ensuring your organization gains actionable insights while maintaining focus on core enterprise functions.",
+                "<h5>The Challenge: Limitations of Fixed Analytics</h5> Extracting meaningful intelligence from complex datasets is often resource-intensive. Traditional internal staffing models frequently lead to:",
+                "<ul style=\"padding-left:2rem;\"><li><strong>High Overhead:</strong> Significant costs associated with building full-time teams for niche initiatives.</li><li><strong>Reduced Flexibility:</strong> Difficulty scaling analytics capabilities as project requirements evolve.</li><li><strong>Skill Gaps:</strong> Challenges in deploying specialized statistical modeling for shifting business priorities.</li></ul>",
+                "<h5>Why Choose Managed Data Science Support?</h5> Our data science specialists deliver comprehensive services without the overhead of permanent hiring. We offer a flexible, high-precision alternative to traditional models: <div class=\"computyne-section\" style=\"font-family:'Inter',-apple-system,sans-serif;color:#334155;max-width:900px;margin:auto;line-height:1.7;\"><div class=\"table-container\" style=\"margin:30px 0;border-radius:8px;overflow:hidden;box-shadow:0 4px 6px -1px rgba(0,0,0,0.1);\"><table style=\"width:100%;border-collapse:collapse;background:white;\"><thead><tr><th style=\"background-color:#0a1f44;color:white;padding:18px;text-align:left;font-weight:600;font-size:0.9rem;text-transform:uppercase;\">Service Area</th><th style=\"background-color:#0a1f44;color:white;padding:18px;text-align:left;font-weight:600;font-size:0.9rem;text-transform:uppercase;\">Business Impact</th><th style=\"background-color:#0a1f44;color:white;padding:18px;text-align:left;font-weight:600;font-size:0.9rem;text-transform:uppercase;\">Computyne Edge</th></tr></thead><tbody><tr><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;font-weight:bold;color:#0a1f44;width:25%;\">Predictive Modeling</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;\">Forecast future trends with precision</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Custom statistical algorithms</td></tr><tr><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;font-weight:bold;color:#0a1f44;width:25%;\">Business Intelligence</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;\">Actionable real-time dashboards</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Seamless tech integration</td></tr><tr><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;font-weight:bold;color:#0a1f44;width:25%;\">Trend Analysis</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;\">Identify emerging opportunities</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Continuous analytical rigor</td></tr><tr><td style=\"padding:16px;border-bottom:none;font-weight:bold;color:#0a1f44;width:25%;\">Advanced Analytics</td><td style=\"padding:16px;border-bottom:none;\">Solve complex enterprise problems</td><td style=\"padding:16px;border-bottom:none;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Niche expertise on-demand</td></tr></tbody></table></div><div class=\"cta-highlight\" style=\"border-left:4px solid #f47920;background:#edf2f7;padding:20px;margin-top:25px;font-style:italic;\"><strong>The Outcome:</strong> Accurate, relevant insights aligned with measurable business outcomes, enabling smarter decision-making and stronger operational efficiency.</div></div>",
+                "<p><a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Hire Your Dedicated Data Science Team Now</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a></p>"
             ]
         }
     },
     "hire-virtual-assistants": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/hire-virtual-assistants-banner.webp",
+            "alt": "Hire dedicated virtual assistants banner featuring professional administrative support for workflow optimization and business productivity",
             "h1": "Hire Virtual Assistants",
             "tagline": "Hire Skilled Virtual Assistants to Simplify Workflows and Maximize Productivity",
             "cta": "Get a Dedicated Virtual Assistant"
@@ -1410,18 +1478,24 @@
             }
         ],
         "overview": {
-            "image": "",
-            "h2": "Dedicated Virtual Assistants to Support Your Business Growth",
+            "image": "/images/service/overview/hire-virtual-assistants-overview.webp",
+            "alt": "Operational overview of managed virtual assistant services showing the transition from administrative bottlenecks to scalable, process-driven support",
+            "h2": "Dedicated Virtual Assistant Services for Business Growth",
             "content": [
-                "Running a business demands continuous attention to emails, reports, calls, scheduling, and follow-ups, time-intensive responsibilities that often divert focus from strategic growth. By hiring virtual assistants, businesses can delegate these routine tasks to trained professionals who ensure daily operations remain structured, efficient, and cost-effective.",
-                "Many organizations lose valuable productive hours each week managing administrative and manual work that does not directly generate revenue. Hiring full-time staff for every operational requirement increases overhead and limits agility. Virtual assistant outsourcing provides a smarter alternative by reducing costs, accelerating turnaround times, and enabling scalable support without long-term employment commitments.",
-                "Our dedicated virtual assistants’ function as a seamless extension of your internal team. They are process-driven, carefully trained, and adaptable to your workflows, ensuring consistent performance and dependable outcomes. From administrative virtual assistant services to specialized operational support, we help eliminate backlogs, enhance operational efficiency, and allow your core teams to focus on clients, performance, and sustainable business growth."
+                "As your business expands, operational bottlenecks shouldn't hinder your momentum. At <span class=\"highlight\">Computyne</span>, we provide dedicated virtual assistants who manage high-volume administrative tasks and daily operations through a managed delivery model.",
+                "We bridge the gap between <strong>increasing operational complexity</strong> and <strong>internal capacity</strong>, ensuring your team stays focused on strategy while we handle the essential execution.",
+                "<h5>The Challenge of Scaling Operations</h5> In many growing companies, strategic growth is often \"bottlenecked\" by the sheer volume of routine administrative work. Internal teams become overwhelmed by:",
+                "<ul style=\"padding-left:2rem;\"><li><strong>Inbox & Calendar Management:</strong> Constant filtering and appointment setting.</li><li><strong>Operations Support:</strong> Managing reports, CRMs, and manual data entry.</li><li><strong>Client Relations:</strong> Manual follow-ups and lead nurturing tasks.</li></ul>",
+                "<h5>Why Choose Managed Virtual Assistant Support?</h5> Hiring full-time staff for every administrative requirement is often slow and expensive. Our model offers a flexible, high-precision alternative:",
+                "<div class=\"computyne-section\" style=\"font-family:'Inter',-apple-system,sans-serif;color:#334155;max-width:900px;margin:auto;line-height:1.7;\"><div class=\"table-container\" style=\"margin:30px 0;border-radius:8px;overflow:hidden;box-shadow:0 4px 6px -1px rgba(0,0,0,0.1);\"><table style=\"width:100%;border-collapse:collapse;background:white;\"><thead><tr><th style=\"background-color:#0a1f44;color:white;padding:18px;text-align:left;font-weight:600;font-size:0.9rem;text-transform:uppercase;\">Focus Area</th><th style=\"background-color:#0a1f44;color:white;padding:18px;text-align:left;font-weight:600;font-size:0.9rem;text-transform:uppercase;\">In-House Staffing</th><th style=\"background-color:#0a1f44;color:white;padding:18px;text-align:left;font-weight:600;font-size:0.9rem;text-transform:uppercase;\">Computyne VAs</th></tr></thead><tbody><tr><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;font-weight:bold;color:#0a1f44;width:25%;\">Overhead</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;\">High fixed salaries & benefits</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Cost-effective, remote model</td></tr><tr><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;font-weight:bold;color:#0a1f44;width:25%;\">Flexibility</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;\">Rigid employment contracts</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Scalable on-demand support</td></tr><tr><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;font-weight:bold;color:#0a1f44;width:25%;\">Efficiency</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;\">Multitasking distractions</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Process-driven task mastery</td></tr><tr><td style=\"padding:16px;border-bottom:none;font-weight:bold;color:#0a1f44;width:25%;\">Turnaround</td><td style=\"padding:16px;border-bottom:none;\">Dependent on office hours</td><td style=\"padding:16px;border-bottom:none;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Accelerated, consistent delivery</td></tr></tbody></table></div><div class=\"cta-highlight\" style=\"border-left:4px solid #f47920;background:#edf2f7;padding:20px;margin-top:25px;font-style:italic;\"><strong>The Outcome:</strong> Enhanced operational efficiency, zero backlogs, and more time for your core team to focus on clients and sustainable business growth.</div></div>",
+                "<p><a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Hire Your Dedicated Virtual Assistant Team Now</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a></p>"
             ]
         }
     },
     "hire-web-researchers": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/hire-web-researchers.webp",
+            "alt": "Hire web research experts banner showcasing professional data mining, market research, and lead generation services for actionable business intelligence",
             "h1": "Hire Web Research Experts",
             "tagline": "Skilled Web Research Assistants Delivering Accurate, Actionable Data",
             "cta": "Get a Custom Web Research Plan"
@@ -1459,25 +1533,32 @@
             }
         ],
         "overview": {
-            "image": "",
-            "h2": "Accurate, Verified Web Research That Drives Confident Decisions",
+            "image": "/images/service/overview/hire-web-researchers.webp",
+            "alt": "Comprehensive web research overview showing dedicated researchers managing high-volume data collection and verification through a managed delivery model",
+            "h2": "Eliminate Data Bottlenecks with Dedicated Web Research Support",
             "content": [
-                "In today’s fast-moving digital environment, accessing accurate and dependable online information is increasingly challenging. Businesses often face fragmented data sources, time-intensive research tasks, and costly inaccuracies. When you hire web research experts, these challenges are resolved efficiently and consistently. Our experienced web research assistants collect, verify, and structure high-quality online data aligned with your specific business goals. From market research and competitor analysis to lead generation and contact database development, we deliver actionable insights that support confident decision-making, reduce turnaround time, and enable sustainable growth.",
-                "Managing web research internally frequently strains resources and slows execution. Information scattered across multiple platforms makes it difficult to maintain accuracy, relevance, and consistency. As a result, teams spend excessive time validating incomplete or outdated data, delaying strategic initiatives and missed opportunities.",
-                "By outsourcing web research services to our dedicated team, you gain access to trained professionals, standardized research frameworks, and advanced validation tools. Our virtual web research assistants deliver precise, up-to-date, and business-ready results without increasing overhead. Whether you require ongoing research support or a project-based engagement, we provide scalable, dependable solutions aligned with your timelines and objectives."
+                "As your data requirements expand, information gaps shouldn't hinder your momentum. At <span class=\"highlight\">Computyne</span>, we provide trained research professionals who manage high-volume data collection and verification through a managed delivery model.",
+                "We bridge the gap between <strong>rising data complexity</strong> and <strong>internal capacity</strong>, ensuring your team stays focused on strategy while we handle the deep-dive execution.",
+                "<h5>The Challenge of Data Fragmentation</h5> In many growing companies, strategic growth is often \"bottlenecked\" by the sheer volume of unverified online information. Internal teams become overwhelmed by:",
+                "<ul style=\"padding-left:2rem;\"><li><strong>Market Analysis:</strong> Tracking shifting trends across fragmented global sources.</li><li><strong>Lead Generation:</strong> Manually validating contact details in expanding databases.</li><li><strong>Competitor Intelligence:</strong> Monitoring rival movements and pricing updates.</li></ul>",
+                "<h5>Why Choose Managed Research Support?</h5> Hiring full-time researchers for every project is often slow and expensive. Our model offers a flexible, high-precision alternative: <div class=\"computyne-section\" style=\"font-family:'Inter',-apple-system,sans-serif;color:#334155;max-width:900px;margin:auto;line-height:1.7;\"><div class=\"table-container\" style=\"margin:30px 0;border-radius:8px;overflow:hidden;box-shadow:0 4px 6px -1px rgba(0,0,0,0.1);\"><table style=\"width:100%;border-collapse:collapse;background:white;\"><thead><tr><th style=\"background-color:#0a1f44;color:white;padding:18px;text-align:left;font-weight:600;font-size:0.9rem;text-transform:uppercase;\">Focus Area</th><th style=\"background-color:#0a1f44;color:white;padding:18px;text-align:left;font-weight:600;font-size:0.9rem;text-transform:uppercase;\">In-House Research</th><th style=\"background-color:#0a1f44;color:white;padding:18px;text-align:left;font-weight:600;font-size:0.9rem;text-transform:uppercase;\">Computyne Solutions</th></tr></thead><tbody><tr><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;font-weight:bold;color:#0a1f44;width:25%;\">Accuracy</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;\">High risk of human error</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Multi-layer validation tools</td></tr><tr><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;font-weight:bold;color:#0a1f44;width:25%;\">Speed</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;\">Slow manual collection</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Rapid, tech-enabled delivery</td></tr><tr><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;font-weight:bold;color:#0a1f44;width:25%;\">Cost</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;\">High fixed overhead</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Scalable, project-based pricing</td></tr><tr><td style=\"padding:16px;border-bottom:none;font-weight:bold;color:#0a1f44;width:25%;\">Consistency</td><td style=\"padding:16px;border-bottom:none;\">Inconsistent data formats</td><td style=\"padding:16px;border-bottom:none;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Structured, business-ready reports</td></tr></tbody></table></div><div class=\"cta-highlight\" style=\"border-left:4px solid #f47920;background:#edf2f7;padding:20px;margin-top:25px;font-style:italic;\"><strong>The Outcome:</strong> Reliable data, fewer strategic bottlenecks, and more time for your internal teams to focus on decisions that move the business forward.</div></div>",
+                "<p><a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Hire Your Dedicated Web Research Team Now</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a></p>"
+
             ]
         }
     },
     "image-annotation-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/image-annotation-services-banner.webp",
+            "alt": "Professional image annotation services banner featuring pixel-perfect labeling, bounding boxes, and semantic segmentation for high-accuracy computer vision models",
             "h1": "Image Annotation Services for Computer Vision",
             "tagline": "Secure, pixel-perfect labeling managed by experts.",
             "cta": "Get a Free Quote"
         },
         "counter": [],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/image-annotation-services-overview.webp",
+            "alt": "Comprehensive image annotation overview showing a managed production pipeline for high-volume computer vision datasets with ISO-standard quality assurance",
             "h2": "Scalable Image Annotation Services Without Operational Bottlenecks",
             "content": [
                 "High-performing computer vision models require large volumes of accurately labeled image data. As AI initiatives scale, image volumes increase, annotation guidelines grow more complex, and internal teams struggle to keep pace without diverting focus from core model development.",
@@ -1489,7 +1570,8 @@
     },
     "image-data-entry-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/image-data-entry-services-banner.webp",
+            "alt": "Image data entry services banner illustrating the extraction of structured information from visual documents and images into digital databases",
             "h1": "Image Data Entry Services",
             "tagline": "From Images to Intelligence: Reliable Data Entry at Scale",
             "cta": "Talk to a Data Expert"
@@ -1527,7 +1609,8 @@
             }
         ],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/image-data-entry-services-overview.webp",
+            "alt": "Strategic image data entry overview showing the conversion of unstructured visual files like PDFs, charts, and photographs into searchable, structured digital databases",
             "h2": "Streamlining Image-to-Data Conversion for Faster Decision-Making",
             "content": [
                 "Are you facing challenges converting information from images into accurate digital formats? Inconsistent image quality, complex data structures, and growing scalability demands often slow image data entry operations. Our image data entry services are purpose-built to overcome these challenges efficiently and cost-effectively. We specialize in image to data conversion from paper documents, photographs, charts, graphs, books, artwork, spreadsheets, pamphlets, and digital files such as PDF, XML, and JSON.",
@@ -1538,7 +1621,8 @@
     },
     "invoice-processing-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/invoice-processing-services-banner.webp",
+            "alt": "Professional invoice processing services banner showcasing automated data extraction, accounts payable streamlining, and financial document management",
             "h1": "Invoice Processing Services",
             "tagline": "Accurate Invoice Processing for Faster, Error-Free Financial Operations",
             "cta": "Reduce Invoice Processing Costs"
@@ -1576,18 +1660,28 @@
             }
         ],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/invoice-processing-services-overview.webp",
+            "alt": "Comprehensive invoice processing overview showing the digital transformation of manual paperwork into automated accounts payable workflows for faster payment cycles",
             "h2": "Automated Invoice Processing for Faster Payment Cycles",
             "content": [
-                "Managing invoices across multiple sources, formats, and geographies presents ongoing challenges for accounts payable and accounts receivable teams. Manual invoice sorting, invoice data entry, and invoice posting services consume valuable time, increase operational costs, and introduce avoidable errors. Even minor inaccuracies can delay payments, trigger penalties, strain vendor relationships, and negatively impact credit ratings.",
-                "To overcome these challenges, organizations increasingly adopt outsourced invoice processing services and automated invoice processing services. As a trusted invoice processing company, Computyne enables accounts payable digital transformation by combining intelligent invoice automation, invoice OCR services, and human-led validation to support global invoice processing requirements securely and at scale.",
-                "Our invoice processing solutions follow a structured, scalable delivery model that integrates OCR invoice data extraction, AI-driven classification, and expert review. Acting as an extension of your finance team, we handle invoice data capture services, validate invoice data across multiple invoice types, including standard, proforma, debit, credit, and commercial invoices, and process supporting documents such as purchase orders, delivery receipts, and vouchers within defined SLAs. The result is a future-ready, audit-ready, and cost-effective invoice processing solution that scales seamlessly with evolving business needs."
+                "In 2026, slow invoice data entry is a risk your business cannot afford. Manual work leads to errors, late fees, and unhappy vendors. Computyne solves this with smart invoice processing that saves you time and money. We turn your paperwork into a fast, digital workflow.",
+                "<h5>Smart Data Capture &amp; Invoice Automation</h5> As a top invoice processing company, we use the best invoice OCR services to read your bills instantly. We combine smart AI speed with human checks to reach 99.9% accuracy. We help you with:",
+                "<ul style=\"padding-left:2rem;\"> <li><strong>Billing Data Entry:</strong> Fast and clean data for every bill.</li><li><strong>Smart Matching: </strong>We check invoices against POs and receipts automatically.</li><li> <strong>Easy Sync: </strong> We send data straight to your ERP like SAP, Oracle, or QuickBooks.</li></ul>",
+                "<h5>Why Partner with Computyne?</h5> Our outsourced invoice processing services grow as you grow. We handle all types of bills—standard, proforma, and commercial—with ease.",
+                "<ul style=\"padding-left:2rem;\"><li><strong>Lower Costs: </strong>Cut your processing spend by up to 60%.</li><li><strong>Stay Safe:</strong> Our ISO-certified steps keep your data secure and audit-ready.</li><li><strong>Get Paid Faster:</strong> No more delays. Enjoy real-time tracking and quick approvals.</li></ul>",
+                "<p>Stop letting manual accounts payable tasks hold you back. Trust Computyne for simple, secure, and error-free invoice management.</p>",
+                "<a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Streamline Your Invoice Processing Today.</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a>"
+
+
+
+
             ]
         }
     },
     "logistics-data-entry-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/logistics-data-entry-services-banner.webp",
+            "alt": "Logistics data entry services banner showcasing professional management of shipping documents, bills of lading, and freight tracking data for global supply chains",
             "h1": "Logistics Data Entry Services",
             "tagline": "Transform Logistics Data into Actionable, Error-Free Intelligence",
             "cta": "Talk to a Data Expert"
@@ -1625,7 +1719,8 @@
             }
         ],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/logistics-data-entry-services-overview.webp",
+            "alt": "Comprehensive logistics data entry overview illustrating the systematic processing of bills of lading, freight bills, and inventory records to enhance supply chain visibility",
             "h2": "Intelligent Logistics Data Entry for Accurate, Scalable, and Connected Supply Chain Operations",
             "content": [
                 "Is logistics data entry becoming increasingly complex for your organization? Managing diverse data formats, reducing manual errors, and ensuring seamless data flow across supply chain systems often impacts operational efficiency. Our logistics data entry services are designed to address these challenges by delivering accurate, structured, and consistently formatted databases that improve visibility, control, and decision-making across logistics operations.",
@@ -1637,14 +1732,16 @@
     },
     "multimodal-annotation-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/multimodal-annotation-services-banner.webp",
+            "alt": "Multimodal annotation services banner showing the synchronization of text, image, audio, and video data for training complex Generative AI and cross-modal perception models",
             "h1": "Multimodal Annotation Services for Advanced AI",
             "tagline": "Build reliable Generative AI & Perception Models with precisely aligned data.",
             "cta": "Get a Free Quote"
         },
         "counter": [],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/multimodal-annotation-services-overview.webp",
+            "alt": "Strategic multimodal annotation overview illustrating temporal synchronization and cross-modal grounding for training Large Multimodal Models (LMMs) and autonomous systems",
             "h2": "Operational Support for the Next Generation of AI",
             "content": [
                 "Modern AI has evolved beyond single tasks. Today’s Large Multimodal Models (LMMs) and autonomous systems must interpret images, text, audio, and sensor data as a unified signal. Multimodal Annotation is the critical process of synchronizing these diverse inputs to teach machines context, continuity, and reasoning.",
@@ -1656,7 +1753,8 @@
     },
     "real-estate-property-listing-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/real-estate-property-listing-services-banner.webp",
+            "alt": "Real estate property listing services banner featuring optimized MLS data entry, high-quality property descriptions, and digital listing management for increased market visibility",
             "h1": "Real Estate Property Listing Services",
             "tagline": "Structured Property Listings That Increase Accuracy, Visibility, and Speed in Real Estate",
             "cta": "Optimize Listings Today"
@@ -1694,7 +1792,8 @@
             }
         ],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/real-estate-property-listing-services-overview.webp",
+            "alt": "Real estate property listing overview showing the conversion of fragmented property data into verified, high-visibility listings for MLS and digital platforms",
             "h2": "Intelligent Property Listing Management for Growing Real Estate Portfolios",
             "content": [
                 "Accurate property listings are critical for maintaining transparency, strengthening buyer confidence, and accelerating decision-making. In a competitive real estate environment, even small data inconsistencies can lead to buyer confusion, reduced engagement, missed opportunities, or delayed transactions. Our Real Estate Property Listing Services help agencies, developers, and brokers maintain accurate, verified, and consistently updated listings that enhance visibility, credibility, and trust across digital and print channels.",
@@ -1705,14 +1804,16 @@
     },
     "text-annotation-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/text-annotation-services-banner.webp",
+            "alt": "Text annotation services banner featuring Named Entity Recognition (NER), sentiment analysis, and intent classification for high-performance NLP and Large Language Models",
             "h1": "Text Annotation Services",
             "tagline": "Enterprise-grade text labeling for accurate, scalable NLP model training.",
             "cta": "Get a Free Quote"
         },
         "counter": [],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/text-annotation-services-overview.webp",
+            "alt": "Strategic text annotation overview illustrating the manual labeling of raw text for sentiment analysis, entity extraction, and intent classification to fuel NLP models",
             "h2": "Text Annotation Built for Production-Grade NLP Systems",
             "content": [
                 "Text annotation is the foundation of high-performance Natural Language Processing (NLP) models. It involves the meticulous labeling of raw text data to train machine learning algorithms in understanding sentiment, intent, syntax, and context.",
@@ -1726,14 +1827,16 @@
     },
     "video-annotation-services": {
         "banner": {
-            "image": "",
+            "image": "/images/service/banner/video-annotation-services-banner.webp",
+            "alt": "Video annotation services banner featuring frame-by-frame object tracking, semantic segmentation, and temporal labeling for autonomous driving and action recognition AI",
             "h1": "Video Annotation Services for Scalable Computer Vision",
             "tagline": "Pixel-perfect data labeling. Managed workflows. Enterprise-grade security.",
             "cta": "Get a Free Quote"
         },
         "counter": [],
         "overview": {
-            "image": "",
+            "image": "/images/service/overview/video-annotation-services-overview.webp",
+            "alt": "Strategic video annotation overview illustrating temporal object tracking and frame-by-frame labeling to ensure consistency in computer vision training sets",
             "h2": "Operational Support for Growing AI Initiatives",
             "content": [
                 "Building reliable computer vision models requires large volumes of accurately labeled video data. Video annotation converts raw footage into structured datasets that algorithms can interpret, enabling machines to understand movement, behavior, and context over time. Without consistently annotated video data, even advanced AI models struggle to perform reliably in real-world environments.",
@@ -1746,6 +1849,7 @@
     "ecommerce": {
         "banner": {
             "image": "/images/service/banner/retails-and-ecommerce-banner.webp",
+            "alt": "eCommerce BPO services banner illustrating high-volume product data entry, catalog management, and digital shelf optimization for online retailers and marketplaces",
             "h1": "BPO Services for eCommerce Industry",
             "tagline": "Accuracy-Driven BPO Services for Competitive eCommerce Operations",
             "cta": "Get a Cost Optimization Quote"
@@ -1753,6 +1857,7 @@
         "counter": [],
         "overview": {
             "image": "/images/service/overview/retails-and-ecommerce-overview.webp",
+            "alt": "End-to-end eCommerce BPO overview highlighting product lifecycle management, multi-channel catalog updates, and back-office operational support for high-growth retail brands",
             "h2": "End-to-End eCommerce Process Outsourcing for High-Growth Brands",
             "content": [
                 "Computyne delivers comprehensive eCommerce BPO services that enable brands to streamline back-office operations, improve customer experience, and scale efficiently across digital channels. As a specialized eCommerce process outsourcing company, we support online retailers, marketplaces, and D2C businesses in managing high-volume operations with greater speed, precision, and cost control.",
@@ -1764,6 +1869,7 @@
     "energy-and-utilities": {
         "banner": {
             "image": "/images/service/banner/Energy-and-utilities-banner.webp",
+            "alt": "BPO services for energy and utilities banner highlighting smart meter data management, utility billing processing, and infrastructure record digitization for sustainable energy operations",
             "h1": "BPO Services for Energy & Utilities",
             "tagline": "Powering Efficiency Across Energy and Utility Operations",
             "cta": "Reduce Operational Overheads Today"
@@ -1771,6 +1877,7 @@
         "counter": [],
         "overview": {
             "image": "/images/service/overview/Energy-and-utilities-overview.webp",
+            "alt": "Strategic energy and utilities BPO overview illustrating the integration of meter-to-cash outsourcing, asset data management, and regulatory compliance reporting for utility providers",
             "h2": "Reliable Business Process Outsourcing for the Energy and Utilities Sector",
             "content": [
                 "Energy and utility organizations operate in highly regulated, asset-intensive environments where accuracy, data integrity, and operational efficiency are essential. Managing high-volume back-office operations alongside evolving regulatory mandates, customer expectations, and sustainability initiatives places significant pressure on internal teams.",
@@ -1783,6 +1890,7 @@
     "finance-and-accounting": {
         "banner": {
             "image": "/images/service/banner/Finance-and-Accounting-banner.webp",
+            "alt": "Finance and accounting outsourcing services banner showcasing comprehensive accounts payable, accounts receivable, and general ledger management for improved financial transparency",
             "h1": "Finance and Accounting Outsourcing Services",
             "tagline": "Accuracy-Driven Finance & Accounting Outsourcing Services",
             "cta": "Speak with an Accounting Specialist"
@@ -1790,6 +1898,7 @@
         "counter": [],
         "overview": {
             "image": "/images/service/overview/Finance-and-Accounting-overview.webp",
+            "alt": "Comprehensive finance and accounting overview illustrating an audit-ready financial lifecycle from accounts payable and receivable to general ledger and regulatory reporting",
             "h2": "Compliance-Ready Finance and Accounting Outsourcing You Can Trust",
             "content": [
                 "Computyne delivers end-to-end Finance and Accounting Outsourcing Services that help organizations streamline financial operations, strengthen compliance, and achieve sustainable cost efficiency. As a trusted finance and accounting outsourcing company, we support businesses across industries by managing complex, high-volume finance processes with precision, consistency, and enterprise-grade data security.",
@@ -1802,6 +1911,7 @@
     "healthcare": {
         "banner": {
             "image": "/images/service/banner/Healthcare-banner.webp",
+            "alt": "Healthcare BPO services banner featuring HIPAA-compliant medical data entry, claims processing, and revenue cycle management to enhance patient care and operational efficiency",
             "h1": "BPO Services for Healthcare",
             "tagline": "Optimizing Healthcare Back-Office Operations with Accuracy and Care",
             "cta": "Reduce Healthcare Operational Costs"
@@ -1809,6 +1919,7 @@
         "counter": [],
         "overview": {
             "image": "/images/service/overview/retails-and-ecommerce-overview.webp",
+            "alt": "Healthcare BPO overview showing the integration of medical data management, payer operations, and HIPAA-compliant administrative support for hospitals and healthcare networks",
             "h2": "Trusted Healthcare BPO Services for Regulatory-Driven Environments",
             "content": [
                 "Computyne delivers specialized healthcare BPO services designed to help healthcare organizations streamline administrative operations, strengthen regulatory compliance, and improve overall operational efficiency without compromising patient care. As a trusted healthcare outsourcing company, we support organizations operating in highly regulated, data-sensitive environments.",
@@ -1821,6 +1932,7 @@
     "ites": {
         "banner": {
             "image": "/images/service/banner/ITES-Banner.webp",
+            "alt": "BPO support for ITES industry banner showing integrated technical data processing, back-office automation, and lifecycle management for global IT and tech firms",
             "h1": "BPO Support for the ITES Industry",
             "tagline": "Precision-Driven Data and Back-Office Support for High-Performance ITES Operations",
             "cta": "Talk to a Data Support Expert"
@@ -1828,6 +1940,7 @@
         "counter": [],
         "overview": {
             "image": "/images/service/overview/ITES-overview.webp",
+            "alt": "ITES BPO overview illustrating the integration of data validation, workflow automation, and structured document management for high-performance IT-enabled service providers",
             "h2": "Driving ITES Efficiency Through Intelligent Process Management",
             "content": [
                 "Computyne delivers specialized BPO support services for ITES organizations, helping IT-enabled service providers streamline operations, improve data accuracy, and scale service delivery with confidence. Our ITES-focused outsourcing solutions are purpose-built for high-volume, process-intensive environments, combining structured workflows, skilled domain teams, and technology-enabled quality controls.",
@@ -1839,6 +1952,7 @@
     "logistics-and-transportation": {
         "banner": {
             "image": "/images/service/banner/Logistics-and-supply-Chain-banner.webp",
+            "alt": "Logistics and transportation BPO banner featuring freight bill auditing, bill of lading processing, and supply chain data management for global shipping and freight forwarders",
             "h1": "Logistics BPO Support Services",
             "tagline": "Streamlining Logistics Operations Through Intelligent Process Outsourcing",
             "cta": "Talk to a Logistics Outsourcing Expert"
@@ -1846,6 +1960,7 @@
         "counter": [],
         "overview": {
             "image": "/images/service/overview/Logistics-and-supply-Chain-overview.webp",
+            "alt": "Logistics BPO overview illustrating integrated TMS and WMS support, freight document automation, and real-time supply chain visibility for 3PL and 4PL operators",
             "h2": "End-to-End Logistics Process Outsourcing Built for Performance",
             "content": [
                 "Computyne provides end-to-end Logistics BPO services designed to optimize back-office operations, improve process accuracy, and strengthen supply chain visibility across complex logistics environments. As a specialized logistics BPO company, we support logistics providers, freight forwarders, 3PL/4PL operators, and enterprise supply chain teams by managing mission-critical operational workflows with precision, scalability, and compliance.",
@@ -1857,6 +1972,7 @@
     "real-estate": {
         "banner": {
             "image": "/images/service/banner/Real-Estate-Banner.webp",
+            "alt": "Real estate BPO services banner featuring property data management, lease abstraction, MLS data entry, and valuation support for global property management firms",
             "h1": "Real Estate and Property Management Solution",
             "tagline": "End-to-End Property Intelligence for Smarter Real Estate Decisions",
             "cta": "Talk to an Expert"
@@ -1864,6 +1980,7 @@
         "counter": [],
         "overview": {
             "image": "/images/service/overview/Real-Estate-overview.webp",
+            "alt": "Real estate data management overview illustrating the transformation of raw property listings and legal documents into structured digital portfolios for agencies and developers",
             "h2": "Accurate, Compliant Property Data Management You Can Trust",
             "content": [
                 "The modern property sector depends on structured, accurate, and up-to-date data to enable efficient sales, leasing, and transaction management. Real estate organizations handle extensive information volumes, including property listings, floor plans, client records, valuation reports, and legal documentation. Without standardized real estate data workflows, inconsistencies, duplication, and manual errors can delay transactions, impact compliance, and increase operational costs across property management operations.",
