@@ -321,7 +321,22 @@ blockquote p {
 
 
 @media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
-  .contact-form-blog {
+  .contact-form-mod {
     margin-top: 0 !important;
+  }
+}
+
+.wd-30-custom{
+  width: 30% !important;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
+  .wd-30-custom{
+    width: 100% !important;
+    height: 80% !important;
+  }
+
+  .mainmenu ul > li > .mega-menu-pages .mega-menu-pages-single .feature-box .feature-images, .mobile_menu ul > li > .mega-menu-pages .mega-menu-pages-single .feature-box .feature-images {
+    margin-inline-start: 11px;
   }
 }
