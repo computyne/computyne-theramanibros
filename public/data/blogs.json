@@ -23,7 +23,8 @@
 				"Recruitment Back Office Support",
 				"CV Formatting Outsourcing",
 				"High-Volume Resume Processing"
-			]
+			],
+			"canonical": "https://www.computyne.com/blog/how-to-cleanse-data-in-excel"
 		}
 	},
     {
@@ -50,7 +51,8 @@
 				"Recruitment Back Office Support",
 				"CV Formatting Outsourcing",
 				"High-Volume Resume Processing"
-			]
+			],
+			"canonical": "https://www.computyne.com/blog/pre-vs-post-freight-audit-cost-savings"
 		}
 	},
     {
@@ -77,7 +79,8 @@
 				"Recruitment Back Office Support",
 				"CV Formatting Outsourcing",
 				"High-Volume Resume Processing"
-			]
+			],
+			"canonical": "https://www.computyne.com/blog/outsource-vs-inhouse-freight-audit-roi-comparison"
 		}
 	},
     {
@@ -105,7 +108,8 @@
 				"Recruitment Back Office Support",
 				"CV Formatting Outsourcing",
 				"High-Volume Resume Processing"
-			]
+			],
+			"canonical": "https://www.computyne.com/blog/accurate-invoice-data-entry"
 		}
 	},
     {
@@ -132,7 +136,8 @@
 				"Recruitment Back Office Support",
 				"CV Formatting Outsourcing",
 				"High-Volume Resume Processing"
-			]
+			],
+			"canonical": "https://www.computyne.com/blog/what-is-resume-parsing-a-beginners-guide"
 		}
 	},
     {
@@ -159,8 +164,9 @@
 				"Recruitment Back Office Support",
 				"CV Formatting Outsourcing",
 				"High-Volume Resume Processing"
-			]
-		},
+			],
+			"canonical": "https://www.computyne.com/blog/outsource-real-estate-data-entry"
+		}
 	}
     
 ]

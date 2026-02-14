@@ -24,7 +24,7 @@ export async function generateMetadata({ params }) {
     description: currentItem.meta.metaDescription,
     keywords: currentItem.meta.keywords,
     alternates: {
-      canonical: `https://www.computyne.com/blog/${slug}`,
+      canonical: currentItem.meta.canonical,
     },
   };
 }
