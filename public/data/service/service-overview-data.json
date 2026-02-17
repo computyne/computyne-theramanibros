@@ -1802,6 +1802,58 @@
             ]
         }
     },
+    "ecommerce-catalog-management-services": {
+        "banner": {
+            "image": "/images/service/banner/ecommerce-catalog-management-services-banner.webp",
+            "alt": "A professional team managing a digital product catalog for an online store.",
+            "h1": "eCommerce Catalog Management Services",
+            "tagline": "Optimize Storefront Performance with Strategic Catalog Governance and Maintenance",
+            "cta": "Get a Custom Quote"
+        },
+        "counter": [
+            {
+                "label": "Years of Experience",
+                "value": "15",
+                "symbol": "+"
+            },
+            {
+                "label": "Skilled Professionals",
+                "value": "250",
+                "symbol": "+"
+            },
+            {
+                "label": "Data Security",
+                "value": "100",
+                "symbol": "%"
+            },
+            {
+                "label": "Cost Savings",
+                "value": "50",
+                "symbol": "%"
+            },
+            {
+                "label": "Data Support",
+                "value": "24",
+                "symbol": "x7"
+            },
+            {
+                "label": "Data Accuracy",
+                "value": "99.99",
+                "symbol": "%"
+            }
+        ],
+        "overview": {
+            "image": "/images/service/overview/ecommerce-catalog-management-services-overview.webp",
+            "alt": "",
+            "h2": "Strategic Data Governance for Scaling eCommerce Portals",
+            "content": [
+                "A well-structured product catalog is the foundation of a frictionless customer journey. As digital inventories expand, maintaining cross-channel consistency, attribute normalization, and product lifecycle updates becomes an operational challenge. Inaccurate or fragmented catalog data directly impacts internal search relevance, navigation efficiency, and ultimately, conversion rates.",
+                "<h5>Computyne: Institutional Catalog Governance</h5> Computyne provides comprehensive catalog management solutions that synchronize digital inventory with operational goals through a managed delivery framework.",
+                "<ul style=\"padding-left:2rem;\"><li><strong>Catalog Building and Indexing:</strong> Establishing logical taxonomies and attribute structures to ensure intuitive storefront navigation.</li><li><strong>Catalog Content Enrichment:</strong> Normalizing and standardizing disparate manufacturer data into a unified, search-ready brand voice.</li><li><strong>Lifecycle and Maintenance Support:</strong> Executing real-time updates for seasonal refreshes, pricing shifts, and product discontinuations.</li><li><strong>Platform and PIM Synchronization:</strong> Ensuring unified catalog integrity across global marketplaces, standalone web stores, and PIM environments.</li></ul>",
+                "Our eCommerce Catalog Management Services transform static databases into dynamic, high-performing assets. By maintaining a single source of truth for your product data, we reduce operational friction and enhance storefront discoverability. This governance-first approach allows your internal teams to focus on category growth and marketing strategy while we manage the integrity of your digital assets."
+            ]
+        }
+    },
     "text-annotation-services": {
         "banner": {
             "image": "/images/service/banner/text-annotation-services-banner.webp",
@@ -1846,6 +1898,7 @@
             ]
         }
     },
+
     "ecommerce": {
         "banner": {
             "image": "/images/service/banner/retails-and-ecommerce-banner.webp",

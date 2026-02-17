@@ -190,6 +190,53 @@
             }
         ]
     },
+    "ecommerce-catalog-management-services": {
+        "h2": "Industries We Power with Scalable Data Solutions",
+        "industries": [
+            {
+                "id": 1,
+                "title": "Retail and eCommerce",
+                "desc": "We manage high-volume SKUs and seasonal merchandising changes while ensuring consistent, accurate product data everywhere.",
+                "img": "/images/industries-services/ecommerce.webp",
+                "alt": "High-volume retail eCommerce dashboard managing seasonal SKU updates and product catalogs across multiple online marketplaces.",
+                "url": "/ecommerce"
+            },
+            {
+                "id": 2,
+                "title": "Manufacturing and Industrial",
+                "desc": "Managing complex technical catalogs with deep attribute requirements, ensuring data integrity, version control, and seamless system integrations.",
+                "img": "/images/industries-services/manufacturing.webp",
+                "alt": "Manufacturing BPO services showing automated inventory data management, supply chain documentation, and procurement support for industrial and lean manufacturing operations",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Pharmaceuticals and Healthcare",
+                "desc": "Maintaining precise ingredient data and regulatory documentation accuracy to meet stringent compliance, audit, and governance requirements.",
+                "img": "/images/industries-services/healthcare.webp",
+                "alt": "Healthcare product catalog management showing pharmaceutical ingredient labels and regulatory compliance documentation.",
+                "url": "/healthcare"
+            },
+            {
+                "id": 4,
+                "title": "Consumer Electronics",
+                "desc": "We maintain accurate technical specifications across rapid product releases, enabling faster launches and consistent omnichannel publishing.",
+                "img": "/images/industries-services/telecommunications.webp",
+                "alt": "Digital catalog showing technical specifications and attribute mapping for consumer electronics and mobile devices.",
+                "url": ""
+            },
+            {
+                "id": 5,
+                "title": "Automotive Parts",
+                "desc": "Managing massive automotive datasets with complex fitment and interchange relationships, delivering accurate, searchable, marketplace-ready catalogs today.",
+                "img": "/images/industries-services/automotive.webp",
+                "alt": "Automotive parts catalog management showing complex fitment and interchange data tables.",
+                "url": ""
+            }
+
+
+        ]
+    },
     "data-cleansing-services": {
         "h2": "Industries We Serve with Data Cleansing Services",
         "industries": [

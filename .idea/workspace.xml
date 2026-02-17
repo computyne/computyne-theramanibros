@@ -4,13 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="blog changes done">
+    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="Overview Changes">
+      <change afterPath="$PROJECT_DIR$/public/images/service/banner/ecommerce-catalog-management-services-banner.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service/overview/ecommerce-catalog-management-services-overview.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/ecommerce-catalog-management-services/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libs/schema/services/ecommerceCatalogmanagementServicesSchema.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sass/layout/_custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sass/layout/_custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout/common/Testimonials.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/common/Testimonials.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout/header/MobileNavbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/header/MobileNavbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/subservice/IndustriesCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/subservice/IndustriesCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/shared/sidebar/BlogSidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/shared/sidebar/BlogSidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/data/nav-items.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/nav-items.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/data/service/faqs.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/service/faqs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/data/service/industries.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/service/industries.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/data/service/service-overview-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/service/service-overview-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/data/service/sub-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/service/sub-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/data/service/why-choose-us.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/service/why-choose-us.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/header/MobileMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/header/MobileMenu.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="RB-Computyne" />
+        <entry key="$PROJECT_DIR$" value="RBYR-about-us-how-we-work-feature" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,9 +43,12 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/computyne/computyne-theramanibros.git&quot;,
-    &quot;accountId&quot;: &quot;a62d60aa-470d-4615-8eca-44bf5b12ab63&quot;
+    &quot;accountId&quot;: &quot;86b1841b-671d-4066-9f56-a9be7c96aa97&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/libs/schema/services/ecommerceCatalogmanagementServicesSchema.js" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -48,34 +57,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "main",
-    "js.debugger.nextJs.config.created.client": "true",
-    "js.debugger.nextJs.config.created.server": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/admin/IdeaProjects/computyne-theramanibros/public/images/service/overview",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/home/cs-admin/Programs/idea-IU-253.30387.90/plugins/javascript-plugin/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;RB-Computyne&quot;,
+    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
+    &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/IdeaProjects/computyne-theramanibros/src/libs/schema/services&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/cs-admin/Programs/idea-IU-253.30387.90/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\service\overview" />
+      <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\src\libs\schema\services" />
       <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\service\banner" />
+      <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\service\overview" />
+      <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\src\app" />
       <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\blog" />
-      <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\about" />
-      <recent name="$PROJECT_DIR$/src/components/sections/about-page" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\industries-services" />
@@ -128,7 +137,7 @@
       <workItem from="1770810312509" duration="40000" />
       <workItem from="1770898332640" duration="292000" />
       <workItem from="1770898662934" duration="5410000" />
-      <workItem from="1771058216720" duration="895000" />
+      <workItem from="1771228434711" duration="15481000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -276,11 +285,11 @@
     </task>
     <task id="LOCAL-00019" summary="Overview Changes">
       <option name="closed" value="true" />
-      <created>1771058332064</created>
+      <created>1771070886938</created>
       <option name="number" value="00019" />
       <option name="presentableId" value="LOCAL-00019" />
       <option name="project" value="LOCAL" />
-      <updated>1771058332064</updated>
+      <updated>1771070886938</updated>
     </task>
     <option name="localTasksCounter" value="20" />
     <servers />
@@ -370,7 +379,6 @@
     <MESSAGE value="Responsive issue and some extra link removed" />
     <MESSAGE value="Blog and casestudy metadata added" />
     <MESSAGE value="Overview Changes" />
-    <MESSAGE value="blog changes done" />
-    <option name="LAST_COMMIT_MESSAGE" value="blog changes done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Overview Changes" />
   </component>
 </project>
