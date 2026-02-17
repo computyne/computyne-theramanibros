@@ -111,53 +111,19 @@
 						"desc": "Actionable competitor insights to support smarter business strategies.",
 						"path": "/competitor-analysis-services",
 						"badge": null
+					},
+					{
+						"id": 8,
+						"name": "eCommerce Catalog Management",
+						"desc": "Accurate product listings optimized for faster customer purchasing decisions",
+						"path": "/ecommerce-catalog-management-services",
+						"badge": null
 					}
 				]
 			},
+
 			{
 				"id": 3,
-				"name": "Data Annotation",
-				"path": "/data-annotation-services",
-				"items": [
-					{
-						"id": 1,
-						"name": "Text Annotation",
-						"desc": "High-quality text labeling to train NLP and AI models accurately.",
-						"path": "/text-annotation-services",
-						"badge": null
-					},
-					{
-						"id": 2,
-						"name": "Image Annotation",
-						"desc": "Precise image labeling for computer vision and AI applications.",
-						"path": "/image-annotation-services",
-						"badge": null
-					},
-					{
-						"id": 3,
-						"name": "Data Labeling",
-						"desc": "The process of annotating raw data to make it usable for training machine learning models.",
-						"path": "/data-labeling-services",
-						"badge": null
-					},
-					{
-						"id": 4,
-						"name": "Video Annotation",
-						"desc": "Frame-level video annotation for advanced AI and ML training.",
-						"path": "/video-annotation-services",
-						"badge": null
-					},
-					{
-						"id": 5,
-						"name": "Multimodal Annotation",
-						"desc": "Unified annotation across text, image, audio, and video data.",
-						"path": "/multimodal-annotation-services",
-						"badge": null
-					}
-				]
-			},
-			{
-				"id": 4,
 				"name": "Document Processing",
 				"path": "/document-processing-services",
 				"items": [
@@ -199,52 +165,113 @@
 				]
 			},
 			{
-				"id": 5,
-				"name": "Data Entry",
-				"path": "/data-entry-services",
+				"id": 4,
+				"name": "Data Solutions",
+				"path": "/data-solutions-services",
 				"items": [
 					{
 						"id": 1,
+						"name": "Data Entry",
+						"desc": "Accurate secure data entry services for scalable business operations.",
+						"path": "/data-entry-services",
+						"badge": null
+					},
+					{
+						"id": 2,
 						"name": "Image Data Entry",
 						"desc": "Accurate data entry services from scanned and digital images.",
 						"path": "/image-data-entry-services",
 						"badge": null
 					},
+
 					{
-						"id": 2,
+						"id": 3,
 						"name": "Logistics Data Entry",
 						"desc": "Reliable logistics data entry to streamline supply chain operations.",
 						"path": "/logistics-data-entry-services",
 						"badge": null
 					},
 					{
-						"id": 3,
+						"id": 4,
 						"name": "Bill of Lading Data Entry",
 						"desc": "Precise bill of lading data entry for shipping accuracy.",
 						"path": "/bill-of-lading-data-entry-services",
 						"badge": null
 					},
 					{
-						"id": 4,
+						"id": 5,
 						"name": "Appraisal & Valuation Data Entry",
 						"desc": "Structured appraisal data entry for valuation and reporting needs.",
 						"path": "/appraisal-data-entry-services",
 						"badge": null
 					},
+
+
+
 					{
-						"id": 5,
+						"id": 6,
+						"name": "Mortgage Data Entry Support",
+						"desc": "Secure mortgage data entry support for error-free lending operations",
+						"path": "/mortgage-data-entry-support",
+						"badge": null
+					},
+					{
+						"id": 7,
 						"name": "Real Estate Property Listing",
 						"desc": "Accurate property listing data for real estate platforms.",
 						"path": "/real-estate-property-listing-services",
+						"badge": null
+					},
+					{
+						"id": 8,
+						"name": "eCommerce Product Data Entry",
+						"desc": "Clean, standardized product entries improving search visibility and buyer trust",
+						"path": "/ecommerce-product-data-entry-services",
 						"badge": null
 					}
 				]
 			},
 			{
 				"id": 5,
-				"name": "Data Solutions",
-				"path": "/data-solutions-services",
-				"items": []
+				"name": "Data Annotation",
+				"path": "/data-annotation-services",
+				"items": [
+					{
+						"id": 1,
+						"name": "Text Annotation",
+						"desc": "High-quality text labeling to train NLP and AI models accurately.",
+						"path": "/text-annotation-services",
+						"badge": null
+					},
+					{
+						"id": 2,
+						"name": "Image Annotation",
+						"desc": "Precise image labeling for computer vision and AI applications.",
+						"path": "/image-annotation-services",
+						"badge": null
+					},
+					{
+						"id": 3,
+						"name": "Data Labeling",
+						"desc": "The process of annotating raw data to make it usable for training machine learning models.",
+						"path": "/data-labeling-services",
+						"badge": null
+					},
+					{
+						"id": 4,
+						"name": "Video Annotation",
+						"desc": "Frame-level video annotation for advanced AI and ML training.",
+						"path": "/video-annotation-services",
+						"badge": null
+					},
+					{
+						"id": 5,
+						"name": "Multimodal Annotation",
+						"desc": "Unified annotation across text, image, audio, and video data.",
+						"path": "/multimodal-annotation-services",
+						"badge": null
+					}
+				]
 			}
 		]
 	},

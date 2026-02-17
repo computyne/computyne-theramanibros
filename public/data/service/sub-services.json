@@ -271,6 +271,121 @@
             }
         ]
     },
+    "ecommerce-catalog-management-services": {
+        "h2": "Specialized Catalog Management Capabilities",
+        "desc": "We deliver accurate, scalable catalog management ensuring consistent product data across all sales channels and marketplaces.",
+        "services": [
+            {
+                "id": 1,
+                "title": "Catalog Building and Taxonomy Indexing",
+                "desc": "We establish the structural framework required for a scalable and user-friendly digital storefront.",
+                "data": [
+                    {
+                        "value": "Development of logical category hierarchies and navigational structures"
+                    },
+                    {
+                        "value": "Indexing of technical product attributes for faceted search optimization."
+                    },
+                    {
+                        "value": "Mapping of products to correct marketplace browse nodes and taxonomy rules."
+                    },
+                    {
+                        "value": "Defining parent-child relationships for complex product variations."
+                    },
+                    {
+                        "value": "Creation of intuitive tagging systems for improved internal search relevance."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Catalog Content Enrichment and Normalization",
+                "desc": "We normalize unstructured data from multiple vendors to ensure a consistent and authoritative brand presence.",
+                "data": [
+                    {
+                        "value": "Standardizing units of measure, color palettes, and technical terminology."
+                    },
+                    {
+                        "value": "Enhancing product descriptions with high-intent keywords and unique benefits."
+                    },
+                    {
+                        "value": "Managing attribute completeness to prevent missing data in user filter results."
+                    },
+                    {
+                        "value": "Auditing and correcting manufacturer data for brand voice alignment."
+                    },
+                    {
+                        "value": "Consolidating data from disparate sources into a structured master record."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Catalog Image and Multimedia Processing",
+                "desc": "Visual assets are critical catalog components that require systematic management to maintain site speed and quality.",
+                "data": [
+                    {
+                        "value": "Batch processing and resizing of product imagery for platform-specific requirements."
+                    },
+                    {
+                        "value": "Metadata tagging for images to improve visual search and SEO performance."
+                    },
+                    {
+                        "value": "Organizing 360-degree views and video assets within the catalog structure."
+                    },
+                    {
+                        "value": "Background removal and color correction to ensure visual uniformity across the site."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Ongoing Catalog Maintenance and Support",
+                "desc": "Real-time catalog health is essential for protecting margins and maintaining customer trust.",
+                "data": [
+                    {
+                        "value": "Rapid processing of price updates, promotional shifts, and discount codes."
+                    },
+                    {
+                        "value": "Synchronizing product status changes for out-of-stock or discontinued items promptly."
+                    },
+                    {
+                        "value": "Periodic catalog health audits to identify and resolve data gaps or errors."
+                    },
+                    {
+                        "value": "Optimizing cross-sell and up-sell relationships to increase average order value."
+                    },
+                    {
+                        "value": "Updating seasonal attributes and promotional banners within the CMS."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Data Conversion and Migration Services",
+                "desc": "We facilitate the secure transfer of catalog assets between systems without loss of data integrity.",
+                "data": [
+                    {
+                        "value": "Extracting and transforming catalog data for major platform migrations."
+                    },
+                    {
+                        "value": "Converting physical print catalogs into searchable, digital eCommerce formats."
+                    },
+                    {
+                        "value": "Mapping legacy data to new system requirements during technology upgrades."
+                    },
+                    {
+                        "value": "Validating data integrity post-migration to ensure storefront stability."
+                    },
+                    {
+                        "value": "Ideal for: Enterprises modernizing their tech stack or expanding to new digital channels."
+                    }
+                ]
+            }
+
+
+        ]
+    },
     "data-annotation-services": {
         "h2": "Comprehensive Data Annotation Capabilities",
         "desc": "We cover the full spectrum of training data requirements using domain-specific expertise.",

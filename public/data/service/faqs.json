@@ -121,6 +121,52 @@
 			}
 		]
 	},
+	"ecommerce-catalog-management-services": {
+		"cta": "Request a Free Consultation",
+		"faq": [
+			{
+				"title": "What are catalog management services?",
+				"desc": "Catalog management involves the strategic building, enriching, and maintaining of your digital product database to ensure accuracy, searchability, and consistency.",
+				"initActive": true
+			},
+			{
+				"title": "How does catalog management differ from simple data entry?",
+				"desc": "While data entry focuses on the initial upload, catalog management involves strategic governance, taxonomy development, and ongoing health audits to ensure long-term performance."
+			},
+			{
+				"title": "Can you help us build a product taxonomy from scratch?",
+				"desc": "Yes. We develop logical category structures and attribute hierarchies designed to improve site navigation and internal search relevance."
+			},
+			{
+				"title": "Do you support PIM (Product Information Management) systems?",
+				"desc": "Yes. Our teams are experienced in managing data within various PIM, CMS, and ERP environments to ensure a unified master record."
+			},
+			{
+				"title": "How do you ensure catalog consistency across multiple channels?",
+				"desc": "We use standardized master templates and mapping protocols to ensure that your product data remains identical across your web store and external marketplaces."
+			},
+			{
+				"title": "Can you handle seasonal catalog refreshes in bulk?",
+				"desc": "Absolutely. Our scalable delivery model is designed to handle high-volume updates during peak seasonal transitions or promotional events."
+			},
+			{
+				"title": "Is our vendor data kept confidential?",
+				"desc": "Yes. All operations run within secure environments aligned with ISO/IEC 27001:2022 standards, governed by strict confidentiality protocols."
+			},
+			{
+				"title": "What is the typical turnaround for catalog updates?",
+				"desc": "Turnaround times depend on volume and complexity. We typically offer accelerated options to ensure your store reflects the latest pricing and stock status."
+			},
+			{
+				"title": "Do you assist with product data cleansing?",
+				"desc": "Yes. We identify and resolve duplicate listings, incomplete attributes, and inconsistent formatting to maintain a clean catalog."
+			},
+			{
+				"title": "Can you manage cross-selling and up-selling data?",
+				"desc": "Yes. We map related products and premium alternatives within your catalog to help increase average order value."
+			}
+		]
+	},
 	"data-cleansing-services": {
 		"cta": "Request a Free Consultation",
 		"faq": [

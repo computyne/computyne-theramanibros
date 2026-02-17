@@ -64,6 +64,41 @@
             }
         ]
     },
+    "ecommerce-catalog-management-services": {
+        "h2": "Delivery Framework Built for Catalog Integrity",
+        "data": [
+            {
+                "id": 1,
+                "title": "Catalog Strategy Experts",
+                "desc": "Our teams understand the nuances of taxonomy, attribute weighting, and search engine relevance. This deep domain expertise reduces errors commonly associated with non-specialized data management."
+            },
+            {
+                "id": 2,
+                "title": "Metric-Driven Governance",
+                "desc": "We monitor catalog health scores and accuracy rates to ensure long-term database integrity. We provide transparent reporting to ensure your internal SLAs are consistently met."
+            },
+            {
+                "id": 3,
+                "title": "Seamless Platform Integration",
+                "desc": "We work directly within your backend environments or via specialized Product Information Management (PIM) tools. This maturity minimizes disruption to your established internal processes."
+            },
+            {
+                "id": 4,
+                "title": "Scalable Operational Support",
+                "desc": "Our elastic resource model allows you to manage massive seasonal catalog refreshes without internal strain. This allows you to manage peak seasons without the risk of long-term hiring commitments."
+            },
+            {
+                "id": 5,
+                "title": "Secure Operational Environment",
+                "desc": "All workflows are aligned with ISO/IEC 27001:2022 standards to protect proprietary vendor and pricing data. We prioritize data encryption, restricted access, and strict NDA protocols."
+            },
+            {
+                "id": 6,
+                "title": "Multi-Tier Quality Assurance",
+                "desc": "Rigorous review cycles and automated validation checks ensure that every catalog update is error-free. This human-in-the-loop approach is designed to catch discrepancies before they reach your live storefront"
+            }
+        ]
+    },
     "data-appending-services": {
         "h2": "Benefits of Outsourcing Data Appending Services",
         "data": [

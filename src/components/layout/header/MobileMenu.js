@@ -44,7 +44,7 @@ const MobileMenu = ({isMobileMenuOpen, setIsMobileMenuOpen}) => {
                                 </div>
                                 <div className="contact-item">
                                     <span className="subtitle">Email</span>
-                                    <Link className="contact-link" href="mailto:info@bexon.com">
+                                    <Link className="contact-link" href="mailto:info@computyne.com">
                                         info@computyne.com
                                     </Link>
                                 </div>
