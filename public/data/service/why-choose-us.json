@@ -219,6 +219,42 @@
             }
         ]
     },
+    "ecommerce-product-data-entry-services": {
+        "h2": "Delivery Framework Built for eCommerce Scale ",
+        "data": [
+            {
+                "id": 1,
+                "title": "Platform-Specialized Professionals",
+                "desc": "Our teams are fluent in the backend environments of major platforms like Magento, Shopify, and BigCommerce. This specialized expertise reduces errors commonly associated with non-specialized data entry."
+            },
+            {
+                "id": 2,
+                "title": "Managed Delivery Model",
+                "desc": "Dedicated project managers oversee workflows and monitor KPIs to ensure alignment with your brand standards. We provide transparent reporting to ensure your internal SLAs are consistently met."
+            },
+            {
+                "id": 3,
+                "title": "Structured Workflows with Defined SLAs",
+                "desc": "Documented operating procedures ensure predictable turnaround times for new product launches. This maturity minimizes disruption to your established internal processes."
+            },
+            {
+                "id": 4,
+                "title": "Scalable Support for Peak Seasons",
+                "desc": "We scale resources instantly to manage the heavy data demands of holiday surges and seasonal transitions. This elastic model allows you to manage peak seasons without the risk of long-term hiring commitments."
+            },
+            {
+                "id": 5,
+                "title": "Secure Data Infrastructure",
+                "desc": "All operations run within environments aligned with ISO/IEC 27001:2022 standards, protecting proprietary pricing and vendor data. We prioritize data encryption, restricted access, and strict NDA protocols."
+            },
+            {
+                "id": 6,
+                "title": "Multi-Level Quality Assurance",
+                "desc": "Layered review processes and double-keying protocols minimize errors in critical fields like pricing and SKUs. This rigorous approach is designed to catch discrepancies before they reach your internal systems."
+            }
+
+        ]
+    },
     "data-enrichment-services": {
         "h2": "Benefits of Outsourcing Data Enrichment Services",
         "data": [
@@ -256,6 +292,51 @@
                 "id": 7,
                 "title": "Focus on Core Business Priorities",
                 "desc": "By outsourcing data enrichment, internal teams are freed from manual data maintenance, allowing organizations to focus on strategy, innovation, and revenue-generating initiatives."
+            }
+        ]
+    },
+    "mortgage-data-entry-support": {
+        "h2": "Delivery Framework Built for Mortgage Scale",
+        "data": [
+            {
+                "id": 1,
+                "title": "Mortgage-Specialized Professionals",
+                "desc": "Our specialists are fluent in industry-standard forms such as 1003, HUD-1, and Closing Disclosures. This expertise reduces errors commonly associated with non-specialized data entry."
+            },
+            {
+                "id": 2,
+                "title": "Operational Performance Tracking",
+                "desc": "We monitor Key Performance Indicators like Accuracy Rate and Turnaround Time in real-time. We provide transparent reporting to ensure your internal SLAs are consistently met."
+            },
+            {
+                "id": 3,
+                "title": "Workflow Integration Maturity",
+                "desc": "We integrate into your existing tech stack, including various Loan Origination Systems and proprietary portals. This minimizes disruption to your established internal processes."
+            },
+            {
+                "id": 4,
+                "title": "ISO-Aligned Security Infrastructure",
+                "desc": "All operations run within environments audited to ISO/IEC 27001:2022 standards. We prioritize data encryption, restricted access, and strict NDA protocols."
+            },
+            {
+                "id": 5,
+                "title": "Responsive Capacity Management",
+                "desc": "We scale resources up or down to protect your margins during market fluctuations. This elastic model allows you to manage peak seasons without the risk of long-term hiring commitments."
+            },
+            {
+                "id": 6,
+                "title": "Multi-Level Quality Assurance",
+                "desc": "Our process involves human-in-the-loop validation and double-keying. This rigorous approach is designed to catch discrepancies before they reach your internal systems."
+            },
+            {
+                "id": 7,
+                "title": "Cost-Efficient Operational Model",
+                "desc": "Outsourcing reduces fixed overhead while maintaining reliable, structured, and compliant data delivery for your organization."
+            },
+            {
+                "id": 8,
+                "title": "Long-Term Partnership Approach",
+                "desc": "We continuously refine workflows as lending regulations, county filing requirements, and mortgage products evolve."
             }
         ]
     },
