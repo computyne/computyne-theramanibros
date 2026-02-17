@@ -213,6 +213,52 @@
 			}
 		]
 	},
+	"ecommerce-product-data-entry-services": {
+		"cta": "Request a Free Consultation",
+		"faq": [
+			{
+				"title": "What are product data entry services?",
+				"desc": "Product data entry services involve capturing, structuring, and uploading product information into ecommerce platforms and marketplaces.",
+				"initActive": true
+			},
+			{
+				"title": "Can you upload products directly to our ecommerce platform?",
+				"desc": "Yes. We work within your backend systems or prepare bulk upload files aligned with platform requirements."
+			},
+			{
+				"title": "Do you handle bulk product uploads?",
+				"desc": "Yes. We manage large-scale SKU uploads using structured templates and validation workflows."
+			},
+			{
+				"title": "Can you standardize inconsistent product attributes?",
+				"desc": "Yes. We normalize attributes to maintain filter consistency and improve internal search functionality."
+			},
+			{
+				"title": "Is product data handled securely?",
+				"desc": "Yes. All workflows operate within secure environments aligned with ISO/IEC 27001:2022 standards."
+			},
+			{
+				"title": "Can you migrate product data between platforms?",
+				"desc": "Yes. We extract, transform, and map product data for seamless platform transitions."
+			},
+			{
+				"title": "Do you provide ongoing catalog update support?",
+				"desc": "Yes. We assist with pricing changes, inventory updates, and seasonal catalog refreshes."
+			},
+			{
+				"title": "Which platforms do you support?",
+				"desc": "We support all major marketplaces including Amazon, eBay, and Walmart, as well as standalone platforms like Magento, Shopify, and WooCommerce."
+			},
+			{
+				"title": "Can you help with product categorization?",
+				"desc": "Yes. We map products to logical taxonomies and browse nodes to ensure seamless navigation and faceted search optimization."
+			},
+			{
+				"title": "What turnaround times can you support?",
+				"desc": "Turnaround timelines are defined during onboarding and optimized based on catalog volume and complexity."
+			}
+		]
+	},
 	"data-collection-services": {
 		"cta": "Get a Free Consultation",
 		"faq": [
@@ -263,6 +309,45 @@
 			}
 		]
 	},
+	"mortgage-data-entry-support": {
+		"cta": "Get a Free Consultation",
+		"faq": [
+			{
+				"title": "What are mortgage data entry services?",
+				"desc": "These services involve the structured ingestion and organization of borrower, property, and foreclosure documentation. We convert disparate paper or digital files into validated, system-ready data for loan origination and servicing platforms.",
+				"initActive": true
+			},
+			{
+				"title": "2. How do you ensure data accuracy for institutional audits?",
+				"desc": "We maintain accuracy through trained specialists, standardized workflows, and multi-layer quality review protocols. Our process is designed to meet the rigorous audit standards of institutional lenders and secondary market investors."
+			},
+			{
+				"title": "3. Do you provide post-closing or foreclosure support?",
+				"desc": "Yes. We manage foreclosure records, post-closing documentation, indexing, and structured audit preparation. This includes the extraction of legal descriptions from verified county records."
+			},
+			{
+				"title": "4. Can you integrate with our specific Loan Origination System?",
+				"desc": "Yes. We integrate seamlessly with proprietary platforms and widely used mortgage processing platforms. Our team adapts to your specific system fields and formatting requirements to ensure that data is ready for ingestion."
+			},
+			{
+				"title": "5. Is borrower data secure throughout the process?",
+				"desc": "Yes. Operations align with ISO/IEC 27001:2022 and include strict access controls and confidentiality measures. We use encrypted data transfers and secure workstations to ensure that sensitive borrower information remains confidential at all times."
+			},
+			{
+				"title": "6. Can you handle high loan volumes during peak cycles?",
+				"desc": "Yes. Our scalable delivery model supports fluctuating pipelines and seasonal surges. We scale our team to meet your turnaround requirements without compromising data quality."
+			},
+			{
+				"title": "7. Can you manage foreclosure property listings and county data?",
+				"desc": "Yes. We extract and structure foreclosure property data directly from verified county records. This includes creating listings for VA, HUD, and bank foreclosure properties."
+			},
+			{
+				"title": "8. What turnaround times can you support for daily pipelines?",
+				"desc": "Turnaround timelines are defined during onboarding. We offer accelerated turnaround options, including overnight processing where applicable, to ensure your data is updated before your team begins daily operations."
+			}
+		]
+	},
+
 	"data-enrichment-services": {
 		"cta": "Request a Free Consultation",
 		"faq": [

@@ -1844,13 +1844,117 @@
         ],
         "overview": {
             "image": "/images/service/overview/ecommerce-catalog-management-services-overview.webp",
-            "alt": "",
+            "alt": "Infographic showing the flow of raw product data into an optimized eCommerce catalog.",
             "h2": "Strategic Data Governance for Scaling eCommerce Portals",
             "content": [
                 "A well-structured product catalog is the foundation of a frictionless customer journey. As digital inventories expand, maintaining cross-channel consistency, attribute normalization, and product lifecycle updates becomes an operational challenge. Inaccurate or fragmented catalog data directly impacts internal search relevance, navigation efficiency, and ultimately, conversion rates.",
                 "<h5>Computyne: Institutional Catalog Governance</h5> Computyne provides comprehensive catalog management solutions that synchronize digital inventory with operational goals through a managed delivery framework.",
                 "<ul style=\"padding-left:2rem;\"><li><strong>Catalog Building and Indexing:</strong> Establishing logical taxonomies and attribute structures to ensure intuitive storefront navigation.</li><li><strong>Catalog Content Enrichment:</strong> Normalizing and standardizing disparate manufacturer data into a unified, search-ready brand voice.</li><li><strong>Lifecycle and Maintenance Support:</strong> Executing real-time updates for seasonal refreshes, pricing shifts, and product discontinuations.</li><li><strong>Platform and PIM Synchronization:</strong> Ensuring unified catalog integrity across global marketplaces, standalone web stores, and PIM environments.</li></ul>",
                 "Our eCommerce Catalog Management Services transform static databases into dynamic, high-performing assets. By maintaining a single source of truth for your product data, we reduce operational friction and enhance storefront discoverability. This governance-first approach allows your internal teams to focus on category growth and marketing strategy while we manage the integrity of your digital assets."
+            ]
+        }
+    },
+    "ecommerce-product-data-entry-services": {
+        "banner": {
+            "image": "/images/service/banner/ecommerce-product-data-entry-services-banner.webp",
+            "alt": "A data entry specialist meticulously updating product specifications on an eCommerce dashboard.",
+            "h1": "eCommerce Product Data Entry Services",
+            "tagline": "Drive Online Conversions with Precision Product Listing and Data Management",
+            "cta": "Get a Custom Quote"
+        },
+        "counter": [
+            {
+                "label": "Years of Experience",
+                "value": "15",
+                "symbol": "+"
+            },
+            {
+                "label": "Skilled Professionals",
+                "value": "250",
+                "symbol": "+"
+            },
+            {
+                "label": "Data Security",
+                "value": "100",
+                "symbol": "%"
+            },
+            {
+                "label": "Cost Savings",
+                "value": "50",
+                "symbol": "%"
+            },
+            {
+                "label": "Data Support",
+                "value": "24",
+                "symbol": "x7"
+            },
+            {
+                "label": "Data Accuracy",
+                "value": "99.99",
+                "symbol": "%"
+            }
+        ],
+        "overview": {
+            "image": "/images/service/overview/ecommerce-product-data-entry-services-overvieew.webp",
+            "alt": "A flowchart representing the transformation of unstructured manufacturer data into optimized eCommerce product listings.",
+            "h2": "Operational Excellence for High-Volume Online Retail",
+            "content": [
+                "eCommerce enterprises manage massive datasets where data accuracy directly impacts customer trust and search visibility. Every product listing requires meticulous entry of titles, technical specifications, SKU details, pricing, and SEO-driven attributes. Discrepancies in product data lead to abandoned carts, high return rates, and diminished brand authority.",
+                "<h5>Computyne: Scalable Product Data Intelligence</h5>Computyne centralizes fragmented manufacturer data into optimized, system-ready product listings through a managed delivery framework.",
+                "<ul style=\"padding-left:2rem;\"><li><strong>Rapid Multi-Platform Uploads:</strong> Seamless data ingestion for major marketplaces and standalone platforms to ensure broad digital presence.</li><li><strong>Product Content Optimization:</strong> Enhancing titles, descriptions, and attributes to boost organic search discoverability and conversion rates.</li><li><strong>Rigorous Accuracy Controls:</strong> Multi-layer quality gates ensure precision across pricing, SKU mapping, and complex technical specifications.</li><li><strong>Ongoing Product Data Updates:</strong> Regular maintenance of pricing fluctuations and stock levels to ensure storefront reliability and operational agility.</li></ul>",
+                "By delivering validated product datasets, retailers can focus on marketing and supply chain execution while we manage listing accuracy. Our Product Data Entry Services convert unstructured manufacturer catalogs into normalized, search-ready records. This approach accelerates time-to-market for new collections while improving the overall shopping experience."
+            ]
+        }
+    },
+    "mortgage-data-entry-support": {
+        "banner": {
+            "image": "/images/service/banner/mortgage-data-entry-support-banner.webp",
+            "alt": "Mortgage data entry support services for lenders and financial institutions",
+            "h1": "Mortgage Data Entry Support",
+            "tagline": "Streamline Mortgage Operations with Secure, Scalable Data Entry Support",
+            "cta": "Get a Custom Quote"
+        },
+        "counter": [
+            {
+                "label": "Years of Experience",
+                "value": "15",
+                "symbol": "+"
+            },
+            {
+                "label": "Skilled Professionals",
+                "value": "250",
+                "symbol": "+"
+            },
+            {
+                "label": "Data Security",
+                "value": "100",
+                "symbol": "%"
+            },
+            {
+                "label": "Cost Savings",
+                "value": "50",
+                "symbol": "%"
+            },
+            {
+                "label": "Data Support",
+                "value": "24",
+                "symbol": "x7"
+            },
+            {
+                "label": "Data Accuracy",
+                "value": "99.99",
+                "symbol": "%"
+            }
+        ],
+        "overview": {
+            "image": "/images/service/overview/mortgage-data-entry-support-overview.webp",
+            "alt": "Mortgage data entry support for lenders, loan processors, and financial institutions",
+            "h2": "Operational Infrastructure for Institutional Mortgage Pipelines",
+            "content": [
+                "Mortgage lenders and loan processing firms operate in a high-stakes environment where pipeline delays impact revenue and operational agility. Document-intensive workflows containing borrower PII, income records, and regulatory disclosures require absolute precision. Manual errors or processing bottlenecks do not just slow down approvals. They create audit exposure and strain internal capacity.",
+                "<h5>Computyne: Scalable Mortgage Data Excellence</h5>Computyne centralizes fragmented loan documentation into system-ready assets through a mature delivery framework.",
+                "<ul style=\"padding-left:2rem;\"><li><strong>Mortgage Loan Application Data Entry:</strong> Rapid capture from 1003 applications, pay stubs, and W-2s to reduce underwriting review cycles.</li><li><strong>Foreclosure Data Management:</strong>Extraction of property identifiers and legal descriptions from county records to support default workflows.</li><li><strong>Process-Driven Accuracy:</strong> Multi-tier quality gates and double-keying protocols ensure rigorous data integrity for institutional audit readiness.</li><li><strong>Regulatory Alignment:</strong>Secure processing environments compliant with ISO/IEC 27001:2022 to protect sensitive borrower PII.</li></ul>",
+                "Our Mortgage Data Processing Services convert complex documentation into normalized records. Accurate data ingestion minimizes approval delays and enhances operational transparency across the loan lifecycle. By providing validated datasets, we empower lenders to focus on high-value underwriting and risk assessment instead of repetitive manual entry. This model allows your internal teams to pivot from administrative tasks to strategic decision-making and business growth."
             ]
         }
     },
@@ -1877,6 +1981,7 @@
             ]
         }
     },
+
     "video-annotation-services": {
         "banner": {
             "image": "/images/service/banner/video-annotation-services-banner.webp",

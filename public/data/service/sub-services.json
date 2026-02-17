@@ -4396,6 +4396,298 @@
             }
         ]
     },
+    "ecommerce-product-data-entry-services": {
+        "h2": "Specialized Product Data Entry Capabilities",
+        "desc": "End-to-end product data entry services designed for accuracy, speed, and seamless integration with enterprise systems.",
+        "services": [
+            {
+                "id": 1,
+                "title": "eCommerce Product Listing and Upload Services",
+                "desc": "We capture and structure product information for rapid deployment across global marketplaces and proprietary web stores.",
+                "url": "#",
+                "data": [
+                    {
+                        "value": "Entry of technical specifications, dimensions, and material details."
+                    },
+                    {
+                        "value": "Recording of accurate pricing, discount structures, and tax attributes."
+                    },
+                    {
+                        "value": "Systematic mapping of SKUs and UPC/EAN codes for inventory tracking."
+                    },
+                    {
+                        "value": "High-volume batch uploads using CSV or API-driven workflows."
+                    },
+                    {
+                        "value": "Custom attribute mapping for complex product variations."
+                    },
+                    {
+                        "value": "Ideal for: Multi-channel retailers and brand owners scaling their digital presence."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Product Description and Content Management",
+                "desc": "Rich, accurate product content is the primary driver of organic traffic and on-page conversions.",
+                "url": "#",
+                "data": [
+                    {
+                        "value": "Detailed entry of product features and verified benefit statements."
+                    },
+                    {
+                        "value": "Ingestion of customer reviews and FAQ data to build social proof."
+                    },
+                    {
+                        "value": "Writing and uploading of clear, informative product descriptions."
+                    },
+                    {
+                        "value": "Meta-tagging and image alt-text entry for enhanced search relevance."
+                    },
+                    {
+                        "value": "Structured data entry for comparison tables and technical data sheets."
+                    },
+                    {
+                        "value": "Ideal for: Retailers looking to improve SEO rankings and reduce bounce rates."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Price and Inventory Data Maintenance",
+                "desc": "Maintaining real-time accuracy in pricing and availability is critical for operational transparency and customer retention.",
+                "url": "#",
+                "data": [
+                    {
+                        "value": "Continuous monitoring and updating of product prices based on market trends."
+                    },
+                    {
+                        "value": "Entry of promotional pricing and seasonal discount codes."
+                    },
+                    {
+                        "value": "Real-time inventory level updates to reflect actual warehouse stock."
+                    },
+                    {
+                        "value": "Cross-selling and up-selling data entry to increase average order value."
+                    },
+                    {
+                        "value": "Competitor price monitoring data ingestion for strategic positioning."
+                    },
+                    {
+                        "value": "Ideal for: Dynamic platforms managing high-frequency pricing and stock shifts."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Product Categorization and Taxonomy Support",
+                "desc": "Logical product organization ensures a seamless navigation experience, allowing customers to find items quickly.",
+                "url": "#",
+                "data": [
+                    {
+                        "value": "Systematic classification of products into primary and sub-categories."
+                    },
+                    {
+                        "value": "Creation of intuitive navigational menus based on product attributes."
+                    },
+                    {
+                        "value": "Organizing tags and filters for faceted search optimization."
+                    },
+                    {
+                        "value": "Mapping products to correct marketplace-specific browse nodes."
+                    },
+                    {
+                        "value": "Ideal for: Online department stores and specialized retailers with deep catalogs."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Image and Multimedia Data Processing",
+                "desc": "Visual data is a vital component of the product listing that requires structured management and formatting.",
+                "url": "#",
+                "data": [
+                    {
+                        "value": "Uploading and indexing of high-resolution product imagery."
+                    },
+                    {
+                        "value": "Recording of video URLs and multimedia assets within the product CMS."
+                    },
+                    {
+                        "value": "Entry of image-specific metadata for better visual search indexing."
+                    },
+                    {
+                        "value": "Organizing 360-degree views and zoom-enabled product photos."
+                    },
+                    {
+                        "value": "Ideal for: Fashion, home decor, and luxury brands where visual detail is paramount."
+                    }
+                ]
+            }
+        ]
+    },
+    "mortgage-data-entry-support": {
+        "h2": "Specialized Mortgage Data Entry Capabilities",
+        "desc": "Accurate loan data capture, borrower verification, document indexing, compliance checks, and system-ready mortgage records management.",
+        "services": [
+            {
+                "id": 1,
+                "title": "Mortgage Loan Application Data Entry Services",
+                "desc": "Accurate capture and structuring of borrower information from initial applications and supporting documentation to accelerate the origination process.",
+                "url": "#",
+                "data": [
+                    {
+                        "value": "Entry of borrower and co-borrower personal identification details"
+                    },
+                    {
+                        "value": "Recording of employment history and verified income documentation"
+                    },
+                    {
+                        "value": "Structured capture of asset and liability data from primary sources"
+                    },
+                    {
+                        "value": "Credit information entry with comprehensive cross-verification"
+                    },
+                    {
+                        "value": "Formatting aligned with internal Loan Origination System requirements"
+                    },
+                    {
+                        "value": "Ideal for: Institutional lenders and brokers managing high-volume, multi-state pipelines"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Mortgage Document Data Entry and Indexing",
+                "desc": "Systematic recording and logical organization of extensive loan file documentation to ensure rapid retrieval and secondary market readiness.",
+                "url": "#",
+                "data": [
+                    {
+                        "value": "Entry of appraisal reports and property valuation data points"
+                    },
+                    {
+                        "value": "Capture of title documentation details and insurance coverage information"
+                    },
+                    {
+                        "value": "Recording of property tax details and disclosure acknowledgments"
+                    },
+                    {
+                        "value": "Structured document indexing and categorization for digital storage"
+                    },
+                    {
+                        "value": "Ongoing organization of files for audit readiness and investor review"
+                    },
+                    {
+                        "value": "Ideal for: Loan processing units and document management divisions"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Mortgage Underwriting and Financial Verification Support",
+                "desc": "Validated financial datasets designed to reduce manual underwriting review time and improve the accuracy of institutional lending decisions.",
+                "url": "#",
+                "data": [
+                    {
+                        "value": "Detailed entry of pay stubs, W-2 forms, and multi-year tax returns"
+                    },
+                    {
+                        "value": "Recording of bank statements and liquid asset documentation"
+                    },
+                    {
+                        "value": "Debt-to-income (DTI) and loan-to-value (LTV) ratio calculation support"
+                    },
+                    {
+                        "value": "Credit report data entry and structured trade-line summaries"
+                    },
+                    {
+                        "value": "Systematic compliance checklist documentation and exception flagging"
+                    },
+                    {
+                        "value": "Ideal for: Underwriting departments and institutional risk teams"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Foreclosure Data Entry and Default Management Support",
+                "desc": "Specialized data management solutions for non-performing loans, default notices, and high-pressure foreclosure workflows.",
+                "url": "#",
+                "data": [
+                    {
+                        "value": "Entry of default notices and legal filings from verified county records"
+                    },
+                    {
+                        "value": "Extraction of property identifiers, grantor names, and legal descriptions"
+                    },
+                    {
+                        "value": "Capture of loan type details and specific documentation references"
+                    },
+                    {
+                        "value": "Structured listing creation for VA, HUD, tax, and bank foreclosures"
+                    },
+                    {
+                        "value": "Documentation of REO (Real Estate Owned) property details in accessible formats"
+                    },
+                    {
+                        "value": "Ideal for: Default management departments and specialized foreclosure law firms"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Mortgage Back Office and Loan Boarding Support",
+                "desc": "Comprehensive back-office data management supporting the full mortgage lifecycle and long-term record integrity.",
+                "url": "#",
+                "data": [
+                    {
+                        "value": "Loan boarding data entry into core Mortgage Servicing Platforms"
+                    },
+                    {
+                        "value": "Secure database updates and record migration during portfolio transfers"
+                    },
+                    {
+                        "value": "Standardization and digitization of legacy mortgage loan data"
+                    },
+                    {
+                        "value": "Ongoing borrower record maintenance and account history updates"
+                    },
+                    {
+                        "value": "Regular data cleansing and periodic validation cycles to ensure accuracy"
+                    },
+                    {
+                        "value": "Ideal for: Financial institutions optimizing servicing and portfolio management"
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Closing and Post-Closing Data Processing Services",
+                "desc": "High-precision data entry during the closing phase to ensure funding readiness, regulatory alignment, and error-free file transfers.",
+                "url": "#",
+                "data": [
+                    {
+                        "value": "Entry of settlement statement details and final loan figures"
+                    },
+                    {
+                        "value": "Recording of final loan terms and mandatory disclosure acknowledgments"
+                    },
+                    {
+                        "value": "Verification of escrow balances and funding disbursement amounts"
+                    },
+                    {
+                        "value": "Post-closing document indexing and categorization for long-term storage"
+                    },
+                    {
+                        "value": "Preparation of audit-ready records for secondary market delivery requirements"
+                    },
+                    {
+                        "value": "Ideal for: Lenders requiring compliant, timely, and error-free loan closures"
+                    }
+                ]
+            }
+        ]
+    },
     "text-annotation-services": {
         "h2": "Text Annotation Solutions",
         "desc": "Structured text annotation services delivering accurate, scalable NLP training data for enterprise and production-ready AI models.",

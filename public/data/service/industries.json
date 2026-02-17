@@ -237,6 +237,100 @@
 
         ]
     },
+    "ecommerce-product-data-entry-services": {
+        "h2": "Industry-Focused Product Data Solutions We Deliver",
+        "industries": [
+            {
+                "id": 1,
+                "title": "Apparel and Fashion",
+                "desc": "Managing complex size and color variations, seasonal collections, image-rich catalogs, SKU accuracy, pricing updates, and fast marketplace uploads at scale.",
+                "img": "/images/industries-services/apparel-and-fashion.webp",
+                "alt": "eCommerce apparel and fashion product data management with size and color variations",
+                "url": "/ecommerce"
+            },
+            {
+                "id": 2,
+                "title": "Electronics and Tech",
+                "desc": "Accurate entry of technical specifications, compatibility matrices, warranty details, variant SKUs, regulatory attributes, and frequent model refresh updates at scale.",
+                "img": "/images/industries-services/electronics-and-tech.webp",
+                "alt": "Electronics and technology product data entry for technical specifications and variant SKUs",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Home Decor and Furniture",
+                "desc": "Managing detailed material descriptions, dimensions, assembly instructions, image-heavy catalogs, variant SKUs, shipping attributes, and seasonal collection updates accurately at scale.",
+                "img": "/images/industries-services/home-decor-and-furniture.webp",
+                "alt": "Home decor and furniture product data entry for dimensions, materials, and variant SKUs",
+                "url": ""
+            },
+            {
+                "id": 4,
+                "title": "Healthcare and Pharma",
+                "desc": "Precise management of ingredient lists, dosage information, regulatory compliance attributes, batch details, expiry tracking, and audit-ready documentation across platforms.",
+                "img": "/images/industries-services/healthcare-and-pharma.webp",
+                "alt": "",
+                "url": "/healthcare"
+            },
+            {
+                "id": 5,
+                "title": "B2B Industrial Supplies",
+                "desc": "Managing deep technical catalogs, part numbers, specification tables, bulk pricing tiers, cross-references, compliance attributes, and ERP-synchronized inventory updates accurately at scale.",
+                "img": "/images/industries-services/b2b-industrial-supplies.webp",
+                "alt": "B2B industrial supplies product data entry for part numbers and technical specifications",
+                "url": ""
+            }
+
+
+        ]
+    },
+    "mortgage-data-entry-support": {
+        "h2": "Industry-Focused Mortgage Data Solutions We Deliver",
+        "industries": [
+            {
+                "id": 1,
+                "title": "Mortgage Lenders",
+                "desc": "End-to-end data support across origination, underwriting, foreclosure, and compliant loan closure.",
+                "img": "/images/industries-services/apparel-and-fashion.webp",
+                "alt": "",
+                "url": ""
+            },
+            {
+                "id": 2,
+                "title": "Mortgage Brokers",
+                "desc": "Structured application processing and indexing designed to accelerate approvals.",
+                "img": "/images/industries-services/electronics-and-tech.webp",
+                "alt": "",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Loan Processing Companies",
+                "desc": "Back-office mortgage data management reducing operational workload and improving cycle efficiency.",
+                "img": "/images/industries-services/home-decor-and-furniture.webp",
+                "alt": "",
+                "url": ""
+            },
+            {
+                "id": 4,
+                "title": "Financial Institutions",
+                "desc": "Secure mortgage servicing data entry aligned with regulatory compliance and institutional audit standards.",
+                "img": "/images/industries-services/healthcare-and-pharma.webp",
+                "alt": "",
+                "url": ""
+            },
+            {
+                "id": 5,
+                "title": "Real Estate Service Providers",
+                "desc": "Data organization supporting property transactions, foreclosure tracking, and coordinated documentation.",
+                "img": "/images/industries-services/b2b-industrial-supplies.webp",
+                "alt": "",
+                "url": ""
+            }
+
+
+        ]
+    },
     "data-cleansing-services": {
         "h2": "Industries We Serve with Data Cleansing Services",
         "industries": [

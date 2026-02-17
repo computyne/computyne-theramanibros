@@ -5,6 +5,7 @@ import {Swiper, SwiperSlide} from "swiper/react";
 import ButtonPrimary from "./ButtonPrimary";
 import Team from "./Team";
 
+
 const Hero = () => {
     const [controlledMainSwiper, setControlledMainSwiper] = useState(null);
     const heroSlides = [
