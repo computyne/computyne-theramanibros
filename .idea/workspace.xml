@@ -5,26 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="Overview Changes">
-      <change afterPath="$PROJECT_DIR$/public/images/industries-services/apparel-and-fashion.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/industries-services/b2b-industrial-supplies.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/industries-services/electronics-and-tech.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/industries-services/healthcare-and-pharma.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/industries-services/home-decor-and-furniture.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/banner/ecommerce-product-data-entry-services-banner.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/banner/mortgage-data-entry-support-banner.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/overview/ecommerce-product-data-entry-services-overvieew.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/overview/mortgage-data-entry-support-overview.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/ecommerce-product-data-entry-services/page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/mortgage-data-entry-support/page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/libs/schema/services/ecommerceProductdataentryServicesSchema.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/libs/schema/services/mortgageDataentrySupportSchema.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/orgBlogs/main/ai-ocr-invoice-processing-automation-2026.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/orgBlogs/main/what-is-resume-parsing-a-beginners-guide-small.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/orgBlogs/main/what-is-resume-parsing-a-beginners-guide.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/blog-schema/ai-ocr-invoice-processing-automation-2026.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/service/faqs.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/service/faqs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/service/industries.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/service/industries.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/service/service-overview-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/service/service-overview-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/service/sub-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/service/sub-services.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/service/why-choose-us.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/service/why-choose-us.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/home-page/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/home-page/Hero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/data/blog-categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/blog-categories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/data/blogs.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/blogs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/service/banner/resume-formatting-banner.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/service/banner/resume-formatting-banner.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/service/overview/resume-formatting-overview.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/service/overview/resume-formatting-overview.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/ecommerce-product-data-entry-services/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/ecommerce-product-data-entry-services/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/mortgage-data-entry-support/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/mortgage-data-entry-support/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/blogHtmlData/accurate-invoice-data-entry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/blogHtmlData/ai-ocr-invoice-processing-automation-2026.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/blogHtmlData/what-is-resume-parsing-a-beginners-guide.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/blogHtmlData/what-is-resume-parsing-a-beginners-guide.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +69,7 @@
     "js.debugger.nextJs.config.created.client": "true",
     "js.debugger.nextJs.config.created.server": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/admin/IdeaProjects/computyne-theramanibros/src/libs/schema/services",
+    "last_opened_file_path": "C:/Users/admin/IdeaProjects/computyne-theramanibros/public/images/service/banner",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -88,11 +81,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\src\libs\schema\services" />
       <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\service\banner" />
       <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\service\overview" />
-      <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\src\app" />
-      <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\industries-services" />
+      <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\orgBlogs\main" />
+      <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\src\data\blog-schema" />
+      <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\src\libs\schema\services" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\industries-services" />
@@ -146,7 +139,8 @@
       <workItem from="1770898332640" duration="292000" />
       <workItem from="1770898662934" duration="5410000" />
       <workItem from="1771228434711" duration="15481000" />
-      <workItem from="1771325364948" duration="11207000" />
+      <workItem from="1771325364948" duration="13608000" />
+      <workItem from="1771405173402" duration="11918000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -308,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771325403748</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Overview Changes">
+      <option name="closed" value="true" />
+      <created>1771339614882</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1771339614882</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

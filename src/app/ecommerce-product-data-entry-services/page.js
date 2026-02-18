@@ -17,20 +17,21 @@ import {ecommerceProductdataentryServicesSchema} from "@/libs/schema/services/ec
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "eCommerce Catalog Management & Data Management Services | Computyne",
+    title: "eCommerce Product Data Entry Services | Accurate Catalog Management",
     description:
-        "Transform fragmented product data into high-performing assets. Computyne offers expert catalog building, data normalization, and PIM synchronization to scale your eCommerce storefront.",
+        "Professional eCommerce product data entry services for accurate listings, SKU management, and bulk catalog updates. Improve conversions with clean, optimized product data.",
 
     keywords: [
-        "eCommerce catalog management",
-        "product data management",
-        "catalog indexing services",
-        "outsourced catalog management",
-        "product taxonomy development",
-        "data normalization services",
-        "attribute mapping",
-        "PIM data synchronization",
-        "SKU enrichment",
+        "ecommerce product data entry services",
+        "product data entry for ecommerce",
+        "ecommerce catalog data entry",
+        "online product listing services",
+        "bulk product upload services",
+        "ecommerce catalog management services",
+        "product listing data entry",
+        "ecommerce data entry outsourcing",
+        "product data management services",
+        "ecommerce product upload services",
     ],
 
     alternates: {

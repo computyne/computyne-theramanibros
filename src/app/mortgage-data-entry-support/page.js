@@ -17,20 +17,21 @@ import {mortgageDataentrySupportSchema} from "@/libs/schema/services/mortgageDat
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "eCommerce Catalog Management & Data Management Services | Computyne",
+    title: "Mortgage Data Entry Support Services | Secure & Accurate Processing",
     description:
-        "Transform fragmented product data into high-performing assets. Computyne offers expert catalog building, data normalization, and PIM synchronization to scale your eCommerce storefront.",
+        "Professional mortgage data entry support for lenders and servicers. Ensure secure, accurate, and compliant loan data processing with scalable offshore teams.",
 
     keywords: [
-        "eCommerce catalog management",
-        "product data management",
-        "catalog indexing services",
-        "outsourced catalog management",
-        "product taxonomy development",
-        "data normalization services",
-        "attribute mapping",
-        "PIM data synchronization",
-        "SKU enrichment",
+        "mortgage data entry support",
+        "mortgage data entry services",
+        "loan data entry outsourcing",
+        "mortgage processing support services",
+        "mortgage back office services",
+        "mortgage document data entry",
+        "loan origination data entry",
+        "mortgage data management services",
+        "mortgage BPO services",
+        "real estate data entry services",
     ],
 
     alternates: {
