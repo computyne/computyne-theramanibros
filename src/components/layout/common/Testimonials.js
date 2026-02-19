@@ -35,7 +35,7 @@ const Testimonials = () => {
                 <div className="row">
                     <div className="col-lg-6">
                         <div
-                            className="contact-form style-3 wow fadeInUp"
+                            className="contact-form contact-form-mod style-3 wow fadeInUp"
                             data-wow-delay=".4s"
                         >
                             <div className="sec-heading style-4">

@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="Overview Changes">
-      <change afterPath="$PROJECT_DIR$/public/images/orgBlogs/main/ai-ocr-invoice-processing-automation-2026.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/orgBlogs/main/what-is-resume-parsing-a-beginners-guide-small.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/orgBlogs/main/what-is-resume-parsing-a-beginners-guide.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/blog-schema/ai-ocr-invoice-processing-automation-2026.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/blog-categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/blog-categories.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/blogs.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/blogs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/service/banner/resume-formatting-banner.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/service/banner/resume-formatting-banner.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/service/overview/resume-formatting-overview.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/service/overview/resume-formatting-overview.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/ecommerce-product-data-entry-services/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/ecommerce-product-data-entry-services/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/mortgage-data-entry-support/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/mortgage-data-entry-support/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/blogHtmlData/accurate-invoice-data-entry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/blogHtmlData/ai-ocr-invoice-processing-automation-2026.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/blogHtmlData/what-is-resume-parsing-a-beginners-guide.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/blogHtmlData/what-is-resume-parsing-a-beginners-guide.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +53,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "RB-Computyne",
+    "git-widget-placeholder": "main",
     "js.debugger.nextJs.config.created.client": "true",
     "js.debugger.nextJs.config.created.server": "true",
     "kotlin-language-version-configured": "true",

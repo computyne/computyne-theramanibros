@@ -82,23 +82,19 @@ const MobileNavbar = () => {
                                             <div className="mega-menu-pages-single-inner">
                                                 <div className="feature-box">
                                                     <div className="feature-content">
-                                                        <h2 className="title">Modern</h2>
-                                                        <span>Home Makeover</span>
+                                                        <h2 className="title">Validate</h2>
+                                                        <span style={{fontSize: "15px"}}>Quality Before You Commit.</span>
                                                         <Link
                                                             className="read-more feature-contact"
-                                                            href="tel:8321890640"
+                                                            href="/contact-us"
                                                         >
-                                                            <i className="tji-phone-3"></i>
-                                                            <span>+8 (321) 890-640</span>
+                                                            <span>Start a Free Pilot Project</span>
                                                         </Link>
                                                     </div>
                                                     <div className="feature-images">
-                                                        <Image
-                                                            src="/images/service/service-ad.webp"
-                                                            alt=""
-                                                            width={370}
-                                                            height={370}
-                                                        />
+                                                        {/* <img src="/images/service/menu-image.png" alt="" /> */}
+                                                        <img src="/images/service/img-menu-3rd.png" alt=""/>
+                                                        {/* service-ad */}
                                                     </div>
                                                 </div>
                                             </div>
