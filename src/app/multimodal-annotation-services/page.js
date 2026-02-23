@@ -20,7 +20,7 @@ export const metadata = {
 
     title: "Multimodal Annotation Services | AI & ML Training Data Experts | Computyne",
     description:
-        "High-quality multimodal annotation services by Computyne for AI and machine learning — accurate labeling of text, image, audio, and video data to enhance model performance and insights.",
+        "High-quality multimodal annotation services by Computyne for AI and machine learning, accurate labeling of text, image, audio, and video data to enhance model performance and insights.",
 
     keywords: [
         "multimodal annotation services",

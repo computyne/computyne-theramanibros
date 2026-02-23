@@ -1,5 +1,4 @@
 const htmlString = `
-        
     <style>
         /* Base Styles */
         * {
@@ -81,6 +80,7 @@ const htmlString = `
         p {
             margin-bottom: 15px;
         }
+
         code {
             background: #f4f4f4;
             padding: 2px 6px;
@@ -375,8 +375,9 @@ const htmlString = `
             }
         }
     </style>
-</head>
+
     <div class="container">
+
         <!-- LAYOUT -->
         <div class="slidebar-stickiy-container">
 
@@ -519,7 +520,7 @@ const htmlString = `
                 <section>
                     <h6>Step 1: Remove Duplicate Records in Excel</h6>
                     <p>Duplicate entries distort totals and skew calculations. Excel offers three primary ways to handle them:</p>
-                    
+
                     <p><strong>Method 1: Remove Duplicates Tool</strong></p>
                     <p>Go to <strong>Data → Remove Duplicates</strong>. Select your columns and confirm. Use this for fast, permanent cleanup.</p>
 
@@ -544,7 +545,7 @@ const htmlString = `
 
                 <section>
                     <h6>Step 3: Use Data Validation to Prevent Future Errors</h6>
-                    <p class="tip">Data validation can reduce data entry errors by <span class="stat">30% or more</span>.</p>
+                    <div class="tip">Data validation can reduce data entry errors by <span class="stat">30% or more</span>.</div>
                     <p>Set rules via <strong>Data → Data Validation</strong> to:</p>
                     <ul>
                         <li>Restrict numbers to specific ranges.</li>
@@ -586,7 +587,7 @@ const htmlString = `
                 <section>
                     <h6>Step 7: Automate with Power Query</h6>
                     <p>Power Query is the professional standard for scalable data management. It allows you to clean data once and simply click <strong>Refresh</strong> when new data arrives.</p>
-                    <p class="tip">Organizations often reduce manual cleanup by <span class="stat">up to 70%</span> using Power Query.</p>
+                    <div class="tip">Organizations often reduce manual cleanup by <span class="stat">up to 70%</span> using Power Query.</div>
                 </section>
 
                 <section>
@@ -677,7 +678,7 @@ const htmlString = `
 
                 <section>
                     <h6>1. Editing Raw Data Without Creating a Backup File</h6>
-                    <p class="warning">Never work on the original dataset. A single wrong sort, paste, or delete can corrupt your file permanently.</p>
+                    <div class="warning">Never work on the original dataset. A single wrong sort, paste, or delete can corrupt your file permanently.</div>
                     <div class="solution">
                         <strong>Always:</strong>
                         <ul>
@@ -715,7 +716,7 @@ const htmlString = `
 
                 <section>
                     <h6>4. Deleting Rows Without Understanding Dependencies or Hidden Data</h6>
-                    <p class="warning">Hasty deletions can break:</p>
+                    <div class="warning">Hasty deletions can break:</div>
                     <ul>
                         <li>Formulas &amp; References</li>
                         <li>Pivot tables &amp; Dashboards</li>
@@ -752,8 +753,13 @@ const htmlString = `
                     <li>Maintain clean, usable data year-round</li>
                 </ul>
                 <p>Clean data isn't just an operational task, it's a competitive advantage. The sooner you implement these steps, the faster your team will gain clarity, productivity, and decision-making power.</p>
+
             </div>
+            <!-- END .content -->
+
         </div>
+        <!-- END .slidebar-stickiy-container -->
+
         <!-- AUTHOR BIO -->
         <div class="author-bio-card">
             <div class="author-image">
@@ -769,7 +775,9 @@ const htmlString = `
                 </div>
             </div>
         </div>
+
     </div>
+    <!-- END .container -->
 `;
 
 export default htmlString;

@@ -1,5 +1,4 @@
 const htmlString = `
-    
     <style>
         /* Base Styles */
         * {
@@ -81,6 +80,7 @@ const htmlString = `
         p {
             margin-bottom: 15px;
         }
+
         code {
             background: #f4f4f4;
             padding: 2px 6px;
@@ -200,6 +200,56 @@ const htmlString = `
             margin-bottom: 30px;
         }
 
+        /* CTA Banner */
+        .cta-banner {
+            background-color: #3f5266;
+            background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), #3f5266);
+            background-size: cover;
+            background-position: center;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 40px 60px;
+            color: #ffffff;
+            margin: 40px 0;
+        }
+
+        .cta-content {
+            max-width: 60%;
+        }
+
+        .cta-content h2 {
+            font-size: 28px;
+            line-height: 1.4;
+            margin: 0;
+            font-weight: 700;
+            color: #ffffff;
+        }
+
+        .cta-button-container {
+            flex-shrink: 0;
+        }
+
+        .talk-to-experts-btn {
+            background-color: #f36523;
+            color: #ffffff;
+            padding: 16px 36px;
+            font-size: 18px;
+            font-weight: 600;
+            text-decoration: none;
+            border-radius: 6px;
+            display: inline-block;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+            border: none;
+            cursor: pointer;
+        }
+
+        .talk-to-experts-btn:hover {
+            background-color: #e63535;
+            transform: translateY(-2px);
+        }
+
         /* Author Bio Card */
         .author-bio-card {
             margin-top: 50px;
@@ -305,6 +355,21 @@ const htmlString = `
                 width: 50%;
             }
 
+            .cta-banner {
+                flex-direction: column;
+                text-align: center;
+                padding: 30px;
+            }
+
+            .cta-content {
+                max-width: 100%;
+                margin-bottom: 25px;
+            }
+
+            .cta-content h2 {
+                font-size: 22px;
+            }
+
             .author-bio-card {
                 flex-direction: column;
                 padding: 20px;
@@ -375,13 +440,14 @@ const htmlString = `
             }
         }
     </style>
-</head>
+
     <div class="container">
+
         <!-- LAYOUT -->
         <div class="slidebar-stickiy-container">
 
-        <!-- TABLE OF CONTENTS -->
-        <div class="slidebar-stickiy slidebar-stickiy-left">
+            <!-- TABLE OF CONTENTS -->
+            <div class="slidebar-stickiy slidebar-stickiy-left">
                 <h3>📌 Table of Contents</h3>
                 <ul>
                     <li><a href="#intro">The Automation Illusion</a></li>
@@ -391,40 +457,40 @@ const htmlString = `
                     <li><a href="#computyne">Why Computyne?</a></li>
                     <li><a href="#conclusion">The Path Forward</a></li>
                 </ul>
-        </div>
+            </div>
 
-        <!-- CONTENT -->
-         <div class="content">
+            <!-- CONTENT -->
+            <div class="content">
 
                 <section id="intro">
                     <h2>The Accuracy Ceiling: Why 100% AI Automation Struggles with Complex Property Records</h2>
                     <p>In 2026, the real estate industry moves at a breakneck pace. From predictive analytics to automated valuation models (AVMs), technology is the engine of the modern property market. However, as firms rush to automate every facet of their operations, a dangerous trend has emerged: <strong>the over-reliance on 100% automated AI data entry.</strong></p>
-                    
+
                     <div class="tip">
                         <strong>The 2026 Reality Check:</strong> While Artificial Intelligence has made quantum leaps in natural language processing (NLP), the "set it and forget it" mentality in data management is leading to costly legal disputes and corrupted databases.
                     </div>
-                    
-                    <p>The solution isn’t to abandon AI, but to embrace the <strong>Human-in-the-Loop (HITL)</strong> model. By combining the raw processing power of machine learning with the nuanced judgment of human specialists, real estate firms can finally achieve the "Golden Record" of data integrity.</p>
+
+                    <p>The solution isn't to abandon AI, but to embrace the <strong>Human-in-the-Loop (HITL)</strong> model. By combining the raw processing power of machine learning with the nuanced judgment of human specialists, real estate firms can finally achieve the "Golden Record" of data integrity.</p>
                 </section>
 
                 <section id="fails">
                     <h3>The AI "Accuracy Ceiling" in Property Documentation</h3>
                     <p>Real estate documentation is far messier than a clean digital spreadsheet. Pure automation often hits a ceiling when encountering the following real-world scenarios:</p>
-                    
+
                     <h5>1. Legacy Documents and Handwritten Deeds</h5>
                     <p>Property rights are often dictated by documents recorded decades ago. <strong>Handwritten scripts</strong> vary wildly; even advanced OCR struggles to differentiate between a "7" and a "1" or a "B" and an "8" in faded ink. A human specialist can interpret intent where a machine sees noise.</p>
 
                     <h5>2. Complex Legal Descriptions</h5>
-                    <p>Real estate data isn't just numbers; it’s nuances. Legal descriptions involving metes and bounds or easements require a level of comprehension that AI cannot yet replicate. If an AI misinterprets a "point of beginning," the entire data set becomes a legal liability.</p>
+                    <p>Real estate data isn't just numbers; it's nuances. Legal descriptions involving metes and bounds or easements require a level of comprehension that AI cannot yet replicate. If an AI misinterprets a "point of beginning," the entire data set becomes a legal liability.</p>
 
                     <div class="warning">
-                        <strong>Warning: AI Hallucinations.</strong> Modern LLMs are designed to be predictive. When they encounter a gap in a property’s chain of title, they may "hallucinate" a logical-sounding filler to complete the pattern, a nightmare for title companies.
+                        <strong>Warning: AI Hallucinations.</strong> Modern LLMs are designed to be predictive. When they encounter a gap in a property's chain of title, they may "hallucinate" a logical-sounding filler to complete the pattern, a nightmare for title companies.
                     </div>
                 </section>
 
                 <section id="hitl">
                     <h3>Defining the Human-in-the-Loop (HITL) Model</h3>
-                    <p>HITL isn't about doing things the "old way." It’s about a <strong>Hybrid Workflow</strong> that optimizes the strengths of both parties:</p>
+                    <p>HITL isn't about doing things the "old way." It's about a <strong>Hybrid Workflow</strong> that optimizes the strengths of both parties:</p>
                     <ul>
                         <li><strong>Machine Extraction (The Sprint):</strong> AI tools perform the initial pass, extracting dates, names, and addresses at high speed.</li>
                         <li><strong>Human Verification (The Judge):</strong> A specialist reviews "low confidence" scores, interpreting signatures and complex legal clauses.</li>
@@ -472,7 +538,7 @@ const htmlString = `
                 <section id="computyne">
                     <h3>Strategic Spotlight: Why Outsource to Computyne?</h3>
                     <p>Navigating the balance between AI speed and human precision requires a specialized partner. <a href="https://www.computyne.com" style="color: #f36523; font-weight: bold;">Computyne</a> stands at the forefront of this hybrid revolution, offering tech-enabled workforce solutions tailored for the property sector.</p>
-                    
+
                     <div class="solution">
                         <h6>The Computyne Advantage:</h6>
                         <ul>
@@ -483,38 +549,45 @@ const htmlString = `
                         </ul>
                     </div>
 
-                    <div class="cta-banner" style="background-color: #3f5266; background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), #3f5266); border-radius: 12px; display: flex; align-items: center; justify-content: space-between; padding: 40px 60px; color: #ffffff; margin: 40px 0;">
-                        <div class="cta-content" style="max-width: 60%;">
-                            <h2 style="color: #ffffff; font-size: 28px; margin: 0;">Secure 99.9% Accuracy Today</h2>
+                    <div class="cta-banner">
+                        <div class="cta-content">
+                            <h2>Secure 99.9% Accuracy Today</h2>
                         </div>
                         <div class="cta-button-container">
-                            <a href="https://www.computyne.com/contact-us" class="talk-to-experts-btn" style="background-color: #f36523; color: #ffffff; padding: 16px 36px; font-size: 18px; font-weight: 600; text-decoration: none; border-radius: 6px; display: inline-block;">Talk to Experts</a>
+                            <a href="https://www.computyne.com/contact-us" class="talk-to-experts-btn">Talk to Experts</a>
                         </div>
                     </div>
                 </section>
 
                 <section id="conclusion">
                     <h2>Conclusion: The Path Forward</h2>
-                    <p>The transformation of <strong>real estate data entry</strong> in 2026 is no longer about "going digital", it’s about going autonomous without losing integrity. By integrating the Human-in-the-Loop model, businesses protect themselves from liability and gain a decisive competitive edge.</p>
+                    <p>The transformation of <strong>real estate data entry</strong> in 2026 is no longer about "going digital", it's about going autonomous without losing integrity. By integrating the Human-in-the-Loop model, businesses protect themselves from liability and gain a decisive competitive edge.</p>
                 </section>
-</div>
-</div>
-                <div class="author-bio-card">
-                    <div class="author-image">
-                        <div>
-                            <img src="/images/team/ravindar.webp" alt="Ravinder Singh">
-                        </div>
-                    </div>
-                    <div class="bio-content">
-                        <h3>Ravinder Singh</h3>
-                        <p>Ravinder Singh is Head of Business Development and Marketing at Computyne. He leads strategic growth initiatives, delivering comprehensive data outsourcing solutions that power global AI programs and complex real estate enterprise operations.</p>
-                        <div class="social-links">
-                            <a href="https://www.linkedin.com/in/ravinder-s-08117313b/">LinkedIn ↗</a>
-                        </div>
-                        </div>
-                        </div>
 
-        
+            </div>
+            <!-- END .content -->
+
+        </div>
+        <!-- END .slidebar-stickiy-container -->
+
+        <!-- AUTHOR BIO CARD -->
+        <div class="author-bio-card">
+            <div class="author-image">
+                <div>
+                    <img src="/images/team/ravindar.webp" alt="Ravinder Singh">
+                </div>
+            </div>
+            <div class="bio-content">
+                <h3>Ravinder Singh</h3>
+                <p>Ravinder Singh is Head of Business Development and Marketing at Computyne. He leads strategic growth initiatives, delivering comprehensive data outsourcing solutions that power global AI programs and complex real estate enterprise operations.</p>
+                <div class="social-links">
+                    <a href="https://www.linkedin.com/in/ravinder-s-08117313b/">LinkedIn ↗</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- END .container -->
 `;
 
 export default htmlString;
