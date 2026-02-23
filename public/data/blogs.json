@@ -178,17 +178,22 @@
 		"day": 8,
 		"month": "JAN",
 		"category": "Freight Audit",
-		"tags": ["#Outsourcing", "BusinessEfficiency", "FreightAudit", "FreightManagement", "InHouseVsOutsource", "LogisticsSolutions", "SupplyChainManagement"],
+		"tags": ["Freight Audit", "Logistics Cost Management", "Outsourcing vs In-House", "Transportation Accounting", "Freight Bill Audit", "Supply Chain Optimization", "Cost Reduction Strategies", "Logistics Operations", "Freight Spend Analytics", "Audit & Compliance"],
 		"author": "Ravinder Singh",
 		"meta": {
-			"metaTitle": "Resume Formatting Services Australia: 30-Minute Turnaround | Computyne",
-			"metaDescription": "See how Computyne helped an Australian recruitment firm streamline operations with a 30-minute resume formatting turnaround. We deliver ATS-ready, professional CVs.",
+			"metaTitle": "Outsource vs In-House Freight Audit: ROI Comparison Guide",
+			"metaDescription": "Compare outsourced vs in-house freight audit to see which delivers better ROI, lower costs, higher accuracy, and scalable control over freight spend.",
 			"keywords": [
-				"Resume Formatting Services Australia",
-				"ATS Resume Conversion",
-				"Recruitment Back Office Support",
-				"CV Formatting Outsourcing",
-				"High-Volume Resume Processing"
+				"outsourced freight audit",
+				"in-house freight audit",
+				"freight audit ROI comparison",
+				"freight audit and payment services",
+				"logistics cost reduction",
+				"freight spend management",
+				"transportation audit services",
+				"freight bill auditing",
+				"logistics process optimization",
+				"supply chain cost control"
 			],
 			"canonical": "https://www.computyne.com/blog/outsource-vs-inhouse-freight-audit-roi-comparison"
 		}
@@ -197,31 +202,68 @@
 
     {
 		"id": 7,
-        "slug": "outsource-real-estate-data-entry",
-		"title": "Why You Should Outsource Real Estate Data Entry: A Smart Move for Your Business",
-		"img": "/images/orgBlogs/main/outsource-real-estate-data-entry.jpg",
-		"detailsImg": "/images/orgBlogs/main/outsource-real-estate-data-entry.jpg",
-		"smallImg": "/images/orgBlogs/main/outsource-real-estate-data-entry.jpg",
+        "slug": "real-estate-data-collection-use-cases-and-sources",
+		"title": "Real Estate Data Collection: Top 7 Use Cases & Major Data Sources",
+		"img": "/images/orgBlogs/main/real-estate-data-collection-use-cases-and-sources-banner.webp",
+		"detailsImg": "/images/orgBlogs/main/real-estate-data-collection-use-cases-and-sources-blogdetails.webp",
+		"smallImg": "/images/orgBlogs/main/real-estate-data-collection-use-cases-and-sources.webp",
 		"desc": "",
-		"date": "10 APR 2025",
-		"date2": "April 10, 2025",
-		"day": 10,
-		"month": "APR",
-		"category": "Corporate",
-		"tags": ["data entry outsourcing company", "Outsource Data Entry", "outsource invoice processing services", "Outsource Real Estate"],
+		"date": "29 OCT 2025",
+		"date2": "October 29, 2025",
+		"day": 29,
+		"month": "OCT",
+		"category": "Data Collection",
+		"tags": ["Real Estate Data", "Property Data", "Data Collection", "Real Estate Analytics", "Market Intelligence", "Property Research", "Real Estate Technology", "Data Extraction", "Real Estate Insights", "PropTech"],
 		"author": "Ravinder Singh",
 		"meta": {
-			"metaTitle": "Resume Formatting Services Australia: 30-Minute Turnaround | Computyne",
-			"metaDescription": "See how Computyne helped an Australian recruitment firm streamline operations with a 30-minute resume formatting turnaround. We deliver ATS-ready, professional CVs.",
+			"metaTitle": "Real Estate Data Collection Guide: Use Cases, Sources & Benefits",
+			"metaDescription": "Explore real estate data collection, top 7 use cases, major data sources, and how accurate property data drives smarter investment, valuation, and market decisions.",
 			"keywords": [
-				"Resume Formatting Services Australia",
-				"ATS Resume Conversion",
-				"Recruitment Back Office Support",
-				"CV Formatting Outsourcing",
-				"High-Volume Resume Processing"
+				"real estate data collection",
+				"property data collection",
+				"real estate data sources",
+				"real estate market data",
+				"real estate data analytics",
+				"property data management",
+				"real estate data extraction",
+				"real estate data services",
+				"real estate market intelligence",
+				"real estate data processing"
+			],
+			"canonical": "https://www.computyne.com/blog/real-estate-data-collection-use-cases-and-sources"
+		}
+	},
+	{
+		"id": 8,
+		"slug": "outsource-real-estate-data-entry",
+		"title": "Stop Overpaying for Admin: The ROI of Outsourced Real Estate Data Entry",
+		"img": "/images/orgBlogs/main/outsource-real-estate-data-entry.webp",
+		"detailsImg": "/images/orgBlogs/main/outsource-real-estate-data-entry.webp",
+		"smallImg": "/images/orgBlogs/main/outsource-real-estate-data-entry.webp",
+		"desc": "",
+		"date": "12 OCT 2025",
+		"date2": "October 12, 2025",
+		"day": 12,
+		"month": "OCT",
+		"category": "Real Estate Data Entry",
+		"tags": ["Real Estate Data Entry", "Data Entry Outsourcing", "Real Estate Operations", "Back Office Support", "Real Estate Process Optimization", "Cost Reduction", "Business Efficiency", "Property Data Management", "Real Estate Technology", "Outsourced Data Services"],
+		"author": "Ravinder Singh",
+		"meta": {
+			"metaTitle": "ROI of Outsourced Real Estate Data Entry | Cut Admin Costs",
+			"metaDescription": "Discover how outsourced real estate data entry reduces admin costs, improves accuracy, and delivers measurable ROI for brokers, lenders, and property firms.",
+			"keywords": [
+				"outsourced real estate data entry",
+				"real estate data entry services",
+				"real estate outsourcing ROI",
+				"reduce admin costs real estate",
+				"property data management services",
+				"real estate back office outsourcing",
+				"real estate data processing",
+				"real estate operations optimization",
+				"real estate cost reduction strategies",
+				"real estate data accuracy"
 			],
 			"canonical": "https://www.computyne.com/blog/outsource-real-estate-data-entry"
 		}
 	}
-    
 ]

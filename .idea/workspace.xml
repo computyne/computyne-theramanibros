@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="Overview Changes">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog/5-Key-Ways-Outsourcing-Delivers-Massive-ROI-2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog/Critical-Real-Estate-Data-Tasks-You-Should-Outsource-3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog/outsourced-real-estate-data-entry-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/orgBlogs/main/outsource-real-estate-data-entry.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/orgBlogs/main/real-estate-data-collection-use-cases-and-sources-banner.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/orgBlogs/main/real-estate-data-collection-use-cases-and-sources-blogdetails.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/blogHtmlData/real-estate-data-collection-use-cases-and-sources.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/data/blogs.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/blogs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/blogHtmlData/outsource-real-estate-data-entry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/blogHtmlData/outsource-real-estate-data-entry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/blogHtmlData/outsource-vs-inhouse-freight-audit-roi-comparison.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/blogHtmlData/outsource-vs-inhouse-freight-audit-roi-comparison.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +63,11 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "RB-Computyne",
     "js.debugger.nextJs.config.created.client": "true",
     "js.debugger.nextJs.config.created.server": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/admin/IdeaProjects/computyne-theramanibros/public/images/service/banner",
+    "last_opened_file_path": "C:/Users/admin/IdeaProjects/computyne-theramanibros/public/images/orgBlogs/main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,11 +79,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\orgBlogs\main" />
+      <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\blog" />
+      <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\src\data\blogHtmlData" />
       <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\service\banner" />
       <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\service\overview" />
-      <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\orgBlogs\main" />
-      <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\src\data\blog-schema" />
-      <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\src\libs\schema\services" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\industries-services" />
@@ -129,6 +139,9 @@
       <workItem from="1771228434711" duration="15481000" />
       <workItem from="1771325364948" duration="13608000" />
       <workItem from="1771405173402" duration="11918000" />
+      <workItem from="1771590798268" duration="334000" />
+      <workItem from="1771662716755" duration="7565000" />
+      <workItem from="1771845892184" duration="8419000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -298,7 +311,23 @@
       <option name="project" value="LOCAL" />
       <updated>1771339614882</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Overview Changes">
+      <option name="closed" value="true" />
+      <created>1771670675102</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1771670675102</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Overview Changes">
+      <option name="closed" value="true" />
+      <created>1771847908934</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1771847908934</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
