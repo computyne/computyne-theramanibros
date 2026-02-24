@@ -33,10 +33,7 @@ const BlogCard1 = ({blog, idx}) => {
             <div className="blog-content">
                 <div className="blog-meta">
 					<span className="categories">
-						<Link href={`/blogs?category=${makePath(category)}`}>
-							{" "}
-                            {category}
-						</Link>
+						{category}
 					</span>
                     {/* <span>
 						By <Link href={`/blogs/${id}`}>Ellinien Loma</Link>

@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="Overview Changes">
-      <change afterPath="$PROJECT_DIR$/public/images/blog/5-Key-Ways-Outsourcing-Delivers-Massive-ROI-2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/Critical-Real-Estate-Data-Tasks-You-Should-Outsource-3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/outsourced-real-estate-data-entry-1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/orgBlogs/main/outsource-real-estate-data-entry.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/orgBlogs/main/real-estate-data-collection-use-cases-and-sources-banner.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/orgBlogs/main/real-estate-data-collection-use-cases-and-sources-blogdetails.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/blogHtmlData/real-estate-data-collection-use-cases-and-sources.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/blogs.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/blogs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/blogHtmlData/outsource-real-estate-data-entry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/blogHtmlData/outsource-real-estate-data-entry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/blogHtmlData/outsource-vs-inhouse-freight-audit-roi-comparison.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/blogHtmlData/outsource-vs-inhouse-freight-audit-roi-comparison.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="RBYR-about-us-how-we-work-feature" />
+    <option name="BRANCH" value="RB-Computyne" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -39,12 +29,12 @@
     &quot;assignee&quot;: &quot;ramanibros&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/computyne/computyne-theramanibros.git&quot;,
-    &quot;accountId&quot;: &quot;86b1841b-671d-4066-9f56-a9be7c96aa97&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/computyne/computyne-theramanibros.git",
+    "accountId": "a62d60aa-470d-4615-8eca-44bf5b12ab63"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/libs/schema/services/ecommerceCatalogmanagementServicesSchema.js" root0="SKIP_INSPECTION" />
   </component>
@@ -56,27 +46,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "RB-Computyne",
-    "js.debugger.nextJs.config.created.client": "true",
-    "js.debugger.nextJs.config.created.server": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/admin/IdeaProjects/computyne-theramanibros/public/images/orgBlogs/main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/home/cs-admin/Programs/idea-IU-253.30387.90/plugins/javascript-plugin/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
+    &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/IdeaProjects/computyne-theramanibros/public/images/orgBlogs/main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/cs-admin/Programs/idea-IU-253.30387.90/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\IdeaProjects\computyne-theramanibros\public\images\orgBlogs\main" />
@@ -91,7 +81,7 @@
       <recent name="$PROJECT_DIR$/public/images/footer" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Next.js: debug client-side">
+  <component name="RunManager">
     <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
       <method v="2" />
     </configuration>
@@ -110,7 +100,6 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
       </set>
     </attachedChunks>
   </component>
@@ -338,6 +327,7 @@
       <map>
         <entry key="12f552cb-ff4f-4ede-8bf8-e9b0294c2f07" value="TOOL_WINDOW" />
         <entry key="6320684b-93d4-43ae-870c-6580b3c62d83" value="TOOL_WINDOW" />
+        <entry key="878b5d6a-b40e-4c19-b38b-4ceaf4b7b684" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="TAB_STATES">
@@ -368,6 +358,31 @@
           </value>
         </entry>
         <entry key="6320684b-93d4-43ae-870c-6580b3c62d83">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="878b5d6a-b40e-4c19-b38b-4ceaf4b7b684">
           <value>
             <State>
               <option name="FILTERS">
