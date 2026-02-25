@@ -40,7 +40,7 @@ const CaseStudyCard = ({casestudy, idx}) => {
 					</span> */}
                     {category.map((cat, index) => (
                         <span className="categories" key={cat}>
-							<Link href='#'>
+							<Link href="#">
 								{cat}
 							</Link>
 						</span>
