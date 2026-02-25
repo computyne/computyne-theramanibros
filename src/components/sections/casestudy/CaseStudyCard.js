@@ -40,9 +40,9 @@ const CaseStudyCard = ({casestudy, idx}) => {
 					</span> */}
                     {category.map((cat, index) => (
                         <span className="categories" key={cat}>
-							<Link href="#">
-								{cat}
-							</Link>
+							<Link href="" scroll={false}>
+                              {cat}
+                            </Link>
 						</span>
                     ))}
                 </div>

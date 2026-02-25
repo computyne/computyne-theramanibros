@@ -33,7 +33,12 @@ const BlogCard1 = ({blog, idx}) => {
             <div className="blog-content">
                 <div className="blog-meta">
 					<span className="categories">
-						{category}
+						<Link
+                          href="#"
+                          scroll={false}
+                        >
+                          {category}
+                        </Link>
 					</span>
                     {/* <span>
 						By <Link href={`/blogs/${id}`}>Ellinien Loma</Link>
