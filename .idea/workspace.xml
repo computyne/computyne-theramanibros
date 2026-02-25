@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="blog category link removed">
+    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="casestudy category link removed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/casestudy/CaseStudyCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/casestudy/CaseStudyCard.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -325,7 +324,31 @@
       <option name="project" value="LOCAL" />
       <updated>1771919431774</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="casestudy category link removed">
+      <option name="closed" value="true" />
+      <created>1772023603665</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1772023603666</updated>
+    </task>
+    <task id="LOCAL-00026" summary="casestudy category link removed">
+      <option name="closed" value="true" />
+      <created>1772023619048</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1772023619048</updated>
+    </task>
+    <task id="LOCAL-00027" summary="casestudy category link removed">
+      <option name="closed" value="true" />
+      <created>1772024862918</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1772024862918</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,6 +463,7 @@
     <MESSAGE value="Blog and casestudy metadata added" />
     <MESSAGE value="Overview Changes" />
     <MESSAGE value="blog category link removed" />
-    <option name="LAST_COMMIT_MESSAGE" value="blog category link removed" />
+    <MESSAGE value="casestudy category link removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="casestudy category link removed" />
   </component>
 </project>

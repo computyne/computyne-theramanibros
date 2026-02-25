@@ -34,7 +34,7 @@ const BlogCard1 = ({blog, idx}) => {
                 <div className="blog-meta">
 					<span className="categories">
 						<Link
-                          href="#"
+                          href=""
                           scroll={false}
                         >
                           {category}
