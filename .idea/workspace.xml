@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="Overview Changes">
+    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="blog category link removed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/casestudy/CaseStudyCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/casestudy/CaseStudyCard.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +30,12 @@
     &quot;assignee&quot;: &quot;ramanibros&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/computyne/computyne-theramanibros.git",
-    "accountId": "a62d60aa-470d-4615-8eca-44bf5b12ab63"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/computyne/computyne-theramanibros.git&quot;,
+    &quot;accountId&quot;: &quot;a62d60aa-470d-4615-8eca-44bf5b12ab63&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/libs/schema/services/ecommerceCatalogmanagementServicesSchema.js" root0="SKIP_INSPECTION" />
   </component>
@@ -316,7 +317,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771847908934</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="blog category link removed">
+      <option name="closed" value="true" />
+      <created>1771919431774</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1771919431774</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -430,6 +439,7 @@
     <MESSAGE value="Responsive issue and some extra link removed" />
     <MESSAGE value="Blog and casestudy metadata added" />
     <MESSAGE value="Overview Changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Overview Changes" />
+    <MESSAGE value="blog category link removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="blog category link removed" />
   </component>
 </project>
