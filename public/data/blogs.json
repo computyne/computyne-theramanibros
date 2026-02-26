@@ -1,6 +1,38 @@
 [
 	{
 		"id": 1,
+		"slug": "human-oversight-in-automated-invoice-processing",
+		"title": "Where AI Makes Mistakes in Invoice Validation - and How Humans Fix Them",
+		"img": "/images/orgBlogs/main/human-oversight-in-automated-invoice-processing.webp",
+		"detailsImg": "/images/orgBlogs/main/human-oversight-in-automated-invoice-processing.webp",
+		"smallImg": "/images/orgBlogs/main/human-oversight-in-automated-invoice-processing.webp",
+		"desc": "",
+		"date": "26 Feb 2026",
+		"date2": "February 26, 2026",
+		"day": 26,
+		"month": "FEB",
+		"category": "Invoice Processing",
+		"tags": ["AP Automation", "Artificial Intelligence", "Invoice Processing", "Financial Risk Management", "Data Accuracy Compliance", "Human-in-the-Loop", "Digital Transformation"],
+		"author": "By: Ravinder Singh",
+		"meta": {
+			"metaTitle": "Why AI Fails at Invoice Validation and How Human-in-the-Loop Fixes It",
+			"metaDescription": "AI promises touchless accounts payable, but OCR errors and tax complexities create hidden risks. Learn the 5 common AI invoice mistakes and why a Human-in-the-Loop (HITL) workflow is the only way to ensure 100% accuracy and compliance.",
+			"keywords": [
+				"AI Invoice Validation",
+				"Accounts Payable Automation",
+				"Human-in-the-Loop (HITL)",
+				"Invoice Data Extraction Errors",
+				"Automated Three-Way Matching",
+				"Fraud Detection in AP",
+				"OCR Accuracy in Finance",
+				"Invoice Compliance"
+
+			],
+			"canonical": "https://www.computyne.com/blog/human-oversight-in-automated-invoice-processing"
+		}
+	},
+	{
+		"id": 1,
         "slug": "how-to-cleanse-data-in-excel",
 		"title": "How to Cleanse Data in Excel Like a Pro: Step-by-Step Guide",
 		"img": "/images/orgBlogs/main/how-to-cleanse-data-in-excel.png",
