@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="casestudy category link removed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="14e9ecd0-048c-4997-b67b-1601b8077b9e" name="Changes" comment="commit test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,12 +27,12 @@
     &quot;assignee&quot;: &quot;ramanibros&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/computyne/computyne-theramanibros.git&quot;,
-    &quot;accountId&quot;: &quot;a62d60aa-470d-4615-8eca-44bf5b12ab63&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/computyne/computyne-theramanibros.git",
+    "accountId": "2d2b0c09-e1f3-45c2-8066-7c9b55d93e69"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/libs/schema/services/ecommerceCatalogmanagementServicesSchema.js" root0="SKIP_INSPECTION" />
   </component>
@@ -134,6 +132,7 @@
       <workItem from="1771845892184" duration="8419000" />
       <workItem from="1772709858437" duration="845000" />
       <workItem from="1772711098872" duration="79000" />
+      <workItem from="1772711302210" duration="575000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -351,7 +350,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772024862918</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="commit test">
+      <option name="closed" value="true" />
+      <created>1772711723750</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1772711723751</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,6 +474,7 @@
     <MESSAGE value="Overview Changes" />
     <MESSAGE value="blog category link removed" />
     <MESSAGE value="casestudy category link removed" />
-    <option name="LAST_COMMIT_MESSAGE" value="casestudy category link removed" />
+    <MESSAGE value="commit test" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit test" />
   </component>
 </project>
