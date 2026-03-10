@@ -41,32 +41,27 @@ const BlogSidebar = ({tags = []}) => {
                                 <div className="row wow fadeInUp" data-wow-delay=".5s">
                                     <div className="col-sm-12">
                                         <div className="form-input">
-                                            <label className="cf-label">Full Name *</label>
-                                            <input type="text" name="cfName"/>
+                                            <input type="text" name="cfName" placeholder="Full Name *"/>
                                         </div>
                                     </div>
                                     <div className="col-sm-12">
                                         <div className="form-input">
-                                            <label className="cf-label">Email Address *</label>
-                                            <input type="email" name="cfEmail"/>
+                                            <input type="email" name="cfEmail" placeholder="Email Address *"/>
                                         </div>
                                     </div>
                                     <div className="col-sm-12">
                                         <div className="form-input">
-                                            <label className="cf-label">Phone number *</label>
-                                            <input type="tel" name="cfPhone"/>
+                                            <input type="tel" name="cfPhone" placeholder="Phone Number *"/>
                                         </div>
                                     </div>
                                     <div className="col-sm-12">
                                         <div className="form-input">
-                                            <label className="cf-label">Subject *</label>
-                                            <input type="text" name="cfSubject"/>
+                                            <input type="text" name="cfSubject" placeholder="Subject *"/>
                                         </div>
                                     </div>
                                     <div className="col-sm-12">
                                         <div className="form-input message-input">
-                                            <label className="cf-label">Message here... *</label>
-                                            <textarea name="cfMessage" id="message"></textarea>
+                                            <textarea name="cfMessage" id="message" placeholder="Message here... *"></textarea>
                                         </div>
                                     </div>
                                     <div className="submit-btn">
