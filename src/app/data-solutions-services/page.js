@@ -19,9 +19,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Data Services and Solutions for Smarter Business Decisions | Computyne",
+    title: "Outsourced Data Solutions Services | Accurate, Secure & Scalable | Computyne",
     description:
-        "Explore complete business data solutions by Computyne to manage, refine, and prepare data that supports confident decisions across operations and analytics.",
+        "Expert data solutions services from Indiadata entry, management & annotation. GDPR-compliant, 99.99% accuracy. Get a free quote.",
 
     keywords: [
         "data services",

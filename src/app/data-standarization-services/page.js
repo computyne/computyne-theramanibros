@@ -19,9 +19,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Data Standardization Services | Data Formatting Services | Computyne",
+    title: "Data Standardization Services | Normalize, Format & Unify Your Data | Computyne",
     description:
-        "Professional data standardization services by Computyne to ensure uniform formatting and consistent structure across datasets for easier integration and reliable business use.",
+        "StrengthenComputyne standardizes CRM, contact, product, and financial data for seamless integration and accurate analytics. GDPR compliant, scalable. Free consultation.",
 
     keywords: [
         "data standardization services",

@@ -17,9 +17,9 @@ import {financeAndAccountingIndustrySchema} from "@/libs/schema/services/finance
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Finance and Accounting Outsourcing Services (F&A) | Computyne",
+    title: "Finance & Accounting Outsourcing | AP, AR, Payroll & Bookkeeping | UK & USA | Computyne",
     description:
-        "Streamline your financial operations with Computyne’s finance and accounting outsourcing services. We offer accounts payable, receivable, payroll, and compliance-ready reporting for sustainable cost efficiency.",
+        "F&A outsourcing from Indiaaccounts payable, accounts receivable, payroll, bookkeeping & compliance. HMRC/GAAP-ready. ISO 27001. Get a free consultation.",
 
     keywords: [
         "Finance and accounting outsourcing services",

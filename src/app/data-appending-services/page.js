@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Data Appending Services: Customer Data, Phone & Email Append | Computyne",
+    title: "Data Appending Services | Email, Phone & Address Append | Computyne",
     description:
-        "Custom data appending services by Computyne that enrich and update datasets with missing information to improve data completeness and campaign results.",
+        "Computyne appends verified emails, phone numbers, postal addresses & firmographic data to your database. GDPR compliant, 99%+ accuracy. Free sample.",
 
     keywords: [
         "data appending services",

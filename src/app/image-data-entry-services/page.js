@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Image Data Entry Services | Accurate Image Data Processing | Computyne",
+    title: "Outsourced Image Data Entry & OCR Services | 98% Accuracy | UK & USA | Computyne",
     description:
-        "Professional image data entry services by Computyne that convert scanned images and documents into structured, accurate, and searchable digital data.",
+        "Accurate image data entry services scanned docs, handwritten text, PDFs & charts. OCR + manual QA. 98% accuracy guaranteed. Get a free quote.",
 
     keywords: [
         "image data entry services",

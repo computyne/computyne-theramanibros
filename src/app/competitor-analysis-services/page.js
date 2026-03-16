@@ -19,9 +19,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Competitor Analysis Services | Market & Competitor Insights | Computyne",
+    title: "Outsourced Competitor Analysis Services | Pricing, SEO & Market Intel | Computyne",
     description:
-        "Competitor analysis services by Computyne providing deep competitive insights to help businesses refine strategy, identify opportunities, and outperform competitors.",
+        "Computyne delivers competitor analysis services covering pricing, positioning, SEO, and market intelligence. Data-driven insights for strategic growth. Free consultation.",
 
     keywords: [
         "competitor analysis services",

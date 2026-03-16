@@ -32,7 +32,7 @@
     "url": "https://github.com/computyne/computyne-theramanibros.git",
     "accountId": "2d2b0c09-e1f3-45c2-8066-7c9b55d93e69"
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/libs/schema/services/ecommerceCatalogmanagementServicesSchema.js" root0="SKIP_INSPECTION" />
   </component>
@@ -132,7 +132,9 @@
       <workItem from="1771845892184" duration="8419000" />
       <workItem from="1772709858437" duration="845000" />
       <workItem from="1772711098872" duration="79000" />
-      <workItem from="1772711302210" duration="575000" />
+      <workItem from="1772711302210" duration="2068000" />
+      <workItem from="1773397666048" duration="1523000" />
+      <workItem from="1773660512941" duration="6990000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -358,7 +360,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772711723751</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="test commit">
+      <option name="closed" value="true" />
+      <created>1772712011198</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1772712011198</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,6 +485,7 @@
     <MESSAGE value="blog category link removed" />
     <MESSAGE value="casestudy category link removed" />
     <MESSAGE value="commit test" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit test" />
+    <MESSAGE value="test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
   </component>
 </project>

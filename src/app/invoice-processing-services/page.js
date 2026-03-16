@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Invoice Processing Services | AP Invoice Data Processing | Computyne",
+    title: "Outsourced Invoice Processing Services | AP Automation & ERP Integration | Computyne",
     description:
-        "Secure invoice processing services by Computyne for accurate capture, validation, and automation of accounts payable invoices, improving efficiency and control.",
+        "StrengthenComputyne automates accounts payable invoice processing with 99.9% accuracy. Three-way matching, ERP integration (SAP/Oracle), SOX/GDPR compliant. 60% cost reduction. Free pilot.",
 
     keywords: [
         "invoice processing services",

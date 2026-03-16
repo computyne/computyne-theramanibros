@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Data Cleansing Services: B2B & CRM Data Cleaning Company | Computyne",
+    title: "Outsourced Data Cleansing Services | CRM, B2B & Email Data Cleaning | Computyne",
     description:
-        "Accurate data cleansing services by Computyne to remove errors, correct inconsistencies, and prepare reliable, structured information for business use.",
+        "StrengthenComputyne delivers AI-powered data cleansing services – deduplication, validation & standardization for CRM, B2B & eCommerce. 99% accuracy. Free pilot available.",
 
     keywords: [
         "data cleansing services",

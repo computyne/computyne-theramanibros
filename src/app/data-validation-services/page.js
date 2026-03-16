@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Data Validation Services | Trusted Data Verification Company | Computyne",
+    title: "Outsourced Data Validation Services | Email, Phone & Address Verification | Computyne",
     description:
-        "Professional data validation services by Computyne to verify accuracy, update records, and maintain clean datasets ready for analytical and operational use.",
+        "Computyne validates email, phone, address, and B2B data using rule-based checks and cross-source verification. GDPR compliant, 99%+ accuracy. Free sample available.",
 
     keywords: [
         "data validation services",

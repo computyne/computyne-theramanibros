@@ -17,9 +17,9 @@ import {itesIndustrySchema} from "@/libs/schema/services/itesIndustrySchema";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "ITES & BPO Outsourcing Services | Computyne Global",
+    title: "ITES BPO Services | Data Processing, KPO & AI Data Support for IT Companies | Computyne",
     description:
-        "Boost performance with Computyne’s ITES solutions. We provide scalable customer support, technical assistance, data management, and BPO services designed to streamline operations and drive sustainable growth.",
+        "ITES BPO services from India data processing, document management, AI training data, reporting & KPO support. ISO 27001. Scalable. Get a consultation.",
 
     keywords: [
         "ITES services provider",

@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com/"),
 
-    title: "Data Annotation Services | Accurate AI Training Data Solutions | Computyne",
+    title: "Managed Data Annotation Services | AI & ML Training Data | ISO 27001 | Computyne",
     description:
-        "Professional data annotation services by Computyne for Machine Learning and AI — precise labeling, quality control, and structured training datasets to improve model accuracy and performance.",
+        "Expert data annotation services for AI & ML. text, image, video, LiDAR & multimodal. ISO 27001-certified, GDPR-compliant. Get a free quote.",
 
     keywords: [
         "data annotation services",

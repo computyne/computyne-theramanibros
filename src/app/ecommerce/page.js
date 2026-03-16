@@ -17,9 +17,9 @@ import {eCommerceIndustrySchema} from "@/libs/schema/services/eCommerceIndustryS
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "eCommerce BPO Services & Back Office Outsourcing | Computyne",
+    title: "eCommerce BPO Services | Amazon, Shopify & Marketplace Outsourcing | India | Computyne",
     description:
-        "Scale your online business with Computyne’s eCommerce BPO services. We provide expert catalog management, order processing, inventory support, and multi-channel customer service to optimize your operations.",
+        "eCommerce BPO from IndiaAmazon, Shopify, eBay catalog management, order processing, returns & customer support. ISO 27001. Scalable. Get a quote.",
 
     keywords: [
         "eCommerce BPO services",

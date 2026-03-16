@@ -17,9 +17,9 @@ import {energyAndUtilitiesIndustrySchema} from "@/libs/schema/services/energyAnd
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Energy & Utilities Management Services | Computyne Outsourcing",
+    title: "Energy & Utilities BPO Services | Smart Meter, ESG & Billing Outsourcing | Computyne",
     description:
-        "Optimize resource usage with Computyne’s energy & utilities solutions. We provide energy monitoring, cost optimization, sustainability planning, and regulatory compliance to streamline your utility operations.",
+        "Energy & utilities BPO from India meter-to-cash, smart meter data, ESG reporting, billing & compliance. ISO 27001. Get a consultation.",
 
     keywords: [
         "Energy and utilities management",

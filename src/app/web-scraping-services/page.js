@@ -19,9 +19,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Web Scraping Services: AI-Powered Website Data Scraping | Computyne",
+    title: "Web Scraping Services – Automated, Scalable & GDPR Compliant | Computyne",
     description:
-        "Scalable web scraping services by Computyne that automate data extraction from websites into structured, clean formats for research, reporting, and strategy.",
+        "AI-powered web scraping services for price monitoring, lead extraction & ecommerce data. 99% accuracy, 2,500+ projects. Get a free web scraping pilot today.",
 
     keywords: [
         "web scraping services",

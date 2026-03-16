@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Data Hygiene Services | CRM & Database Hygiene Solutions | Computyne",
+    title: "Data Hygiene Services | Ongoing Database Maintenance & Health Management | Computyne",
     description:
-        "Comprehensive data hygiene services by Computyne to clean, verify, and structure business records, ensuring accurate and operational-ready datasets.",
+        "Computyne delivers ongoing data hygiene services – scheduled refresh, deduplication, purging & email hygiene. Keep your database clean, compliant & analytics-ready.",
 
     keywords: [
         "data hygiene services",

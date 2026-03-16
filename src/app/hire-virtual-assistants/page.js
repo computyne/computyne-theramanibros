@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Hire Virtual Assistants | Dedicated Offshore Virtual Assistants | Computyne",
+    title: "Hire Virtual Assistants from India | Admin, eCommerce & Research VAs | Computyne",
     description:
-        "Hire professional virtual assistants by Computyne to manage administrative, data, and operational tasks efficiently, providing dedicated offshore support.",
+        "Hire dedicated virtual assistants from India admin, data entry, research, social media & eCommerce support. ISO 27001. From $X/hr. Get a free quote.",
 
     keywords: [
         "hire virtual assistants",

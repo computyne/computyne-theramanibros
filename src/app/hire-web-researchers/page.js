@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Hire Web Researchers | Dedicated Online Research Team | Computyne",
+    title: "Hire Web Researchers | Dedicated Market & Competitor Research Team | India | Computyne",
     description:
-        "Hire skilled web researchers by Computyne to collect, analyze, and organize online business information, supporting research, insights, and business growth.",
+        "Hire dedicated web researchers from India market research, competitor analysis, lead generation & B2B data. ISO 27001. Get a custom plan.",
 
     keywords: [
         "hire web researchers",

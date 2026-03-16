@@ -17,9 +17,9 @@ import {ecommerceCatalogmanagementServicesSchema} from "@/libs/schema/services/e
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "eCommerce Catalog Management & Data Management Services | Computyne",
+    title: "eCommerce Catalog Management Services | SKU, SEO & Multi-Channel Listings | Computyne",
     description:
-        "Transform fragmented product data into high-performing assets. Computyne offers expert catalog building, data normalization, and PIM synchronization to scale your eCommerce storefront.",
+        "Computyne manages your eCommerce product catalog – SKU creation, taxonomy, SEO optimization & multi-channel sync. 55% faster time-to-market. Free pilot available.",
 
     keywords: [
         "eCommerce catalog management",

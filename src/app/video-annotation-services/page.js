@@ -19,9 +19,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Video Annotation Services | AI Training Data for Computer Vision | Computyne",
+    title: "Video Annotation Services | Object Tracking, Segmentation & ADAS | Computyne",
     description:
-        "Professional video annotation services by Computyne for AI and machine learning — precise frame-level labeling, object tracking, and scene annotation to power computer vision models.",
+        "Expert video annotation services object tracking, segmentation, action recognition & ADAS. CVAT, Labelbox support. ISO 27001. Get a free quote.",
 
     keywords: [
         "video annotation services",

@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Hire Data Entry Specialists | Dedicated Data Entry Team | Computyne",
+    title: "Hire Remote Data Entry Specialists | CRM, eCommerce & Invoice | ISO 27001 | Computyne",
     description:
-        "Hire experienced data entry specialists by Computyne for accurate, secure, and high-volume data processing projects with dedicated support.",
+        "Hire dedicated remote data entry specialists from IndiaCRM, invoices, catalogs & document digitization. 99%+ accuracy. ISO 27001. Get a free quote.",
 
     keywords: [
         "hire data entry specialists",

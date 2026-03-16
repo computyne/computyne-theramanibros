@@ -17,9 +17,9 @@ import {mortgageDataentrySupportSchema} from "@/libs/schema/services/mortgageDat
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Mortgage Data Entry Support Services | Secure & Accurate Processing",
+    title: "Outsourced Mortgage Data Entry Services | 1003, FHA, VA & Encompass | Computyne",
     description:
-        "Professional mortgage data entry support for lenders and servicers. Ensure secure, accurate, and compliant loan data processing with scalable offshore teams.",
+        "Secure mortgage data entry services for lenders & brokers1003, HUD-1, Encompass & more. ISO 27001-certified. Get a free quote.",
 
     keywords: [
         "mortgage data entry support",
