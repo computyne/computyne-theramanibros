@@ -19,9 +19,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Data Enrichment Services: B2B & CRM Data Enrichment Company | Computyne",
+    title: "B2B & CRM Data Enrichment Services | Verified, Scalable & Decision-Ready | Computyne",
     description:
-        "Precise data enrichment services by Computyne to update, verify, and complete datasets for better targeting, segmentation, and informed business decision-making.",
+        "StrengthenComputyne enriches B2B, CRM, and contact databases with verified firmographic, demographic & sales intel. 99%+ accuracy. ISO certified. Free sample available.",
 
     keywords: [
         "data enrichment services",

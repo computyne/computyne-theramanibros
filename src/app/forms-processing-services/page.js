@@ -19,9 +19,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Forms Processing Services | Automated Form Data Capture | Computyne",
+    title: "Outsourced Forms Processing Services | OCR, ICR & Automated Data Capture | Computyne",
     description:
-        "Professional forms processing services by Computyne to extract, validate, and digitize data from paper and digital forms with high accuracy and efficiency.",
+        "Computyne processes paper, scanned, and digital forms using OCR/ICR automation. Insurance, healthcare, financial & government forms. 99%+ accuracy. Free pilot available.",
 
     keywords: [
         "forms processing services",

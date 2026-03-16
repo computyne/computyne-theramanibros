@@ -17,9 +17,9 @@ import {logisticAndTransportationIndustrySchema} from "@/libs/schema/services/lo
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Logistics BPO & Transportation Data Services | Computyne",
+    title: "Logistics BPO Services | Freight, Customs & Supply Chain Outsourcing | India | Computyne",
     description:
-        "Streamline your supply chain with Computyne’s logistics BPO services. We offer freight audit, bill of lading data entry, document digitization, and back-office support to improve operational accuracy.",
+        "Logistics BPO services from India freight forwarding, customs clearance, bill of lading, transport document processing. ISO 27001. 24/7 support. Get a quote.",
 
     keywords: [
         "Logistics BPO services",

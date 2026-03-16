@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Web Research Services | Online Data Research Company | Computyne",
+    title: "Outsourced Web Research Services | Market, Competitor & Lead Research | Computyne",
     description:
-        "Professional web research services by Computyne to identify, collect, and organize online information that supports planning, analysis, and strategic initiatives.",
+        "Computyne delivers expert web research outsourcing – market intelligence, competitor analysis, B2B lead research. Verified, structured data. Free pilot.",
 
     keywords: [
         "web research services",

@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Hire Data Science Specialist | Dedicated Data Scientists | Computyne",
+    title: "Hire Data Science Specialists | ML, Predictive Analytics & BI | India | Computyne",
     description:
-        "Hire dedicated data science specialists by Computyne for analytics, machine learning, and advanced data modeling to drive smarter business decisions.",
+        "Hire dedicated data science specialists from India ML models, predictive analytics, BI & NLP. ISO 27001. Get a custom hiring plan.",
 
     keywords: [
         "hire data science specialist",

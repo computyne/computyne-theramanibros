@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://wwww.computyne.com"),
 
-    title: "Image Annotation Services | Accurate AI Training Data | Computyne",
+    title: "Image Annotation Services | Bounding Box, Segmentation & Keypoint | Computyne",
     description:
-        "Professional image annotation services by Computyne for AI and machine learning — precise labeling, bounding boxes, segmentation, and tagging to train high-performance computer vision models.",
+        "Expert image annotation services bounding box, segmentation, polygon & keypoint. Autonomous driving, medical & retail. ISO 27001. Get a free quote.",
 
     keywords: [
         "image annotation services",
@@ -33,7 +33,7 @@ export const metadata = {
     ],
 
     alternates: {
-        canonical: "https://wwww.computyne.com/image-annotation-services",
+        canonical: "https://www.computyne.com/image-annotation-services",
     },
 };
 

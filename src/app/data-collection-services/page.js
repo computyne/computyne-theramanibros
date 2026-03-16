@@ -19,9 +19,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Data Collection Services | Trusted Data Gathering Company | Computyne",
+    title: "Outsourced Data Collection Services | Accurate & Scalable | Computyne",
     description:
-        "Structured data collection services by Computyne that empower organizations with accurate, verified, and actionable information for smarter business decisions.",
+        "Partner with Computyne for ISO-certified, GDPR-compliant outsourced data collection services. 99%+ accuracy, 60% cost savings. Free pilot available.",
 
     keywords: [
         "data collection services",

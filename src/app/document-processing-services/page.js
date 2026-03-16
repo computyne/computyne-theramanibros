@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Document Processing Services | Intelligent Document Management | Computyne",
+    title: "Outsourced Document Processing Services | OCR, AI & IDP Solutions | Computyne",
     description:
-        "End-to-end document processing services by Computyne, including capture, digitization, classification, and data extraction for efficient business document management.",
+        "Computyne automates document processing – freight audit, invoice processing, resume formatting, forms & digitization. 99%+ accuracy, ISO certified. Free pilot.",
 
     keywords: [
         "document processing services",

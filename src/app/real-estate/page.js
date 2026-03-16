@@ -17,9 +17,9 @@ import {realEstateIndustrySchema} from "@/libs/schema/services/realEstateIndustr
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Real Estate Outsourcing & Property Data Solutions | Computyne",
+    title: "Real Estate Data Management & Property Outsourcing Services | India | Computyne",
     description:
-        "Streamline your property business with Computyne’s real estate outsourcing. We offer property data entry, MLS listing updates, photo editing, and market research to boost your operational efficiency.",
+        "Outsource real estate data management, property listings, lease records & appraisal data entry from India. ISO 27001. 99%+ accuracy. Get a free quote.",
 
     keywords: [
         "Real estate outsourcing services",

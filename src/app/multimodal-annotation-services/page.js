@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://wwww.computyne.com"),
 
-    title: "Multimodal Annotation Services | AI & ML Training Data Experts | Computyne",
+    title: "Multimodal Annotation Services | Vision-Language, LiDAR & GenAI Training Data | Computyne",
     description:
-        "High-quality multimodal annotation services by Computyne for AI and machine learning, accurate labeling of text, image, audio, and video data to enhance model performance and insights.",
+        "Expert multimodal annotation servicesimage-text, audio-video, LiDAR fusion & RLHF. ISO 27001-certified. Build accurate GenAI models. Get a free quote.",
 
     keywords: [
         "multimodal annotation services",
@@ -33,7 +33,7 @@ export const metadata = {
     ],
 
     alternates: {
-        canonical: "https://wwww.computyne.com/multimodal-annotation-services",
+        canonical: "https://www.computyne.com/multimodal-annotation-services",
     },
 };
 

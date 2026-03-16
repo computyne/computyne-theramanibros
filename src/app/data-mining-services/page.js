@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Data Mining Services | Reliable Web Data Mining Company | Computyne",
+    title: "Outsourced Data Mining Services | Patterns, Leads & Market Intelligence | Computyne",
     description:
-        "Tailored data mining services by Computyne to uncover insights from large datasets, detect trends, and support business performance evaluation and strategic planning.",
+        "Computyne delivers expert data mining services – web, social, PDF & AI mining. Uncover patterns, generate leads, and fuel business intelligence. Free sample available.",
 
     keywords: [
         "data mining services",

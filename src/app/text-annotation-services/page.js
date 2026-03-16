@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://wwww.computyne.com"),
 
-    title: "Text Annotation Services | High-Quality NLP Data Labeling | Computyne",
+    title: "NLP Text Annotation Services | NER, Sentiment & LLM Training Data | Computyne",
     description:
-        "Accurate text annotation services by Computyne for NLP and AI — expert labeling, entity tagging, sentiment marking, and structured text datasets to boost machine learning model performance.",
+        "Expert text annotation services for NLP, LLM & chatbot trainingNER, sentiment, intent & multilingual. ISO 27001. Get a free quote.",
 
     keywords: [
         "text annotation services",
@@ -33,7 +33,7 @@ export const metadata = {
     ],
 
     alternates: {
-        canonical: "https://wwww.computyne.com/text-annotation-services",
+        canonical: "https://www.computyne.com/text-annotation-services",
     },
 };
 

@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Logistics Data Entry Services | Transport & Shipping Data Processing | Computyne",
+    title: "Outsourced Logistics Data Entry Services | 99.99% Accuracy | UK & USA | Computyne",
     description:
-        "Specialized logistics data entry services by Computyne for managing transport, shipment, and supply chain records with accuracy, speed, and reliability.",
+        "Accurate logistics data entry services for supply chain, freight billing, BOL & inventory. 99% accuracy, scalable & GDPR-compliant. Get a free quote.",
 
     keywords: [
         "logistics data entry services",

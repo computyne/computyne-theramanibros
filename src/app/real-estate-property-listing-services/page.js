@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Real Estate Property Listing Services | Listing Data Management | Computyne",
+    title: "MLS Property Listing Data Entry Services | Outsourced Real Estate Data Entry | Computyne",
     description:
-        "Professional real estate property listing services by Computyne to create, update, and manage accurate property listings across platforms and databases.",
+        "Expert real estate listing data entry servicesMLS, Zillow, Right move & portals. Accurate, SEO-optimized & scalable. Get a free quote.",
 
     keywords: [
         "real estate property listing services",

@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Appraisal Data Entry Services | Property & Asset Data Processing | Computyne",
+    title: "Outsourced Appraisal & Valuation Data Entry Services | URAR, FHA, VA | Computyne",
     description:
-        "Professional appraisal data entry services by Computyne for capturing, organizing, and validating property and asset valuation records with accuracy and consistency.",
+        "Accurate appraisal data entry for lenders, AMCs & appraisersURAR, 1004, FHA & VA forms. 99.99% accuracy. Get a free quote.",
 
     keywords: [
         "appraisal data entry services",

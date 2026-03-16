@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Data Management Services | Enterprise Information Management | Computyne",
+    title: "Outsourced Data Management Services | Cleansing, Enrichment & Governance | Computyne",
     description:
-        "Professional data management services by Computyne to organize, standardize, and maintain business data so it is accurate, consistent, and ready for decision-making.",
+        "Computyne delivers ISO-certified, GDPR-compliant data management services – cleansing, enrichment, validation & standardization. 99.99% accuracy. Free consultation.",
 
     keywords: [
         "data management services",

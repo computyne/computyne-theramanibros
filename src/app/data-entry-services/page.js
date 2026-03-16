@@ -19,9 +19,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Data Entry Services | Accurate Business Data Entry | Computyne",
+    title: "Outsourced Data Entry Services | 99.99% Accuracy | UK & USA | Computyne",
     description:
-        "Dependable data entry services by Computyne, handling large volumes of business information with precision, verification, and secure processing for organized and error-free data.",
+        "Professional data entry outsourcing services invoices, forms, catalogs & more. 99.99% accuracy, GDPR-compliant, fast TAT. Get a free quote.",
 
     keywords: [
         "data entry services",

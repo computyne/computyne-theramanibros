@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "List Building Services: B2B, Email & Mailing List Creation | Computyne",
+    title: "B2B List Building Services | Verified Prospect & Email Lists | Computyne",
     description:
-        "Targeted list building services by Computyne for accurate B2B contacts and high-quality email and mailing lists that improve outreach and engagement.",
+        "Computyne builds verified B2B prospect lists for sales, marketing & ABM. Decision-maker contacts, email lists, CRM-ready data. 100% accuracy. Free sample available.",
 
     keywords: [
         "list building services",

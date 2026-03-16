@@ -17,9 +17,9 @@ import {ecommerceProductdataentryServicesSchema} from "@/libs/schema/services/ec
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "eCommerce Product Data Entry Services | Accurate Catalog Management",
+    title: "Amazon & Shopify Product Data Entry Services | Outsourced eCommerce Catalog | Computyne",
     description:
-        "Professional eCommerce product data entry services for accurate listings, SKU management, and bulk catalog updates. Improve conversions with clean, optimized product data.",
+        "Expert eCommerce product data entry servicesAmazon, Shopify, Magento & more. Accurate SKU mapping, SEO descriptions & bulk uploads. Get a free quote.",
 
     keywords: [
         "ecommerce product data entry services",

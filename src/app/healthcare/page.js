@@ -17,9 +17,9 @@ import {healthCareIndustrySchema} from "@/libs/schema/services/healthCareIndustr
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Healthcare BPO Services & Medical Billing Outsourcing | Computyne",
+    title: "Healthcare BPO Services | Medical Billing, RCM, Coding & HIPAA-Compliant Outsourcing | Computyne",
     description:
-        "Optimize healthcare operations with Computyne’s HIPAA-compliant BPO services. We offer medical billing, RCM, claims processing, and healthcare data management to reduce costs and improve care.",
+        "Healthcare BPO from India medical billing, RCM, coding, claims processing, credentialing & HIPAA-compliant data management. ISO 27001. Get a free consultation.",
 
     keywords: [
         "Healthcare BPO services",

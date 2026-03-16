@@ -19,9 +19,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Data Extraction Services | Web Data Extraction Company | Computyne",
+    title: "Outsourced Data Extraction Services | PDF, Web & Database | Computyne",
     description:
-        "Professional data extraction services by Computyne that transform unstructured data into structured formats to support reporting, analytics, and informed business decisions.",
+        "Computyne delivers accurate, scalable data extraction services from websites, PDFs & databases. AI-ready outputs, 99% accuracy, GDPR compliant. Free pilot available.",
 
     keywords: [
         "data extraction services",

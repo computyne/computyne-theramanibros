@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Document Digitization Services | Paper to Digital Conversion | Computyne",
+    title: "Outsourced Document Digitization Services | OCR, Scanning & Secure Archiving | Computyne",
     description:
-        "Professional document digitization services by Computyne converting physical records into secure, searchable, and easily accessible digital formats.",
+        "StrengthenComputyne converts paper records to searchable, secure digital formats using AI-based OCR & double-key validation. 99.99% accuracy. GDPR/ISO compliant. Free pilot.",
 
     keywords: [
         "document digitization services",

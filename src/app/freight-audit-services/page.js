@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Freight Audit Services | Freight Bill Auditing & Recovery | Computyne",
+    title: "Freight Audit Services | Invoice Auditing, Cost Recovery & Spend Analytics | Computyne",
     description:
-        "Professional freight audit services by Computyne to verify freight invoices, identify billing errors, and recover overcharges for efficient logistics operations.",
+        "Computyne audits freight invoices, recovers 5–25% in overcharges, and delivers spend analytics. TMS/ERP integrated. 99%+ accuracy. Request a free freight audit assessment.",
 
     keywords: [
         "freight audit services",

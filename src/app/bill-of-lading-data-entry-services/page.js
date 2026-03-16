@@ -18,9 +18,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Bill of Lading Data Entry Services | Shipping Document Processing | Computyne",
+    title: "Outsourced Bill of Lading Data Entry Services | BOL Processing UK & USA | Computyne",
     description:
-        "Reliable bill of lading data entry services by Computyne ensuring accurate capture of freight, consignee, and shipment details for efficient logistics operations.",
+        "Accurate bill of lading data entry services for freight carriers, 3PLs & forwarders. OCR-powered BOL processing. 99.5% accuracy. Get a free quote.",
 
     keywords: [
         "bill of lading data entry services",

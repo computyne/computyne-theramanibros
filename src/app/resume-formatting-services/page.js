@@ -19,9 +19,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Resume Formatting Services | Professional CV Formatting | Computyne",
+    title: "Outsourced Resume & CV Formatting Services | ATS-Compliant, Bulk & White-Label | Computyne",
     description:
-        "Professional resume formatting services by Computyne to structure resumes and CVs for clarity, consistency, and ATS compatibility.",
+        "StrengthenComputyne formats CVs for recruitment agencies, staffing firms & HR teams. ATS-compliant, branded, white-label. 30-min TAT, 99.5% accuracy. 7-day free trial.",
 
     keywords: [
         "resume formatting services",

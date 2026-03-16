@@ -19,9 +19,9 @@ import Testimonials from "@/components/layout/common/Testimonials";
 export const metadata = {
     metadataBase: new URL("https://wwww.computyne.com"),
 
-    title: "Data Labeling Services | Accurate Training Data for AI & ML | Computyne",
+    title: "Managed Data Labeling Services | COCO, YOLO & LiDAR | ISO 27001 | Computyne",
     description:
-        "Professional data labeling services by Computyne delivering high-quality annotated datasets for AI, machine learning, and analytics — ensuring accuracy, consistency, and optimal model performance.",
+        "Expert data labeling services for AI & ML image, video, text, LiDAR, COCO, YOLO & Pascal VOC. ISO 27001-certified. Get a free quote.",
 
     keywords: [
         "data labeling services",
@@ -34,7 +34,7 @@ export const metadata = {
     ],
 
     alternates: {
-        canonical: "https://wwww.computyne.com/data-labeling-services",
+        canonical: "https://www.computyne.com/data-labeling-services",
     },
 };
 
