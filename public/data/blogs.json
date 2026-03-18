@@ -1,6 +1,38 @@
 [
 	{
 		"id": 1,
+		"slug": "what-is-a-prompt-engineer-and-why-hire-one",
+		"title": "What Is a Prompt Engineer and Why Should You Hire One?",
+		"img": "/images/orgBlogs/main/what-is-a-prompt-engineer-and-why-hire-one-516x280.webp",
+		"detailsImg": "/images/orgBlogs/main/what-is-a-prompt-engineer-and-why-hire-one-516x280.webp",
+		"smallImg": "/images/orgBlogs/main/what-is-a-prompt-engineer-and-why-hire-one-516x280.webp",
+		"desc": "",
+		"date": "18 Mar 2026",
+		"date2": "March 26, 2026",
+		"day": 18,
+		"month": "MAR",
+		"category": "Prompt Engineer",
+		"tags": ["Prompt Engineering", "Hire AI Talent", "Artificial Intelligence", "AI Automation", "Remote Hiring", "Virtual Workforce", "Digital Transformation"],
+		"author": "By: Ravinder Singh",
+		"meta": {
+			"metaTitle": "What Is a Prompt Engineer & Why Should You Hire One?",
+			"metaDescription": "Discover what a prompt engineer does, why businesses need one in 2026, and how Computyne helps you hire vetted AI talent that delivers results from day one.",
+			"keywords": [
+				"what is a prompt engineer",
+				"hire a prompt engineer",
+				"prompt engineering services",
+				"prompt engineer for hire",
+				"AI prompt engineer",
+				"prompt engineering consultant",
+				"hire AI specialist",
+				"prompt engineer skills"
+
+			],
+			"canonical": "https://www.computyne.com/blog/what-is-a-prompt-engineer-and-why-hire-one"
+		}
+	},
+	{
+		"id": 1,
 		"slug": "human-oversight-in-automated-invoice-processing",
 		"title": "Where AI Makes Mistakes in Invoice Validation - and How Humans Fix Them",
 		"img": "/images/orgBlogs/main/human-oversight-in-automated-invoice-processing.webp",

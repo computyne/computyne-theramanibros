@@ -89,6 +89,184 @@
 		}
 	},
 	{
+		"id": 5,
+		"slug": "invoice-processing-automation-for-global-logistics-company",
+		"title": "Global Logistics Company Transforms Accounts Payable with 60% Faster, More Accurate Invoice Processing",
+		"img": "/images/casestudies/invoice-processing-automation-for-global-logistics-company-870x450.webp",
+		"detailsImg": "/images/casestudies/invoice-processing-automation-for-global-logistics-company.webp",
+		"smallImg": "/images/casestudies/invoice-processing-automation-for-global-logistics-company-870x450.webp",
+		"desc": "A leading global logistics company partnered with Computyne to modernize its Accounts Payable (AP) operations. By replacing manual entry with an AI-powered invoice processing system, the client achieved a 60% faster turnaround time, reduced data entry errors by 95%, and gained total real-time visibility into their financial liabilities.",
+		"tags": [
+			"Corporate",
+			"Business"
+		],
+		"category": [
+			"Invoice Processing",
+			"Document Processing"
+		],
+		"status": "Tutorial",
+		"content": [
+			{
+				"title": "Executive Summary",
+				"data": "<p>A leading global logistics company partnered with Computyne to modernize its Accounts Payable (AP) operations. By replacing manual entry with an AI-powered invoice processing system, the client achieved a 60% faster turnaround time, reduced data entry errors by 95%, and gained total real-time visibility into their financial liabilities.</p>"
+			},
+			{
+				"title": "The Objective",
+				"data": "<p>The client aimed to streamline its AP operations by minimizing manual intervention and reducing invoice cycle times. The goal was to implement an intelligent, data-driven workflow that ensured accurate payments and improved vendor relationships.</p>"
+			},
+			{
+				"title": "The Challenge: Manual Bottlenecks",
+				"subLine": "Before partnering with Computyne, the client’s finance team was bogged down by inefficiencies inherent in global logistics billing:",
+				"data": "<div class=\"desc blog-text-mod wow fadeInUp\" data-wow-delay=\".8s\"><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>High Volume &amp; Variance:</strong><span>Processing thousands of invoices monthly in varying formats (PDF, scanned paper, EDI) from a diverse network of international vendors.</span></div></li><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Manual Errors:</strong><span>Reliance on manual keystrokes led to frequent data entry errors, causing payment delays and reconciliation headaches.</span></div></li><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Complex Matching:</strong><span>The manual three-way matching process (Invoice vs. PO vs. Proof of Delivery) was slow and prone to bottlenecks across departments.</span></div></li><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Lack of Visibility:</strong><span>Management had limited real-time insight into invoice status, making cash flow forecasting difficult.</span></div></li></ul></div>"
+			},
+			{
+				"title": "The Solution: AI-Powered AP Automation",
+				"subLine": "Computyne designed and implemented an automated AP framework tailored to the client’s ERP environment.",
+				"data": "<div class=\"desc blog-text-mod wow fadeInUp\" data-wow-delay=\".8s\"><div class=\"solution-block\"><p class=\"solution-title\"><strong>1. AI-Powered Data Extraction</strong></p><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Intelligent OCR:</strong><span>Deployed advanced AI models to extract key data fields (Invoice Number, Date, Line Items, Total) from unstructured documents with 99% accuracy.</span></div></li></ul></div><div class=\"solution-block\"><p class=\"solution-title\"><strong>2. Automated 3-Way Matching</strong></p><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Validation Logic:</strong><span>Implemented automated workflows to validate invoices against Purchase Orders (POs) and Goods Receipt Notes (GRNs), instantly approving matches and flagging exceptions for human review.</span></div></li></ul></div><div class=\"solution-block\"><p class=\"solution-title\"><strong>3. ERP Integration</strong></p><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Seamless Sync:</strong><span>Designed custom workflows that pushed validated data directly into the client’s ERP system, eliminating double entry.</span></div></li></ul></div><div class=\"solution-block\"><p class=\"solution-title\"><strong>4. Centralized Analytics</strong></p><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Real-Time Dashboard:</strong><span>Integrated a dashboard for real-time tracking of invoice status, accruals, and vendor performance.</span></div></li></ul></div></div>"
+			},
+			{
+				"title": "Key Results & Impact",
+				"subLine": "The transformation delivered immediate operational efficiency and financial control.",
+				"data": "<div class=\"tj-product-details-description mt-30\"><table><tbody><tr><th>Metric</th><td>Improvement</td><td>Description</td></tr><tr><th>Cycle Time</th><td>60% Faster</td><td>Drastically reduced the time from \"Invoice Received\" to \"Ready for Payment.\"</td></tr><tr><th>Error Rate</th><td>Reduced by 95%</td><td>AI extraction eliminated manual typos and coding errors.</td></tr><tr><th>Vendor Relations</th><td>Improved</td><td>Timely and accurate payments significantly reduced vendor friction and inquiries.</td></tr><tr><th>Visibility</th><td>100% Real-Time</td><td>Instant analytics allowed for better cash flow management and reporting.</td></tr></tbody></table></div>"
+			},
+			{
+				"title": "Why Choose Computyne for AP Automation?",
+				"data": "<div class=\"desc blog-text-mod wow fadeInUp\" data-wow-delay=\".8s\"><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><strong>Specialized Expertise:</strong> Proven track record in transforming AP operations for global enterprises.</li><li><span><i class=\"tji-list\"></i></span><strong>Technology Driven:</strong> We utilize AI and Machine Learning to achieve speed and accuracy that manual teams cannot match.</li><li><span><i class=\"tji-list\"></i></span><strong>Seamless Integration:</strong> Solutions designed to work with your existing ERP, not against it.</li><li><span><i class=\"tji-list\"></i></span><strong>Scalability:</strong> Capable of handling volume spikes during peak logistics seasons without service degradation.</li></ul></div>"
+			}
+		],
+		"clientWords": {
+			"data": "<p>\"Computyne’s automation expertise completely transformed our AP process. We’ve seen remarkable improvements in accuracy and speed, allowing our team to focus on strategic tasks instead of manual work.\"</p>",
+			"by": "Finance Director, Global Logistics Company"
+		},
+		"clientProfile": [
+			"<div class=\"infos-item\"><div class=\"project-icons\"><i class=\"tji-user\"></i></div><div class=\"project-text\"><span>Company Type</span><h6 class=\"title\">Global Logistics Enterprise</h6></div></div>",
+			"<div class=\"infos-item\"><div class=\"project-icons\"><i class=\"tji-chart\"></i></div><div class=\"project-text\"><span>Industry</span><h6 class=\"title\">Logistics &amp; Transportation</h6></div></div>",
+			"<div class=\"infos-item\"><div class=\"project-icons\"><i class=\"tji-location-2\"></i></div><div class=\"project-text\"><span>Headquarters</span><h6 class=\"title\">Europe</h6></div></div>",
+			"<div class=\"infos-item\"><div class=\"project-icons\"><i class=\"tji-worldwide\"></i></div><div class=\"project-text\"><span>Operational Scope</span><h6 class=\"title\">International Supply Chain Management</h6></div></div>"
+		],
+		"kpiData": [
+			{
+				"label": "Faster Invoice Processing",
+				"value": "60",
+				"symbol": "%"
+			},
+			{
+				"label": "Reduction in Manual Errors",
+				"value": "95",
+				"symbol": "%"
+			},
+			{
+				"label": "Real-Time Process Visibility",
+				"value": "100",
+				"symbol": "%"
+			}
+		],
+		"showedIn": [
+			"invoice-processing-services",
+			"document-processing-services"
+		],
+		"meta": {
+			"metaTitle": "Accounts Payable Automation for Logistics: 60% Faster Processing | Computyne",
+			"metaDescription": "See how Computyne helped a global logistics firm streamline Accounts Payable. Our AI invoice processing reduced errors by 95% and cycle times by 60%.",
+			"keywords": [
+				"Accounts Payable Automation",
+				"Invoice Processing Services",
+				"Automated 3-Way Matching",
+				"Logistics AP Outsourcing",
+				"AI Invoice Data Extraction"
+			]
+		}
+	},
+	{
+		"id": 6,
+		"slug": "real-estate-property-data-collection-and-market-research",
+		"title": "Empowering a Real Estate Firm with Accurate Property Data and Market Research Insights",
+		"img": "/images/casestudies/real-estate-property-data-collection-and-market-research-870x450.webp",
+		"detailsImg": "/images/casestudies/real-estate-property-data-collection-and-market-research.webp",
+		"smallImg": "/images/casestudies/real-estate-property-data-collection-and-market-research-870x450.webp",
+		"desc": "A leading U.S.-based real estate company partnered with Computyne to modernize its data operations. By automating property data collection and market research, the client achieved 80% faster data aggregation, reduced manual effort by 60%, and gained a competitive edge through real-time market insights.",
+		"tags": [
+			"Corporate",
+			"Business"
+		],
+		"category": [
+			"Property Data Collection",
+			"Data Collection"
+		],
+		"status": "Tutorial",
+		"content": [
+			{
+				"title": "Executive Summary",
+				"data": "<p>A leading U.S.-based real estate company partnered with Computyne to modernize its data operations. By automating property data collection and market research, the client achieved 80% faster data aggregation, reduced manual effort by 60%, and gained a competitive edge through real-time market insights.</p>"
+			},
+			{
+				"title": "The Objective",
+				"data": "<p>The client needed to streamline its property data collection and market research operations. The goal was to replace manual processes with a system that delivered accurate, up-to-date, and actionable insights to power smarter investment and sales decisions.</p>"
+			},
+			{
+				"title": "The Challenge: Data Inconsistency & Delay",
+				"subLine": "The client’s ability to analyze the market was hindered by inefficient data management practices:",
+				"data": "<div class=\"desc blog-text-mod wow fadeInUp\" data-wow-delay=\".8s\"><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Manual Bottlenecks:</strong><span>The team relied on manual data collection from dozens of online property sources, which was time-consuming and error-prone.</span></div></li><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Unreliable Comparisons:</strong><span>Inconsistent property details (e.g., varying square footage definitions) and outdated listings made market comparisons impossible.</span></div></li><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Fragmentation:</strong><span>The lack of a centralized database hindered quick access to reports, delaying critical investment decisions.</span></div></li><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Scalability Issues:</strong><span>Maintaining accuracy across thousands of dynamic listings created an operational bottleneck that internal teams couldn't overcome.</span></div></li></ul></div>"
+			},
+			{
+				"title": "The Solution: Automated Research & Enrichment",
+				"subLine": "Computyne delivered a tailored solution combining automation with expert human validation.",
+				"data": "<div class=\"desc blog-text-mod wow fadeInUp\" data-wow-delay=\".8s\"><div class=\"solution-block\"><p class=\"solution-title\"><strong>1. Automated Property Data Collection</strong></p><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Aggregation:</strong><span>Implemented automated scrapers to aggregate key details—pricing, location, size, amenities, and ownership history—from verified real estate portals and public records.</span></div></li></ul></div><div class=\"solution-block\"><p class=\"solution-title\"><strong>2. Manual Quality Assurance</strong></p><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Validation:</strong><span>Deployed data specialists to conduct manual checks, removing duplicates and verifying high-value listings to ensure 100% accuracy.</span></div></li></ul></div><div class=\"solution-block\"><p class=\"solution-title\"><strong>3. Custom Market Research Framework</strong></p><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Trend Tracking:</strong><span>Built a framework for continuous monitoring of price trends, demand patterns, and competitor portfolios.</span></div></li></ul></div><div class=\"solution-block\"><p class=\"solution-title\"><strong>4. Seamless Integration</strong></p><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>CRM Ready:</strong><span>Delivered structured, cleaned datasets formatted for immediate ingestion into the client’s CRM and analytics platforms.</span></div></li></ul></div></div>"
+			},
+			{
+				"title": "Key Results & Impact",
+				"subLine": "The partnership transformed the client’s data infrastructure, enabling data-driven agility.",
+				"data": "<div class=\"tj-product-details-description mt-30\"><table><tbody><tr><th>Metric</th><td>Improvement</td><td>Description</td></tr><tr><th>Data Collection</th><td>80% Faster</td><td>Automated aggregation drastically reduced the time to gather market intelligence.</td></tr><tr><th>Manual Effort</th><td>Reduced by 60%</td><td>Freed up the sales and research teams to focus on client relations and strategy.</td></tr><tr><th>Market Visibility</th><td>Real-Time</td><td>Continuous tracking provided instant insights into pricing and inventory shifts.</td></tr><tr><th>Operational Trust</th><td>Enhanced</td><td>Accurate reporting boosted stakeholder confidence in investment recommendations.</td></tr></tbody></table></div>"
+			},
+			{
+				"title": "Why Choose Computyne for Real Estate Data?",
+				"data": "<div class=\"desc blog-text-mod wow fadeInUp\" data-wow-delay=\".8s\"><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><strong>Comprehensive Services:</strong> End-to-end support for data collection, enrichment, and market research.</li><li><span><i class=\"tji-list\"></i></span><strong>Hybrid Approach:</strong> We combine advanced automation for speed with expert human validation for accuracy.</li><li><span><i class=\"tji-list\"></i></span><strong>Actionable Intelligence:</strong> We transform raw listings into insights that drive sales and investment strategy.</li><li><span><i class=\"tji-list\"></i></span><strong>Integration Ready:</strong> Data delivered in formats compatible with your existing tech stack (CRM, BI tools).</li></ul></div>"
+			}
+		],
+		"clientWords": {
+			"data": "<p>\"Computyne’s data team helped us gain real-time visibility into the property market. Their accuracy and turnaround time exceeded our expectations — a truly reliable partner for real estate data needs.\"</p>",
+			"by": "Director of Market Research, U.S. Real Estate Firm"
+		},
+		"clientProfile": [
+			"<div class=\"infos-item\"><div class=\"project-icons\"><i class=\"tji-user\"></i></div><div class=\"project-text\"><span>Company Type</span><h6 class=\"title\">Real Estate Firm</h6></div></div>",
+			"<div class=\"infos-item\"><div class=\"project-icons\"><i class=\"tji-chart\"></i></div><div class=\"project-text\"><span>Industry</span><h6 class=\"title\">Real Estate Investment &amp; Sales</h6></div></div>",
+			"<div class=\"infos-item\"><div class=\"project-icons\"><i class=\"tji-location-2\"></i></div><div class=\"project-text\"><span>Headquarters</span><h6 class=\"title\">USA</h6></div></div>",
+			"<div class=\"infos-item\"><div class=\"project-icons\"><i class=\"tji-eye-box\"></i></div><div class=\"project-text\"><span>Focus</span><h6 class=\"title\">Residential &amp; Commercial Property Markets</h6></div></div>"
+		],
+		"kpiData": [
+			{
+				"label": "Faster Data Collection",
+				"value": "80",
+				"symbol": "%"
+			},
+			{
+				"label": "Reduction in Manual Effort",
+				"value": "60",
+				"symbol": "%"
+			},
+			{
+				"label": "Accurate Market Data",
+				"value": "100",
+				"symbol": "%"
+			}
+		],
+		"showedIn": [
+			"property-data-collection-services",
+			"data-collection-services"
+		],
+		"meta": {
+			"metaTitle": "Real Estate Market Research & Data Collection Services | Computyne",
+			"metaDescription": "See how Computyne helped a US real estate firm automate property data collection, achieving 80% faster research cycles and 60% less manual effort.",
+			"keywords": [
+				"Real Estate Data Collection",
+				"Property Market Research",
+				"Real Estate Data Enrichment",
+				"Automated Property Scraping",
+				"Real Estate CRM Data Entry"
+			]
+		}
+	},
+	{
 		"id": 2,
 		"slug": "transforming-raw-resume-into-structure-resume",
 		"title": "Transforming Raw Resumes into Structured Profiles for a Leading Australian Recruitment Company",
@@ -358,184 +536,7 @@
 			]
 		}
 	},
-	{
-		"id": 5,
-		"slug": "invoice-processing-automation-for-global-logistics-company",
-		"title": "Global Logistics Company Transforms Accounts Payable with 60% Faster, More Accurate Invoice Processing",
-		"img": "/images/casestudies/invoice-processing-automation-for-global-logistics-company-870x450.webp",
-		"detailsImg": "/images/casestudies/invoice-processing-automation-for-global-logistics-company.webp",
-		"smallImg": "/images/casestudies/invoice-processing-automation-for-global-logistics-company-870x450.webp",
-		"desc": "A leading global logistics company partnered with Computyne to modernize its Accounts Payable (AP) operations. By replacing manual entry with an AI-powered invoice processing system, the client achieved a 60% faster turnaround time, reduced data entry errors by 95%, and gained total real-time visibility into their financial liabilities.",
-		"tags": [
-			"Corporate",
-			"Business"
-		],
-		"category": [
-			"Invoice Processing",
-			"Document Processing"
-		],
-		"status": "Tutorial",
-		"content": [
-			{
-				"title": "Executive Summary",
-				"data": "<p>A leading global logistics company partnered with Computyne to modernize its Accounts Payable (AP) operations. By replacing manual entry with an AI-powered invoice processing system, the client achieved a 60% faster turnaround time, reduced data entry errors by 95%, and gained total real-time visibility into their financial liabilities.</p>"
-			},
-			{
-				"title": "The Objective",
-				"data": "<p>The client aimed to streamline its AP operations by minimizing manual intervention and reducing invoice cycle times. The goal was to implement an intelligent, data-driven workflow that ensured accurate payments and improved vendor relationships.</p>"
-			},
-			{
-				"title": "The Challenge: Manual Bottlenecks",
-				"subLine": "Before partnering with Computyne, the client’s finance team was bogged down by inefficiencies inherent in global logistics billing:",
-				"data": "<div class=\"desc blog-text-mod wow fadeInUp\" data-wow-delay=\".8s\"><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>High Volume &amp; Variance:</strong><span>Processing thousands of invoices monthly in varying formats (PDF, scanned paper, EDI) from a diverse network of international vendors.</span></div></li><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Manual Errors:</strong><span>Reliance on manual keystrokes led to frequent data entry errors, causing payment delays and reconciliation headaches.</span></div></li><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Complex Matching:</strong><span>The manual three-way matching process (Invoice vs. PO vs. Proof of Delivery) was slow and prone to bottlenecks across departments.</span></div></li><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Lack of Visibility:</strong><span>Management had limited real-time insight into invoice status, making cash flow forecasting difficult.</span></div></li></ul></div>"
-			},
-			{
-				"title": "The Solution: AI-Powered AP Automation",
-				"subLine": "Computyne designed and implemented an automated AP framework tailored to the client’s ERP environment.",
-				"data": "<div class=\"desc blog-text-mod wow fadeInUp\" data-wow-delay=\".8s\"><div class=\"solution-block\"><p class=\"solution-title\"><strong>1. AI-Powered Data Extraction</strong></p><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Intelligent OCR:</strong><span>Deployed advanced AI models to extract key data fields (Invoice Number, Date, Line Items, Total) from unstructured documents with 99% accuracy.</span></div></li></ul></div><div class=\"solution-block\"><p class=\"solution-title\"><strong>2. Automated 3-Way Matching</strong></p><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Validation Logic:</strong><span>Implemented automated workflows to validate invoices against Purchase Orders (POs) and Goods Receipt Notes (GRNs), instantly approving matches and flagging exceptions for human review.</span></div></li></ul></div><div class=\"solution-block\"><p class=\"solution-title\"><strong>3. ERP Integration</strong></p><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Seamless Sync:</strong><span>Designed custom workflows that pushed validated data directly into the client’s ERP system, eliminating double entry.</span></div></li></ul></div><div class=\"solution-block\"><p class=\"solution-title\"><strong>4. Centralized Analytics</strong></p><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Real-Time Dashboard:</strong><span>Integrated a dashboard for real-time tracking of invoice status, accruals, and vendor performance.</span></div></li></ul></div></div>"
-			},
-			{
-				"title": "Key Results & Impact",
-				"subLine": "The transformation delivered immediate operational efficiency and financial control.",
-				"data": "<div class=\"tj-product-details-description mt-30\"><table><tbody><tr><th>Metric</th><td>Improvement</td><td>Description</td></tr><tr><th>Cycle Time</th><td>60% Faster</td><td>Drastically reduced the time from \"Invoice Received\" to \"Ready for Payment.\"</td></tr><tr><th>Error Rate</th><td>Reduced by 95%</td><td>AI extraction eliminated manual typos and coding errors.</td></tr><tr><th>Vendor Relations</th><td>Improved</td><td>Timely and accurate payments significantly reduced vendor friction and inquiries.</td></tr><tr><th>Visibility</th><td>100% Real-Time</td><td>Instant analytics allowed for better cash flow management and reporting.</td></tr></tbody></table></div>"
-			},
-			{
-				"title": "Why Choose Computyne for AP Automation?",
-				"data": "<div class=\"desc blog-text-mod wow fadeInUp\" data-wow-delay=\".8s\"><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><strong>Specialized Expertise:</strong> Proven track record in transforming AP operations for global enterprises.</li><li><span><i class=\"tji-list\"></i></span><strong>Technology Driven:</strong> We utilize AI and Machine Learning to achieve speed and accuracy that manual teams cannot match.</li><li><span><i class=\"tji-list\"></i></span><strong>Seamless Integration:</strong> Solutions designed to work with your existing ERP, not against it.</li><li><span><i class=\"tji-list\"></i></span><strong>Scalability:</strong> Capable of handling volume spikes during peak logistics seasons without service degradation.</li></ul></div>"
-			}
-		],
-		"clientWords": {
-			"data": "<p>\"Computyne’s automation expertise completely transformed our AP process. We’ve seen remarkable improvements in accuracy and speed, allowing our team to focus on strategic tasks instead of manual work.\"</p>",
-			"by": "Finance Director, Global Logistics Company"
-		},
-		"clientProfile": [
-			"<div class=\"infos-item\"><div class=\"project-icons\"><i class=\"tji-user\"></i></div><div class=\"project-text\"><span>Company Type</span><h6 class=\"title\">Global Logistics Enterprise</h6></div></div>",
-			"<div class=\"infos-item\"><div class=\"project-icons\"><i class=\"tji-chart\"></i></div><div class=\"project-text\"><span>Industry</span><h6 class=\"title\">Logistics &amp; Transportation</h6></div></div>",
-			"<div class=\"infos-item\"><div class=\"project-icons\"><i class=\"tji-location-2\"></i></div><div class=\"project-text\"><span>Headquarters</span><h6 class=\"title\">Europe</h6></div></div>",
-			"<div class=\"infos-item\"><div class=\"project-icons\"><i class=\"tji-worldwide\"></i></div><div class=\"project-text\"><span>Operational Scope</span><h6 class=\"title\">International Supply Chain Management</h6></div></div>"
-		],
-		"kpiData": [
-			{
-				"label": "Faster Invoice Processing",
-				"value": "60",
-				"symbol": "%"
-			},
-			{
-				"label": "Reduction in Manual Errors",
-				"value": "95",
-				"symbol": "%"
-			},
-			{
-				"label": "Real-Time Process Visibility",
-				"value": "100",
-				"symbol": "%"
-			}
-		],
-		"showedIn": [
-			"invoice-processing-services",
-			"document-processing-services"
-		],
-		"meta": {
-			"metaTitle": "Accounts Payable Automation for Logistics: 60% Faster Processing | Computyne",
-			"metaDescription": "See how Computyne helped a global logistics firm streamline Accounts Payable. Our AI invoice processing reduced errors by 95% and cycle times by 60%.",
-			"keywords": [
-				"Accounts Payable Automation",
-				"Invoice Processing Services",
-				"Automated 3-Way Matching",
-				"Logistics AP Outsourcing",
-				"AI Invoice Data Extraction"
-			]
-		}
-	},
-	{
-		"id": 6,
-		"slug": "real-estate-property-data-collection-and-market-research",
-		"title": "Empowering a Real Estate Firm with Accurate Property Data and Market Research Insights",
-		"img": "/images/casestudies/real-estate-property-data-collection-and-market-research-870x450.webp",
-		"detailsImg": "/images/casestudies/real-estate-property-data-collection-and-market-research.webp",
-		"smallImg": "/images/casestudies/real-estate-property-data-collection-and-market-research-870x450.webp",
-		"desc": "A leading U.S.-based real estate company partnered with Computyne to modernize its data operations. By automating property data collection and market research, the client achieved 80% faster data aggregation, reduced manual effort by 60%, and gained a competitive edge through real-time market insights.",
-		"tags": [
-			"Corporate",
-			"Business"
-		],
-		"category": [
-			"Property Data Collection",
-			"Data Collection"
-		],
-		"status": "Tutorial",
-		"content": [
-			{
-				"title": "Executive Summary",
-				"data": "<p>A leading U.S.-based real estate company partnered with Computyne to modernize its data operations. By automating property data collection and market research, the client achieved 80% faster data aggregation, reduced manual effort by 60%, and gained a competitive edge through real-time market insights.</p>"
-			},
-			{
-				"title": "The Objective",
-				"data": "<p>The client needed to streamline its property data collection and market research operations. The goal was to replace manual processes with a system that delivered accurate, up-to-date, and actionable insights to power smarter investment and sales decisions.</p>"
-			},
-			{
-				"title": "The Challenge: Data Inconsistency & Delay",
-				"subLine": "The client’s ability to analyze the market was hindered by inefficient data management practices:",
-				"data": "<div class=\"desc blog-text-mod wow fadeInUp\" data-wow-delay=\".8s\"><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Manual Bottlenecks:</strong><span>The team relied on manual data collection from dozens of online property sources, which was time-consuming and error-prone.</span></div></li><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Unreliable Comparisons:</strong><span>Inconsistent property details (e.g., varying square footage definitions) and outdated listings made market comparisons impossible.</span></div></li><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Fragmentation:</strong><span>The lack of a centralized database hindered quick access to reports, delaying critical investment decisions.</span></div></li><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Scalability Issues:</strong><span>Maintaining accuracy across thousands of dynamic listings created an operational bottleneck that internal teams couldn't overcome.</span></div></li></ul></div>"
-			},
-			{
-				"title": "The Solution: Automated Research & Enrichment",
-				"subLine": "Computyne delivered a tailored solution combining automation with expert human validation.",
-				"data": "<div class=\"desc blog-text-mod wow fadeInUp\" data-wow-delay=\".8s\"><div class=\"solution-block\"><p class=\"solution-title\"><strong>1. Automated Property Data Collection</strong></p><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Aggregation:</strong><span>Implemented automated scrapers to aggregate key details—pricing, location, size, amenities, and ownership history—from verified real estate portals and public records.</span></div></li></ul></div><div class=\"solution-block\"><p class=\"solution-title\"><strong>2. Manual Quality Assurance</strong></p><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Validation:</strong><span>Deployed data specialists to conduct manual checks, removing duplicates and verifying high-value listings to ensure 100% accuracy.</span></div></li></ul></div><div class=\"solution-block\"><p class=\"solution-title\"><strong>3. Custom Market Research Framework</strong></p><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Trend Tracking:</strong><span>Built a framework for continuous monitoring of price trends, demand patterns, and competitor portfolios.</span></div></li></ul></div><div class=\"solution-block\"><p class=\"solution-title\"><strong>4. Seamless Integration</strong></p><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>CRM Ready:</strong><span>Delivered structured, cleaned datasets formatted for immediate ingestion into the client’s CRM and analytics platforms.</span></div></li></ul></div></div>"
-			},
-			{
-				"title": "Key Results & Impact",
-				"subLine": "The partnership transformed the client’s data infrastructure, enabling data-driven agility.",
-				"data": "<div class=\"tj-product-details-description mt-30\"><table><tbody><tr><th>Metric</th><td>Improvement</td><td>Description</td></tr><tr><th>Data Collection</th><td>80% Faster</td><td>Automated aggregation drastically reduced the time to gather market intelligence.</td></tr><tr><th>Manual Effort</th><td>Reduced by 60%</td><td>Freed up the sales and research teams to focus on client relations and strategy.</td></tr><tr><th>Market Visibility</th><td>Real-Time</td><td>Continuous tracking provided instant insights into pricing and inventory shifts.</td></tr><tr><th>Operational Trust</th><td>Enhanced</td><td>Accurate reporting boosted stakeholder confidence in investment recommendations.</td></tr></tbody></table></div>"
-			},
-			{
-				"title": "Why Choose Computyne for Real Estate Data?",
-				"data": "<div class=\"desc blog-text-mod wow fadeInUp\" data-wow-delay=\".8s\"><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><strong>Comprehensive Services:</strong> End-to-end support for data collection, enrichment, and market research.</li><li><span><i class=\"tji-list\"></i></span><strong>Hybrid Approach:</strong> We combine advanced automation for speed with expert human validation for accuracy.</li><li><span><i class=\"tji-list\"></i></span><strong>Actionable Intelligence:</strong> We transform raw listings into insights that drive sales and investment strategy.</li><li><span><i class=\"tji-list\"></i></span><strong>Integration Ready:</strong> Data delivered in formats compatible with your existing tech stack (CRM, BI tools).</li></ul></div>"
-			}
-		],
-		"clientWords": {
-			"data": "<p>\"Computyne’s data team helped us gain real-time visibility into the property market. Their accuracy and turnaround time exceeded our expectations — a truly reliable partner for real estate data needs.\"</p>",
-			"by": "Director of Market Research, U.S. Real Estate Firm"
-		},
-		"clientProfile": [
-			"<div class=\"infos-item\"><div class=\"project-icons\"><i class=\"tji-user\"></i></div><div class=\"project-text\"><span>Company Type</span><h6 class=\"title\">Real Estate Firm</h6></div></div>",
-			"<div class=\"infos-item\"><div class=\"project-icons\"><i class=\"tji-chart\"></i></div><div class=\"project-text\"><span>Industry</span><h6 class=\"title\">Real Estate Investment &amp; Sales</h6></div></div>",
-			"<div class=\"infos-item\"><div class=\"project-icons\"><i class=\"tji-location-2\"></i></div><div class=\"project-text\"><span>Headquarters</span><h6 class=\"title\">USA</h6></div></div>",
-			"<div class=\"infos-item\"><div class=\"project-icons\"><i class=\"tji-eye-box\"></i></div><div class=\"project-text\"><span>Focus</span><h6 class=\"title\">Residential &amp; Commercial Property Markets</h6></div></div>"
-		],
-		"kpiData": [
-			{
-				"label": "Faster Data Collection",
-				"value": "80",
-				"symbol": "%"
-			},
-			{
-				"label": "Reduction in Manual Effort",
-				"value": "60",
-				"symbol": "%"
-			},
-			{
-				"label": "Accurate Market Data",
-				"value": "100",
-				"symbol": "%"
-			}
-		],
-		"showedIn": [
-			"property-data-collection-services",
-			"data-collection-services"
-		],
-		"meta": {
-			"metaTitle": "Real Estate Market Research & Data Collection Services | Computyne",
-			"metaDescription": "See how Computyne helped a US real estate firm automate property data collection, achieving 80% faster research cycles and 60% less manual effort.",
-			"keywords": [
-				"Real Estate Data Collection",
-				"Property Market Research",
-				"Real Estate Data Enrichment",
-				"Automated Property Scraping",
-				"Real Estate CRM Data Entry"
-			]
-		}
-	},
+
 	{
 		"id": 7,
 		"slug": "appraisal-valuation-data-mining-for-canadian-cre-intelligence-company",
