@@ -16,10 +16,10 @@ const Whychooseus = () => {
 
     const getWhychooseusData =
         !whyChooseUs || Object.keys(whyChooseUs).length === 0
-            ? getWhyChooseUsData("data-extraction-services")?.data.slice(0, 3)
-            : whyChooseUs?.data.slice(0, 3);
+            ? getWhyChooseUsData("data-extraction-services")?.data
+            : whyChooseUs?.data;
 
-    const whychooseusData = [...getWhychooseusData, ...getWhychooseusData];
+    const whychooseusData = [...getWhychooseusData];
 
     const getWhychooseusTitle =
         !whyChooseUs || Object.keys(whyChooseUs).length === 0
