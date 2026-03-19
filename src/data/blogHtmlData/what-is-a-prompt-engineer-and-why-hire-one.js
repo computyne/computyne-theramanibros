@@ -841,9 +841,9 @@ const htmlString = `
 
                     <p>Explore our broader range of remote talent services:</p>
                     <ul>
-                        <li>→ <a href="https://www.computyne.com/hire-virtual-assistant" style="color: #004a99; font-weight: bold;">Hire a Virtual Assistant</a> — Delegate day-to-day tasks and reclaim your time for strategic work.</li>
-                        <li>→ <a href="https://www.computyne.com/hire-data-entry-specialist" style="color: #004a99; font-weight: bold;">Hire a Data Entry Specialist</a> — Accurate, fast, and scalable data management for growing teams.</li>
-                        <li>→ <a href="https://www.computyne.com/hire-administrative-assistant" style="color: #004a99; font-weight: bold;">Hire for Administrative Tasks</a> — From inbox management to scheduling, keep your operations running smoothly.</li>
+                        <li>→ <a href="https://www.computyne.com/hire-virtual-assistants" style="color: #004a99; font-weight: bold;">Hire a Virtual Assistant</a> — Delegate day-to-day tasks and reclaim your time for strategic work.</li>
+                        <li>→ <a href="https://www.computyne.com/hire-data-entry-specialists" style="color: #004a99; font-weight: bold;">Hire a Data Entry Specialist</a> — Accurate, fast, and scalable data management for growing teams.</li>
+                        <li>→ <a href="https://www.computyne.com/hire-resources" style="color: #004a99; font-weight: bold;">Hire for Administrative Tasks</a> — From inbox management to scheduling, keep your operations running smoothly.</li>
                     </ul>
 
                     <div class="cta-banner">
