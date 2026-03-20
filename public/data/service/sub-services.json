@@ -4785,7 +4785,7 @@
                 "id": 1,
                 "title": "eCommerce Catalog Management Services",
                 "desc": "Accurate product data is essential for discoverability, compliance, and conversion. Our eCommerce catalog management outsourcing services ensure consistent, optimized, and marketplace-ready listings.",
-                "url": "#",
+                "url": "ecommerce-catalog-management-services",
                 "data": [
                     {
                         "value": "SKU creation, enrichment, and standardization workflows"
@@ -4803,7 +4803,7 @@
             },
             {
                 "id": 2,
-                "title": "Order Processing & Fulfillment Support",
+                "title": "Order Processing &d Fulfillment Support",
                 "desc": "Our eCommerce order management services streamline back-office order workflows to improve fulfillment accuracy, turnaround times, and customer satisfaction.",
                 "url": "#",
                 "data": [
@@ -5209,7 +5209,7 @@
                 "id": 1,
                 "title": "Data Processing & Management",
                 "desc": "Structured data processing services designed to ensure accuracy, scalability, compliance, and operational efficiency for ITES enterprises.",
-                "url": "#",
+                "url": "document-processing-services",
                 "data": [
                     {
                         "value": "Data entry, validation, cleansing, standardization, and automation"
@@ -5229,7 +5229,7 @@
                 "id": 2,
                 "title": "Document Management & Digitization",
                 "desc": "Secure document digitization and workflow management solutions that improve accessibility, compliance, and processing speed across ITES operations.",
-                "url": "#",
+                "url": "document-digitization-services",
                 "data": [
                     {
                         "value": "Document scanning, OCR, and intelligent indexing services"
@@ -5461,7 +5461,7 @@
                 "id": 4,
                 "title": "Property Data Collection",
                 "desc": "Accurate property data collection supporting structured records, analytics, and reliable real estate operations.",
-                "url": "#",
+                "url": "property-data-collection-services",
                 "data": [
                     {
                         "value": "Field and source-based data aggregation"
@@ -5481,7 +5481,7 @@
                 "id": 5,
                 "title": "Appraisal & Valuation Data Entry",
                 "desc": "Precise appraisal and valuation data entry ensuring accuracy, compliance, and decision-ready property insights.",
-                "url": "#",
+                "url": "appraisal-data-entry-services",
                 "data": [
                     {
                         "value": "Appraisal report digitization and indexing"
@@ -5501,7 +5501,7 @@
                 "id": 6,
                 "title": "Real Estate Property Listing Management",
                 "desc": "Comprehensive property listing management ensuring consistency, visibility, and faster market readiness.",
-                "url": "#",
+                "url": "real-estate-property-listing-services",
                 "data": [
                     {
                         "value": "Listing creation and optimization services"
