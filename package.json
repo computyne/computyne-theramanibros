@@ -35,7 +35,10 @@
 		"wow.js": "^1.2.2"
 	},
 	"devDependencies": {
+		"@types/node": "25.5.0",
+		"@types/react": "19.2.14",
 		"baseline-browser-mapping": "^2.9.19",
-		"sass": "^1.94.2"
+		"sass": "^1.94.2",
+		"typescript": "5.9.3"
 	}
 }

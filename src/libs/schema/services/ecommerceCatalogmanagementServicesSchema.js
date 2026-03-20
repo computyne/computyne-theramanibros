@@ -1,5 +1,4 @@
-export const ecommerceCatalogmanagementServicesSchema = {
-[
+export const ecommerceCatalogmanagementServicesSchema = [
   {
     "@context": "https://schema.org",
     "@type": "Organization",
@@ -275,4 +274,3 @@ export const ecommerceCatalogmanagementServicesSchema = {
     "reviewBody": "We are very satisfied with your resume processing services and you fitted all our deadlines and exceeded our expectations in quality."
   }
 ]
-};
