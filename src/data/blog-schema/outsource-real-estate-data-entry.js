@@ -1,53 +1,38 @@
 export const schema = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://www.computyne.com/case-studies/ai-ml-driven-data-cleansing-telecommunications-enterprise"
-    },
-    "headline": "AI-Powered Data Cleansing Enhancing Telecom Customer and Location Data Accuracy",
-    "alternativeHeadline": "Case Study: Processing 13.7 Million Telecom Records with AI",
-    "description": "Computyne implemented an AI-driven data cleansing framework for a leading telecom provider. The result: 13.7 million records processed, 850,000 duplicates removed, and a ISO 27001 secure data foundation.",
-    "image": "https://www.computyne.com/images/case-studies/ai-ml-driven-data-cleansing-telecommunications-enterprise.webp",
-    "author": {
-        "@type": "Organization",
-        "name": "Computyne",
-        "url": "https://www.computyne.com"
-    },
-    "publisher": {
-        "@type": "Organization",
-        "name": "Computyne",
-        "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.computyne.com/logo.png"
-        }
-    },
-    "datePublished": "2026-01-22",
-    "dateModified": "2026-01-22",
-    "articleSection": "Case Study",
-    "keywords": [
-        "Telecom Data Cleansing",
-        "AI Data Quality",
-        "Customer Data Deduplication",
-        "Location Data Verification",
-        "Telecommunications Analytics",
-        "Master Data Management"
-    ],
-    "about": [
-        {
-            "@type": "Thing",
-            "name": "Data Cleansing",
-            "description": "The process of detecting and correcting (or removing) corrupt or inaccurate records from a record set, table, or database."
-        },
-        {
-            "@type": "Thing",
-            "name": "Artificial Intelligence",
-            "description": "Intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals including humans."
-        },
-        {
-            "@type": "Thing",
-            "name": "Telecommunications",
-            "description": "The transmission of information by various types of technologies over wire, radio, optical or other electromagnetic systems."
-        }
-    ]
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.computyne.com/blog/outsource-real-estate-data-entry"
+  },
+  "headline": "Why You Should Outsource Real Estate Data Entry: A Smart Move for Your Business",
+  "description": "Discover how outsourcing real estate data entry improves accuracy, reduces costs, and enhances efficiency for brokers, property managers, and real estate businesses.",
+  "image": "https://www.computyne.com/images/orgBlogs/main/outsource-real-estate-data-entry.webp",
+  "author": {
+    "@type": "Person",
+    "name": "Saija Rajiv"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Computyne",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.computyne.com/images/site-logo/white-logo.svg"
+    }
+  },
+  "datePublished": "2025-04-10",
+  "dateModified": "2025-04-10",
+  "articleSection": "Data Entry",
+  "keywords": [
+    "Outsource Real Estate Data Entry",
+    "Real Estate Data Entry Services",
+    "Property Data Management",
+    "Real Estate Data Processing",
+    "Data Entry Outsourcing",
+    "Real Estate Back Office Support"
+  ],
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "wordCount": "1400",
+  "articleBody": "This blog explains the benefits of outsourcing real estate data entry, including cost savings, improved accuracy, scalability, and faster turnaround times. It covers tasks such as property listing updates, lease management, client database handling, and mortgage data processing, along with tips on choosing the right outsourcing partner."
 };
