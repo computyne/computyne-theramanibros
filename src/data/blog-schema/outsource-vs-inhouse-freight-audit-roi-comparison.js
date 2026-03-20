@@ -1,53 +1,39 @@
 export const schema = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://www.computyne.com/case-studies/ai-ml-driven-data-cleansing-telecommunications-enterprise"
-    },
-    "headline": "AI-Powered Data Cleansing Enhancing Telecom Customer and Location Data Accuracy",
-    "alternativeHeadline": "Case Study: Processing 13.7 Million Telecom Records with AI",
-    "description": "Computyne implemented an AI-driven data cleansing framework for a leading telecom provider. The result: 13.7 million records processed, 850,000 duplicates removed, and a ISO 27001 secure data foundation.",
-    "image": "https://www.computyne.com/images/case-studies/ai-ml-driven-data-cleansing-telecommunications-enterprise.webp",
-    "author": {
-        "@type": "Organization",
-        "name": "Computyne",
-        "url": "https://www.computyne.com"
-    },
-    "publisher": {
-        "@type": "Organization",
-        "name": "Computyne",
-        "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.computyne.com/logo.png"
-        }
-    },
-    "datePublished": "2026-01-22",
-    "dateModified": "2026-01-22",
-    "articleSection": "Case Study",
-    "keywords": [
-        "Telecom Data Cleansing",
-        "AI Data Quality",
-        "Customer Data Deduplication",
-        "Location Data Verification",
-        "Telecommunications Analytics",
-        "Master Data Management"
-    ],
-    "about": [
-        {
-            "@type": "Thing",
-            "name": "Data Cleansing",
-            "description": "The process of detecting and correcting (or removing) corrupt or inaccurate records from a record set, table, or database."
-        },
-        {
-            "@type": "Thing",
-            "name": "Artificial Intelligence",
-            "description": "Intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals including humans."
-        },
-        {
-            "@type": "Thing",
-            "name": "Telecommunications",
-            "description": "The transmission of information by various types of technologies over wire, radio, optical or other electromagnetic systems."
-        }
-    ]
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.computyne.com/blog/outsource-vs-inhouse-freight-audit-roi-comparison"
+  },
+  "headline": "Outsource vs In-House Freight Audit: A Clear ROI Comparison",
+  "description": "Compare outsourced vs in-house freight audit to understand cost savings, efficiency gains, scalability, and ROI impact. Discover which model delivers better long-term value for logistics operations.",
+  "image": "https://www.computyne.com/images/orgBlogs/main/outsource-vs-inhouse-freight-audit-roi-comparison.jpg",
+  "author": {
+    "@type": "Person",
+    "name": "Computyne Team"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Computyne",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.computyne.com/images/site-logo/white-logo.svg"
+    }
+  },
+  "datePublished": "2026-03-01",
+  "dateModified": "2026-03-01",
+  "articleSection": "Freight Audit / Logistics",
+  "keywords": [
+    "Freight Audit Outsourcing",
+    "In-house Freight Audit",
+    "Freight Audit ROI",
+    "Logistics Cost Optimization",
+    "Freight Invoice Audit",
+    "Outsource vs In-house Comparison"
+  ],
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "wordCount": "1500",
+  "articleBody": "This article compares outsourced and in-house freight audit models by analyzing total cost of ownership, operational efficiency, scalability, and return on investment. It highlights hidden costs in in-house operations such as staffing, technology, and error correction, while demonstrating how outsourcing improves accuracy, reduces overhead, and enables logistics teams to focus on core business functions."
+
 };
