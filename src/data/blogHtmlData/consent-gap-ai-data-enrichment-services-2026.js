@@ -571,7 +571,7 @@ const htmlString = `
                             <a href="https://www.computyne.com/contact-us" class="talk-to-experts-btn">Talk to Experts</a>
                         </div>
                     </div>
-                </div>
+
 
                 <!-- CONCLUSION SECTION -->
                 <div id="conclusion">

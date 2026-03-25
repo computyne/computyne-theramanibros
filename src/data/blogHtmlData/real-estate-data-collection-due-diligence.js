@@ -580,7 +580,7 @@ const htmlString = `
                    <h3>The Long-Term Value of "Clean" Data</h3>
 <p>The benefits of a rigorous <a href="https://www.computyne.com/data-collection-services">data collection process</a> don't end at the closing table. Once you have built a high-fidelity digital record of a property, that data becomes a core asset for the entire holding period.</p>
 <p>When it comes time for an annual audit, a refinancing, or a future sale, you aren't scrambling to find old documents. You already have a "Digital Twin" of the property’s financial and legal history. This organized approach reduces the "headache factor" for your asset management team and significantly increases the asset's value in the eyes of future buyers. They aren't just buying a building; they are buying a clean, transparent, and low-risk investment.</p>
-
+</div>
 
 
                <!-- CONCLUSION -->
