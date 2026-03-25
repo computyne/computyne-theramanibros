@@ -21,7 +21,7 @@ export const metadata = {
 
     title: "Outsourced Resume & CV Formatting Services | ATS-Compliant, Bulk & White-Label | Computyne",
     description:
-        "StrengthenComputyne formats CVs for recruitment agencies, staffing firms & HR teams. ATS-compliant, branded, white-label. 30-min TAT, 99.5% accuracy. 7-day free trial.",
+        "Computyne formats CVs for recruitment agencies, staffing firms & HR teams. ATS-compliant, branded, white-label. 30-min TAT, 99.5% accuracy. 7-day free trial.",
 
     keywords: [
         "resume formatting services",

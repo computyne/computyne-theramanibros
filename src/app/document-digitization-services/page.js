@@ -20,7 +20,7 @@ export const metadata = {
 
     title: "Outsourced Document Digitization Services | OCR, Scanning & Secure Archiving | Computyne",
     description:
-        "StrengthenComputyne converts paper records to searchable, secure digital formats using AI-based OCR & double-key validation. 99.99% accuracy. GDPR/ISO compliant. Free pilot.",
+        "Computyne converts paper records to searchable, secure digital formats using AI-based OCR & double-key validation. 99.99% accuracy. GDPR/ISO compliant. Free pilot.",
 
     keywords: [
         "document digitization services",

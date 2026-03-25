@@ -20,7 +20,7 @@ export const metadata = {
 
     title: "Outsourced Data Cleansing Services | CRM, B2B & Email Data Cleaning | Computyne",
     description:
-        "StrengthenComputyne delivers AI-powered data cleansing services – deduplication, validation & standardization for CRM, B2B & eCommerce. 99% accuracy. Free pilot available.",
+        "Computyne delivers AI-powered data cleansing services – deduplication, validation & standardization for CRM, B2B & eCommerce. 99% accuracy. Free pilot available.",
 
     keywords: [
         "data cleansing services",

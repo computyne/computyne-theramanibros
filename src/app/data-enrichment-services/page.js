@@ -21,7 +21,7 @@ export const metadata = {
 
     title: "B2B & CRM Data Enrichment Services | Verified, Scalable & Decision-Ready | Computyne",
     description:
-        "StrengthenComputyne enriches B2B, CRM, and contact databases with verified firmographic, demographic & sales intel. 99%+ accuracy. ISO certified. Free sample available.",
+        "Computyne enriches B2B, CRM, and contact databases with verified firmographic, demographic & sales intel. 99%+ accuracy. ISO certified. Free sample available.",
 
     keywords: [
         "data enrichment services",

@@ -20,7 +20,7 @@ export const metadata = {
 
     title: "Outsourced Invoice Processing Services | AP Automation & ERP Integration | Computyne",
     description:
-        "StrengthenComputyne automates accounts payable invoice processing with 99.9% accuracy. Three-way matching, ERP integration (SAP/Oracle), SOX/GDPR compliant. 60% cost reduction. Free pilot.",
+        "Computyne automates accounts payable invoice processing with 99.9% accuracy. Three-way matching, ERP integration (SAP/Oracle), SOX/GDPR compliant. 60% cost reduction. Free pilot.",
 
     keywords: [
         "invoice processing services",

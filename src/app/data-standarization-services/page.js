@@ -21,7 +21,7 @@ export const metadata = {
 
     title: "Data Standardization Services | Normalize, Format & Unify Your Data | Computyne",
     description:
-        "StrengthenComputyne standardizes CRM, contact, product, and financial data for seamless integration and accurate analytics. GDPR compliant, scalable. Free consultation.",
+        "Computyne standardizes CRM, contact, product, and financial data for seamless integration and accurate analytics. GDPR compliant, scalable. Free consultation.",
 
     keywords: [
         "data standardization services",

@@ -1,6 +1,67 @@
 [
 	{
 		"id": 1,
+		"slug": "real-estate-data-collection-due-diligence",
+		"title": "Why Accurate Real Estate Data Collection is the Real Secret to Speed",
+		"img": "/images/orgBlogs/main/real-estate-data-collection-due-diligence.webp",
+		"detailsImg": "/images/orgBlogs/main/real-estate-data-collection-due-diligence.webp",
+		"smallImg": "/images/orgBlogs/main/real-estate-data-collection-due-diligence.webp",
+		"desc": "",
+		"date": "25 Mar 2026",
+		"date2": "March 25, 2026",
+		"day": 25,
+		"month": "MAR",
+		"category": "Real Estate Data Collection",
+		"tags": ["Real estate data collection", "Real estate due diligence", "Lease abstraction services", "Commercial real estate data", "Property data verification"],
+		"author": "By: Ravinder Singh",
+		"meta": {
+			"metaTitle": "Why Accurate Real Estate Data Collection is the Secret to Closing Faster | Computyne",
+			"metaDescription": "Inaccurate data is the real reason deals stall. Learn how professional real estate data collection accelerates due diligence, eliminates costly surprises, and helps firms close with confidence.",
+			"keywords": [
+				"Accurate real estate data collection services",
+				"Real estate data for faster deal closing",
+				"Property due diligence data process",
+				"Real estate document analysis and extraction",
+				"Real estate data management and insights"
+
+
+			],
+			"canonical": "https://www.computyne.com/blog/real-estate-data-collection-due-diligence"
+		}
+	},
+	{
+		"id": 1,
+		"slug": "consent-gap-ai-data-enrichment-services-2026",
+		"title": "AI Data Enrichment Compliance: Closing the "Consent Gap" in 2026",
+		"img": "/images/orgBlogs/main/consent-gap-ai-data-enrichment-services-2026.webp",
+		"detailsImg": "/images/orgBlogs/main/consent-gap-ai-data-enrichment-services-2026.webp",
+		"smallImg": "/images/orgBlogs/main/consent-gap-ai-data-enrichment-services-2026.webp",
+		"desc": "",
+		"date": "25 Mar 2026",
+		"date2": "March 25, 2026",
+		"day": 25,
+		"month": "MAR",
+		"category": "Data Enrichment",
+		"tags": ["AI Data Enrichment", "Data Compliance 2026", "Consent-Based Data", "GDPR & EU AI Act", "Ethical Data Sourcing"],
+		"author": "By: Ravinder Singh",
+		"meta": {
+			"metaTitle": "Data Enrichment Services in 2026: Closing the AI Consent Gap | Computyne",
+			"metaDescription": "AI regulations in 2026 are reshaping how companies source training data. Learn how ethical data enrichment services help you stay compliant, reduce risk, and build better AI models.",
+			"keywords": [
+				"AI data enrichment compliance",
+				"consent-based data enrichment services",
+				"ethical AI data sourcing solutions",
+				"data enrichment with GDPR compliance",
+				"privacy compliant AI training data",
+				"data provenance in machine learning"
+
+
+			],
+			"canonical": "https://www.computyne.com/blog/consent-gap-ai-data-enrichment-services-2026"
+		}
+	},
+	{
+		"id": 1,
 		"slug": "what-is-a-prompt-engineer-and-why-hire-one",
 		"title": "What Is a Prompt Engineer and Why Should You Hire One?",
 		"img": "/images/orgBlogs/main/what-is-a-prompt-engineer-and-why-hire-one-516x280.webp",
