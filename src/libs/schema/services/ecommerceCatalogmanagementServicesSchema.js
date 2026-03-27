@@ -237,7 +237,7 @@ export const ecommerceCatalogmanagementServicesSchema = [
       "@type": "Person",
       "name": "Ric Dube"
     },
-    "reviewBody": "Computyne's data team helped us gain real-time visibility into the property market. Their accuracy and turnaround time exceeded our expectations — a truly reliable partner for real estate data needs."
+    "reviewBody": "Computyne's catalog management team brought structure and consistency to our product data. Their accuracy and turnaround time exceeded our expectations and helped us improve listing quality across channels."
   },
   {
     "@context": "https://schema.org",
@@ -254,7 +254,7 @@ export const ecommerceCatalogmanagementServicesSchema = [
       "@type": "Person",
       "name": "Craig Archbold"
     },
-    "reviewBody": "We are impressed with the data entry services Computyne and the team provides to us. One can undoubtedly count on Computyne for their invoice processing needs."
+    "reviewBody": "We are impressed with the way Computyne manages catalog updates, taxonomy mapping, and product content enrichment. Their team can be trusted to keep large catalogs accurate, organized, and marketplace-ready."
   },
   {
     "@context": "https://schema.org",
@@ -271,6 +271,6 @@ export const ecommerceCatalogmanagementServicesSchema = [
       "@type": "Person",
       "name": "Shira Papir"
     },
-    "reviewBody": "We are very satisfied with your resume processing services and you fitted all our deadlines and exceeded our expectations in quality."
+    "reviewBody": "We are very satisfied with Computyne's catalog maintenance support. They met our deadlines, handled bulk updates smoothly, and maintained strong quality across product listings and media assets."
   }
 ]
