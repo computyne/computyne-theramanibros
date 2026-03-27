@@ -3,7 +3,7 @@ const HeaderSearchForm = () => {
         <>
             <div className="search_popup">
                 <div className="search_close">
-                    <button type="button" className="search_close_btn">
+                    <button type="button" className="search_close_btn" aria-label="Close search">
                         <svg
                             width="18"
                             height="18"
@@ -45,7 +45,7 @@ const HeaderSearchForm = () => {
                                                     placeholder="Search here..."
                                                     required=""
                                                 />
-                                                <button type="submit">
+                                                <button type="submit" aria-label="Submit search">
                                                     <i className="tji-search"></i>
                                                 </button>
                                             </div>

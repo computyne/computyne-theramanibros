@@ -2,6 +2,7 @@
 import ButtonPrimary from "@/components/shared/buttons/ButtonPrimary";
 import ReactNiceSelect from "@/components/shared/Inputs/ReactNiceSelect";
 import Link from "next/link";
+import Image from "next/image";
 
 const Contact2 = () => {
     return (
@@ -138,10 +139,10 @@ const Contact2 = () => {
                 </div>
             </div>
             <div className="bg-shape-1">
-                <img src="/images/shape/pattern-2.svg" alt=""/>
+                <Image src="/images/shape/pattern-2.svg" alt="" width={370} height={590} aria-hidden="true" />
             </div>
             <div className="bg-shape-2">
-                <img src="/images/shape/pattern-3.svg" alt=""/>
+                <Image src="/images/shape/pattern-3.svg" alt="" width={370} height={590} aria-hidden="true" />
             </div>
         </section>
     );

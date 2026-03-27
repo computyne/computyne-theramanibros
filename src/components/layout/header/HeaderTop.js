@@ -28,22 +28,22 @@ const HeaderTop = ({type}) => {
                                     <div className="social-links style-2">
                                         <ul>
                                             <li>
-                                                <Link href="https://www.facebook.com/" target="_blank">
+                                                <Link href="https://www.facebook.com/" target="_blank" aria-label="Facebook">
                                                     <i className="fa-brands fa-facebook-f"></i>
                                                 </Link>
                                             </li>
                                             <li>
-                                                <Link href="https://www.instagram.com/" target="_blank">
+                                                <Link href="https://www.instagram.com/" target="_blank" aria-label="Instagram">
                                                     <i className="fa-brands fa-instagram"></i>
                                                 </Link>
                                             </li>
                                             <li>
-                                                <Link href="https://x.com/" target="_blank">
+                                                <Link href="https://x.com/" target="_blank" aria-label="X">
                                                     <i className="fa-brands fa-x-twitter"></i>
                                                 </Link>
                                             </li>
                                             <li>
-                                                <Link href="https://www.linkedin.com/" target="_blank">
+                                                <Link href="https://www.linkedin.com/" target="_blank" aria-label="LinkedIn">
                                                     <i className="fa-brands fa-linkedin-in"></i>
                                                 </Link>
                                             </li>

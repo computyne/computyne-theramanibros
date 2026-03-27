@@ -37,12 +37,22 @@ const ClientWrapper = () => {
         };
     }, []);
     useGSAP((context, contextSafe) => {
+        const runTitleAnimations = () => {
+            titleAnim();
+            titleAnim2();
+            titleAnim3();
+        };
+
         initSmoothScroller();
         tjRightSwipeAnimation();
         tjLeftSwipeAnimation();
-        titleAnim();
-        titleAnim2();
-        titleAnim3();
+        if (typeof document !== "undefined" && document.fonts?.ready) {
+            document.fonts.ready.then(() => {
+                runTitleAnimations();
+            });
+        } else {
+            runTitleAnimations();
+        }
         textReavealAnim();
         sidebarSticky();
         arrangeAnim();

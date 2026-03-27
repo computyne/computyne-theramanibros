@@ -35,6 +35,7 @@ const RecentBlogWidgetGrid = () => {
                                             alt="Blog"
                                             width={150}
                                             height={150}
+                                            style={{height: "auto"}}
                                         />
                                     </Link>
                                 </div>

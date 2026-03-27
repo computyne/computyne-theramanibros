@@ -5,13 +5,13 @@ import {Swiper, SwiperSlide} from "swiper/react";
 
 const TeamMarqueeSlider = ({isRtl}) => {
     const showableItems = getHeroBannerBlockData()?.slice(isRtl ? 4 : 0, isRtl ? 8 : 4);
-    const items = [...showableItems, ...showableItems];
+    const items = [...showableItems, ...showableItems, ...showableItems];
 
     return (
         <Swiper
             slidesPerView="auto"
             spaceBetween={10}
-            loop={true}
+            loop={false}
             freeMode={true}
             centeredSlides={true}
             allowTouchMove={false}

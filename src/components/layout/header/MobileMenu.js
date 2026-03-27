@@ -23,11 +23,15 @@ const MobileMenu = ({isMobileMenuOpen, setIsMobileMenuOpen}) => {
                         <div className="hamburger_top d-flex align-items-center justify-content-between">
                             <div className="hamburger_logo">
                                 <Link href="/" className="mobile_logo">
-                                    <img src="/images/site-logo/white-logo.svg" alt="Logo"/>
+                                    <img src="/images/site-logo/white-logo.svg" alt="Computyne home"/>
                                 </Link>
                             </div>
                             <div className="hamburger_close">
-                                <button className="hamburger_close_btn" onClick={handleClick}>
+                                <button
+                                    className="hamburger_close_btn"
+                                    onClick={handleClick}
+                                    aria-label="Close mobile menu"
+                                >
                                     <i className="fa-thin fa-times"></i>
                                 </button>
                             </div>
@@ -63,22 +67,23 @@ const MobileMenu = ({isMobileMenuOpen, setIsMobileMenuOpen}) => {
                             <ul>
                                 <li>
                                     <Link href="https://www.facebook.com/profile.php?id=100075815080008"
-                                          target="_blank">
+                                          target="_blank"
+                                          aria-label="Computyne on Facebook">
                                         <i className="fa-brands fa-facebook-f"></i>
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link href="https://www.youtube.com/@computyne" target="_blank">
+                                    <Link href="https://www.youtube.com/@computyne" target="_blank" aria-label="Computyne on YouTube">
                                         <i className="fa-brands fa-youtube"></i>
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link href="https://x.com/computyne" target="_blank">
+                                    <Link href="https://x.com/computyne" target="_blank" aria-label="Computyne on X">
                                         <i className="fa-brands fa-x-twitter"></i>
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link href="https://www.linkedin.com/company/computyne/" target="_blank">
+                                    <Link href="https://www.linkedin.com/company/computyne/" target="_blank" aria-label="Computyne on LinkedIn">
                                         <i className="fa-brands fa-linkedin-in"></i>
                                     </Link>
                                 </li>

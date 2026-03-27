@@ -8,13 +8,14 @@ const BlogCard = ({blog, idx}) => {
     return (
         <div className="blog-item wow fadeInUp" data-wow-delay={`0.${idx + 1}s`}>
             <div className="blog-thumb">
-                <Link href={`/blog/${slug}`}>
+                <Link href={`/blog/${slug}`} style={{display: "block"}}>
                     {" "}
                     <Image
                         src={img}
                         alt="Images"
-                        fill
-                        style={{objectFit: "cover", objectPosition: "center"}}
+                        width={870}
+                        height={450}
+                        style={{width: "100%", height: "auto"}}
                         sizes="(max-width: 768px) 100vw, 870px"
                     />
                 </Link>

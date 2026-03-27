@@ -31,7 +31,13 @@ const BlogSingle = ({blog, idx}) => {
         >
             <div className="blog-thumb">
                 <Link href={`/blogs/${id}`}>
-                    <Image src={img} alt="" width={870} height={450}/>
+                    <Image
+                        src={img}
+                        alt=""
+                        width={870}
+                        height={450}
+                        style={{height: "auto"}}
+                    />
                 </Link>
                 <div className="blog-date">
                     <span className="date">{modifyNumber(day)}</span>

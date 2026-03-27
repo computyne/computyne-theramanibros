@@ -1,4 +1,3 @@
-import sliceText from "@/libs/sliceText";
 import Link from "next/link";
 import React from "react";
 
@@ -7,7 +6,7 @@ const HeroInnerBlog = ({title, text, breadcrums = [], bgImg}) => {
 
     return (
         <section
-            className="tj-page-header section-gap-x"
+            className="tj-page-header section-gap-x case-study-hero"
             style={{
                 backgroundImage: bgImg
                     ? `url(${bgImg})`
@@ -16,13 +15,13 @@ const HeroInnerBlog = ({title, text, breadcrums = [], bgImg}) => {
         >
             <div className="container">
                 <div className="row">
-                    <div className="col-lg-12">
-                        <div className="tj-page-header-content text-center">
-                            <h1 className={`tj-page-title`}>{title}</h1>
-                            <div className="tj-page-link">
-								<span>
-									<i className="tji-home"></i>
-								</span>
+                    <div className="col-lg-8">
+                        <div
+                            className="tj-page-header-content text-start case-study-hero__content"
+                        >
+                            <div
+                                className="tj-page-link case-study-hero__breadcrumb"
+                            >
                                 <span>
 									<Link href="/" style={{color: "#D4D4D8"}}>Home</Link>
 								</span>
@@ -35,17 +34,19 @@ const HeroInnerBlog = ({title, text, breadcrums = [], bgImg}) => {
                                 <span>
 									<i className="tji-arrow-right" style={{color: "#D4D4D8"}}></i>
 								</span>
-                                <span>
-									<span>{sliceText(text, 28, true)}</span>
-								</span>
+                                <span className="case-study-hero__breadcrumb-current" style={{color: "#FFFFFF"}}>{text}</span>
                             </div>
+                            <h1 className="tj-page-title case-study-hero__title">{title}</h1>
                         </div>
                     </div>
                 </div>
             </div>
             <div
                 className="page-header-overlay"
-                style={{backgroundImage: `linear-gradient(90deg, #0c1d36 20%, #0c1d3666 60%, #0c1d361a 100%)`}}
+                style={{
+                    backgroundImage:
+                        "linear-gradient(90deg, rgba(12, 29, 54, 0.92) 10%, rgba(12, 29, 54, 0.76) 55%, rgba(12, 29, 54, 0.52) 100%)",
+                }}
             ></div>
         </section>
     );

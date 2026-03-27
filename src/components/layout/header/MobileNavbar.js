@@ -17,17 +17,18 @@ const MobileNavbar = () => {
         <div className="hamburger_menu">
             <div className="mobile_menu mean-container">
                 <div className="mean-bar">
-                    <Link
-                        href="#nav"
+                    <button
+                        type="button"
                         className="meanmenu-reveal"
                         style={{right: 0, left: "auto"}}
+                        aria-label="Toggle mobile navigation"
                     >
 						<span>
 							<span>
 								<span></span>
 							</span>
 						</span>
-                    </Link>
+                    </button>
                     <nav className="mean-nav">
                         <ul>
                             <MobileMenuItem

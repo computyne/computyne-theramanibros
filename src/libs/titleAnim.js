@@ -1,6 +1,11 @@
 import {gsap, SplitText} from "@/libs/gsap.config";
 
 const titleAnim = contanerRef => {
+    if (typeof document !== "undefined" && document.fonts?.status !== "loaded") {
+        document.fonts.ready.then(() => titleAnim(contanerRef));
+        return;
+    }
+
     const animItems = gsap.utils.toArray(".title-anim");
     if (animItems.length) {
         let staggerAmount = 0.01,

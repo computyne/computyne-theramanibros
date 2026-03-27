@@ -330,6 +330,103 @@ blockquote p {
   width: 30% !important;
 }
 
+.case-study-hero {
+  .case-study-hero__content {
+    max-width: none;
+    margin-inline-end: auto;
+  }
+
+  .case-study-hero__breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+    column-gap: 10px;
+    row-gap: 6px;
+    margin-bottom: 18px;
+  }
+
+  .case-study-hero__title {
+  }
+}
+
+.case-study-detail-page {
+  .case-study-detail-page__content {
+    display: grid;
+    gap: 24px;
+  }
+
+  .case-study-detail-page__section {
+    margin-bottom: 0;
+  }
+
+  .case-study-detail-page__quote {
+    margin-top: 8px;
+  }
+
+  .case-study-detail-page__sidebar {
+    display: grid;
+    gap: 24px;
+  }
+
+  .case-study-detail-page__project-info,
+  .case-study-detail-page__cta {
+    margin-bottom: 0;
+  }
+
+  .tj-product-details-description {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .tj-product-details-description table {
+    min-width: 620px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1399px) {
+  .case-study-hero .case-study-hero__content {
+    padding-inline-end: 18px;
+  }
+
+  .case-study-detail-page .case-study-detail-page__sidebar {
+    padding-inline-start: 12px;
+  }
+}
+
+@media (max-width: 767px) {
+  .case-study-hero .case-study-hero__content {
+    padding-inline-end: 0;
+  }
+
+  .case-study-hero .case-study-hero__breadcrumb {
+    column-gap: 8px;
+    row-gap: 4px;
+    margin-bottom: 14px;
+  }
+
+  .case-study-hero .case-study-hero__breadcrumb-current {
+    width: 100%;
+  }
+}
+
+@media (max-width: 991px) {
+  .case-study-detail-page .slidebar-stickiy {
+    position: static !important;
+    top: auto !important;
+  }
+
+  .case-study-detail-page .case-study-detail-page__content,
+  .case-study-detail-page .case-study-detail-page__sidebar {
+    gap: 20px;
+  }
+
+  .case-study-detail-page .infos-item {
+    align-items: flex-start;
+    padding: 16px 0;
+  }
+}
+
 @media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
   .wd-30-custom{
     width: 100% !important;

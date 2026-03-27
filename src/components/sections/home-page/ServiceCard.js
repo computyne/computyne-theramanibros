@@ -14,7 +14,13 @@ const ServiceCard = ({blog, idx}) => {
             <div className="blog-thumb">
                 <Link href={link}>
                     {" "}
-                    <Image src={img} alt="Images" width={870} height={450}/>
+                    <Image
+                        src={img}
+                        alt={title || "Service image"}
+                        width={870}
+                        height={450}
+                        loading={idx < 3 ? "eager" : "lazy"}
+                    />
                 </Link>
             </div>
             <div className="blog-content">

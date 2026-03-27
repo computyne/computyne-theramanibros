@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 import ButtonPrimary from "./ButtonPrimary";
 
 const Hero = ({title, text, isShowButton = false, buttonLabel, buttonLink, cta}) => {
@@ -12,8 +13,30 @@ const Hero = ({title, text, isShowButton = false, buttonLabel, buttonLink, cta})
         >
             <div className="container">
                 <div className="row">
-                    <div className="col-lg-12">
-                        <div className="tj-page-header-content text-center">
+                    <div className="col-lg-10 mx-auto">
+                        <div
+                            className="tj-page-header-content text-center"
+                            style={{maxWidth: "920px", marginInline: "auto"}}
+                        >
+                            <div
+                                className="tj-page-link"
+                                style={{
+                                    display: "flex",
+                                    flexWrap: "wrap",
+                                    justifyContent: "center",
+                                    alignItems: "center",
+                                    gap: "10px",
+                                    marginBottom: "18px",
+                                }}
+                            >
+                                <span>
+                                    <Link href="/" style={{color: "#D4D4D8"}}>Home</Link>
+                                </span>
+                                <span>
+                                    <i className="tji-arrow-right" style={{color: "#D4D4D8"}}></i>
+                                </span>
+                                <span style={{color: "#FFFFFF"}}>{title}</span>
+                            </div>
                             <h1 className={`tj-page-title`}>{title}</h1>
                             <div className="tagline mt tj-page-header-tagline">
                                 {text}

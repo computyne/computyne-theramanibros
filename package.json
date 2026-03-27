@@ -8,8 +8,11 @@
 		"start": "next start"
 	},
 	"browserslist": [
-		">0.3%",
-		"not dead",
+		"chrome >= 111",
+		"edge >= 111",
+		"firefox >= 113",
+		"safari >= 16.4",
+		"ios_saf >= 16.4",
 		"not op_mini all"
 	],
 	"dependencies": {
@@ -37,7 +40,7 @@
 	"devDependencies": {
 		"@types/node": "25.5.0",
 		"@types/react": "19.2.14",
-		"baseline-browser-mapping": "^2.9.19",
+		"baseline-browser-mapping": "^2.10.11",
 		"sass": "^1.94.2",
 		"typescript": "5.9.3"
 	}

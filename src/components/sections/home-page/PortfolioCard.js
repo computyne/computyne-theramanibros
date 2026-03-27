@@ -1,5 +1,6 @@
 import ButtonPrimary from "./ButtonPrimary";
 import FunfactSingle2 from "./FunfactSingle2";
+import Image from "next/image";
 
 const PortfolioCard = ({casestudy}) => {
     const {
@@ -15,7 +16,14 @@ const PortfolioCard = ({casestudy}) => {
         <div className="h5-project-item-wrapper tj-scroll-slider-item">
             <div className="project-item h4-project-item  h5-project-item">
                 <div className="project-img">
-                    <img src={img} alt="Image"/>
+                    <Image
+                        src={img}
+                        alt={title || "Case study image"}
+                        width={870}
+                        height={450}
+                        style={{width: "100%", height: "auto"}}
+                        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 580px"
+                    />
                 </div>
 
                 <div className="h9-about-content-port-card-mod">

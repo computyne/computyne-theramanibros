@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 
 const CtaSidebar = () => {
@@ -12,8 +13,14 @@ const CtaSidebar = () => {
                 </Link>
             </div>
             <div className="feature-images">
-                {/* <img src="/images/service/service-ad.webp" alt="" /> */}
-                <img src="/images/service/img-menu-3rd.png" alt=""/>
+                <Image
+                    src="/images/service/img-menu-3rd.png"
+                    alt="Computyne pilot project support illustration"
+                    width={464}
+                    height={426}
+                    style={{width: "100%", height: "auto"}}
+                    sizes="(max-width: 991px) 100vw, 380px"
+                />
             </div>
         </div>
     );

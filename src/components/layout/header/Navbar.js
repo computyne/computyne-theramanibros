@@ -31,6 +31,9 @@ const Navbar = ({headerType, isStickyHeader}) => {
                     >
                         {/* <Link href={servicesNav?.path}>{servicesNav?.name}</Link> */}
                         <a className="custom-anchor"
+                           href={servicesNav?.path || "/"}
+                           aria-haspopup="true"
+                           aria-expanded={open}
                            onClick={(e) => {
                                e.preventDefault();
                                setOpen(prev => !prev);
@@ -187,7 +190,12 @@ const Navbar = ({headerType, isStickyHeader}) => {
                             industriesNav?.isActive ? "current-menu-ancestor" : ""
                         }`}
                     >
-                        <a className="custom-anchor" onClick={(e) => e.preventDefault()}>
+                        <a
+                            className="custom-anchor"
+                            href={industriesNav?.path || "/industries"}
+                            aria-haspopup="true"
+                            onClick={(e) => e.preventDefault()}
+                        >
                             {industriesNav?.name}
                         </a>
                         <ul className="sub-menu">
@@ -221,7 +229,12 @@ const Navbar = ({headerType, isStickyHeader}) => {
                         {/* <Link href={insightNav?.path ? insightNav?.path : "#"}>
 							{insightNav?.name}
 						</Link> */}
-                        <a className="custom-anchor" onClick={(e) => e.preventDefault()}>
+                        <a
+                            className="custom-anchor"
+                            href={insightNav?.path || "/blog"}
+                            aria-haspopup="true"
+                            onClick={(e) => e.preventDefault()}
+                        >
                             {insightNav?.name}
                         </a>
                         <ul className="sub-menu">

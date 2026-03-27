@@ -119,6 +119,7 @@ const Header = ({
                                                 className={`search_close_btn ${
                                                     isSearchOpen ? "close-show" : ""
                                                 }`}
+                                                aria-label="Close search"
                                                 onClick={() => setIsSearchOpen(false)}
                                             >
                                                 <svg
@@ -199,7 +200,7 @@ const Header = ({
                                                         placeholder="Type Words and Hit Enter"
                                                         required
                                                     />
-                                                    <button type="submit">
+                                                    <button type="submit" aria-label="Submit search">
                                                         <i className="tji-search"></i>
                                                     </button>
                                                 </div>

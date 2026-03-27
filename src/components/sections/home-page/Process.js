@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import ProcessCard from "./ProcessCard";
 
 const Process = () => {
@@ -77,10 +78,10 @@ const Process = () => {
                 </div>
             </div>
             <div className="bg-shape-1">
-                <img src="/images/shape/pattern-2.svg" alt=""/>
+                <Image src="/images/shape/pattern-2.svg" alt="" width={370} height={590} aria-hidden="true" />
             </div>
             <div className="bg-shape-2">
-                <img src="/images/shape/pattern-3.svg" alt=""/>
+                <Image src="/images/shape/pattern-3.svg" alt="" width={370} height={590} aria-hidden="true" />
             </div>
         </section>
     );

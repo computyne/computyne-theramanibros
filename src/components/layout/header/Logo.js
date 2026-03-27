@@ -6,7 +6,7 @@ import Link from "next/link";
 const Logo = ({headerType, isStickyHeader}) => {
     return (
         <div className="site_logo">
-            <Link className="logo" href="/">
+            <Link className="logo" href="/" aria-label="Computyne home">
                 <Image
                     src={
                         (headerType === 2 ||
@@ -17,7 +17,7 @@ const Logo = ({headerType, isStickyHeader}) => {
                             ? "/images/site-logo/white-logo.svg" //for dark logo
                             : "/images/site-logo/blue-logo.svg"
                     }
-                    alt=""
+                    alt="Computyne"
                     width={544}
                     height={152}
                     style={{height: "auto"}}

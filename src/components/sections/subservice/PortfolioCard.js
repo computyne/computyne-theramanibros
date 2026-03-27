@@ -13,7 +13,14 @@ const PortfolioCard = ({casestudy}) => {
         <div className="h5-project-item-wrapper tj-scroll-slider-item">
             <div className="project-item h4-project-item  h5-project-item">
                 <div className="project-img">
-                    <Image src={img} alt="Image" height={1000} width={1000}/>
+                    <Image
+                        src={img}
+                        alt={title || "Case study image"}
+                        width={870}
+                        height={450}
+                        style={{width: "100%", height: "auto"}}
+                        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 580px"
+                    />
                 </div>
 
                 <div className="h9-about-content-port-card-mod">

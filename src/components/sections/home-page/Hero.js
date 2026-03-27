@@ -1,13 +1,12 @@
 "use client";
-import {useState} from "react";
-import {Autoplay, EffectFade, Navigation, Thumbs} from "swiper/modules";
+import Image from "next/image";
+import {Autoplay, EffectFade, Navigation} from "swiper/modules";
 import {Swiper, SwiperSlide} from "swiper/react";
 import ButtonPrimary from "./ButtonPrimary";
 import Team from "./Team";
 
 
 const Hero = () => {
-    const [controlledMainSwiper, setControlledMainSwiper] = useState(null);
     const heroSlides = [
         {
             subtitle: "number #1 solver agency",
@@ -21,17 +20,18 @@ const Hero = () => {
             thumbImg: "",
         }
     ];
+    const shouldLoop = heroSlides.length > 1;
+
     return (
         <section className="tj-slider-section">
             <Swiper
                 slidesPerView={1}
                 spaceBetween={0}
-                loop={true}
+                loop={shouldLoop}
                 effect="fade"
                 speed={1400}
                 autoplay={{delay: 5000}}
-                modules={[Autoplay, Navigation, EffectFade, Thumbs]}
-                thumbs={{swiper: controlledMainSwiper}}
+                modules={[Autoplay, Navigation, EffectFade]}
                 navigation={{nextEl: ".slider-next", prevEl: ".slider-prev"}}
                 className="hero-slider"
                 style={{height: "100%"}}
@@ -42,14 +42,18 @@ const Hero = () => {
                         className="tj-slider-item"
                         style={{height: "auto"}}
                     >
-                        <div
-                            className="slider-bg-image"
-                            style={{
-                                backgroundImage: `url('${
-                                    img ? img : "/images/hero/slider-1.webp"
-                                }')`,
-                            }}
-                        ></div>
+                        <div className="slider-bg-image">
+                            <Image
+                                src={img ? img : "/images/hero/slider-1.webp"}
+                                alt="Business process and data services hero banner"
+                                fill
+                                priority={idx === 0}
+                                fetchPriority={idx === 0 ? "high" : "auto"}
+                                quality={55}
+                                sizes="100vw"
+                                style={{objectFit: "cover", objectPosition: "center"}}
+                            />
+                        </div>
                         <div className="container">
                             <div className="slider-wrapper">
                                 <div className="slider-content text-center">

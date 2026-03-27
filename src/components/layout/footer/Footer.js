@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 
 const Footer = () => {
@@ -9,8 +10,8 @@ const Footer = () => {
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="footer-widget wow fadeInUp" data-wow-delay=".1s">
                                 <div className="footer-logo">
-                                    <Link href="/">
-                                        <img src="/images/site-logo/white-logo.svg" alt="Logos"/>
+                                    <Link href="/" aria-label="Computyne home">
+                                        <img src="/images/site-logo/white-logo.svg" alt="Computyne"/>
                                     </Link>
                                 </div>
                                 <div className="footer-text-mod">
@@ -186,22 +187,23 @@ const Footer = () => {
                                     <ul>
                                         <li>
                                             <Link href="https://www.facebook.com/computyne/"
-                                                  target="_blank">
+                                                  target="_blank"
+                                                  aria-label="Computyne on Facebook">
                                                 <i className="fa-brands fa-facebook-f"></i>
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="https://www.youtube.com/@computyne" target="_blank">
+                                            <Link href="https://www.youtube.com/@computyne" target="_blank" aria-label="Computyne on YouTube">
                                                 <i className="fa-brands fa-youtube"></i>
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="https://x.com/computyne" target="_blank">
+                                            <Link href="https://x.com/computyne" target="_blank" aria-label="Computyne on X">
                                                 <i className="fa-brands fa-x-twitter"></i>
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="https://www.linkedin.com/company/computyne/" target="_blank">
+                                            <Link href="https://www.linkedin.com/company/computyne/" target="_blank" aria-label="Computyne on LinkedIn">
                                                 <i className="fa-brands fa-linkedin-in"></i>
                                             </Link>
                                         </li>
@@ -226,10 +228,10 @@ const Footer = () => {
             </div>
 
             <div className="bg-shape-1">
-                <img src="/images/shape/pattern-2.svg" alt=""/>
+                <Image src="/images/shape/pattern-2.svg" alt="" width={370} height={590} aria-hidden="true" />
             </div>
             <div className="bg-shape-2">
-                <img src="/images/shape/pattern-3.svg" alt=""/>
+                <Image src="/images/shape/pattern-3.svg" alt="" width={370} height={590} aria-hidden="true" />
             </div>
         </footer>
     );

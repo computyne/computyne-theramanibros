@@ -10,19 +10,13 @@ const CaseStudyCard = ({casestudy, idx}) => {
         <div className="blog-item wow fadeInUp" data-wow-delay={`0.${idx + 1}s`}>
             <div className="blog-thumb">
                 <Link href={`/case-studies/${slug}`}>
-                    {" "}
-                    {/* <Image
-						src={img ? img : "/images/blog/blog-1.webp"}
-						alt="Images"
-						width={870}
-						height={450}
-					/> */}
                     <Image
                         src={img}
                         alt="Images"
-                        fill
-                        style={{objectFit: "cover", objectPosition: "center"}}
-                        sizes="(max-width: 768px) 100vw, 870px"
+                        width={870}
+                        height={450}
+                        style={{width: "100%", height: "auto"}}
+                        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 580px"
                     />
                 </Link>
                 {/* <div className="blog-date">

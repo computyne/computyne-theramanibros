@@ -16,6 +16,9 @@ const Industries = () => {
         !industries || Object.keys(industries).length === 0
             ? getIndustriesData("data-extraction-services")
             : industries;
+    const industriesCount = industriesData?.industries?.length ?? 0;
+    const shouldLoop = industriesCount > 2;
+
     return (
         <section className="tj-blog-section-2 section-gap">
             <div className="container">
@@ -59,7 +62,7 @@ const Industries = () => {
                             <Swiper
                                 slidesPerView={1}
                                 spaceBetween={15}
-                                loop={true}
+                                loop={shouldLoop}
                                 speed={1500}
                                 loopAdditionalSlides={1}
                                 autoplay={{
