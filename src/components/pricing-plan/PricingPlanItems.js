@@ -17,7 +17,7 @@ const PricingPlanItems = ({ isYearlyPlan }) => {
 		<>
 			{serviceData.engagementModels.map((model, index) => (
 				<div className="col-xl-3 col-md-6">
-					<div className={`pricing-box wow fadeInUp ${model.model === "Full-Time Dedicated" ? "active" : ""}`} data-wow-delay={`${0.5 + index * 0.2}s`}>
+					<div className={`pricing-box wow fadeInUp ${model.isActive ? "active" : ""}`} data-wow-delay={`${0.5 + index * 0.2}s`}>
 						<div className="pricing-header">
 							<h4 className="package-name">{model.model}</h4>
 							<div className="package-desc" style={{fontSize: "14px"}}>
