@@ -1,13 +1,13 @@
 // "use client"
-import getServiceData from "@/libs/service/getServiceData";
 import Image from "next/image";
 import DOMPurify from "isomorphic-dompurify";
+import getHireServiceData from "../../../libs/service/getHireServiceData";
 
-const Aboutus = ({ slug, type }) => {
+const AboutusHireResource = ({ slug, type }) => {
     // const pathname = usePathname();
     // const slug = pathname.split("/").filter(Boolean).pop();
     // const slug = "data-extraction-services"
-    const serviceData = getServiceData(slug);
+    const serviceData = getHireServiceData(slug);
     if (!serviceData) return null;
 
     const overviewData = serviceData.overview;
@@ -75,4 +75,4 @@ const Aboutus = ({ slug, type }) => {
     );
 };
 
-export default Aboutus;
+export default AboutusHireResource;

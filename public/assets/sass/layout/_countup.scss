@@ -105,6 +105,45 @@ START: Countup CSS
   }
 }
 
+.countup-item-mod-hireresouce {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 25%;
+  padding: 28px 50px 34px 50px;
+  position: relative;
+  @media #{$xl, $lg} {
+    padding: 55px 30px 60px 30px;
+  }
+  @media #{$md, $sm} {
+    width: 50%;
+    padding: 45px 30px 50px 30px;
+  }
+  @media #{$xs} {
+    width: 100%;
+    padding: 38px 0 45px 0;
+    text-align: center;
+    &:last-child {
+      padding-bottom: 40px;
+    }
+  }
+
+  &:nth-child(2) {
+    @media #{$md, $sm} {
+      .count-separator {
+        display: none;
+      }
+    }
+  }
+
+  &:nth-child(4),
+  &:nth-child(3) {
+    @media #{$md, $sm} {
+      padding-top: 0;
+    }
+  }
+}
+
 .inline-content {
   font-size: 58px;
   line-height: 1;

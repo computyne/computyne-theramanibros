@@ -3487,379 +3487,252 @@
         ]
     },
     "hire-data-entry-specialists": {
-        "h2": "Hire Experienced Remote Data Entry Professionals On Demand",
-        "desc": "Hire experienced remote data entry professionals on demand to ensure accuracy, scalability, security, and faster business operations.",
+        "h2": "High-Accuracy Data Entry Across Every Business Function",
+        "desc": "High-accuracy data entry services across CRM management, invoice processing, eCommerce catalogues, healthcare records, document digitisation, and specialist industry functions.",
         "services": [
             {
                 "id": 1,
-                "title": "Dedicated Remote Data Entry Support",
-                "desc": "Dedicated assistants manage daily data entry tasks accurately, securely, and consistently across business systems.",
+                "title": "CRM Data Entry and Database Management",
+                "desc": "Keep your CRM clean, current, and conversion-ready with dedicated specialists handling data capture, enrichment, and maintenance at scale.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "CRM updates with strict accuracy checks"
-                    },
-                    {
-                        "value": "Database maintenance using standardized workflows"
-                    },
-                    {
-                        "value": "High-volume remote data entry processing"
-                    },
-                    {
-                        "value": "Secure handling under confidentiality agreements"
-                    }
+                    { "value": "Contact record creation, updating, and deduplication" },
+                    { "value": "Lead and opportunity data entry and field mapping" },
+                    { "value": "CRM migration and bulk import support" },
+                    { "value": "Account and company data enrichment" },
+                    { "value": "Compatible with: Salesforce, HubSpot, Pipedrive, Zoho, Microsoft Dynamics" }
                 ]
             },
             {
                 "id": 2,
-                "title": "Document Digitization & Data Conversion",
-                "desc": "Remote data entry assistants digitize documents and records for better accessibility and compliance.",
+                "title": "Invoice and Accounts Payable Data Entry",
+                "desc": "Accurate, fast invoice processing and AP data entry. Fewer errors, faster approvals, and better cash flow visibility.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "OCR-enabled data capture and validation"
-                    },
-                    {
-                        "value": "Accurate indexing and document categorization"
-                    },
-                    {
-                        "value": "Searchable digital archives for retrieval"
-                    },
-                    {
-                        "value": "Compliance-ready formatting with quality checks"
-                    }
+                    { "value": "Invoice capture from paper, PDF, email, and portal sources" },
+                    { "value": "Three-way matching: PO, receipt, and invoice validation" },
+                    { "value": "Data entry into ERP, accounting, and AP automation platforms" },
+                    { "value": "Exception flagging, rejection handling, and reconciliation support" },
+                    { "value": "Compatible with: QuickBooks, Sage, NetSuite, Xero, SAP, Oracle" }
                 ]
             },
             {
                 "id": 3,
-                "title": "Product Catalog & eCommerce Data Management",
-                "desc": "Hire remote data entry assistants to manage product catalogs with accuracy and scalability.",
+                "title": "eCommerce Product Data Entry and Catalogue Management",
+                "desc": "Accurate, marketplace-ready product listings at scale. Fewer catalogue errors, faster time to shelf across all your selling channels.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "SKU creation with attribute standardization"
-                    },
-                    {
-                        "value": "Pricing updates across multiple platforms"
-                    },
-                    {
-                        "value": "Bulk uploads with validation controls"
-                    },
-                    {
-                        "value": "Image tagging and description entry"
-                    }
+                    { "value": "Product title, description, attribute, and category entry" },
+                    { "value": "SKU creation, enrichment, and standardisation" },
+                    { "value": "Image tagging and alt text entry" },
+                    { "value": "Multi-channel synchronisation across marketplaces" },
+                    { "value": "Compatible with: Shopify, WooCommerce, Magento, Amazon, eBay" }
                 ]
             },
             {
                 "id": 4,
-                "title": "CRM Data Management & Enrichment",
-                "desc": "Remote data entry specialists maintain clean, reliable CRM databases for business growth.",
+                "title": "Medical and Healthcare Data Entry",
+                "desc": "HIPAA-aligned medical data entry for providers, payers, and healthcare organisations. Accurate, confidential, and compliance-ready.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "Lead and contact data normalization"
-                    },
-                    {
-                        "value": "Duplicate detection and data cleansing"
-                    },
-                    {
-                        "value": "Field validation and mandatory checks"
-                    },
-                    {
-                        "value": "Ongoing accuracy monitoring reports"
-                    }
+                    { "value": "Patient record digitisation and EHR data entry" },
+                    { "value": "Medical claim data capture and coding support" },
+                    { "value": "Insurance form and prior authorisation data entry" },
+                    { "value": "Lab result and clinical document digitisation" },
+                    { "value": "Compatible with: Epic, Cerner, eClinicalWorks, Meditech" }
                 ]
             },
             {
                 "id": 5,
-                "title": "Data Cleaning and Deduplication",
-                "desc": "Hire remote data cleaning specialists to standardize datasets and eliminate duplicates.",
+                "title": "Document Digitisation and Forms Processing",
+                "desc": "Convert paper records, scanned documents, and forms into structured digital data. Accurately, quickly, and securely.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "Automated duplicate detection across databases"
-                    },
-                    {
-                        "value": "Data normalization using validation rules"
-                    },
-                    {
-                        "value": "Error correction through multi-level checks"
-                    },
-                    {
-                        "value": "Analytics-ready datasets for reporting"
-                    }
+                    { "value": "Handwritten and typed document digitisation" },
+                    { "value": "Forms processing: insurance, legal, real estate, logistics" },
+                    { "value": "OCR verification and structured data output" },
+                    { "value": "Index creation and document classification" },
+                    { "value": "Secure archiving with audit-ready record management" }
                 ]
             },
             {
                 "id": 6,
-                "title": "Invoice and Billing Data Entry",
-                "desc": "Hire remote invoice and billing data entry professionals for accurate, compliant processing.",
+                "title": "Real Estate, Legal and Financial Data Entry",
+                "desc": "Specialist data entry across property, legal, and finance functions, structured for compliance, accuracy, and downstream system compatibility.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "Invoice data capture from formats"
-                    },
-                    {
-                        "value": "Line-item validation against contracts"
-                    },
-                    {
-                        "value": "Tax, freight, discount accuracy checks"
-                    },
-                    {
-                        "value": "ERP-ready billing files delivered"
-                    }
+                    { "value": "Property listing data entry: descriptions, prices, attributes, coordinates" },
+                    { "value": "Mortgage, appraisal, and title data digitisation" },
+                    { "value": "Legal case records and contract data entry" },
+                    { "value": "Financial records, transaction logs, and ledger entry" }
                 ]
             }
         ]
     },
     "hire-data-science-specialist": {
-        "h2": "Hire Data Science Specialists for Advanced Analytics and AI Insights",
-        "desc": "Hire data science specialists to convert complex datasets into AI-driven insights that improve decision-making, operational efficiency, and long-term business growth.",
+        "h2": "Data Science Capabilities Across the Full Analytics Lifecycle",
+        "desc": "Expert data science services covering predictive modelling, business intelligence, NLP, computer vision, and data engineering to transform data into actionable intelligence.",
         "services": [
             {
                 "id": 1,
-                "title": "Predictive Analytics & Forecasting",
-                "desc": "Leverage predictive analytics services to anticipate trends, manage risk, and improve forecasting accuracy across business operations.",
+                "title": "Predictive Modelling and Machine Learning",
+                "desc": "Build and deploy production-ready ML models that drive measurable business outcomes, from churn prediction to demand forecasting.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "Demand forecasting using statistical modeling"
-                    },
-                    {
-                        "value": "Risk modeling for proactive decision-making"
-                    },
-                    {
-                        "value": "Time-series analysis for trend prediction"
-                    },
-                    {
-                        "value": "Scenario modeling for strategic planning"
-                    }
+                    { "value": "Customer churn prediction models: identify at-risk accounts before they leave" },
+                    { "value": "Demand forecasting: improve inventory planning and supply chain efficiency" },
+                    { "value": "Propensity-to-buy models: score leads and prioritise highest-value prospects" },
+                    { "value": "Fraud detection and anomaly detection models" },
+                    { "value": "Recommendation engine development for eCommerce, media, and content platforms" }
                 ]
             },
             {
                 "id": 2,
-                "title": "Machine Learning Model Development",
-                "desc": "Build and deploy scalable machine learning models that enhance automation, intelligence, and analytical accuracy.",
+                "title": "Business Intelligence and Data Visualisation",
+                "desc": "Turn raw data into executive-ready dashboards and reports that support faster, more confident decisions.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "Supervised and unsupervised learning models"
-                    },
-                    {
-                        "value": "Custom algorithms aligned with objectives"
-                    },
-                    {
-                        "value": "Model validation and performance optimization"
-                    },
-                    {
-                        "value": "Enterprise-ready model deployment"
-                    }
+                    { "value": "Dashboard design and build in Tableau, Power BI, Looker, and Metabase" },
+                    { "value": "KPI definition, metric tracking, and reporting automation" },
+                    { "value": "Data warehouse connection and pipeline optimisation" },
+                    { "value": "Self-service BI enablement for non-technical stakeholders" },
+                    { "value": "Executive reporting packs and board-level data summaries" }
                 ]
             },
             {
                 "id": 3,
-                "title": "Business Intelligence & Data Visualization",
-                "desc": "Transform complex datasets into interactive dashboards that support faster, data-driven decisions.",
+                "title": "Natural Language Processing (NLP)",
+                "desc": "Build language AI solutions that extract insight, automate classification, and enable new product capabilities from text data.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "Real-time executive dashboards"
-                    },
-                    {
-                        "value": "KPI tracking and performance monitoring"
-                    },
-                    {
-                        "value": "Visual storytelling for clarity"
-                    },
-                    {
-                        "value": "BI tools integration and customization"
-                    }
+                    { "value": "Sentiment analysis models for customer feedback, reviews, and social data" },
+                    { "value": "Named entity recognition (NER) and document classification" },
+                    { "value": "Chatbot and conversational AI development support" },
+                    { "value": "Text summarisation and information extraction pipelines" },
+                    { "value": "LLM fine-tuning and prompt engineering support" }
                 ]
             },
             {
                 "id": 4,
-                "title": "Data Mining & Advanced Analytics",
-                "desc": "Uncover hidden patterns and correlations using advanced data mining services and analytical techniques.",
+                "title": "Computer Vision",
+                "desc": "Develop image and video AI solutions for quality inspection, object detection, and visual intelligence use cases.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "Pattern recognition across datasets"
-                    },
-                    {
-                        "value": "Customer behavior analysis"
-                    },
-                    {
-                        "value": "Historical trend discovery"
-                    },
-                    {
-                        "value": "Actionable intelligence extraction"
-                    }
+                    { "value": "Object detection and image classification model development" },
+                    { "value": "Visual quality inspection systems for manufacturing" },
+                    { "value": "Medical image analysis support for radiology and pathology" },
+                    { "value": "Video analytics and activity recognition" },
+                    { "value": "Training data annotation and labelling support" }
                 ]
             },
             {
                 "id": 5,
-                "title": "AI-Powered Decision Support",
-                "desc": "Enable intelligent decision-making using AI and data science solutions designed for accuracy and scalability.",
+                "title": "Data Engineering and Analytics Infrastructure",
+                "desc": "Build the data foundations that enable analytics: clean pipelines, structured warehouses, and reliable data flows.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "AI models for strategic decisions"
-                    },
-                    {
-                        "value": "Automated analytical workflows"
-                    },
-                    {
-                        "value": "Intelligent decision frameworks"
-                    },
-                    {
-                        "value": "Continuous model learning"
-                    }
-                ]
-            },
-            {
-                "id": 6,
-                "title": "Data Science Consulting & Team Augmentation",
-                "desc": "Access on-demand data science experts who integrate quickly and scale analytics capabilities efficiently.",
-                "url": "#",
-                "data": [
-                    {
-                        "value": "Hire dedicated data scientist resources"
-                    },
-                    {
-                        "value": "Flexible engagement models"
-                    },
-                    {
-                        "value": "Rapid onboarding and alignment"
-                    },
-                    {
-                        "value": "Cost-effective data science outsourcing"
-                    }
+                    { "value": "ETL and ELT pipeline design and build (Python, Spark, Airflow, dbt)" },
+                    { "value": "Data warehouse and data lake setup (BigQuery, Snowflake, Redshift, Azure)" },
+                    { "value": "Data quality monitoring and alerting frameworks" },
+                    { "value": "API integration and data ingestion pipeline development" },
+                    { "value": "Data governance and documentation frameworks" }
                 ]
             }
         ]
     },
     "hire-virtual-assistants": {
-        "h2": "Virtual Assistant Solutions for Administrative and Operational Support",
-        "desc": "Our virtual assistant solutions integrate directly with your workflows, delivering secure, process-driven support that improves efficiency, accuracy, scalability, and cost control across business operations.",
+        "h2": "Full-Spectrum VA Support Across Admin, Research, and Operations",
+        "desc": "Dedicated virtual assistants for administrative support, eCommerce operations, research, social media, customer service, bookkeeping, and real estate functions.",
         "services": [
             {
                 "id": 1,
-                "title": "Administrative & Executive Support",
-                "desc": "Administrative and executive virtual assistants manage schedules, communications, and operational responsibilities, enabling leadership teams to focus on strategic priorities.",
+                "title": "Administrative and Executive Support",
+                "desc": "Free up executive time with a dedicated VA managing the administrative tasks that slow down decision-making.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "Calendar, email, and meeting coordination"
-                    },
-                    {
-                        "value": "Executive task tracking and documentation"
-                    },
-                    {
-                        "value": "Confidential business communication handling"
-                    },
-                    {
-                        "value": "Process-aligned administrative workflow support"
-                    }
+                    { "value": "Email management, inbox triage, and response drafting" },
+                    { "value": "Calendar management, meeting scheduling, and travel coordination" },
+                    { "value": "Document creation, formatting, and presentation preparation" },
+                    { "value": "Supplier and vendor coordination and follow-ups" },
+                    { "value": "CRM updates, contact management, and pipeline hygiene" }
                 ]
             },
             {
                 "id": 2,
-                "title": "Data Entry & Document Management",
-                "desc": "Data entry virtual assistants process, validate, and manage structured business data using standardized workflows and strict security controls.",
+                "title": "eCommerce Virtual Assistant",
+                "desc": "Scale your eCommerce operations without scaling your headcount. From product listings to customer queries and marketplace management.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "High-volume data entry and validation"
-                    },
-                    {
-                        "value": "Document indexing and classification systems"
-                    },
-                    {
-                        "value": "Data cleansing and formatting services"
-                    },
-                    {
-                        "value": "Secure digital record management processes"
-                    }
+                    { "value": "Product listing creation, optimisation, and category management" },
+                    { "value": "Order processing, tracking, and returns handling support" },
+                    { "value": "Customer enquiry management across email, chat, and marketplace portals" },
+                    { "value": "Competitor price monitoring and marketplace compliance checks" },
+                    { "value": "Compatible with: Amazon, Shopify, eBay, Etsy, WooCommerce, Magento" }
                 ]
             },
             {
                 "id": 3,
-                "title": "Customer Support",
-                "desc": "Customer support virtual assistants handle customer interactions across channels, improving response times, service quality, and consistency.",
+                "title": "Research and Lead Generation VA",
+                "desc": "Dedicated research VAs who build verified datasets, track market developments, and deliver actionable intelligence for sales and strategy teams.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "Email, chat, and ticket handling"
-                    },
-                    {
-                        "value": "CRM updates and customer records management"
-                    },
-                    {
-                        "value": "Brand-aligned customer communication"
-                    },
-                    {
-                        "value": "Scalable support for growing volumes"
-                    }
+                    { "value": "B2B prospect research and contact list building" },
+                    { "value": "Market research, competitor tracking, and industry analysis" },
+                    { "value": "Lead enrichment and CRM population for outbound teams" },
+                    { "value": "Web research and structured data collection" },
+                    { "value": "Compatible with: Salesforce, HubSpot, Apollo, LinkedIn Sales Navigator" }
                 ]
             },
             {
                 "id": 4,
-                "title": "Research and Reporting Assistance",
-                "desc": "Research virtual assistants collect, analyze, and present structured information to support informed business decision-making.",
+                "title": "Social Media Virtual Assistant",
+                "desc": "Maintain a consistent, high-quality social presence without pulling your internal team off more important work.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "Market and competitor research"
-                    },
-                    {
-                        "value": "Data compilation and analysis"
-                    },
-                    {
-                        "value": "Summary reports and presentations"
-                    },
-                    {
-                        "value": "Research support for planning initiatives"
-                    }
+                    { "value": "Content scheduling across LinkedIn, Instagram, Twitter/X, Facebook" },
+                    { "value": "Community engagement, comment monitoring, and DM handling" },
+                    { "value": "Hashtag research, competitor social monitoring, and trend tracking" },
+                    { "value": "Monthly performance reporting and engagement analytics" },
+                    { "value": "Compatible with: Buffer, Hootsuite, Later, Sprout Social" }
                 ]
             },
             {
                 "id": 5,
-                "title": "Social Media and Marketing Help",
-                "desc": "Marketing virtual assistants support content execution, scheduling, and performance tracking across digital marketing platforms.",
+                "title": "Customer Support VA",
+                "desc": "Maintain fast, professional customer support without the cost of a full-time in-house team.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "Social media scheduling and coordination"
-                    },
-                    {
-                        "value": "Campaign support and analytics tracking"
-                    },
-                    {
-                        "value": "Lead data management and CRM updates"
-                    },
-                    {
-                        "value": "Brand-consistent digital engagement"
-                    }
+                    { "value": "Email, chat, and helpdesk ticket management" },
+                    { "value": "Order enquiries, returns, and complaint resolution" },
+                    { "value": "FAQ response management and escalation handling" },
+                    { "value": "CSAT tracking and customer interaction logging" },
+                    { "value": "Compatible with: Zendesk, Freshdesk, Intercom, Gorgias, Help Scout" }
                 ]
             },
             {
                 "id": 6,
-                "title": "E-commerce Support",
-                "desc": "E-commerce virtual assistants manage backend operations, product data, and customer coordination for online businesses.",
+                "title": "Bookkeeping and Finance VA",
+                "desc": "Delegate bookkeeping, invoicing, and financial record tasks to a dedicated VA, keeping your books current without the cost of a full-time bookkeeper.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "Product listing and catalog management"
-                    },
-                    {
-                        "value": "Order processing and fulfillment support"
-                    },
-                    {
-                        "value": "Inventory updates and synchronization"
-                    },
-                    {
-                        "value": "Customer communication for marketplaces"
-                    }
+                    { "value": "Invoice creation, dispatch, and payment chasing" },
+                    { "value": "Expense recording and receipt management" },
+                    { "value": "Bank statement reconciliation support" },
+                    { "value": "Payroll data preparation and payslip distribution" },
+                    { "value": "Compatible with: QuickBooks, Xero, FreshBooks, Wave" }
+                ]
+            },
+            {
+                "id": 7,
+                "title": "Real Estate Virtual Assistant",
+                "desc": "Dedicated real estate VA support for agencies, brokers, and investors. Manage listings, research, admin, and CRM so your agents can focus on closing.",
+                "url": "#",
+                "data": [
+                    { "value": "Property listing creation, updating, and portal management" },
+                    { "value": "MLS data entry and listing synchronisation" },
+                    { "value": "Buyer and seller research, CMA preparation support" },
+                    { "value": "Appointment scheduling, client follow-ups, and pipeline management" },
+                    { "value": "Compatible with: Zillow, Rightmove, Zoopla, Yardi, AppFolio, Salesforce" }
                 ]
             }
         ]
@@ -3870,82 +3743,68 @@
         "services": [
             {
                 "id": 1,
-                "title": "Market Research & Business Intelligence",
-                "desc": "Accurate market intelligence delivered by dedicated web research experts supporting informed, data-driven business decisions.",
+                "title": "Market Research and Business Intelligence",
+                "desc": "Accurate market intelligence for informed, data-driven business decisions across new markets, product launches, and growth planning.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "Market sizing, trends, and opportunity analysis"
-                    },
-                    {
-                        "value": "Industry reports and niche research"
-                    },
-                    {
-                        "value": "Consumer behavior and demand insights"
-                    },
-                    {
-                        "value": "Data-backed insights for strategic planning"
-                    }
+                    { "value": "Market sizing, trend analysis, and opportunity identification" },
+                    { "value": "Industry reports, niche vertical research, and segment mapping" },
+                    { "value": "Consumer behaviour insights and demand pattern analysis" },
+                    { "value": "Competitor landscape and positioning analysis" },
+                    { "value": "Data-backed reports formatted for executive decision-making" }
                 ]
             },
             {
                 "id": 2,
-                "title": "Lead Generation & Contact Research",
-                "desc": "Targeted lead generation research performed by virtual assistants to build verified, high-quality prospect databases.",
+                "title": "Lead Generation and B2B Contact Research",
+                "desc": "Targeted lead research building verified, enriched, CRM-ready prospect databases for sales and outbound teams.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "Prospect identification across global industry segments"
-                    },
-                    {
-                        "value": "Verified contact details and decision-makers"
-                    },
-                    {
-                        "value": "B2B lead research and enrichment"
-                    },
-                    {
-                        "value": "CRM-ready lead data formatting support"
-                    }
+                    { "value": "Prospect identification across global industry segments and geographies" },
+                    { "value": "Verified contact details: emails, phone numbers, LinkedIn profiles, decision-makers" },
+                    { "value": "B2B lead research, enrichment, and deduplication" },
+                    { "value": "Contact list building for specific ICPs and buying personas" },
+                    { "value": "CRM-ready formatting for Salesforce, HubSpot, Pipedrive" }
                 ]
             },
             {
                 "id": 3,
-                "title": "Competitor Research & Analysis",
-                "desc": "Comprehensive competitor research enabling businesses to benchmark pricing, performance, and market positioning accurately.",
+                "title": "Competitor Research and Competitive Intelligence",
+                "desc": "Comprehensive competitor monitoring so businesses can benchmark pricing, positioning, product changes, and market moves with ongoing accuracy.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "Competitor profiling and SWOT analysis"
-                    },
-                    {
-                        "value": "Pricing, offerings, and positioning comparison"
-                    },
-                    {
-                        "value": "Market share and growth benchmarking"
-                    },
-                    {
-                        "value": "Actionable insights for competitive advantage"
-                    }
+                    { "value": "Competitor profiling, SWOT analysis, and capability mapping" },
+                    { "value": "Pricing, offerings, feature, and positioning comparisons" },
+                    { "value": "Market share analysis, entry tracking, and partnership monitoring" },
+                    { "value": "Ongoing competitor alerts and monthly intelligence briefs" },
+                    { "value": "Actionable insights structured for sales, marketing, and product teams" }
                 ]
             },
             {
                 "id": 4,
-                "title": "Web Data Collection & Validation",
-                "desc": "Structured web data collection and validation ensuring consistent, decision-ready datasets for business teams.",
+                "title": "Web Data Collection and Validation",
+                "desc": "Structured web data collection producing consistent, clean, decision-ready datasets from public web, directories, portals, and digital sources.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "Accurate data extraction from online sources"
-                    },
-                    {
-                        "value": "Multi-source data validation and cleansing"
-                    },
-                    {
-                        "value": "Standardized formats for seamless integration"
-                    },
-                    {
-                        "value": "Ongoing quality checks and updates"
-                    }
+                    { "value": "Accurate data extraction from websites, directories, and online databases" },
+                    { "value": "Multi-source validation and cross-referencing for accuracy" },
+                    { "value": "Data standardisation and formatting for system integration" },
+                    { "value": "Ongoing refresh cycles to keep data current" },
+                    { "value": "GDPR-aware data collection for UK and EU clients" }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Industry-Specific Research Support",
+                "desc": "Sector-specific web research tailored to the data requirements and compliance needs of your industry.",
+                "url": "#",
+                "data": [
+                    { "value": "Real Estate: property data, ownership records, comparable listings, market trends" },
+                    { "value": "Healthcare: provider research, clinical data, medical market analysis" },
+                    { "value": "Logistics: carrier research, vendor profiling, shipment benchmarks" },
+                    { "value": "Finance: company profiling, regulatory data, market intelligence" },
+                    { "value": "eCommerce: product research, pricing intelligence, competitor catalogue analysis" },
+                    { "value": "Technology and SaaS: market sizing, prospect research, product benchmarking" }
                 ]
             }
         ]
