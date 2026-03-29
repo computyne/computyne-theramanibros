@@ -1,0 +1,168 @@
+{
+    "hire-web-researchers": {
+        "span": "MANAGED TEAM VS FREELANCE RESEARCHER",
+        "h2": "Why Businesses Choose Computyne Over Upwork or Fiverr",
+        "comparisonData": [
+            {
+                "factor": "Accountability",
+                "freelance": "Single person, no backup",
+                "computyne": "Team structure with supervisors"
+            },
+            {
+                "factor": "Availability",
+                "freelance": "Time zones, holidays, dropouts",
+                "computyne": "24/7, 365-day coverage"
+            },
+            {
+                "factor": "Quality Control",
+                "freelance": "Self-reviewed",
+                "computyne": "Multi-layer QA and validation"
+            },
+            {
+                "factor": "Data Security",
+                "freelance": "Unknown protocols",
+                "computyne": "ISO 27001, NDAs, access controls"
+            },
+            {
+                "factor": "Scalability",
+                "freelance": "Hire another freelancer",
+                "computyne": "Add capacity within 48 hours"
+            },
+            {
+                "factor": "Consistency",
+                "freelance": "Varies per freelancer",
+                "computyne": "Standardised SOPs across all work"
+            },
+            {
+                "factor": "Pricing Model",
+                "freelance": "Hourly bid, unpredictable",
+                "computyne": "Fixed rates, predictable costs"
+            }
+        ]
+    },
+    "hire-data-entry-specialists": {
+        "span": "MANAGED TEAM VS FREELANCE / UPWORK",
+        "h2": "Why Managed Specialists Beat Upwork for Data Entry",
+        "comparisonData": [
+            {
+                "factor": "Accuracy SLA",
+                "freelance": "No guarantee",
+                "computyne": "99.9% contractual SLA"
+            },
+            {
+                "factor": "Quality Control",
+                "freelance": "Self-checked",
+                "computyne": "Multi-layer QA with supervisor review"
+            },
+            {
+                "factor": "Availability",
+                "freelance": "Variable, time zones and holidays",
+                "computyne": "Business hours or 24/7 coverage"
+            },
+            {
+                "factor": "Data Security",
+                "freelance": "Unknown protocols",
+                "computyne": "ISO 27001, NDAs, controlled access"
+            },
+            {
+                "factor": "Scalability",
+                "freelance": "Hire another, lengthy onboarding",
+                "computyne": "Add capacity within 48 hours"
+            },
+            {
+                "factor": "Platform Training",
+                "freelance": "Generic, hope they know your tools",
+                "computyne": "Pre-trained on your systems"
+            },
+            {
+                "factor": "Cost Predictability",
+                "freelance": "Hourly bids, variable",
+                "computyne": "Fixed rates, no surprise costs"
+            }
+        ]
+    },
+    "hire-data-science-specialist": {
+        "span": "IN-HOUSE VS OUTSOURCED DATA SCIENCE",
+        "h2": "Build In-House vs Hire Data Scientists Externally",
+        "comparisonData": [
+            {
+                "factor": "Cost (Year 1)",
+                "inhouse": "200,000 to 300,000 (2 data scientists)",
+                "computyne": "50,000 to 80,000 equivalent"
+            },
+            {
+                "factor": "Time to Value",
+                "inhouse": "6 to 12 months (hire plus onboard)",
+                "computyne": "2 to 4 weeks (project start)"
+            },
+            {
+                "factor": "Skills Coverage",
+                "inhouse": "Limited to who you hire",
+                "computyne": "Python, R, TF, PyTorch, SQL, BI, full stack"
+            },
+            {
+                "factor": "Flexibility",
+                "inhouse": "Fixed headcount",
+                "computyne": "Scale up, pause, or wind down anytime"
+            },
+            {
+                "factor": "Risk",
+                "inhouse": "Employment obligation plus culture fit",
+                "computyne": "No employment risk"
+            },
+            {
+                "factor": "When It Makes Sense",
+                "inhouse": "10+ data science projects, core product ML",
+                "computyne": "1 to 9 projects, exploratory analytics, POCs"
+            }
+        ]
+    },
+    "hire-virtual-assistants": {
+        "span": "COMPETITOR COMPARISON",
+        "h2": "Computyne vs BELAY, Fancy Hands and Upwork Virtual Assistants",
+        "comparisonData": [
+            {
+                "factor": "Pricing",
+                "upwork": "$15 to $50/hr (bid-based)",
+                "belay": "$20 to $45/hr fixed",
+                "computyne": "From $5 to $8/hr managed"
+            },
+            {
+                "factor": "Dedicated VA",
+                "upwork": "Not guaranteed",
+                "belay": "Yes, US-based",
+                "computyne": "Yes, India-based"
+            },
+            {
+                "factor": "Availability",
+                "upwork": "Freelancer hours only",
+                "belay": "Business hours",
+                "computyne": "Flexible including extended"
+            },
+            {
+                "factor": "Data Security",
+                "upwork": "Unknown protocols",
+                "belay": "Moderate protocols",
+                "computyne": "ISO 27001 certified"
+            },
+            {
+                "factor": "Scalability",
+                "upwork": "Manual re-hiring",
+                "belay": "Limited",
+                "computyne": "Scale within 48 hrs"
+            },
+            {
+                "factor": "Industry Expertise",
+                "upwork": "Generalist",
+                "belay": "Generalist, admin focus",
+                "computyne": "Specialist by function"
+            },
+            {
+                "factor": "Free Trial",
+                "upwork": "No",
+                "belay": "No",
+                "computyne": "5-hour free pilot"
+            }
+        ]
+    }
+}

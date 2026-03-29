@@ -14,6 +14,12 @@ import JsonLd from "@/components/seo/JsonLd";
 import {remoteDataEntrySchema} from "@/libs/schema/services/remoteDataEntrySchema";
 import SubFooter from "@/components/layout/footer/subFooter";
 import Testimonials from "@/components/layout/common/Testimonials";
+import HeroBanner from "@/components/sections/subservice/HeroBanner";
+import CounterHireResource from "../../components/sections/subservice/CounterHireResource";
+import AboutusHireResource from "../../components/sections/subservice/AboutusHireResource";
+import PricingPlan from "@/components/pricing-plan/PricingPlan";
+import ToolsAndTech from "@/components/sections/toolsandtech/ToolsAndTech";
+import TeamComparison from "@/components/sections/TeamComparison";
 
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
@@ -54,12 +60,15 @@ export default function hireDataEntrySpecialists() {
                     <div id="smooth-content">
                         <main>
                             <div className="top-space-15"></div>
-                            <Banner/>
-                            <Counter/>
-                            <Aboutus slug={"hire-data-entry-specialists"} type={1}/>
+                            <HeroBanner/>
+                            <CounterHireResource/>
+                            <AboutusHireResource slug={"hire-data-entry-specialists"} type={1}/>
                             <Subservices/>
                             <Casestudy text="Trusted by Businesses for Remote Data Entry Excellence"/>
                             <Whychooseus/>
+                            <PricingPlan/>
+                            <ToolsAndTech/>
+                            <TeamComparison/>
                             <Faq type={1}/>
                             <Testimonials/>
                             <Industries/>

@@ -3,6 +3,11 @@
 /**
   Buttons CSS
 */
+
+.text-orange {
+  color: var(--tj-color-theme-primary) !important;
+}
+
 .tj-primary-btn {
   display: inline-flex;
   align-items: center;
@@ -50,6 +55,39 @@
       color: var(--tj-color-common-white);
       transform: rotate(-45deg);
       transition: all 0.3s ease-in-out;
+    }
+  }
+
+  &.btn-secondary {
+    background-color: transparent;
+    border: 2px solid var(--tj-color-theme-primary);
+
+    .btn-text {
+      color: var(--tj-color-theme-primary);
+    }
+
+    .btn-icon {
+      background-color: var(--tj-color-theme-primary);
+
+      i {
+        color: var(--tj-color-common-white);
+      }
+    }
+
+    &:hover {
+      background-color: transparent;
+
+      .btn-text {
+        color: var(--tj-color-theme-primary);
+      }
+
+      .btn-icon {
+        background-color: var(--tj-color-theme-primary);
+
+        i {
+          color: var(--tj-color-common-white);
+        }
+      }
     }
   }
 
