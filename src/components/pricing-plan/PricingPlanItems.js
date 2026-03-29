@@ -2,6 +2,7 @@
 
 import {usePathname} from "next/navigation";
 import pricingData from "../../../public/data/hire-service-pricing-data.json";
+import ButtonPrimary from "@/components/shared/buttons/ButtonPrimary";
 
 const PricingPlanItems = ({ isYearlyPlan }) => {
 	const pathname = usePathname();
@@ -16,14 +17,31 @@ const PricingPlanItems = ({ isYearlyPlan }) => {
 		<>
 			{serviceData.engagementModels.map((model, index) => (
 				<div className="col-xl-3 col-md-6">
-					<div className="pricing-box wow fadeInUp" data-wow-delay={`${0.5 + index * 0.2}s`}>
+					<div className={`pricing-box wow fadeInUp ${model.model === "Full-Time Dedicated" ? "active" : ""}`} data-wow-delay={`${0.5 + index * 0.2}s`}>
 						<div className="pricing-header">
 							<h4 className="package-name">{model.model}</h4>
 							<div className="package-desc" style={{fontSize: "14px"}}>
 								<p>{model.bestFor}</p>
 							</div>
-							<div className="package-price" style={{fontSize: "25px"}}>
-								<span className="price-number" style={{color: "#f47920"}}>{model.indicativeRate}</span>
+							{model.rate !== "0" ? (
+								<div className="package-price">
+									<span className="package-currency">$</span>
+									<span className="price-number">{model.rate}</span>
+									<span className="package-period">{model.ratePolicy}</span>
+								</div>
+							) : (
+								<div className="package-price">
+									<span className="package-currency"></span>
+									<span className="price-number">{model.indicativeRate.split(' ')[0]} </span>
+									<span className="package-period">{model.indicativeRate.split(' ')[1]}</span>
+								</div>
+							)}
+							<div className="pricing-btn">
+								<ButtonPrimary
+									text={"Chose Plan"}
+									url={"/contact"}
+									isTextBtn={true}
+								/>
 							</div>
 						</div>
 

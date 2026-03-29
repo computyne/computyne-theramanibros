@@ -23,6 +23,8 @@ const PricingPlan = ({ type = 1 }) => {
 							className={`sec-heading text-center ${
 								type === 2 || type === 3 ? "" : "style-2"
 							}`}
+
+							style={{maxWidth: "100%"}}
 						>
 							<span className="sub-title wow fadeInUp" data-wow-delay=".3s">
 								{type === 2 || type === 3 ? <i className="tji-box"></i> : ""}{" "}
