@@ -1,9 +1,9 @@
 "use client";
 
 import {usePathname} from "next/navigation";
-import PricingPlanItems from "@/components/pricing-plan/PricingPlanItems";
 import ButtonPrimary from "@/components/sections/subservice/ButtonPrimary";
 import pricingData from "../../../public/data/hire-service-pricing-data.json";
+import PricingPlanItems from "./PricingPlanItems";
 
 const PricingPlan = ({ type = 1 }) => {
 	const pathname = usePathname();
