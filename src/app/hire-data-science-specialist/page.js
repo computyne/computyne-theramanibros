@@ -14,6 +14,12 @@ import JsonLd from "@/components/seo/JsonLd";
 import {hireDataScienceSpecialistsSchema} from "@/libs/schema/services/hireDataScienceSpecialistsSchema";
 import SubFooter from "@/components/layout/footer/subFooter";
 import Testimonials from "@/components/layout/common/Testimonials";
+import HeroBanner from "@/components/sections/subservice/HeroBanner";
+import CounterHireResource from "../../components/sections/subservice/CounterHireResource";
+import AboutusHireResource from "../../components/sections/subservice/AboutusHireResource";
+import PricingPlan from "@/components/pricing-plan/PricingPlan";
+import ToolsAndTech from "@/components/sections/toolsandtech/ToolsAndTech";
+import TeamComparison from "@/components/sections/TeamComparison";
 
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
@@ -53,12 +59,15 @@ export default function hireDataScienceSpecialists() {
                     <div id="smooth-content">
                         <main>
                             <div className="top-space-15"></div>
-                            <Banner/>
-                            <Counter/>
-                            <Aboutus slug={"hire-data-science-specialist"} type={1}/>
+                            <HeroBanner/>
+                            <CounterHireResource/>
+                            <AboutusHireResource slug={"hire-data-science-specialist"} type={1}/>
                             <Subservices/>
                             <Casestudy/>
                             <Whychooseus/>
+                            <PricingPlan/>
+                            <ToolsAndTech/>
+                            <TeamComparison/>
                             <Faq type={1}/>
                             <Testimonials/>
                             <Industries/>

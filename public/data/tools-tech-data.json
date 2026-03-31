@@ -1,0 +1,130 @@
+{
+    "hire-web-researchers": {
+        "span": "TOOLS AND RESEARCH TECHNOLOGY",
+        "h2": "Research Tools and Platforms Our Team Works With",
+        "toolCategories": [
+            {
+                "category": "Prospecting and Lead Research",
+                "tags": ["LinkedIn Sales Navigator", "Apollo.io", "ZoomInfo", "Hunter.io"]
+            },
+            {
+                "category": "Market and Web Research",
+                "tags": ["Semrush", "Crunchbase", "Statista", "Google Trends", "SimilarWeb"]
+            },
+            {
+                "category": "Data Validation",
+                "tags": ["NeverBounce", "Clearbit", "Snov.io"]
+            },
+            {
+                "category": "CRM Delivery Formats",
+                "tags": ["Salesforce", "HubSpot", "Pipedrive", "CSV", "Google Sheets"]
+            },
+            {
+                "category": "Collaboration",
+                "tags": ["Slack", "Asana", "Trello", "Monday.com", "Email"]
+            }
+        ]
+    },
+    "hire-data-entry-specialists": {
+        "span": "SYSTEMS AND PLATFORMS WE WORK WITH",
+        "h2": "Data Entry Across Every Major Platform and System",
+        "platformCategories": [
+            {
+                "category": "CRM",
+                "tools": ["Salesforce", "HubSpot", "Zoho CRM", "Pipedrive", "Microsoft Dynamics", "Copper"]
+            },
+            {
+                "category": "Accounting and ERP",
+                "tools": ["QuickBooks", "Xero", "Sage", "NetSuite", "SAP", "Oracle Financials"]
+            },
+            {
+                "category": "eCommerce",
+                "tools": ["Shopify", "WooCommerce", "Magento", "BigCommerce", "Amazon Seller Central", "eBay"]
+            },
+            {
+                "category": "Healthcare",
+                "tools": ["Epic", "Cerner", "Allscripts", "eClinicalWorks", "Meditech", "Athenahealth"]
+            },
+            {
+                "category": "Document and DMS",
+                "tools": ["SharePoint", "DocuWare", "M-Files", "Google Drive", "Dropbox"]
+            },
+            {
+                "category": "Logistics",
+                "tools": ["SAP TM", "Oracle TMS", "CargoWise", "Freight2020"]
+            }
+        ]
+    },
+    "hire-data-science-specialist": {
+        "span": "TECHNOLOGY STACK",
+        "h2": "Technologies and Tools Our Data Science Specialists Work With",
+        "platformCategories": [
+            {
+                "category": "Languages",
+                "tools": ["Python", "R", "SQL", "Scala", "Julia"]
+            },
+            {
+                "category": "ML Frameworks",
+                "tools": ["TensorFlow", "PyTorch", "Scikit-learn", "Keras", "XGBoost", "LightGBM"]
+            },
+            {
+                "category": "Data Engineering",
+                "tools": ["Apache Spark", "Airflow", "dbt", "Kafka", "Luigi"]
+            },
+            {
+                "category": "Cloud Platforms",
+                "tools": ["AWS (SageMaker, Redshift)", "GCP (BigQuery, Vertex AI)", "Azure (ML Studio)"]
+            },
+            {
+                "category": "BI and Visualisation",
+                "tools": ["Tableau", "Power BI", "Looker", "Metabase", "Grafana", "Matplotlib", "Plotly"]
+            },
+            {
+                "category": "Databases",
+                "tools": ["PostgreSQL", "MySQL", "MongoDB", "Snowflake", "BigQuery", "Redshift"]
+            },
+            {
+                "category": "NLP and LLMs",
+                "tools": ["Hugging Face", "spaCy", "NLTK", "GPT APIs", "LangChain"]
+            },
+            {
+                "category": "Version Control",
+                "tools": ["Git", "DVC", "MLflow", "Weights and Biases"]
+            }
+        ]
+    },
+    "hire-virtual-assistants": {
+        "span": "TOOLS OUR VAs WORK WITH",
+        "h2": "Your VA Hits the Ground Running in Your Existing Stack",
+        "platformCategories": [
+            {
+                "category": "Project Management",
+                "tools": ["Asana", "Monday.com", "Trello", "Notion", "ClickUp", "Basecamp"]
+            },
+            {
+                "category": "Communication",
+                "tools": ["Slack", "Microsoft Teams", "Zoom", "Google Meet", "Email"]
+            },
+            {
+                "category": "CRM",
+                "tools": ["Salesforce", "HubSpot", "Zoho", "Pipedrive", "Microsoft Dynamics"]
+            },
+            {
+                "category": "eCommerce",
+                "tools": ["Shopify", "WooCommerce", "Amazon Seller Central", "eBay", "Etsy"]
+            },
+            {
+                "category": "Social Media",
+                "tools": ["Buffer", "Hootsuite", "Later", "Sprout Social", "Canva"]
+            },
+            {
+                "category": "Bookkeeping",
+                "tools": ["QuickBooks", "Xero", "FreshBooks", "Wave"]
+            },
+            {
+                "category": "Customer Support",
+                "tools": ["Zendesk", "Freshdesk", "Intercom", "Gorgias", "Help Scout"]
+            }
+        ]
+    }
+}

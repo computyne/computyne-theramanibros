@@ -39,3 +39,238 @@
     url("../../public/assets/fonts/fa-brands-400.woff2") format("woff2"),
     url("../../public/assets/fonts/fa-brands-400.ttf") format("truetype");
 }
+
+/* Tool Categories Widget Styles */
+.tool-category-card {
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    background: linear-gradient(145deg, #ffffff 0%, #f8f9fa 100%);
+    position: relative;
+    overflow: hidden;
+}
+
+.tool-category-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #f47920 0%, #ff6b35 50%, #f47920 100%);
+}
+
+.tool-category-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+    background: linear-gradient(145deg, #ffffff 0%, #f1f3f5 100%);
+}
+
+.tool-category-card .card-title {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #0a1f44;
+    margin-bottom: 15px;
+    min-height: 40px;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(135deg, #0a1f44 0%, #2c3e50 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    position: relative;
+    padding-bottom: 8px;
+}
+
+.tool-category-card .card-title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 50px;
+    height: 2px;
+    background: linear-gradient(135deg, #f47920 0%, #ff6b35 100%);
+    border-radius: 1px;
+}
+
+.tool-tag {
+    display: inline-block;
+    background: transparent;
+    border: 1px solid #f47920;
+    color: #f47920;
+    padding: 4px 10px;
+    margin: 2px 4px 2px 0;
+    border-radius: 15px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+
+.tool-tag:hover {
+    background: #f47920;
+    color: white;
+    transform: scale(1.05);
+    box-shadow: 0 2px 4px rgba(244, 121, 32, 0.3);
+}
+
+.tagcloud {
+    line-height: 1.8;
+}
+
+/* Team Comparison Section Styles */
+.tj-team-comparison-section {
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    border-radius: 0 !important;
+}
+
+.tj-team-comparison-section.h7-testimonial {
+    border-radius: 0 !important;
+}
+
+.tj-team-comparison-section .bg-shape-1 {
+    position: absolute;
+    top: 10%;
+    left: -50px;
+    opacity: 0.1;
+    z-index: 0;
+}
+
+.tj-team-comparison-section .bg-shape-2 {
+    position: absolute;
+    bottom: 10%;
+    right: -50px;
+    opacity: 0.1;
+    z-index: 0;
+}
+
+.tj-team-comparison-section .container {
+    position: relative;
+    z-index: 1;
+}
+
+.tj-team-comparison-section .testimonial-wrapper {
+    position: relative;
+    z-index: 0;
+}
+
+.tj-team-comparison-section .bg-shape-3 {
+    bottom: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+}
+
+.comparison-table-wrapper {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    overflow: hidden;
+    margin-top: 30px;
+}
+
+.comparison-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0;
+}
+
+.comparison-table th {
+    background: linear-gradient(135deg, #0a1f44 0%, #2c3e50 100%);
+    color: white;
+    padding: 20px 15px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 1rem;
+    border: none;
+}
+
+.comparison-table th.factor-column {
+    width: 20%;
+    border-radius: 12px 0 0 0;
+}
+
+.comparison-table th.freelance-column {
+    width: 35%;
+    text-align: center;
+}
+
+.comparison-table th.computyne-column {
+    width: 45%;
+    text-align: center;
+    border-radius: 0 12px 0 0;
+}
+
+.column-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.platform-icon {
+    font-size: 1.2rem;
+}
+
+.comparison-table td {
+    padding: 20px 15px;
+    border-bottom: 1px solid #e9ecef;
+    vertical-align: middle;
+}
+
+.comparison-table tr:last-child td {
+    border-bottom: none;
+}
+
+.comparison-row:hover {
+    background-color: #f8f9fa;
+}
+
+.factor-cell {
+    font-weight: 600;
+    color: #0a1f44;
+    background: #f8f9fa;
+}
+
+.freelance-cell {
+    background: #fff5f5;
+    border-left: 1px solid #e9ecef;
+    border-right: 1px solid #e9ecef;
+}
+
+.freelance-text {
+    color: #dc3545;
+    font-weight: 500;
+}
+
+.computyne-cell {
+    background: #f0fff4;
+    border-right: 1px solid #e9ecef;
+}
+
+.computyne-text {
+    color: #28a745;
+    font-weight: 500;
+}
+
+@media (max-width: 768px) {
+    .comparison-table th,
+    .comparison-table td {
+        padding: 15px 10px;
+        font-size: 0.9rem;
+    }
+    
+    .column-header {
+        flex-direction: column;
+        gap: 5px;
+    }
+    
+    .platform-icon {
+        font-size: 1rem;
+    }
+}

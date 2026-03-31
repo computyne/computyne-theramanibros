@@ -18,7 +18,7 @@ const FunfactSingle2 = ({currentValue, symbol, sup, type}) => {
     useEffect(() => {
         if (inView) {
             const timeoutId = setTimeout(() => {
-                if (currentValue != null) {
+                if (currentValue != null && currentValue !== 0 && currentValue !== '' && currentValue?.toString()?.trim() !== '') {
                     setValue(currentValue);
                 }
             }, 250);
@@ -27,9 +27,9 @@ const FunfactSingle2 = ({currentValue, symbol, sup, type}) => {
     }, [inView, currentValue]);
 
     return (
-        <div ref={ref} className="inline-content-mod-3">
+        <div ref={ref} className="inline-content-mod-3" style={{fontSize: "25px"}}>
             {/* ONLY number hidden */}
-            {currentValue != null && Odometer && (
+            {currentValue != null && currentValue !== 0 && currentValue !== '' && currentValue?.toString()?.trim() !== '' && Odometer && value != null && (
                 <Odometer
                     className={`odometer ${
                         type === 2 || type === 3 ? "" : "countup-number"

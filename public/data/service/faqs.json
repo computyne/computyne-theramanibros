@@ -1268,29 +1268,37 @@
 		"cta": "Request a Free Consultation",
 		"faq": [
 			{
-				"title": "What does it mean to hire remote data entry specialists?",
-				"desc": "Hiring remote data entry specialists provides access to skilled professionals who securely manage data capture, validation, and processing without increasing internal headcount.",
+				"title": "What does a dedicated data entry specialist do?",
+				"desc": "A dedicated data entry specialist accurately captures, validates, and processes information from various sources into structured digital formats. This includes CRM updates, database management, form processing, invoice data entry, and maintaining data integrity across business systems.",
 				"initActive": true
 			},
 			{
-				"title": "What tasks can remote data entry specialists handle?",
-				"desc": "Remote data entry specialists can manage CRM updates, document digitization, invoice processing, product catalog management, data cleaning, and ongoing database maintenance."
+				"title": "How much does it cost to hire a data entry specialist from India?",
+				"desc": "Engagements start from around $7 to $10/hr for part-time and $10 to $15/hr for full-time dedicated data entry specialists. Project-based pricing is also available based on data volume and complexity. Get in touch for a custom plan."
 			},
 			{
-				"title": "How does hiring remote data entry specialists reduce costs?",
-				"desc": "Outsourcing eliminates recruitment, training, and infrastructure costs while offering predictable and scalable pricing models."
+				"title": "What is the difference between a data entry specialist and a virtual assistant?",
+				"desc": "Data entry specialists focus specifically on accurate data capture, validation, and database management. Virtual assistants handle a broader range of administrative tasks including scheduling, email management, and customer communication. Both are available through Computyne."
 			},
 			{
-				"title": "How is data accuracy ensured?",
-				"desc": "Accuracy is maintained through standardized workflows, validation rules, multi-level quality assurance checks, and continuous performance monitoring."
+				"title": "Can I hire a dedicated full-time data entry specialist?",
+				"desc": "Yes. You can hire a full-time or part-time data entry specialist who works exclusively on your projects, integrates with your systems, follows your workflows, and reports directly to your team."
 			},
 			{
-				"title": "Are remote data entry services secure?",
-				"desc": "Yes. Secure systems, role-based access controls, and strict confidentiality agreements are implemented to protect sensitive business and customer information."
+				"title": "How do you ensure data accuracy in data entry?",
+				"desc": "All data goes through double-entry verification, automated validation checks, and multi-layer quality control. Our accuracy rate is consistently above 99% across all client projects with comprehensive error detection protocols."
 			},
 			{
-				"title": "Can remote data entry teams scale with business growth?",
-				"desc": "Yes. On-demand remote data entry specialists can scale rapidly to support peak workloads, seasonal demand, and enterprise-level growth requirements."
+				"title": "Is outsourcing data entry GDPR-compliant?",
+				"desc": "Yes. Computyne operates under ISO 27001 information security protocols, maintains signed NDAs, and follows GDPR-aware data handling practices for all UK and EU client projects. All data processing follows strict compliance standards."
+			},
+			{
+				"title": "Which tools and software do your data entry specialists use?",
+				"desc": "Our team uses Microsoft Excel, Google Sheets, Salesforce, HubSpot, QuickBooks, SAP, Oracle, and other validated data management tools. We can also work with your proprietary systems and custom databases."
+			},
+			{
+				"title": "How quickly can a data entry team be set up?",
+				"desc": "A dedicated data entry specialist or team can be deployed within 2 to 4 business days following a project brief, system access setup, and workflow documentation. Rapid deployment ensures minimal disruption to your operations."
 			}
 		]
 	},
@@ -1298,45 +1306,45 @@
 		"cta": "Request a Free Consultation",
 		"faq": [
 			{
-				"title": "What does it mean to hire data science specialists?",
-				"desc": "Hiring data science specialists means engaging professionals who analyze complex datasets using statistics, machine learning, and AI techniques to generate actionable business insights.",
+				"title": "What do data scientists do?",
+				"desc": "Data scientists collect, clean, analyse, and model data to extract insights and build predictive systems. They typically work across statistical analysis, machine learning model development, data visualisation, and BI reporting to support business decision-making.",
 				"initActive": true
 			},
 			{
-				"title": "Why hire data science specialists instead of building in-house teams?",
-				"desc": "Outsourcing data science reduces recruitment and infrastructure costs, improves flexibility, and provides immediate access to advanced expertise without long-term commitments."
+				"title": "How much does it cost to hire a data scientist from India?",
+				"desc": "Rates typically range from $25 to $50/hr for hourly engagements, $1,200 to $2,500/month for fractional (part-time) data scientists, and $3,500 to $6,000/month for full-time dedicated specialists. Get in touch for a custom quote based on your stack and project scope."
 			},
 			{
-				"title": "What services do data science specialists provide?",
-				"desc": "Services include predictive analytics, machine learning model development, data mining, business intelligence, and AI-driven decision support."
+				"title": "What is a fractional data scientist?",
+				"desc": "A fractional data scientist is a senior specialist engaged on a part-time basis, typically 10 to 20 hours per week. It gives growing companies access to expert analytics capability without the cost of a full-time hire. This model works well for companies with 1 to 3 ongoing analytics projects."
 			},
 			{
-				"title": "How do data science specialists support business growth?",
-				"desc": "They uncover trends, forecast outcomes, optimize processes, and enable data-driven decision-making that drives sustainable business growth."
+				"title": "What is the difference between data science and machine learning?",
+				"desc": "Data science covers the full process of extracting insight from data, including analysis, visualisation, statistics, and ML model development. Machine learning is a subset of data science focused specifically on building systems that learn from data to make predictions or decisions automatically."
 			},
 			{
-				"title": "Can data science specialists integrate with internal teams?",
-				"desc": "Yes. Data science specialists integrate seamlessly with existing tools, workflows, and internal teams while maintaining security and collaboration standards."
+				"title": "Can data scientists integrate with our existing data infrastructure?",
+				"desc": "Yes. Our specialists are experienced across major cloud platforms (AWS, GCP, Azure), data warehouses (Snowflake, BigQuery, Redshift), BI tools (Tableau, Power BI), and orchestration frameworks (Airflow, dbt). We adapt to your stack."
 			},
 			{
-				"title": "Is hiring data science specialists cost-effective?",
-				"desc": "Yes. Hiring data science specialists eliminates long-term overhead costs while delivering high-impact analytical expertise on demand."
+				"title": "When should I hire a data scientist externally vs build an in-house team?",
+				"desc": "External hiring works best for organisations with 1 to 9 active data science projects, early-stage analytics programmes, or specific ML use cases. Building in-house makes more sense when data science is a core product function with 10+ concurrent projects at enterprise scale."
 			},
 			{
-				"title": "Which industries benefit most from data science specialists?",
-				"desc": "Industries such as finance, healthcare, retail, logistics, manufacturing, SaaS, and telecommunications benefit significantly from data science expertise."
+				"title": "How is data security maintained for data science projects?",
+				"desc": "All engagements follow ISO 27001 information security protocols, signed NDAs, role-based data access controls, secure development environments, and GDPR-compliant data handling for UK and EU clients."
 			},
 			{
-				"title": "How quickly can data science specialists deliver results?",
-				"desc": "Most engagements begin delivering measurable insights within weeks through rapid onboarding and proven analytics frameworks."
+				"title": "How quickly can a data science specialist be onboarded?",
+				"desc": "Depending on scope and system access requirements, onboarding takes 5 to 7 business days from project brief to active development, which is significantly faster than in-house hiring timelines of 3 to 6 months."
 			},
 			{
-				"title": "Are data science specialists suitable for long-term projects?",
-				"desc": "Yes. Data science specialists support both short-term initiatives and long-term data and analytics strategies."
+				"title": "Do you offer ML model development as a one-off project?",
+				"desc": "Yes. Computyne offers project-based engagements for specific model builds, including churn prediction, demand forecasting, fraud detection, and NLP pipelines, all with full documentation and handover."
 			},
 			{
-				"title": "How does hiring data science specialists improve AI readiness?",
-				"desc": "They build clean datasets, scalable analytics pipelines, and robust machine learning models that form the foundation for AI-driven analytics and automation."
+				"title": "Can I start with a small pilot before committing to a longer engagement?",
+				"desc": "Yes. We offer discovery sessions and scoped proof-of-concept engagements so you can validate data science output and team quality before scaling to a longer-term partnership."
 			}
 		]
 	},
@@ -1345,44 +1353,44 @@
 		"faq": [
 			{
 				"title": "What is a virtual assistant?",
-				"desc": "A virtual assistant is a remote professional who supports administrative, operational, and business tasks using secure systems, defined workflows, and communication tools to improve efficiency while reducing operational costs.",
+				"desc": "A virtual assistant is a remote professional who provides administrative, operational, research, or specialist support to businesses and entrepreneurs, typically on a part-time or full-time basis. VAs handle tasks ranging from email management and scheduling to data entry, research, social media, and customer support.",
 				"initActive": true
 			},
 			{
-				"title": "What tasks can virtual assistants handle?",
-				"desc": "Virtual assistants manage administrative support, data entry, document management, customer support, research, reporting, social media coordination, and e-commerce operations based on business requirements."
+				"title": "How much does a virtual assistant from India cost?",
+				"desc": "Computyne VA pricing starts from $5 to $8/hr for flexible or hourly engagements, $320 to $480/month for part-time, and $600 to $900/month for full-time dedicated VAs. All rates include management, QA, and ISO 27001 security."
 			},
 			{
-				"title": "How does hiring a virtual assistant benefit businesses?",
-				"desc": "Hiring virtual assistants reduces costs, increases productivity, improves scalability, and allows internal teams to focus on strategic, revenue-generating activities through process-driven task execution."
+				"title": "What is the difference between a virtual assistant and a personal assistant?",
+				"desc": "A personal assistant typically works in-person and handles personal and professional tasks for one individual. A virtual assistant works remotely and can support multiple business functions: admin, research, eCommerce, social media, usually at a fraction of the cost."
 			},
 			{
-				"title": "Are virtual assistant services secure?",
-				"desc": "Yes. Professional virtual assistant services operate under strict data security protocols, role-based access controls, confidentiality agreements, and standardized processes to ensure secure information handling."
+				"title": "Can I hire a VA for a specific task type (real estate, social media, bookkeeping)?",
+				"desc": "Yes. Computyne offers specialist VAs trained in specific functions including real estate operations, social media management, eCommerce, bookkeeping, customer support, and research. Your VA is matched to your exact requirements."
 			},
 			{
-				"title": "How quickly can a virtual assistant be hired?",
-				"desc": "Most service providers can onboard dedicated virtual assistants within days, depending on task complexity and scope, enabling rapid scaling without lengthy recruitment cycles."
+				"title": "How quickly can a virtual assistant be onboarded?",
+				"desc": "A dedicated VA can be fully onboarded and operational within 3 to 5 business days following a project brief, tool access setup, and SOP review."
 			},
 			{
-				"title": "Can virtual assistants integrate with existing tools?",
-				"desc": "Yes. Virtual assistants work seamlessly within existing CRMs, project management platforms, communication tools, and business systems to maintain workflow continuity."
+				"title": "Is my data secure with a remote VA?",
+				"desc": "Yes. All Computyne VAs operate under ISO 27001 information security protocols, signed NDAs, role-based access controls, and GDPR-compliant data handling, so your business data stays confidential and protected."
 			},
 			{
-				"title": "Are virtual assistants suitable for small and large businesses?",
-				"desc": "Virtual assistant services support businesses of all sizes by offering flexible engagement models aligned with workload, growth stage, and operational complexity."
+				"title": "Can I start with a trial before committing?",
+				"desc": "Yes. Computyne offers a 5-hour free pilot so you can see the quality, communication, and output of your dedicated VA before any commitment."
 			},
 			{
-				"title": "What is the difference between a virtual assistant and in-house staff?",
-				"desc": "Virtual assistants provide remote, task-focused support without the costs of full-time employment, while delivering efficiency through structured processes and performance monitoring."
+				"title": "Do your VAs work in my time zone?",
+				"desc": "Yes. We align VA working hours with your time zone, whether UK, US East, US West, or other regions. Extended coverage and 24/7 arrangements are also available."
 			},
 			{
-				"title": "How are virtual assistant tasks managed and monitored?",
-				"desc": "Tasks are managed through defined workflows, reporting structures, performance metrics, and regular communication to ensure accountability and consistent service quality."
+				"title": "What tools do your VAs work with?",
+				"desc": "Our VAs are proficient across all major business tools including Asana, Monday.com, Slack, HubSpot, Salesforce, Shopify, QuickBooks, Zendesk, Buffer, and more."
 			},
 			{
-				"title": "How do virtual assistant services scale with business growth?",
-				"desc": "Virtual assistant services scale by adjusting resource levels based on demand, enabling businesses to manage growth, seasonal spikes, and operational changes without disruption."
+				"title": "How is a managed VA different from a freelance VA on Upwork?",
+				"desc": "A Computyne managed VA comes with a supervisor, quality checks, SLA guarantees, ISO 27001 security, and backup coverage. Freelance platforms offer none of that structure. You are on your own if the freelancer underdelivers or goes quiet."
 			}
 		]
 	},
@@ -1390,37 +1398,37 @@
 		"cta": "Request a Free Consultation",
 		"faq": [
 			{
-				"title": "What does a web research expert do?",
-				"desc": "A web research expert collects, verifies, analyzes, and structures online data from multiple sources to deliver accurate, decision-ready information aligned with defined business objectives.",
+				"title": "What does a dedicated web researcher do?",
+				"desc": "A dedicated web researcher collects, verifies, analyses, and structures online data from multiple sources to deliver accurate, decision-ready information. That covers market research, lead generation, competitor intelligence, and B2B contact research.",
 				"initActive": true
 			},
 			{
-				"title": "Why should I hire a web research expert instead of doing it in-house?",
-				"desc": "Hiring a web research expert reduces operational costs, improves data accuracy, accelerates turnaround time, and allows internal teams to focus on strategic and revenue-generating activities."
+				"title": "How much does it cost to hire a web researcher from India?",
+				"desc": "Engagements start from around $8 to $12/hr for part-time and $12 to $18/hr for full-time dedicated researchers. Project-based pricing is also available based on scope and deliverable volume. Get in touch for a custom plan."
 			},
 			{
-				"title": "What types of web research services do you offer?",
-				"desc": "We provide market research, lead generation research, competitor analysis, data collection, contact list building, and ongoing web data monitoring tailored to specific business needs."
+				"title": "What is the difference between a web researcher and a virtual assistant?",
+				"desc": "Web researchers specialise in data collection, validation, and research output: structured datasets, market reports, and verified contact lists. Virtual assistants handle a broader mix of administrative and operational tasks. Both are available through Computyne."
 			},
 			{
-				"title": "How do you ensure data accuracy and reliability?",
-				"desc": "Data accuracy is ensured through multi-source validation, standardized research workflows, and rigorous quality control checks to deliver current, consistent, and business-ready data."
+				"title": "Can I hire a dedicated full-time web researcher?",
+				"desc": "Yes. You can hire a full-time or part-time researcher who works exclusively on your projects, integrates with your tools, follows your workflows, and reports to your team directly."
 			},
 			{
-				"title": "Can I hire a dedicated web research expert full-time?",
-				"desc": "Yes. You can hire a dedicated full-time web research expert or virtual assistant who works exclusively on your projects and integrates with your tools and processes."
+				"title": "How do you ensure data accuracy?",
+				"desc": "All data goes through multi-source validation, cross-referencing, and standardised quality control checks. Our accuracy rate is consistently above 98% across client projects."
 			},
 			{
-				"title": "Is outsourcing web research secure and confidential?",
-				"desc": "Yes. We follow strict data security protocols, confidentiality agreements, and controlled access procedures to safeguard sensitive business information."
+				"title": "Is outsourcing web research GDPR-compliant?",
+				"desc": "Yes. Computyne operates under ISO 27001 information security protocols, maintains signed NDAs, and follows GDPR-aware data collection and handling practices for all UK and EU client projects."
 			},
 			{
-				"title": "How quickly can research projects be delivered?",
-				"desc": "Timelines vary based on project scope, but structured workflows and dedicated resources enable faster delivery compared to traditional in-house research teams."
+				"title": "Which tools do your researchers use?",
+				"desc": "Our team uses LinkedIn Sales Navigator, Apollo.io, ZoomInfo, Semrush, Crunchbase, NeverBounce, Clearbit, and other validated research tools depending on the project type."
 			},
 			{
-				"title": "Which industries do you support?",
-				"desc": "We support industries such as real estate, healthcare, logistics, finance, eCommerce, technology, and other data-driven sectors requiring scalable and accurate web research services."
+				"title": "How quickly can a web research team be set up?",
+				"desc": "A dedicated researcher or team can be deployed within 3 to 5 business days following a project brief, SLA agreement, and system access setup."
 			}
 		]
 	},
