@@ -83,7 +83,55 @@ export const ecommerceCatalogmanagementServicesSchema = [
     "audience": {
       "@type": "Audience",
       "audienceType": "eCommerce enterprises, online retailers, multi-channel sellers"
-    }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1",
+      "reviewCount": "3"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Ric Dube"
+        },
+        "reviewBody": "Computyne's catalog management team brought structure and consistency to our product data. Their accuracy and turnaround time exceeded our expectations and helped us improve listing quality across channels."
+      },
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Craig Archbold"
+        },
+        "reviewBody": "We are impressed with the way Computyne manages catalog updates, taxonomy mapping, and product content enrichment. Their team can be trusted to keep large catalogs accurate, organized, and marketplace-ready."
+      },
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Shira Papir"
+        },
+        "reviewBody": "We are very satisfied with Computyne's catalog maintenance support. They met our deadlines, handled bulk updates smoothly, and maintained strong quality across product listings and media assets."
+      }
+    ]
   },
   {
     "@context": "https://schema.org",
@@ -210,67 +258,5 @@ export const ecommerceCatalogmanagementServicesSchema = [
         }
       }
     ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "AggregateRating",
-    "itemReviewed": {
-      "@id": "https://www.computyne.com/ecommerce-catalog-management-services#service"
-    },
-    "ratingValue": "4.8",
-    "bestRating": "5",
-    "worstRating": "1",
-    "reviewCount": "3"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Review",
-    "itemReviewed": {
-      "@id": "https://www.computyne.com/ecommerce-catalog-management-services#service"
-    },
-    "reviewRating": {
-      "@type": "Rating",
-      "ratingValue": "5",
-      "bestRating": "5"
-    },
-    "author": {
-      "@type": "Person",
-      "name": "Ric Dube"
-    },
-    "reviewBody": "Computyne's catalog management team brought structure and consistency to our product data. Their accuracy and turnaround time exceeded our expectations and helped us improve listing quality across channels."
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Review",
-    "itemReviewed": {
-      "@id": "https://www.computyne.com/ecommerce-catalog-management-services#service"
-    },
-    "reviewRating": {
-      "@type": "Rating",
-      "ratingValue": "5",
-      "bestRating": "5"
-    },
-    "author": {
-      "@type": "Person",
-      "name": "Craig Archbold"
-    },
-    "reviewBody": "We are impressed with the way Computyne manages catalog updates, taxonomy mapping, and product content enrichment. Their team can be trusted to keep large catalogs accurate, organized, and marketplace-ready."
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Review",
-    "itemReviewed": {
-      "@id": "https://www.computyne.com/ecommerce-catalog-management-services#service"
-    },
-    "reviewRating": {
-      "@type": "Rating",
-      "ratingValue": "5",
-      "bestRating": "5"
-    },
-    "author": {
-      "@type": "Person",
-      "name": "Shira Papir"
-    },
-    "reviewBody": "We are very satisfied with Computyne's catalog maintenance support. They met our deadlines, handled bulk updates smoothly, and maintained strong quality across product listings and media assets."
   }
 ]
