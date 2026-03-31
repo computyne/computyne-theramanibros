@@ -38,6 +38,7 @@
 @forward "../../public/assets/sass/layout/pricing";
 @forward "../../public/assets/sass/layout/blog-details";
 @forward "../../public/assets/sass/layout/animate";
+@forward "../../public/assets/sass/layout/h4-hero";
 @forward "../../public/assets/sass/layout/h4-choose";
 @forward "../../public/assets/sass/layout/h4-about";
 @forward "../../public/assets/sass/layout/h4-services";
@@ -119,5 +120,23 @@
 @forward "../../public/assets/sass/layout/h9-cta";
 @forward "../../public/assets/sass/layout/h9-project";
 @forward "../../public/assets/sass/layout/h9-blog";
+
+// home 10
+@forward "../../public/assets/sass/components/h10-header";
+@forward "../../public/assets/sass/components/h10-footer";
+@forward "../../public/assets/sass/layout/h10-hero";
+@forward "../../public/assets/sass/layout/h10-service";
+@forward "../../public/assets/sass/layout/h10-about";
+@forward "../../public/assets/sass/layout/h10-process";
+@forward "../../public/assets/sass/layout/h10-project";
+@forward "../../public/assets/sass/layout/h10-testimonial";
+@forward "../../public/assets/sass/layout/h10-pricing";
+@forward "../../public/assets/sass/layout/h10-blog";
+
+// shop css
+@forward "../../public/assets/sass/ecommerce/woo-default";
+@forward "../../public/assets/sass/ecommerce/woo-product";
+@forward "../../public/assets/sass/ecommerce/woo-details";
+@forward "../../public/assets/sass/ecommerce/woo-wishlist";
 
 @forward "../../public/assets/sass/layout/custom";

@@ -2,7 +2,9 @@ import {Mona_Sans} from "next/font/google";
 import "react-range-slider-input/dist/style.css";
 import "swiper/css";
 import "swiper/css/effect-fade";
-import "./vendor-critical.css";
+import "swiper/css/navigation";
+import "swiper/css/pagination";
+import "./vendor.css";
 import "./globals.scss";
 import Script from "next/script";
 
@@ -41,16 +43,6 @@ export default function RootLayout({children}) {
             <link rel="preconnect" href="https://scripts.clarity.ms" />
             <link rel="preconnect" href="https://z.clarity.ms" crossOrigin="anonymous" />
             <link rel="preconnect" href="https://s01.live2support.com" crossOrigin="anonymous" />
-            <link rel="preload" href="/assets/css/vendor-deferred.css" as="style" />
-            <link
-                rel="stylesheet"
-                href="/assets/css/vendor-deferred.css"
-                media="print"
-                onLoad="this.media='all'"
-            />
-            <noscript>
-                <link rel="stylesheet" href="/assets/css/vendor-deferred.css" />
-            </noscript>
             {/* Google Tag Manager */}
             <Script id="gtm-script" strategy="afterInteractive">
                 {`
