@@ -7,10 +7,12 @@ import ButtonPrimaryLoading from "@/components/sections/contact-page/ButtonPrima
 const ContactCard = () => {
     const [isPending, startTransition] = useTransition();
     const [status, setStatus] = useState(null);
+    const [errorMessage, setErrorMessage] = useState(null);
     const formRef = useRef(null);
 
     function handleSubmit(formData) {
         setStatus(null);
+        setErrorMessage(null);
 
         startTransition(async () => {
             const result = await submitContactForm(formData);
@@ -20,6 +22,7 @@ const ContactCard = () => {
                 formRef.current?.reset();
             } else {
                 setStatus("error");
+                setErrorMessage(result?.error || "Something went wrong. Please try again.");
             }
         });
     }
@@ -98,7 +101,7 @@ const ContactCard = () => {
 
                                     {status === "error" && (
                                         <p className="form-error">
-                                            Something went wrong. Please try again.
+                                            {errorMessage}
                                         </p>
                                     )}
                                 </div>

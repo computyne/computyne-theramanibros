@@ -4,6 +4,18 @@ import nodemailer from "nodemailer";
 
 export async function submitContactForm(formData) {
     try {
+        // Validate environment variables first
+        const requiredEnvVars = ['SMTP_HOST', 'SMTP_PORT', 'SMTP_USER', 'SMTP_PASS', 'MAIL_TO'];
+        const missingVars = requiredEnvVars.filter(varName => !process.env[varName]);
+        
+        if (missingVars.length > 0) {
+            return { 
+                success: false, 
+                error: "Missing environment variables", 
+                details: `Missing: ${missingVars.join(', ')}` 
+            };
+        }
+
         const name = formData.get("cfName");
         const email = formData.get("cfEmail");
         const phone = formData.get("cfPhone");
@@ -69,6 +81,24 @@ export async function submitContactForm(formData) {
         return { success: true };
     } catch (error) {
         console.error("Contact form error:", error);
-        return { success: false, error: "Failed to send message" };
+        
+        // Return specific error messages for debugging
+        let errorMessage = "Failed to send message";
+        
+        if (error.code === "EAUTH") {
+            errorMessage = "Authentication failed - Check SMTP credentials";
+        } else if (error.code === "ECONNECTION") {
+            errorMessage = "Connection failed - Check SMTP host and port";
+        } else if (error.code === "ESOCKET") {
+            errorMessage = "Socket error - Network connectivity issue";
+        } else if (error.code === "ENOTFOUND") {
+            errorMessage = "Host not found - Invalid SMTP host";
+        } else if (error.message && error.message.includes("environment variables")) {
+            errorMessage = "Missing environment variables - Check SMTP configuration";
+        } else if (error.message) {
+            errorMessage = error.message;
+        }
+        
+        return { success: false, error: errorMessage, details: error.toString() };
     }
 }
