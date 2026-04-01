@@ -2,6 +2,7 @@
 import getServiceData from "@/libs/service/getServiceData";
 import Image from "next/image";
 import DOMPurify from "isomorphic-dompurify";
+// import {usePathname} from "next/navigation";
 
 const Aboutus = ({ slug, type }) => {
     // const pathname = usePathname();
@@ -13,11 +14,17 @@ const Aboutus = ({ slug, type }) => {
     const overviewData = serviceData.overview;
 
 
+    // const overviewData =
+    //     !serviceData || Object.keys(serviceData).length === 0
+    //         ? getServiceData("data-extraction-services")?.overview
+    //         : serviceData?.overview;
+
     return (
         <section className="tj-about-section-2 section-gap section-gap-x mt-12">
             <div className="container">
-                <div className="row row-gap-5">
-                    <div className="col-lg-6">
+                <div className="row">
+
+                    <div className="col-xl-6 col-lg-6 order-lg-1 order-2">
                         <div className="about-content-area">
                             <div className={`sec-heading ${type === 2 ? "" : "style-3"}`}>
                                 <span className="sub-title wow fadeInUp" data-wow-delay=".3s">
@@ -41,30 +48,27 @@ const Aboutus = ({ slug, type }) => {
                         </div>
                     </div>
 
-                    <div className="col-lg-6 slidebar-stickiy-container">
-                        <div className="slidebar-stickiy">
-                            <div
-                                className="about-img-area style-3 wow fadeInLeft"
-                                data-wow-delay=".3s"
-                            >
-                                <div className="about-img overflow-hidden">
-                                    <Image
-                                        data-speed=".8"
-                                        // src={overviewData.image}
-                                        src={overviewData?.image?.trim() || "/images/service/overview/data-solutions-overview.webp"}
-                                        alt=""
-                                        style={{paddingTop:"100px"}}
-                                        width={791}
-                                        height={839}
-                                    />
-                                </div>
-
+                    <div className="col-xl-6 col-lg-6 order-lg-2 order-1">
+                        <div
+                            className="about-img-area style-3 wow fadeInLeft"
+                            data-wow-delay=".3s"
+                        >
+                            <div className="about-img overflow-hidden">
+                                <Image
+                                    data-speed=".8"
+                                    // src={overviewData.image}
+                                    src={overviewData?.image?.trim() || "/images/service/overview/data-solutions-overview.webp"}
+                                    alt=""
+                                    width={791}
+                                    height={839}
+                                    style={{paddingTop:"100px"}}
+                                />
                             </div>
+
                         </div>
                     </div>
                 </div>
             </div>
-
             <div className="bg-shape-1">
                 <img src="/images/shape/pattern-2.svg" alt="" />
             </div>
