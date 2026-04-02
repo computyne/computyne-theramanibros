@@ -12,6 +12,9 @@ const TeamComparison = ({ type = 1 }) => {
 		return null;
 	}
 
+	// Get dynamic image from service data, fallback to a default image
+	const comparisonImage = serviceData?.image || "/images/about/about-us-overview.webp";
+
 	const isThreeWayComparison = serviceData.comparisonData[0]?.upwork !== undefined;
 	const isInHouseComparison = serviceData.comparisonData[0]?.inhouse !== undefined;
 
@@ -43,11 +46,10 @@ const TeamComparison = ({ type = 1 }) => {
 						</div>
 					</div>
 				</div>
-				<div className="row">
-					<div className="col-12">
+				<div className="row comparison-content-wrapper">
+					<div className="col-lg-7 col-md-12 mb-4 mb-lg-0">
 						<div
-							className="testimonial-wrapper h7-testimonial-wrapper wow fadeInRightBig"
-							style={{marginInline: 'auto'}}
+							className="testimonial-wrapper h7-testimonial-wrapper wow fadeInLeftBig"
 							data-wow-delay=".3s"
 						>
 							<div className="comparison-table-wrapper">
@@ -149,6 +151,13 @@ const TeamComparison = ({ type = 1 }) => {
 										</tbody>
 									</table>
 								</div>
+							</div>
+						</div>
+					</div>
+					<div className="col-lg-5 col-md-12">
+						<div className="comparison-image-wrapper wow fadeInRightBig d-flex align-items-center justify-content-center h-100" data-wow-delay=".5s">
+							<div className="comparison-image p-3 d-flex align-items-center justify-content-center">
+								<img src={comparisonImage} alt="Service Comparison" className="img-fluid" />
 							</div>
 							<div className="bg-shape-3">
 								<img src="/images/shape/h7-testimonial-shape-blur-mod.svg" alt=""/>

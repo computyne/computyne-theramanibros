@@ -2,6 +2,7 @@
     "hire-web-researchers": {
         "span": "MANAGED TEAM VS FREELANCE RESEARCHER",
         "h2": "Why Businesses Choose Computyne Over Upwork or Fiverr",
+        "image": "/images/hireresource/illustration.png",
         "comparisonData": [
             {
                 "factor": "Accountability",
@@ -43,6 +44,7 @@
     "hire-data-entry-specialists": {
         "span": "MANAGED TEAM VS FREELANCE / UPWORK",
         "h2": "Why Managed Specialists Beat Upwork for Data Entry",
+        "image": "/images/hireresource/illustration.png",
         "comparisonData": [
             {
                 "factor": "Accuracy SLA",
@@ -84,6 +86,7 @@
     "hire-data-science-specialist": {
         "span": "IN-HOUSE VS OUTSOURCED DATA SCIENCE",
         "h2": "Build In-House vs Hire Data Scientists Externally",
+        "image": "/images/service/overview/hire-data-science-specialist-overview.webp",
         "comparisonData": [
             {
                 "factor": "Cost (Year 1)",
@@ -120,6 +123,7 @@
     "hire-virtual-assistants": {
         "span": "COMPETITOR COMPARISON",
         "h2": "Computyne vs BELAY, Fancy Hands and Upwork Virtual Assistants",
+        "image": "/images/service/overview/hire-virtual-assistants-overview.webp",
         "comparisonData": [
             {
                 "factor": "Pricing",
