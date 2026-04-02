@@ -86,7 +86,7 @@
     "hire-data-science-specialist": {
         "span": "IN-HOUSE VS OUTSOURCED DATA SCIENCE",
         "h2": "Build In-House vs Hire Data Scientists Externally",
-        "image": "/images/service/overview/hire-data-science-specialist-overview.webp",
+        "image": "/images/hireresource/illustration.png",
         "comparisonData": [
             {
                 "factor": "Cost (Year 1)",
@@ -123,7 +123,7 @@
     "hire-virtual-assistants": {
         "span": "COMPETITOR COMPARISON",
         "h2": "Computyne vs BELAY, Fancy Hands and Upwork Virtual Assistants",
-        "image": "/images/service/overview/hire-virtual-assistants-overview.webp",
+        "image": "/images/hireresource/illustration.png",
         "comparisonData": [
             {
                 "factor": "Pricing",
