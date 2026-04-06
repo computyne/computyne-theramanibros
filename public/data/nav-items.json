@@ -309,6 +309,12 @@
 				"name": "Hire Prompt Engineers",
 				"path": "/hire-prompt-engineers",
 				"badge": null
+			},
+			{
+				"id": 6,
+				"name": "Hire Graphic Designers and Image Editors",
+				"path": "/hire-graphic-designers",
+				"badge": null
 			}
 
 		]
