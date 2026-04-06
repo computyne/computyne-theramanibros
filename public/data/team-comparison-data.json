@@ -210,5 +210,47 @@
                 "computyne": "SLA-driven managed delivery"
             }
         ]
+    },
+    "hire-graphic-designers": {
+        "span": "MANAGED DESIGNER VS FREELANCE",
+        "h2": "Why Managed Designers Outperform Freelancers for Growing Brands",
+        "image": "/images/hireresource/illustration.png",
+        "comparisonData": [
+            {
+                "factor": "Brand Familiarity",
+                "freelance": "Starts from scratch every job",
+                "computyne": "Builds knowledge over time"
+            },
+            {
+                "factor": "Turnaround Reliability",
+                "freelance": "Variable, no SLA",
+                "computyne": "Defined TAT: 24 to 72 hours"
+            },
+            {
+                "factor": "Quality Consistency",
+                "freelance": "Depends on the freelancer",
+                "computyne": "Supervised, brand-checked output"
+            },
+            {
+                "factor": "Data and Asset Security",
+                "freelance": "Unknown protocols",
+                "computyne": "ISO 27001, NDAs, access controls"
+            },
+            {
+                "factor": "Revision Rounds",
+                "freelance": "Often limited, charged extra",
+                "computyne": "Included, structured process"
+            },
+            {
+                "factor": "Scalability",
+                "freelance": "Find another freelancer",
+                "computyne": "Add capacity within 48 hours"
+            },
+            {
+                "factor": "Free Trial",
+                "freelance": "Rarely offered",
+                "computyne": "5-hour free pilot included"
+            }
+        ]
     }
 }

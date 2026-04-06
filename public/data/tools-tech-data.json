@@ -156,5 +156,35 @@
                 "tags": ["Zapier", "Make", "LangChain", "REST APIs", "custom Python scripts"]
             }
         ]
+    },
+    "hire-graphic-designers": {
+        "span": "TOOLS OUR DESIGNERS AND EDITORS WORK WITH",
+        "h2": "Your Designer Hits the Ground Running in Your Creative Stack",
+        "toolCategories": [
+            {
+                "category": "Adobe Creative Suite",
+                "tags": ["Photoshop", "Illustrator", "InDesign", "After Effects", "Lightroom", "Premiere Pro"]
+            },
+            {
+                "category": "Design and Prototyping",
+                "tags": ["Figma", "Sketch", "Adobe XD", "Canva Pro"]
+            },
+            {
+                "category": "3D and Visualisation",
+                "tags": ["Blender", "Cinema 4D (basic)", "Dimension"]
+            },
+            {
+                "category": "Collaboration",
+                "tags": ["Slack", "Notion", "Asana", "Monday.com", "Trello", "Google Drive"]
+            },
+            {
+                "category": "eCommerce Platforms",
+                "tags": ["Amazon Seller Central", "Shopify", "WooCommerce", "eBay (image specs)"]
+            },
+            {
+                "category": "Print and Prepress",
+                "tags": ["Adobe InDesign", "Acrobat", "CorelDRAW (basic)"]
+            }
+        ]
     }
 }

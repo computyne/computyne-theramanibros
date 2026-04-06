@@ -2079,5 +2079,51 @@
 				"desc": "Yes. Computyne offers both prompt engineering and AI training data services including data annotation, labelling, and RLHF data preparation. These services are often used together when building or fine-tuning custom AI models."
 			}
 		]
+	},
+	"hire-graphic-designers": {
+		"cta": "Request a Free Consultation",
+		"faq": [
+			{
+				"title": "What types of graphic design can be outsourced to India?",
+				"desc": "Logo and brand identity design, social media creatives, digital ad production, eCommerce product image editing, brochure and print design, infographic design, packaging design, photo retouching, and presentation design can all be handled by a dedicated designer from Computyne.",
+				"initActive": true
+			},
+			{
+				"title": "How much does it cost to hire a graphic designer from India?",
+				"desc": "Pricing starts from $5 to $8/hr for flexible or hourly engagements, $320 to $480/month for part-time designers, and $600 to $900/month for full-time dedicated designers. A free 5-hour pilot is available before any commitment."
+			},
+			{
+				"title": "Can a dedicated designer work within our existing brand guidelines?",
+				"desc": "Yes. Every designer starts with a brand onboarding session covering your guidelines, preferred tools, file naming conventions, and output formats. Over time, they build familiarity with your business that makes briefing faster and outputs more consistent."
+			},
+			{
+				"title": "What is the turnaround time for design requests?",
+				"desc": "Standard turnaround for social media and digital assets is 24 to 48 hours. Print design and more complex multi-page projects typically take 48 to 72 hours. Rush turnaround options are available."
+			},
+			{
+				"title": "Do you offer high-volume eCommerce image editing?",
+				"desc": "Yes. Our image editors handle bulk product photo editing including background removal, colour correction, ghost mannequin, and marketplace specification compliance for Amazon, Shopify, eBay, and other platforms. Volume pricing is available."
+			},
+			{
+				"title": "How are design files and brand assets kept secure?",
+				"desc": "All creative work is managed under ISO 27001 information security protocols, signed NDAs, and role-based access controls. Client files are stored in agreed shared systems and are fully owned by you."
+			},
+			{
+				"title": "Can I start with a trial before committing?",
+				"desc": "Yes. Computyne offers a 5-hour free pilot. You receive real design work, keep the files, and only commit if you are happy with the quality and process."
+			},
+			{
+				"title": "What design tools do your designers work with?",
+				"desc": "Our designers are proficient in Adobe Photoshop, Illustrator, InDesign, After Effects, Lightroom, Figma, Canva Pro, and Sketch. They adapt to your existing creative stack and preferred file formats."
+			},
+			{
+				"title": "Can one designer handle both graphic design and photo editing?",
+				"desc": "In most cases, yes. Many of our designers are proficient across both disciplines. For very high-volume photo editing pipelines, we can match you with a specialist image editor. We discuss your specific workload during the initial consultation to make the right match."
+			},
+			{
+				"title": "How quickly can a designer be onboarded?",
+				"desc": "A dedicated designer can be fully onboarded and producing work within 3 to 5 business days following a project brief, brand guidelines review, tool access setup, and a short briefing session."
+			}
+		]
 	}
 }

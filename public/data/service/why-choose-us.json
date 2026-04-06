@@ -1890,5 +1890,30 @@
                 "desc": "All prompt development and AI data handling follows ISO 27001 protocols, signed NDAs, and GDPR-compliant practices for UK and EU clients."
             }
         ]
+    },
+    "hire-graphic-designers": {
+        "h2": "Benefits of Hiring a Dedicated Designer or Image Editor",
+        "data": [
+            {
+                "id": 1,
+                "title": "Brand Consistency at Scale",
+                "desc": "A dedicated designer learns your brand once and applies it consistently across every asset, every time. No re-briefing, no off-brand outputs."
+            },
+            {
+                "id": 2,
+                "title": "High-Volume Output at Low Cost",
+                "desc": "From $5/hr, you get a full-time design resource at a fraction of in-house hiring cost. Scale output without scaling your payroll."
+            },
+            {
+                "id": 3,
+                "title": "24 to 72 Hour Turnaround",
+                "desc": "Defined turnaround times for standard assets. Most social media and product image requests turn around within one working day."
+            },
+            {
+                "id": 4,
+                "title": "ISO 27001 Asset Security",
+                "desc": "All creative assets, brand files, and client data are handled under ISO 27001 protocols with signed NDAs and controlled access."
+            }
+        ]
     }
 }

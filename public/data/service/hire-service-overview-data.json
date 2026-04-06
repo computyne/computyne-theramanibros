@@ -237,5 +237,50 @@
                 "<p><a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Hire Your Dedicated Assistant Now</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a></p>"
             ]
         }
+    },
+    "hire-graphic-designers": {
+        "banner": {
+            "image": "/images/service/banner/hire-virtual-assistants-banner.webp",
+            "alt": "Hire dedicated graphic designers and image editors banner featuring professional design services for branding, eCommerce and digital visuals",
+            "h1": "Hire Dedicated Graphic Designers and Image Editors |",
+            "h1_primary": "Branding, eCommerce and Digital Visuals",
+            "tagline": "Dedicated designers and image editors from India. Brand-consistent, production-ready visuals delivered on time. From logos and social creatives to eCommerce photo editing and print.",
+            "cta": "",
+            "primaryCta": "Hire a Designer. Get a Free Consultation",
+            "secondaryCta": "Start a Free 5-Hour Pilot"
+        },
+        "counter": [
+            {
+                "label": "Pricing From",
+                "value": "",
+                "symbol": "$5/hr"
+            },
+            {
+                "label": "ISO Certification",
+                "value": "",
+                "symbol": "ISO 27001 Certified"
+            },
+            {
+                "label": "Turnaround",
+                "value": "",
+                "symbol": "24 to 72 Hours"
+            },
+            {
+                "label": "Onboarding",
+                "value": "",
+                "symbol": "3 to 5 Business Days"
+            }
+        ],
+        "overview": {
+            "image": "/images/service/overview/hire-virtual-assistants-overview.webp",
+            "alt": "Operational overview of managed graphic design services showing the transition from design bottlenecks to consistent, production-ready visuals",
+            "h2": "Stop Losing Time to Design Bottlenecks and Inconsistent Visuals",
+            "content": [
+                "Design is not just a creative function. For eCommerce brands, it determines whether a product listing converts. For SaaS companies, it defines how seriously a prospect takes the brand. For any business running campaigns, it controls whether ads get clicked or scrolled past. And yet most growing teams either do not have enough design capacity, are stuck waiting on a single in-house designer, or are managing inconsistent output from rotating freelancers.",
+                "Computyne provides dedicated graphic designers and image editors from India who work exclusively on your projects, follow your brand guidelines, and deliver consistent, production-ready output. Whether you need daily social media creatives, a high-volume eCommerce image editing operation, or a designer who handles everything from brochures to banner ads, we match you with the right person and manage the delivery.",
+                "<h2>Why Hire a Dedicated Graphic Designer or Image Editor?</h2> Freelancers are fine for one-off projects. Agency retainers work at scale, but only if you can afford them. Neither solves the everyday problem: a reliable person who knows your brand, works in your tools, turns around assets quickly, and does not require briefing from scratch every single time. A dedicated designer from Computyne gives you that. They start by learning your brand: your colour palette, typography, tone, preferred formats, and the specific output standards your business requires. Over time, the work gets faster, the briefing gets shorter, and the output quality goes up because they are genuinely embedded in your workflow, not just doing a one-off job.",
+                "<p><a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Hire a Designer. Get a Free Consultation</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a></p>"
+            ]
+        }
     }
 }

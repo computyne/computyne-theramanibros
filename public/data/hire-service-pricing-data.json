@@ -218,5 +218,49 @@
                 "isActive": false
             }
         ]
+    },
+    "hire-graphic-designers": {
+        "span": "Engagement Models and Pricing",
+        "h2": "Flexible Design Engagement Models. Hourly, Part-Time and Full-Time",
+        "closingLine": "All models include: dedicated designer, brand onboarding, SLA-driven delivery, revision rounds, ISO 27001 security, and weekly output review. Free pilot: 5 design hours before you commit. Keep the work either way.",
+        "cta": "Get a Custom Design Plan",
+        "engagementModels": [
+            {
+                "model": "Hourly or Flexi",
+                "bestFor": "One-off projects, overflow support",
+                "commitment": "Min 10 hrs/month",
+                "indicativeRate": "From $5 to $8/hr",
+                "rate": "5-8",
+                "ratePolicy": "/hour",
+                "isActive": false
+            },
+            {
+                "model": "Part-Time (20 hrs/wk)",
+                "bestFor": "Regular design output without full-time cost",
+                "commitment": "Min 1 month",
+                "indicativeRate": "From $320 to $480/mo",
+                "rate": "320-480",
+                "ratePolicy": "/month",
+                "isActive": true
+            },
+            {
+                "model": "Full-Time Dedicated",
+                "bestFor": "Primary designer, full brand ownership",
+                "commitment": "Min 1 month",
+                "indicativeRate": "From $600 to $900/mo",
+                "rate": "600-900",
+                "ratePolicy": "/month",
+                "isActive": false
+            },
+            {
+                "model": "Team Package",
+                "bestFor": "Multiple designers or specialist combo (design + editing)",
+                "commitment": "SLA-based",
+                "indicativeRate": "Volume pricing",
+                "rate": "0",
+                "ratePolicy": "",
+                "isActive": false
+            }
+        ]
     }
 }

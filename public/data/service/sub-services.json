@@ -5544,5 +5544,172 @@
                 ]
             }
         ]
+    },
+    "hire-graphic-designers": {
+        "h2": "Graphic Design and Image Editing Services Across Every Format",
+        "desc": "Comprehensive graphic design and image editing services from brand identity and social media creatives to eCommerce product editing and print design.",
+        "services": [
+            {
+                "id": 1,
+                "title": "Brand Identity and Logo Design",
+                "desc": "Design and evolve your brand identity with a dedicated designer who understands how visual consistency drives recognition and trust.",
+                "url": "/hire-graphic-designers",
+                "data": [
+                    {
+                        "value": "Logo design, refinement, and adaptation for different use cases"
+                    },
+                    {
+                        "value": "Brand guideline creation: colours, typography, spacing, and usage rules"
+                    },
+                    {
+                        "value": "Business card, letterhead, and corporate stationery design"
+                    },
+                    {
+                        "value": "Brand audit and visual consistency review across existing assets"
+                    },
+                    {
+                        "value": "Icon sets, illustrated elements, and brand illustration systems"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Social Media and Digital Ad Creatives",
+                "desc": "Consistent, on-brand social content and ad creatives produced at the volume and pace your marketing team actually needs.",
+                "url": "/hire-graphic-designers",
+                "data": [
+                    {
+                        "value": "Static and animated social media post design for LinkedIn, Instagram, Facebook, Twitter/X"
+                    },
+                    {
+                        "value": "Paid ad creative production for Google Display, Meta Ads, LinkedIn Ads"
+                    },
+                    {
+                        "value": "Story and reel cover templates and branded content frameworks"
+                    },
+                    {
+                        "value": "Monthly content calendar design support"
+                    },
+                    {
+                        "value": "Compatible with: Canva Pro, Adobe Photoshop, After Effects, Figma"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "eCommerce Image Editing and Product Photography Editing",
+                "desc": "High-volume, marketplace-ready product image editing for eCommerce brands and retailers. Fast turnaround, consistent output, platform-compliant specifications.",
+                "url": "/hire-graphic-designers",
+                "data": [
+                    {
+                        "value": "Background removal and replacement for product images"
+                    },
+                    {
+                        "value": "Colour correction, exposure adjustment, and image retouching"
+                    },
+                    {
+                        "value": "Amazon, Shopify, eBay, and marketplace image specification compliance"
+                    },
+                    {
+                        "value": "Ghost mannequin and flat lay editing for apparel and fashion"
+                    },
+                    {
+                        "value": "Bulk image processing with consistent output standards at volume"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Marketing Collateral and Print Design",
+                "desc": "Design across the full range of print and digital marketing assets. Brochures, flyers, presentations, reports, and everything in between.",
+                "url": "/hire-graphic-designers",
+                "data": [
+                    {
+                        "value": "Brochure and flyer design for print and digital distribution"
+                    },
+                    {
+                        "value": "Presentation and pitch deck design in PowerPoint and Google Slides"
+                    },
+                    {
+                        "value": "Annual reports, white papers, and long-form document design"
+                    },
+                    {
+                        "value": "Event banners, exhibition stands, and outdoor advertising design"
+                    },
+                    {
+                        "value": "Print-ready file preparation with correct bleeds, colour profiles, and specs"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Infographic and Data Visualisation Design",
+                "desc": "Turn data, research, and complex information into clear, visually structured infographics and data visualisation assets.",
+                "url": "/hire-graphic-designers",
+                "data": [
+                    {
+                        "value": "Statistical and research infographic design"
+                    },
+                    {
+                        "value": "Process and timeline infographics for content marketing and internal comms"
+                    },
+                    {
+                        "value": "Data chart and dashboard visual design for reports and presentations"
+                    },
+                    {
+                        "value": "Interactive infographic design for digital and web use"
+                    },
+                    {
+                        "value": "Compatible with: Adobe Illustrator, Figma, Canva, Visme"
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Photo Editing and Image Retouching",
+                "desc": "Professional photo editing and retouching for commercial, editorial, real estate, and product photography use cases.",
+                "url": "/hire-graphic-designers",
+                "data": [
+                    {
+                        "value": "Portrait and headshot retouching for professional and corporate use"
+                    },
+                    {
+                        "value": "Real estate photo editing: sky replacement, virtual staging, HDR blending"
+                    },
+                    {
+                        "value": "Wedding and event photography post-processing at volume"
+                    },
+                    {
+                        "value": "Commercial photography colour grading and composite editing"
+                    },
+                    {
+                        "value": "Clipping path, masking, and image manipulation for technical applications"
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "title": "Packaging and Product Graphics",
+                "desc": "Design packaging and product visuals that work on shelf, in digital retail, and across your marketing channels.",
+                "url": "/hire-graphic-designers",
+                "data": [
+                    {
+                        "value": "Packaging design for retail, e-tail, and direct-to-consumer products"
+                    },
+                    {
+                        "value": "Label design for food, beverage, health, beauty, and industrial products"
+                    },
+                    {
+                        "value": "3D product mockup and visualisation creation"
+                    },
+                    {
+                        "value": "Compliance with labelling regulations for UK, EU, and US markets"
+                    },
+                    {
+                        "value": "Print-ready artwork with correct technical specifications"
+                    }
+                ]
+            }
+        ]
     }
 }
