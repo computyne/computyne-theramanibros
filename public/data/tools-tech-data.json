@@ -186,5 +186,95 @@
                 "tags": ["Adobe InDesign", "Acrobat", "CorelDRAW (basic)"]
             }
         ]
+    },
+    "hire-resources": {
+        "span": "INDUSTRIES WE SUPPORT",
+        "h2": "Industries We Support",
+        "platformCategories": [
+            {
+                "category": "Technology and SaaS",
+                "specialistTypes": ["Web Researchers", "VAs", "Data Scientists"],
+                "useCases": ["CRM management", "market research", "product analytics", "churn modelling"],
+                "tools": [
+                    "Salesforce", "HubSpot", "Pipedrive", "Zoho CRM",
+                    "Google Analytics", "Mixpanel", "Amplitude", "Segment",
+                    "Tableau", "Power BI", "Looker", "Metabase",
+                    "Python", "R", "TensorFlow", "PyTorch", "Jupyter",
+                    "LinkedIn Sales Navigator", "Apollo.io", "ZoomInfo", "Crunchbase"
+                ]
+            },
+            {
+                "category": "Finance and Professional Services",
+                "specialistTypes": ["Data Entry Specialists", "Data Scientists", "VAs"],
+                "useCases": ["Invoice processing", "financial reporting", "data accuracy", "compliance records"],
+                "tools": [
+                    "QuickBooks", "Xero", "SAP", "NetSuite", "FreshBooks",
+                    "Excel", "Google Sheets", "Power BI", "Tableau",
+                    "Python", "R", "Pandas", "NumPy", "Scikit-learn",
+                    "Salesforce", "HubSpot", "Zoho", "Microsoft Dynamics"
+                ]
+            },
+            {
+                "category": "Healthcare and Life Sciences",
+                "specialistTypes": ["Data Entry Specialists", "VAs"],
+                "useCases": ["Patient record digitisation", "EHR data entry", "claims processing", "scheduling"],
+                "tools": [
+                    "Epic", "Cerner", "eClinicalWorks", "Athenahealth",
+                    "Excel", "Google Sheets", "Salesforce Health Cloud",
+                    "HIPAA compliance tools", "Medical billing software", "Practice management systems"
+                ]
+            },
+            {
+                "category": "eCommerce and Retail",
+                "specialistTypes": ["Data Entry Specialists", "VAs", "Web Researchers"],
+                "useCases": ["Product listings", "order processing", "competitor monitoring", "customer support"],
+                "tools": [
+                    "Shopify", "WooCommerce", "Amazon", "Magento", "BigCommerce",
+                    "Zendesk", "Freshdesk", "Gorgias", "Help Scout",
+                    "Semrush", "Ahrefs", "SimilarWeb", "Google Analytics"
+                ]
+            },
+            {
+                "category": "Logistics and Supply Chain",
+                "specialistTypes": ["Data Entry Specialists", "Web Researchers"],
+                "useCases": ["Bill of lading entry", "carrier research", "shipment tracking", "documentation"],
+                "tools": [
+                    "SAP TM", "Oracle TMS", "FreightWise", "FourKites",
+                    "Excel", "Google Sheets", "Power BI", "Tableau",
+                    "Carrier management systems", "Shipping APIs", "Custom tracking solutions"
+                ]
+            },
+            {
+                "category": "Real Estate and Property",
+                "specialistTypes": ["VAs", "Web Researchers", "Data Entry Specialists"],
+                "useCases": ["Property listings", "MLS data entry", "market research", "appraisal data"],
+                "tools": [
+                    "MLS", "Zillow", "Realtor.com", "CoStar",
+                    "Salesforce", "HubSpot", "Zoho", "Follow Up Boss",
+                    "Property management software", "CRM systems", "Market research tools"
+                ]
+            },
+            {
+                "category": "Startups and Scale-ups",
+                "specialistTypes": ["VAs", "Web Researchers"],
+                "useCases": ["Founder support", "lead research", "CRM setup", "administrative operations"],
+                "tools": [
+                    "Salesforce", "HubSpot", "Pipedrive", "Notion",
+                    "Slack", "Asana", "Trello", "Monday.com",
+                    "LinkedIn Sales Navigator", "Apollo.io", "Calendly", "Zoom"
+                ]
+            },
+            {
+                "category": "Consulting and Advisory",
+                "specialistTypes": ["Web Researchers", "Data Scientists", "VAs"],
+                "useCases": ["Market analysis", "client reporting", "data enrichment", "presentation support"],
+                "tools": [
+                    "Tableau", "Power BI", "Looker", "Metabase",
+                    "Python", "R", "TensorFlow", "PyTorch", "Scikit-learn",
+                    "LinkedIn Sales Navigator", "Apollo.io", "ZoomInfo", "Crunchbase",
+                    "PowerPoint", "Google Slides", "Canva", "Pitch"
+                ]
+            }
+        ]
     }
 }

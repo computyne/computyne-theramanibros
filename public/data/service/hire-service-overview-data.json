@@ -1,4 +1,49 @@
 {
+    "hire-resources": {
+        "banner": {
+            "image": "/images/service/banner/hire-web-researchers-banner.webp",
+            "alt": "Hire web research experts banner showcasing professional data mining, market research, and lead generation services for actionable business intelligence",
+            "h1": "Hire Dedicated Remote Specialists |",
+            "h1_primary": " Data, Research, VA and Data Science",
+            "tagline": "Trained and managed remote professionals from India. Dedicated to your workflows, your tools, and your output standards. From $4/hr.",
+            "cta": "",
+            "primaryCta": "Find Your Dedicated Specialist",
+            "secondaryCta": "Start a Free Pilot Project"
+        },
+        "counter": [
+            {
+                "label": "Accuracy Guarantee",
+                "value": "99",
+                "symbol": "% +"
+            },
+            {
+                "label": "ISO Certification",
+                "value": "",
+                "symbol": "ISO 27001 Certified"
+            },
+            {
+                "label": "Pricing From",
+                "value": "",
+                "symbol": "$4/hr"
+            },
+            {
+                "label": "Onboarding",
+                "value": "",
+                "symbol": "3 to 5 Business Days"
+            }
+        ],
+        "overview": {
+            "image": "/images/service/overview/hire-data-and-virtual-assistants-overview.webp",
+            "alt": "Comparison of in-house hiring versus Computyne's managed remote data and virtual assistant solutions for scalable business operations",
+            "h2": "Stop Letting Operational Tasks Slow Your Core Team Down",
+            "content": [
+                "Most growing businesses hit the same wall. The work that needs doing is clear. The internal capacity to do it without pulling skilled people off higher-value tasks is not. Recruitment takes time, hiring costs add up, and the operational backlog keeps growing.",
+                "Computyne provides trained, dedicated remote specialists from India who slot into your existing workflows, use your tools, follow your documentation, and deliver to a defined quality standard every time. You get the output without the headcount.",
+                "All specialists are part of a managed delivery model: supervised, quality-checked, SLA-governed, and backed by ISO 27001 data security. It is not a freelance marketplace. It is a managed service with accountability built in.",
+                "<h2>Why Managed Remote Specialists Beat Hiring In-House or Using Freelancers</h2>In-house hiring solves the headcount problem but not the cost or speed problem. A typical hire takes 30 to 90 days, comes with salary, benefits, and onboarding overhead, and leaves you exposed if that person leaves. Freelance platforms are faster but unreliable: no management layer, no quality SLA, unknown data security, and a new search every time you need to scale. Computyne sits between those two options. Specialists are trained, supervised, and working to document SOPs from day one. You get fixed pricing from $4/hr, a 3 to 5 day deployment, and ISO 27001 security on every engagement. The work gets done. The quality is guaranteed. And you are not locked into a 12-month contract to get it."
+            ]
+        }
+    },
     "hire-web-researchers": {
         "banner": {
             "image": "/images/service/banner/hire-web-researchers-banner.webp",

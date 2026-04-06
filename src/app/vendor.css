@@ -122,6 +122,64 @@
     line-height: 1.8;
 }
 
+/* Specialist and Use Case Tags */
+.specialist-tag {
+    display: inline-block;
+    background: transparent;
+    border: 1px solid #28a745;
+    color: #28a745;
+    padding: 4px 10px;
+    margin: 2px 4px 2px 0;
+    border-radius: 15px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+
+.specialist-tag:hover {
+    background: #28a745;
+    color: white;
+    transform: scale(1.05);
+    box-shadow: 0 2px 4px rgba(40, 167, 69, 0.3);
+}
+
+.use-case-tag {
+    display: inline-block;
+    background: transparent;
+    border: 1px solid #6f42c1;
+    color: #6f42c1;
+    padding: 4px 10px;
+    margin: 2px 4px 2px 0;
+    border-radius: 15px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+
+.use-case-tag:hover {
+    background: #6f42c1;
+    color: white;
+    transform: scale(1.05);
+    box-shadow: 0 2px 4px rgba(111, 66, 193, 0.3);
+}
+
+.section-subtitle {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: #0a1f44;
+    margin-bottom: 8px;
+    display: block;
+}
+
+.specialist-types,
+.use-cases {
+    line-height: 1.8;
+}
+
 /* Team Comparison Section Styles */
 .tj-team-comparison-section {
     position: relative;

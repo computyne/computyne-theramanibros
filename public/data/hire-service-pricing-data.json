@@ -262,5 +262,52 @@
                 "isActive": false
             }
         ]
+    },
+    "hire-resources": {
+        "span": "Engagement Models and Pricing",
+        "h2": "Transparent Pricing Across All Specialist Types",
+        "closingLine": "All engagements include: dedicated specialist, ISO 27001 security, signed NDA, SLA-driven delivery, weekly reporting, and quality assurance. No hidden fees. No long lock-in contracts.",
+        "cta": "Get a Custom Quote for Your Team",
+        "engagementModels": [
+            {
+                "model": "Part-Time (20 hrs/wk)",
+                "bestFor": "Ongoing support without full-time cost",
+                "commitment": "Min 1 month",
+                "indicativeRate": "From $320 to $2,500/per month",
+                "rate": "320-2500",
+                "ratePolicy": "/per month",
+                "isActive": false,
+                "Web Researchers": "From $8 to $12/hr",
+                "Data Entry Specialists": "From $4 to $8/hr",
+                "Virtual Assistants": "From $320 to $480/mo",
+                "Data Science Specialists": "From $1,200 to $2,500/mo (fractional)"
+            },
+            {
+                "model": "Full-Time (40 hrs/wk)",
+                "bestFor": "Dedicated specialist, replaces in-house hire",
+                "commitment": "Min 1 month",
+                "indicativeRate": "From $600 to $6,000/per month",
+                "rate": "600-6000",
+                "ratePolicy": "/per month",
+                "isActive": true,
+                "Web Researchers": "From $12 to $18/hr",
+                "Data Entry Specialists": "From $600 to $900/mo",
+                "Virtual Assistants": "From $600 to $900/mo",
+                "Data Science Specialists": "From $3,500 to $6,000/mo"
+            },
+            {
+                "model": "Hourly or Project-Based",
+                "bestFor": "One-off tasks, trial periods, overflow support",
+                "commitment": "Min 10 hrs/per month",
+                "indicativeRate": "From $4 to $50/per hour",
+                "rate": "4-50",
+                "ratePolicy": "/per hour",
+                "isActive": false,
+                "Web Researchers": "Custom quote",
+                "Data Entry Specialists": "Per-record pricing available",
+                "Virtual Assistants": "From $5 to $8/hr",
+                "Data Science Specialists": "From $25 to $50/hr"
+            }
+        ]
     }
 }

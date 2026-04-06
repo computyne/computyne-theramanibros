@@ -1313,30 +1313,6 @@
             ]
         }
     },
-    "hire-resources": {
-        "banner": {
-            "image": "/images/service/banner/hire-data-and-virtual-assistants-banner.webp",
-            "alt": "Hire dedicated data experts and virtual assistants banner featuring managed support for back-office operations and data-driven business growth",
-            "h1": "Hire Data & Virtual Assistants",
-            "tagline": "Dedicated experts delivering managed data support and virtual assistance for growing businesses.",
-            "cta": "Hire Your Dedicated Assistant"
-        },
-        "counter": [],
-        "overview": {
-            "image": "/images/service/overview/hire-data-and-virtual-assistants-overview.webp",
-            "alt": "Comparison of in-house hiring versus Computyne's managed remote data and virtual assistant solutions for scalable business operations",
-            "h2": "Scalable Operations: Data & Virtual Assistant Services",
-            "content": [
-                "As your organization grows, operational complexity shouldn't hinder your momentum. At <span class=\"highlight\">Computyne</span>, we provide trained remote professionals who handle your high-volume data, research, and administrative tasks through a managed delivery model.",
-                "We bridge the gap between <strong>rising workloads</strong> and <strong>internal capacity</strong>, ensuring your core team stays focused on strategy while we handle the execution.",
-                "<h5>The Challenge of Scaling</h5> In many growing companies, skilled employees eventually become \"bottlenecked\" by essential but non-strategic work, such as:",
-                "<ul style=\"padding-left:2rem;\"><li><strong>Data Management:</strong> Validating records and managing expanding databases.</li><li><strong>Research & Analysis:</strong> Executing time-consuming market or lead research.</li><li><strong>Administrative Overhead:</strong> Inbox management, report coordination, and scheduling.</li></ul>",
-                "<h5>Why Choose Managed Remote Support?</h5> Hiring full-time staff for every operational function is often slow and expensive. Our model offers a flexible alternative:",
-                "<div class=\"computyne-section\" style=\"font-family:'Inter',-apple-system,sans-serif;color:#334155;max-width:900px;margin:auto;line-height:1.7;\"><div class=\"table-container\" style=\"margin:30px 0;border-radius:8px;overflow:hidden;box-shadow:0 4px 6px -1px rgba(0,0,0,0.1);\"><table style=\"width:100%;border-collapse:collapse;background:white;\"><thead><tr><th style=\"background-color:#0a1f44;color:white;padding:18px;text-align:left;font-weight:600;font-size:0.9rem;text-transform:uppercase;\">Focus Area</th><th style=\"background-color:#0a1f44;color:white;padding:18px;text-align:left;font-weight:600;font-size:0.9rem;text-transform:uppercase;\">In-House Hiring</th><th style=\"background-color:#0a1f44;color:white;padding:18px;text-align:left;font-weight:600;font-size:0.9rem;text-transform:uppercase;\">Computyne Solutions</th></tr></thead><tbody><tr><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;font-weight:bold;color:#0a1f44;width:25%;\">Recruitment</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;\">Long cycles (30-90 days)</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Rapid deployment</td></tr><tr><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;font-weight:bold;color:#0a1f44;width:25%;\">Cost Structure</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;\">High fixed headcount costs</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Scalable, flexible pricing</td></tr><tr><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;font-weight:bold;color:#0a1f44;width:25%;\">Onboarding</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;\">Internal training required</td><td style=\"padding:16px;border-bottom:1px solid #e5e7eb;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Pre-trained; follows your docs</td></tr><tr><td style=\"padding:16px;border-bottom:none;font-weight:bold;color:#0a1f44;width:25%;\">Consistency</td><td style=\"padding:16px;border-bottom:none;\">Risk of single-point failure</td><td style=\"padding:16px;border-bottom:none;background-color:rgba(244,121,32,0.03);font-weight:500;color:#0a1f44;border-left:2px solid rgba(244,121,32,0.1);\">Managed delivery &amp; accountability</td></tr></tbody></table></div><div class=\"cta-highlight\" style=\"border-left:4px solid #f47920;background:#edf2f7;padding:20px;margin-top:25px;font-style:italic;\"><strong>The Outcome:</strong> Consistent delivery, fewer operational bottlenecks, and more time for your internal teams to focus on decisions that move the business forward.</div></div>",
-                "<p><a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Build Your Scalable Remote Data Team Now</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a></p>"
-            ]
-        }
-    },
     "image-annotation-services": {
         "banner": {
             "image": "/images/service/banner/image-annotation-services-banner.webp",

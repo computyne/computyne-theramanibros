@@ -252,5 +252,61 @@
                 "computyne": "5-hour free pilot included"
             }
         ]
+    },
+    "hire-resources": {
+        "span": "COMPUTYNE VS ALTERNATIVES",
+        "h2": "Computyne vs Upwork, BELAY, and In-House Hiring",
+        "image": "/images/hireresource/illustration.png",
+        "comparisonData": [
+            {
+                "factor": "Pricing",
+                "upwork": "$15 to $75/hr",
+                "belay": "$20 to $50/hr",
+                "inhouse": "$50,000 to $130,000/yr",
+                "computyne": "From $4/hr"
+            },
+            {
+                "factor": "Managed delivery",
+                "upwork": "No",
+                "belay": "Partial",
+                "inhouse": "You manage",
+                "computyne": "Yes, fully managed"
+            },
+            {
+                "factor": "Data security",
+                "upwork": "Unknown",
+                "belay": "Moderate",
+                "inhouse": "Full control",
+                "computyne": "ISO 27001 certified"
+            },
+            {
+                "factor": "Specialist types",
+                "upwork": "Generalists",
+                "belay": "Admin focused",
+                "inhouse": "One role per hire",
+                "computyne": "4 specialist types"
+            },
+            {
+                "factor": "Scalability",
+                "upwork": "Re-hire each time",
+                "belay": "Limited",
+                "inhouse": "Slow, costly",
+                "computyne": "Add within 48 hours"
+            },
+            {
+                "factor": "Free trial",
+                "upwork": "No",
+                "belay": "No",
+                "inhouse": "No",
+                "computyne": "Yes, free pilot"
+            },
+            {
+                "factor": "Time to start",
+                "upwork": "1 to 3 days (risky)",
+                "belay": "1 to 2 weeks",
+                "inhouse": "30 to 90 days",
+                "computyne": "3 to 5 business days"
+            }
+        ]
     }
 }

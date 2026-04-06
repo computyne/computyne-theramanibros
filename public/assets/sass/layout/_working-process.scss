@@ -35,6 +35,14 @@ START: Working process CSS
   gap: 15px;
   justify-content: space-between;
 
+  @media #{$xl} {
+    gap: 10px;
+  }
+
+  @media #{$lg} {
+    gap: 8px;
+  }
+
   @media #{$md, $sm, $xs} {
     flex-wrap: wrap;
   }
@@ -153,7 +161,7 @@ START: Working process CSS
   border-radius: 10px;
   z-index: 4;
 
-  /* ===== Z-INDEX FOR 4 CARDS ===== */
+  /* ===== Z-INDEX FOR 5 CARDS ===== */
   &:nth-child(2) {
     z-index: 3;
   }
@@ -164,6 +172,10 @@ START: Working process CSS
 
   &:nth-child(4) {
     z-index: 1;
+  }
+
+  &:nth-child(5) {
+    z-index: 0;
   }
 
   /* ===== ARROW ===== */
@@ -248,12 +260,16 @@ START: Working process CSS
   }
 
   /* ===== RESPONSIVE WIDTH ===== */
+  @media #{$xxl} {
+    max-width: 380px;
+  }
+
   @media #{$xl} {
-    max-width: 300px;
+    max-width: 320px;
   }
   @media #{$lg} {
-    max-width: 260px;
-    padding: 35px 20px;
+    max-width: 280px;
+    padding: 30px 18px;
   }
   @media #{$md, $sm, $xs} {
     max-width: 100%;

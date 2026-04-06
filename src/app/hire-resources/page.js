@@ -2,10 +2,7 @@ import Footer from "@/components/layout/footer/Footer";
 import Header from "@/components/layout/header/Header";
 import BackToTop from "@/components/shared/others/BackToTop";
 import ClientWrapper from "@/components/shared/wrappers/ClientWrapper";
-import Aboutus from "@/components/sections/subservice/Aboutus";
 import Subservices from "@/components/sections/subservice/Subservices";
-import Banner from "@/components/sections/subservice/Banner";
-import Counter from "@/components/sections/subservice/Counter";
 import Whychooseus from "@/components/sections/subservice/Whychooseus";
 import Faq from "@/components/sections/subservice/Faq";
 import Industries from "@/components/sections/subservice/Industries";
@@ -14,6 +11,13 @@ import JsonLd from "@/components/seo/JsonLd";
 import {virtualAssistantServicesSchema} from "@/libs/schema/services/virtualAssistantServicesSchema";
 import SubFooter from "@/components/layout/footer/subFooter";
 import Testimonials from "@/components/layout/common/Testimonials";
+import HeroBanner from "@/components/sections/subservice/HeroBanner";
+import CounterHireResource from "../../components/sections/subservice/CounterHireResource";
+import AboutusHireResource from "@/components/sections/subservice/AboutusHireResource";
+import PricingPlan from "@/components/pricing-plan/PricingPlan";
+import ToolsAndTech from "@/components/sections/toolsandtech/ToolsAndTech";
+import TeamComparison from "@/components/sections/TeamComparison";
+import Process from "@/components/sections/hire-resources/Process";
 
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
@@ -54,12 +58,16 @@ export default function hireVirtualAssistants() {
                     <div id="smooth-content">
                         <main>
                             <div className="top-space-15"></div>
-                            <Banner/>
-                            <Counter/>
-                            <Aboutus slug={"hire-resources"} type={1}/>
+                            <HeroBanner/>
+                            <CounterHireResource/>
+                            <AboutusHireResource slug={"hire-resources"} type={1}/>
                             <Subservices/>
                             <Casestudy/>
                             <Whychooseus/>
+                            <PricingPlan/>
+                            <Process/>
+                            <ToolsAndTech/>
+                            <TeamComparison/>
                             <Faq type={1}/>
                             <Testimonials/>
                             <Industries/>

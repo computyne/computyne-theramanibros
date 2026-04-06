@@ -6,8 +6,6 @@ import {usePathname} from "next/navigation";
 import getWhyChooseUsData from "@/libs/service/getWhyChooseUsData";
 
 const Whychooseus = () => {
-    // const showbleWhychooseus = getWhychooseus()?.slice(0, 3);
-    // const whychooseusData = [...showbleWhychooseus, ...showbleWhychooseus];
 
     const pathname = usePathname();
     const slug = pathname.split("/").filter(Boolean).pop();

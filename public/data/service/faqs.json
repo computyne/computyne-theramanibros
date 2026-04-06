@@ -1230,37 +1230,45 @@
 		"cta": "Request a Free Consultation",
 		"faq": [
 			{
-				"title": "What does it mean to hire data and virtual assistants?",
-				"desc": "Hiring data and virtual assistants involves engaging trained remote professionals who manage data and administrative tasks through a structured delivery model that ensures consistency, quality, and accountability.",
+				"title": "What types of specialists can I hire through Computyne?",
+				"desc": "You can hire dedicated web researchers, data entry specialists, virtual assistants, and data science specialists. Each type is trained for a specific set of tasks, tools, and workflows. You can hire one specialist or build a team across multiple functions.",
 				"initActive": true
 			},
 			{
-				"title": "Which tasks can I assign to data and virtual assistants?",
-				"desc": "You can assign tasks such as web research, data entry, database management, CRM updates, scheduling, reporting, analytics, and data science support."
+				"title": "How much does it cost to hire a remote specialist from India?",
+				"desc": "Pricing starts from $4/hr for data entry specialists, $5/hr for virtual assistants, $8/hr for web researchers, and $25/hr for data science specialists. Full-time and part-time monthly rates are also available. All rates include management, QA, and ISO 27001 security with no hidden fees."
 			},
 			{
-				"title": "Are the assistants dedicated to my business?",
-				"desc": "Yes. Data and virtual assistants work exclusively on your assigned tasks during agreed working hours, ensuring continuity and clear ownership."
+				"title": "How quickly can I get started?",
+				"desc": "Most engagements go from initial brief to a live specialist within 3 to 5 business days. That includes specialist matching, an introduction call, SOP documentation, system access setup, and a structured onboarding session."
 			},
 			{
-				"title": "How do you ensure data accuracy and originality?",
-				"desc": "All work follows documented workflows with predefined standards, multi-level quality checks, and validation processes to ensure accuracy and originality."
+				"title": "Are specialists dedicated to my business?",
+				"desc": "Yes. Your specialist works exclusively on your assigned tasks during agreed working hours. They are not shared across multiple clients. You get continuity, clear ownership, and someone who genuinely knows your workflows."
 			},
 			{
-				"title": "How is data security handled?",
-				"desc": "Data security is maintained through strict NDAs, role-based access controls, secure systems, and controlled handling procedures at every stage."
+				"title": "What is the difference between Computyne and a freelance platform like Upwork?",
+				"desc": "Upwork connects you to individual freelancers with no management layer, no quality SLA, and no security guarantee. Computyne provides a managed service: your specialist works within a supervised structure with defined SOPs, quality checkpoints, an account manager, and ISO 27001 data security."
 			},
 			{
-				"title": "Can I scale resources as needs change?",
-				"desc": "Yes. Resource allocation can be scaled up or down based on workload fluctuations, seasonal demand, or business growth without long-term commitments."
+				"title": "How is data security managed?",
+				"desc": "All operations follow ISO 27001 information security protocols. Every engagement includes signed NDAs, role-based access controls, encrypted data handling, and GDPR-compliant practices for UK and EU clients."
 			},
 			{
-				"title": "Which industries do you support?",
-				"desc": "We support a wide range of industries including technology, finance, healthcare, logistics, ecommerce, real estate, and professional services."
+				"title": "Can I scale up or down as my needs change?",
+				"desc": "Yes. You can add more specialists, move from part-time to full-time, bring in a different specialist type, or reduce hours when your workload is lower. Most adjustments can be made within 48 hours with no contract penalties."
 			},
 			{
-				"title": "How quickly can onboarding begin?",
-				"desc": "Once requirements and workflows are finalized, onboarding can begin quickly with minimal operational disruption."
+				"title": "Is there a minimum commitment?",
+				"desc": "Part-time engagements require a minimum of 20 hours per week. Full-time dedicated specialists require a minimum 1-month commitment. Project-based engagements are scoped individually with no long-term obligation."
+			},
+			{
+				"title": "Do you offer a free trial?",
+				"desc": "Yes. Computyne offers a free pilot on every new engagement: 2,000 records for data entry, a 5-hour pilot for virtual assistants, or a scoped discovery session for data science. You see real output before any financial commitment."
+			},
+			{
+				"title": "Which industries do you work with?",
+				"desc": "We work with technology companies, SaaS businesses, eCommerce brands, real estate agencies, healthcare organisations, logistics providers, finance and accounting firms, consulting practices, and startups. If your business generates data and administrative work, we can help."
 			}
 		]
 	},

@@ -3401,86 +3401,110 @@
         ]
     },
     "hire-resources": {
-        "h2": "Scalable Data and Virtual Assistant Services",
-        "desc": "We deliver managed data and virtual assistant services that help businesses scale execution while maintaining control, quality, and flexibility. Support is structured, process-driven, and designed to integrate seamlessly with existing teams.",
+        "h2": "Choose Your Dedicated Specialist",
+        "desc": "Each specialist type has a dedicated page with full service details, pricing models, platform integrations, FAQ copy, and comparison tables. The content below is the hub-level summary for each card on this page.",
         "services": [
             {
                 "id": 1,
-                "title": "Hire Web Research Experts",
-                "desc": "Targeted web research services that support lead generation, market analysis, and competitive intelligence with validated and structured data.",
-                "url": "hire-web-researchers",
+                "title": "Hire Web Researchers",
+                "desc": "Dedicated web researchers who collect, verify, and structure online data for market research, competitor intelligence, B2B lead generation, and contact list building. All research is multi-source validated and delivered in CRM-ready formats.",
+                "url": "/hire-web-researchers",
                 "data": [
                     {
-                        "value": "Prospect and lead research with verified accuracy"
+                        "value": "Market research, trend analysis, and opportunity identification"
                     },
                     {
-                        "value": "Data enrichment and structured list building"
+                        "value": "B2B lead research and verified contact list building"
                     },
                     {
-                        "value": "Competitor monitoring and market research support"
+                        "value": "Competitor monitoring, SWOT analysis, and pricing intelligence"
                     },
                     {
-                        "value": "Ongoing database and list maintenance"
+                        "value": "Ongoing database maintenance and data refresh cycles"
+                    },
+                    {
+                        "value": "Tools: LinkedIn Sales Navigator, Apollo.io, ZoomInfo, Semrush, Crunchbase"
+                    },
+                    {
+                        "value": "From $8 to $12/hr | Part-time or full-time"
                     }
                 ]
             },
             {
                 "id": 2,
                 "title": "Hire Data Entry Specialists",
-                "desc": "High-accuracy data entry services built for organizations managing large volumes of structured and unstructured information.",
-                "url": "hire-data-entry-specialists",
+                "desc": "Dedicated data entry specialists with 99.9% accuracy SLA across CRM, invoice, eCommerce, medical, and document digitisation workflows. Pre-trained on major platforms. GDPR-aware. 24 to 48hr standard turnaround.",
+                "url": "/hire-data-entry-specialists",
                 "data": [
                     {
-                        "value": "Data input, cleansing, and normalization across systems"
+                        "value": "CRM data entry and database management (Salesforce, HubSpot, Zoho)"
                     },
                     {
-                        "value": "Database updates and ongoing data maintenance"
+                        "value": "Invoice and accounts payable data entry (QuickBooks, Xero, SAP, NetSuite)"
                     },
                     {
-                        "value": "Secure data migration between platforms with validation controls"
+                        "value": "eCommerce product data entry (Shopify, WooCommerce, Amazon, Magento)"
                     },
                     {
-                        "value": "Reduced internal workload through outsourced data entry services"
+                        "value": "Medical and healthcare data entry (Epic, Cerner, eClinicalWorks)"
+                    },
+                    {
+                        "value": "Document digitisation and forms processing"
+                    },
+                    {
+                        "value": "From $4 to $8/hr | Per-hour, per-record, or full-time"
                     }
                 ]
             },
             {
                 "id": 3,
-                "title": "Dedicate Virtual Assistant",
-                "desc": "Dedicated virtual assistant services that keep daily business operations organized, responsive, and moving forward.",
-                "url": "hire-virtual-assistants",
+                "title": "Hire Virtual Assistants",
+                "desc": "Dedicated VAs from India covering admin, eCommerce, research, social media, bookkeeping, customer support, and real estate operations. Managed, supervised, and backed by ISO 27001 security. From $5/hr.",
+                "url": "/hire-virtual-assistants",
                 "data": [
                     {
-                        "value": "Inbox and email management"
+                        "value": "Administrative and executive support: email, calendar, travel, documentation"
                     },
                     {
-                        "value": "Calendar scheduling and coordination"
+                        "value": "eCommerce VA: listings, order processing, returns, marketplace management"
                     },
                     {
-                        "value": "CRM updates and administrative tracking"
+                        "value": "Social media VA: scheduling, engagement, monitoring, analytics reporting"
                     },
                     {
-                        "value": "Reporting, documentation, and internal coordination"
+                        "value": "Real estate VA: listings, MLS data entry, CRM, appointment scheduling"
+                    },
+                    {
+                        "value": "Bookkeeping VA: invoicing, reconciliation, payroll prep (Xero, QuickBooks)"
+                    },
+                    {
+                        "value": "From $5 to $8/hr | Hourly, part-time ($320/mo), or full-time ($600/mo)"
                     }
                 ]
             },
             {
                 "id": 4,
                 "title": "Hire Data Science Specialists",
-                "desc": "Business-focused data science services that turn complex datasets into clear, actionable insight for leadership and product teams.",
-                "url": "hire-data-science-specialist",
+                "desc": "Dedicated data science specialists for ML model development, predictive analytics, BI dashboards, NLP, and computer vision. Available hourly, fractional (10 to 20 hrs/week), or full-time. Python, R, TensorFlow, PyTorch, Tableau, Power BI.",
+                "url": "/hire-data-science-specialist",
                 "data": [
                     {
-                        "value": "Interactive dashboards and performance reporting"
+                        "value": "Predictive modelling: churn prediction, demand forecasting, fraud detection"
                     },
                     {
-                        "value": "Forecasting and predictive analytics models"
+                        "value": "BI and visualisation: Tableau, Power BI, Looker, Metabase dashboards"
                     },
                     {
-                        "value": "Business analytics for decision support"
+                        "value": "NLP: sentiment analysis, document classification, LLM fine-tuning"
                     },
                     {
-                        "value": "Optimization insights aligned with operational goals"
+                        "value": "Computer vision: object detection, quality inspection, medical imaging"
+                    },
+                    {
+                        "value": "Data engineering: pipelines, warehouses, ETL (BigQuery, Snowflake, Airflow)"
+                    },
+                    {
+                        "value": "From $25 to $50/hr | Fractional from $1,200/mo | Full-time from $3,500/mo"
                     }
                 ]
             }
