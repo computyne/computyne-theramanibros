@@ -3,7 +3,7 @@ import React from "react";
 import ButtonPrimary from "./ButtonPrimary";
 import getServiceData from "@/libs/service/getServiceData";
 import {usePathname} from "next/navigation";
-import getHireServiceData from "@/libs/service/getHireServiceData";
+import getHireServiceData from "../../../libs/service/getHireServiceData";
 
 const HeroBanner = () => {
     const pathname = usePathname();

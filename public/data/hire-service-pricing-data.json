@@ -175,5 +175,48 @@
                 "isActive": false
             }
         ]
+    },
+    "hire-prompt-engineers": {
+        "h2": "Flexible Prompt Engineering Engagement Models",
+        "desc": "All engagements include: dedicated engineer, ISO 27001 security, signed NDA, SLA-driven delivery, documentation handover, and weekly reporting.",
+        "cta": "Get a Custom Prompt Engineering Plan",
+        "engagementModels": [
+            {
+                "model": "Hourly or On-Demand",
+                "bestFor": "Specific prompt audits, one-off optimisation tasks",
+                "commitment": "No minimum",
+                "indicativeRate": "From $12 to $20/hr",
+                "rate": "12-20",
+                "ratePolicy": "/per hour",
+                "isActive": false
+            },
+            {
+                "model": "Part-Time (20 hrs/wk)",
+                "bestFor": "Ongoing prompt development alongside existing team",
+                "commitment": "Min 1 month",
+                "indicativeRate": "From $800 to $1,400/mo",
+                "rate": "800-1400",
+                "ratePolicy": "/per month",
+                "isActive": true
+            },
+            {
+                "model": "Full-Time Dedicated",
+                "bestFor": "End-to-end prompt infrastructure, AI product teams",
+                "commitment": "Min 1 month",
+                "indicativeRate": "From $1,600 to $2,500/mo",
+                "rate": "1600-2500",
+                "ratePolicy": "/per month",
+                "isActive": false
+            },
+            {
+                "model": "Project-Based",
+                "bestFor": "Prompt library build, LLM integration scoped deliverable",
+                "commitment": "Per deliverable",
+                "indicativeRate": "Custom quote",
+                "rate": "0",
+                "ratePolicy": "",
+                "isActive": false
+            }
+        ]
     }
 }

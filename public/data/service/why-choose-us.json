@@ -1864,5 +1864,31 @@
                 "desc": "By outsourcing real estate back office support services, internal teams focus on sales, client relationships, and strategic portfolio growth."
             }
         ]
+    },
+    "hire-prompt-engineers": {
+        "h2": "Benefits of Hiring Dedicated Prompt Engineers",
+        "desc": "Professional prompt engineering services that transform your AI capabilities from experimental to production-ready with systematic, scalable solutions.",
+        "data": [
+            {
+                "id": 1,
+                "title": "Better AI Output Quality",
+                "desc": "Systematically engineered prompts reduce hallucination, improve consistency, and produce outputs that need less editing before they are usable."
+            },
+            {
+                "id": 2,
+                "title": "Reusable Prompt Infrastructure",
+                "desc": "A documented prompt library built by your engineer becomes a long-term asset: consistent, versionable, and accessible across your entire team."
+            },
+            {
+                "id": 3,
+                "title": "Faster AI Deployment",
+                "desc": "Stop iterating manually on broken prompts. A dedicated engineer compresses the time from AI idea to production-ready implementation."
+            },
+            {
+                "id": 4,
+                "title": "ISO 27001 Security",
+                "desc": "All prompt development and AI data handling follows ISO 27001 protocols, signed NDAs, and GDPR-compliant practices for UK and EU clients."
+            }
+        ]
     }
 }

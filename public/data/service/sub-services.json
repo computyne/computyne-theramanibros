@@ -5377,5 +5377,172 @@
                 ]
             }
         ]
+    },
+    "hire-prompt-engineers": {
+        "h2": "Prompt Engineering Services Across Every Major AI Platform",
+        "desc": "Comprehensive prompt engineering solutions designed to maximize AI output quality, consistency, and business value across all major language models and platforms.",
+        "services": [
+            {
+                "id": 1,
+                "title": "Custom Prompt Design and Creation",
+                "desc": "Purpose-built prompts designed for your specific use case, tone of voice, output format, and model behaviour requirements.",
+                "url": "#",
+                "data": [
+                    {
+                        "value": "Task-specific prompt design: content generation, classification, summarisation, extraction"
+                    },
+                    {
+                        "value": "System prompt architecture for chat and agent applications"
+                    },
+                    {
+                        "value": "Role, context, and constraint engineering for consistent output control"
+                    },
+                    {
+                        "value": "Prompt templates for repeatable use across teams and workflows"
+                    },
+                    {
+                        "value": "Compatible with: GPT-4o, Claude 3, Gemini, Llama, Mistral, Cohere"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Prompt Optimisation and Tuning",
+                "desc": "Systematic improvement of existing prompts to reduce hallucination, improve accuracy, and increase output consistency across models.",
+                "url": "#",
+                "data": [
+                    {
+                        "value": "Prompt testing and iteration against defined quality benchmarks"
+                    },
+                    {
+                        "value": "Reduction of token usage without sacrificing output quality"
+                    },
+                    {
+                        "value": "Chain-of-thought and few-shot prompting optimisation"
+                    },
+                    {
+                        "value": "Output format tuning: JSON, markdown, structured lists, plain text"
+                    },
+                    {
+                        "value": "A/B testing of prompt variants to identify the highest-performing version"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Prompt Library Development",
+                "desc": "Build a structured, documented, and reusable prompt library that standardises AI output quality across your entire organisation.",
+                "url": "#",
+                "data": [
+                    {
+                        "value": "Categorised prompt repositories by use case, department, and output type"
+                    },
+                    {
+                        "value": "Version control and documentation for each prompt and its variants"
+                    },
+                    {
+                        "value": "Tagging and retrieval structure for fast access across teams"
+                    },
+                    {
+                        "value": "Governance frameworks for prompt approval, testing, and deployment"
+                    },
+                    {
+                        "value": "Integration with internal knowledge bases and AI tooling"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "LLM Fine-Tuning Support",
+                "desc": "Hands-on support for fine-tuning and adapting language models to your domain, data, and output requirements.",
+                "url": "#",
+                "data": [
+                    {
+                        "value": "Training data preparation, cleaning, and formatting"
+                    },
+                    {
+                        "value": "Fine-tuning coordination for GPT, Llama, Mistral, and open-source models"
+                    },
+                    {
+                        "value": "RLHF (Reinforcement Learning from Human Feedback) data preparation"
+                    },
+                    {
+                        "value": "Evaluation frameworks and benchmarking for fine-tuned model performance"
+                    },
+                    {
+                        "value": "Documentation and handover for internal team use"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "AI Workflow Integration",
+                "desc": "Embed prompt-driven AI into your existing business workflows, tools, and applications without disruption to current processes.",
+                "url": "#",
+                "data": [
+                    {
+                        "value": "Prompt integration into CRMs, content platforms, and internal tools"
+                    },
+                    {
+                        "value": "Multi-turn conversation and agent workflow design"
+                    },
+                    {
+                        "value": "API prompt chaining and orchestration (LangChain, LlamaIndex)"
+                    },
+                    {
+                        "value": "Automation of repetitive tasks using AI prompt pipelines"
+                    },
+                    {
+                        "value": "Compatible with: Zapier, Make, HubSpot, Notion, Slack, custom APIs"
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Bias Detection and Output Quality Assurance",
+                "desc": "Systematic review of prompt outputs to identify bias, inconsistency, and quality issues before they reach end users or production systems.",
+                "url": "#",
+                "data": [
+                    {
+                        "value": "Bias detection across demographic, tonal, and factual dimensions"
+                    },
+                    {
+                        "value": "Output consistency testing across varied input conditions"
+                    },
+                    {
+                        "value": "Safety and compliance checks for regulated industry use cases"
+                    },
+                    {
+                        "value": "Structured QA reporting with recommended prompt adjustments"
+                    },
+                    {
+                        "value": "Ongoing monitoring frameworks for production prompt deployments"
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "title": "Multi-Turn Conversation and Agent Design",
+                "desc": "Design and engineer multi-turn conversational flows and autonomous agent architectures that work reliably at scale.",
+                "url": "#",
+                "data": [
+                    {
+                        "value": "Conversational flow mapping and prompt sequencing"
+                    },
+                    {
+                        "value": "Memory, context window, and state management strategies"
+                    },
+                    {
+                        "value": "Agentic task decomposition and tool-use prompt design"
+                    },
+                    {
+                        "value": "Error handling and fallback prompt logic"
+                    },
+                    {
+                        "value": "Compatible with: OpenAI Assistants API, LangChain Agents, AutoGPT, CrewAI"
+                    }
+                ]
+            }
+        ]
     }
 }

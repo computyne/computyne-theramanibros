@@ -2033,5 +2033,51 @@
 				"desc": "Teams integrate seamlessly with CRMs, property management platforms, ERPs, and listing portals."
 			}
 		]
+	},
+	"hire-prompt-engineers": {
+		"cta": "Get a Custom Prompt Engineering Plan",
+		"faq": [
+			{
+				"title": "What does a prompt engineer do?",
+				"desc": "A prompt engineer designs, tests, and optimises the instructions given to AI language models to produce accurate, consistent, and useful outputs. This includes writing system prompts, building prompt libraries, fine-tuning model behaviour, and integrating AI into business workflows.",
+				"initActive": true
+			},
+			{
+				"title": "How much does it cost to hire a prompt engineer from India?",
+				"desc": "Engagements start from $12 to $20/hr for hourly or on-demand work, $800 to $1,400/month for part-time, and $1,600 to $2,500/month for a full-time dedicated engineer. Project-based pricing is available for scoped deliverables like prompt library builds."
+			},
+			{
+				"title": "Which AI models do your prompt engineers work with?",
+				"desc": "Our engineers are experienced across GPT-4o, Claude 3, Gemini 1.5, Llama 3, Mistral, and Cohere, as well as orchestration frameworks like LangChain, LlamaIndex, and AutoGen. They adapt to your existing AI stack."
+			},
+			{
+				"title": "What is the difference between prompt engineering and fine-tuning?",
+				"desc": "Prompt engineering shapes how you communicate with a pre-trained model through instructions, context, and examples. Fine-tuning actually modifies the model's weights using your own training data. Both approaches improve output quality, but for most business use cases, strong prompt engineering delivers results faster and at lower cost than fine-tuning."
+			},
+			{
+				"title": "Can a prompt engineer integrate AI into our existing tools and workflows?",
+				"desc": "Yes. Our engineers handle prompt integration into CRMs, content platforms, Slack, Notion, HubSpot, and custom applications via API. They design multi-turn conversation flows, agentic pipelines, and automation workflows that fit inside your existing stack."
+			},
+			{
+				"title": "How quickly can a prompt engineer start?",
+				"desc": "Most engagements can begin within 24 to 48 hours of a project brief, signed NDA, and system access setup."
+			},
+			{
+				"title": "Is AI data and prompt development secure?",
+				"desc": "Yes. All engagements follow ISO 27001 information security protocols with signed NDAs, role-based access controls, and GDPR-compliant data handling for UK and EU clients."
+			},
+			{
+				"title": "Can I hire a prompt engineer for a one-off project?",
+				"desc": "Yes. Project-based engagements are available for defined deliverables such as prompt library builds, LLM integration scopes, or prompt audit and optimisation assignments. Contact us to scope your project."
+			},
+			{
+				"title": "What industries do your prompt engineers support?",
+				"desc": "Our engineers work across SaaS, eCommerce, healthcare, finance, legal, logistics, and media. Prompt requirements and model behaviour considerations vary significantly by industry, and our team has experience adapting prompt strategies for regulated and domain-specific environments."
+			},
+			{
+				"title": "Do prompt engineers also handle AI training data?",
+				"desc": "Yes. Computyne offers both prompt engineering and AI training data services including data annotation, labelling, and RLHF data preparation. These services are often used together when building or fine-tuning custom AI models."
+			}
+		]
 	}
 }

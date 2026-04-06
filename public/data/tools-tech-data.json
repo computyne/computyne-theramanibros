@@ -126,5 +126,35 @@
                 "tools": ["Zendesk", "Freshdesk", "Intercom", "Gorgias", "Help Scout"]
             }
         ]
+    },
+    "hire-prompt-engineers": {
+        "span": "AI MODELS AND TOOLS",
+        "h2": "AI Platforms and Tools Our Prompt Engineers Work With",
+        "toolCategories": [
+            {
+                "category": "Large Language Models",
+                "tags": ["GPT-4o", "GPT-4 Turbo", "Claude 3 (Haiku, Sonnet, Opus)", "Gemini 1.5", "Llama 3", "Mistral", "Cohere"]
+            },
+            {
+                "category": "Orchestration Frameworks",
+                "tags": ["LangChain", "LlamaIndex", "AutoGen", "CrewAI", "Haystack"]
+            },
+            {
+                "category": "AI Platforms and APIs",
+                "tags": ["OpenAI API", "Anthropic API", "Google AI Studio", "Azure OpenAI", "AWS Bedrock"]
+            },
+            {
+                "category": "Fine-Tuning Tools",
+                "tags": ["OpenAI Fine-Tuning API", "Hugging Face Transformers", "Axolotl", "Unsloth"]
+            },
+            {
+                "category": "Evaluation and Testing",
+                "tags": ["PromptFoo", "LangSmith", "Weights and Biases", "custom benchmark scripts"]
+            },
+            {
+                "category": "Integration and Automation",
+                "tags": ["Zapier", "Make", "LangChain", "REST APIs", "custom Python scripts"]
+            }
+        ]
     }
 }

@@ -303,6 +303,12 @@
 				"name": "Hire Data Science Specialists",
 				"path": "/hire-data-science-specialist",
 				"badge": null
+			},
+			{
+				"id": 5,
+				"name": "Hire Prompt Engineers",
+				"path": "/hire-prompt-engineers",
+				"badge": null
 			}
 
 		]

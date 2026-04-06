@@ -168,5 +168,47 @@
                 "computyne": "5-hour free pilot"
             }
         ]
+    },
+    "hire-prompt-engineers": {
+        "span": "MANAGED PROMPT ENGINEERS VS FREELANCE",
+        "h2": "Why Managed Prompt Engineers Beat Freelancers for Business AI",
+        "image": "/images/hireresource/illustration.png",
+        "comparisonData": [
+            {
+                "factor": "Output Documentation",
+                "freelance": "Rarely documented",
+                "computyne": "Full prompt library with version control"
+            },
+            {
+                "factor": "Quality Consistency",
+                "freelance": "Varies per freelancer",
+                "computyne": "Tested, benchmarked, SLA-governed"
+            },
+            {
+                "factor": "Model Breadth",
+                "freelance": "Often specialist in one model",
+                "computyne": "Cross-model: GPT, Claude, Gemini, Llama"
+            },
+            {
+                "factor": "Data Security",
+                "freelance": "Unknown protocols",
+                "computyne": "ISO 27001, NDAs, access controls"
+            },
+            {
+                "factor": "Scalability",
+                "freelance": "Find another freelancer",
+                "computyne": "Add capacity within 48 hours"
+            },
+            {
+                "factor": "Continuity",
+                "freelance": "Drops off between tasks",
+                "computyne": "Ongoing library maintenance and updates"
+            },
+            {
+                "factor": "Accountability",
+                "freelance": "None guaranteed",
+                "computyne": "SLA-driven managed delivery"
+            }
+        ]
     }
 }
