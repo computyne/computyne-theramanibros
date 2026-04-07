@@ -14,10 +14,11 @@ import Testimonials from "@/components/layout/common/Testimonials";
 import HeroBanner from "@/components/sections/subservice/HeroBanner";
 import CounterHireResource from "../../components/sections/subservice/CounterHireResource";
 import AboutusHireResource from "@/components/sections/subservice/AboutusHireResource";
-import PricingPlan from "@/components/pricing-plan/PricingPlan";
 import ToolsAndTech from "@/components/sections/toolsandtech/ToolsAndTech";
 import TeamComparison from "@/components/sections/TeamComparison";
-import Process from "@/components/sections/hire-resources/Process";
+import Benifits from "../../components/sections/hire-resources/Benifits";
+import PricingPlan from "../../components/pricing-plan/PricingPlan";
+import Process from "../../components/sections/hire-resources/Process";
 
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
@@ -63,6 +64,7 @@ export default function hireVirtualAssistants() {
                             <AboutusHireResource slug={"hire-resources"} type={1}/>
                             <Subservices/>
                             <Casestudy/>
+                            <Benifits/>
                             <Whychooseus/>
                             <PricingPlan/>
                             <Process/>
