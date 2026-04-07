@@ -43,15 +43,22 @@ const Benifits = () => {
 			<div className="container">
 				<div className="row">
 					<div className="col-12">
-						<div className="sec-heading style-3 text-center">
+						<div
+							className={`sec-heading text-center style-2`}
+
+							style={{maxWidth: "100%"}}
+						>
 							<span className="sub-title wow fadeInUp" data-wow-delay=".3s">
 								<i className="tji-box"></i> Benefits for You
 							</span>
-							<h2 className="sec-title title-anim">
+							<h2
+								className={`sec-title text-anim`}
+							>
 								What You Get When You Hire Through <span>Computyne</span>
 							</h2>
 						</div>
 					</div>
+
 				</div>
 				<div className="row row-gap-4 rightSwipeWrap">
 					{features?.length
