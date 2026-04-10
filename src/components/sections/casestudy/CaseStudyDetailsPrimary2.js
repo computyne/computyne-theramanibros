@@ -5,16 +5,13 @@ const CasestudyDetailsPrimary2 = ({option}) => {
     const {prevId, nextId, currentItem, isPrevItem, isNextItem} = option || {};
     const {img, title, id, content, clientWords, clientProfile} = currentItem || {};
 
-    return (<section className="tj-blog-section section-gap case-study-detail-page">
+    return (<section className="tj-blog-section section-gap">
         <div className="container">
-            <div className="row rg-50 align-items-start">
+            <div className="row rg-50">
                 <div className="col-lg-8">
-                    <div className="post-details-wrapper case-study-detail-page__content">
+                    <div className="post-details-wrapper">
                         {Array.isArray(content) && content.map((item, index) => (
-                            <div
-                                key={index}
-                                className="tj-sidebar-widget blog-item style-4 case-study-detail-page__section"
-                            >
+                            <div key={index} className="tj-sidebar-widget blog-item style-4">
                                 <div className="blog-content-mod">
                                     <div className="title-area">
 
@@ -40,10 +37,7 @@ const CasestudyDetailsPrimary2 = ({option}) => {
 
                             </div>))}
 
-                        <blockquote
-                            className="wow fadeInUp case-study-detail-page__quote"
-                            data-wow-delay=".3s"
-                        >
+                        <blockquote className="wow fadeInUp" data-wow-delay=".3s">
                             <div
                                 className="wow fadeInUp"
                                 data-wow-delay=".6s"
@@ -55,11 +49,11 @@ const CasestudyDetailsPrimary2 = ({option}) => {
 
                     </div>
                 </div>
-                <div className="col-lg-4 slidebar-stickiy-container case-study-detail-page__sidebar-col">
-                    <aside className="tj-main-sidebar slidebar-stickiy case-study-detail-page__sidebar">
+                <div className="col-lg-4 slidebar-stickiy-container">
+                    <aside className="tj-main-sidebar slidebar-stickiy">
                         {/* <!-- category --> */}
                         <div
-                            className="tj-sidebar-widget widget-categories wow fadeInUp case-study-detail-page__project-info"
+                            className="tj-sidebar-widget widget-categories wow fadeInUp"
                             data-wow-delay=".1s"
                         >
                             <h4 className="widget-title">Project Info</h4>
@@ -70,10 +64,10 @@ const CasestudyDetailsPrimary2 = ({option}) => {
                         </div>
                         {/* <!-- cta --> */}
                         <div
-                            className="tj-sidebar-widget widget-feature-item wow fadeInUp case-study-detail-page__cta"
+                            className="tj-sidebar-widget widget-feature-item wow fadeInUp "
                             data-wow-delay=".3s"
                         >
-                                <CtaSidebar />
+                            <CtaSidebar />
                         </div>
                     </aside>
                 </div>
