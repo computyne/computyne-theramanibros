@@ -705,40 +705,40 @@
         "industries": [
             {
                 "id": 1,
-                "title": "E-commerce & Retail",
-                "desc": "We organize, cleanse, and enrich product, customer, and inventory data to power accurate listings, demand insights, and better buying decisions.",
+                "title": "eCommerce and Retail",
+                "desc": "Primary Data Challenges: Product data inconsistency, duplicate SKUs, poor catalogue SEO. What We Manage: Product catalogues, pricing data, inventory records, customer databases.",
                 "img": "/images/industries-services/ecommerce.webp",
                 "alt": "eCommerce BPO services featuring automated product catalog management, SKU optimization, and multi-platform inventory synchronization for digital marketplaces",
                 "url": "/ecommerce"
             },
             {
                 "id": 2,
-                "title": "Healthcare & Life Sciences",
-                "desc": "We securely structure patient, clinical, and compliance data to enable reliable research workflows and quality care delivery.",
+                "title": "Healthcare and Life Sciences",
+                "desc": "Primary Data Challenges: Patient record accuracy, regulatory compliance, EHR data quality. What We Manage: Clinical records, provider databases, compliance datasets, research data.",
                 "img": "/images/industries-services/healthcare.webp",
                 "alt": "Healthcare BPO services illustrating HIPAA-compliant medical record indexing, clinical data management, and revenue cycle support for hospitals and private practices",
                 "url": "/healthcare"
             },
             {
                 "id": 3,
-                "title": "Real Estate",
-                "desc": "We standardize and manage property, ownership, and listing data to support faster transactions, valuations, and reporting.",
+                "title": "Real Estate and Property",
+                "desc": "Primary Data Challenges: Fragmented listing data, inconsistent property records, outdated ownership data. What We Manage: Property listings, ownership records, agent databases, valuation data.",
                 "img": "/images/industries-services/real-estate.webp",
                 "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
                 "url": "/real-estate"
             },
             {
                 "id": 4,
-                "title": "Banking, Financial Services & Insurance",
-                "desc": "We secure and manage financial, KYC, and customer records to improve compliance, underwriting accuracy, and operational efficiency.",
+                "title": "Banking, Financial Services and Insurance",
+                "desc": "Primary Data Challenges: KYC data accuracy, compliance record keeping, customer data fragmentation. What We Manage: Customer records, financial data, KYC datasets, compliance documentation.",
                 "img": "/images/industries-services/finance.webp",
                 "alt": "Finance and accounting BPO services showcasing audit-ready accounts payable, receivable management, and general ledger reconciliation for enterprise financial transparency",
                 "url": "/finance-and-accounting"
             },
             {
                 "id": 5,
-                "title": "Logistics & Supply Chain",
-                "desc": "We consolidate shipment, vendor, and tracking data to deliver end-to-end visibility and optimized supply chain performance.",
+                "title": "Logistics and Supply Chain",
+                "desc": "Primary Data Challenges: Carrier data accuracy, supplier database fragmentation, shipment record gaps. What We Manage: Vendor databases, carrier records, shipment data, customs documentation.",
                 "img": "/images/industries-services/logistics-&-supply-chain.webp",
                 "alt": "Logistics BPO services featuring automated freight bill processing, bill of lading data entry, and real-time shipment tracking support for 3PL and 4PL providers",
                 "url": "/logistics-and-transportation"
@@ -746,55 +746,39 @@
             {
                 "id": 6,
                 "title": "Manufacturing",
-                "desc": "We unify production, supplier, and inventory datasets to support forecasting accuracy and digital transformation initiatives.",
+                "desc": "Primary Data Challenges: Parts data inconsistency, supplier database fragmentation, production record gaps. What We Manage: Parts catalogues, supplier databases, production records, quality data.",
                 "img": "/images/industries-services/manufacturing.webp",
                 "alt": "Manufacturing BPO services showing automated inventory data management, supply chain documentation, and procurement support for industrial and lean manufacturing operations",
                 "url": "#"
             },
             {
                 "id": 7,
-                "title": "Staffing & Recruitment",
-                "desc": "We structure candidate and client databases to accelerate submissions, improve matching accuracy, and increase placement success.",
+                "title": "Staffing and Recruitment",
+                "desc": "Primary Data Challenges: Candidate database decay, duplicate applicant records, outdated contact data. What We Manage: Candidate profiles, client databases, placement records, contact data.",
                 "img": "/images/industries-services/recruitment.webp",
                 "alt": "Recruitment BPO services featuring automated resume parsing, candidate data indexing, and background verification support for global staffing agencies and HR departments",
                 "url": "#"
             },
             {
                 "id": 8,
-                "title": "Education & EdTech",
-                "desc": "We process academic records and learning platform data to enhance reporting, personalization, and educational outcomes.",
-                "img": "/images/industries-services/education.webp",
-                "alt": "Education BPO services showcasing student record digitization, academic data management, and automated enrollment processing for universities and e-learning platforms",
+                "title": "Telecom and Technology",
+                "desc": "Primary Data Challenges: Subscriber data quality, usage record accuracy, service data fragmentation. What We Manage: Subscriber records, usage data, billing data, product catalogues.",
+                "img": "/images/industries-services/telecommunications.webp",
+                "alt": "Telecommunications BPO services featuring automated billing mediation, network asset data management, and customer churn analytics for mobile and broadband service providers",
                 "url": "#"
             },
             {
                 "id": 9,
-                "title": "Travel & Hospitality",
-                "desc": "We manage reservation, availability, and pricing data to help brands improve occupancy, revenue management, and customer loyalty.",
+                "title": "Travel and Hospitality",
+                "desc": "Primary Data Challenges: Rate data inconsistency, review aggregation, property record management. What We Manage: Rate data, availability records, review datasets, property profiles.",
                 "img": "/images/industries-services/food-and-beverage.webp",
                 "alt": "Food and Beverage BPO services showing SKU-level inventory management, food safety compliance documentation, and multi-channel supply chain data processing",
                 "url": "#"
             },
             {
                 "id": 10,
-                "title": "Telecom & Technology",
-                "desc": "We standardize subscriber, usage, and service data to support scalable innovation, analytics, and service optimization.",
-                "img": "/images/industries-services/telecommunications.webp",
-                "alt": "Telecommunications BPO services featuring automated billing mediation, network asset data management, and customer churn analytics for mobile and broadband service providers",
-                "url": "#"
-            },
-            {
-                "id": 11,
-                "title": "Automotive",
-                "desc": "We integrate parts, dealer, service, and maintenance data to enable predictive operations and effective inventory control.",
-                "img": "/images/industries-services/automotive.webp",
-                "alt": "Automotive BPO services featuring electronic parts catalog management, supply chain data synchronization, and warranty claims processing for OEMs and dealerships",
-                "url": "#"
-            },
-            {
-                "id": 12,
-                "title": "Market Research & Consulting",
-                "desc": "We collect, validate, and enrich research datasets to support credible analysis and data-backed insight delivery.",
+                "title": "Market Research and Consulting",
+                "desc": "Primary Data Challenges: Source data quality, research dataset validation, cross-source reconciliation. What We Manage: Research datasets, survey data, market intelligence records.",
                 "img": "/images/industries-services/consulting.webp",
                 "alt": "Consulting BPO services featuring secondary market research, data visualization support, and professional back-office operations for management consulting firms",
                 "url": "#"

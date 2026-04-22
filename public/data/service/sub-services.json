@@ -145,145 +145,189 @@
     },
     "data-management-services": {
         "h2": "End-to-End Data Management Solutions for Complex Enterprises",
-        "desc": "We deliver customizable data management services to organize, maintain, and protect mission-critical business information securely.",
+        "desc": "Each service links to a dedicated sub-page with full detail, use cases, platform integrations, and FAQs.",
         "services": [
             {
                 "id": 1,
                 "title": "Data Enrichment Services",
-                "desc": "Enhance existing databases with missing insights, updated business attributes, and enriched information for stronger outcomes.",
+                "desc": "Enhance existing databases with verified information, missing attributes, and updated business intelligence. Enriched data improves segmentation, personalisation, and the quality of decisions made from your CRM or analytics platform.",
                 "url": "/data-enrichment-services",
                 "data": [
                     {
-                        "value": "Fill missing fields using verified sources"
+                        "value": "Fill missing fields using verified third-party and public sources"
                     },
                     {
-                        "value": "Improve customer and lead profiles"
+                        "value": "Append firmographic data: industry, company size, revenue, employee count"
                     },
                     {
-                        "value": "Strengthen segmentation and personalization"
+                        "value": "Enrich customer and lead profiles with validated contact and demographic data"
                     },
                     {
-                        "value": "Unlock deeper analytics and decision-support"
+                        "value": "Technology stack and intent signal appending for B2B sales and ABM"
+                    },
+                    {
+                        "value": "Compatible with: Salesforce, HubSpot, Marketo, Dynamics 365, custom databases"
                     }
                 ]
             },
             {
                 "id": 2,
                 "title": "Data Cleansing Services",
-                "desc": "Maintain clean, error-free datasets with automated and manual quality control checkpoints.",
+                "desc": "Remove the noise from your databases. Duplicate records, outdated entries, formatting inconsistencies, and missing mandatory fields all reduce the reliability of your reporting and the effectiveness of your outreach. Computyne applies automated and manual quality controls to produce clean, consistent datasets.",
                 "url": "/data-cleansing-services",
                 "data": [
                     {
-                        "value": "Remove duplicates and inconsistencies"
+                        "value": "Duplicate detection and merging using rule-based and ML-assisted matching"
                     },
                     {
-                        "value": "Correct formatting and field structures"
+                        "value": "Correction of formatting errors: inconsistent date formats, phone structures, address fields"
                     },
                     {
-                        "value": "Update outdated entries in real-time"
+                        "value": "Removal of invalid, outdated, or test records from live databases"
                     },
                     {
-                        "value": "Improve accuracy for analytics and reporting"
+                        "value": "Standardisation of field values across categories and taxonomies"
+                    },
+                    {
+                        "value": "Compatible with: Salesforce, SAP, Oracle, HubSpot, SQL databases, flat file exports"
                     }
                 ]
             },
             {
                 "id": 3,
                 "title": "Data Appending Services",
-                "desc": "Append missing contact, demographic, and transactional information to maximize database completeness.",
+                "desc": "Database completeness directly affects campaign performance, segmentation accuracy, and CRM usability. Data appending fills the gaps that prevent your teams from acting on the data they already have.",
                 "url": "/data-appending-services",
                 "data": [
                     {
-                        "value": "Add phone numbers, email addresses, and postal data"
+                        "value": "Email address appending from verified sources with deliverability validation"
                     },
                     {
-                        "value": "Enhance customer segmentation"
+                        "value": "Phone number appending: direct dial, mobile, and switchboard numbers"
                     },
                     {
-                        "value": "Expand datasets with verified attributes"
+                        "value": "Postal address appending and standardisation"
                     },
                     {
-                        "value": "Improve operational and campaign performance"
+                        "value": "Social media profile and LinkedIn URL appending for sales teams"
+                    },
+                    {
+                        "value": "Demographic and firmographic attribute appending for segmentation"
                     }
                 ]
             },
             {
                 "id": 4,
                 "title": "Data Validation Services",
-                "desc": "Verify and authenticate business data using rule-based checks to ensure accuracy, legitimacy, and reliability.",
+                "desc": "Validation goes beyond format checking. Our specialists verify data against authoritative sources, apply rule-based logic, and flag records that do not meet your defined quality thresholds before they enter your systems.",
                 "url": "/data-validation-services",
                 "data": [
                     {
-                        "value": "Automated rule-based validation"
+                        "value": "Email validation: syntax, domain, and mailbox-level checks"
                     },
                     {
-                        "value": "Cross-checks with authoritative data sources"
+                        "value": "Phone number validation against national and international formats"
                     },
                     {
-                        "value": "Flag and fix inconsistencies"
+                        "value": "Address validation using postal authority databases (Royal Mail, USPS, Canada Post)"
                     },
                     {
-                        "value": "Improve confidence in reporting"
+                        "value": "Cross-source verification against Companies House, LinkedIn, and industry directories"
+                    },
+                    {
+                        "value": "Rule-based validation against your specific business logic and field requirements"
                     }
                 ]
             },
             {
                 "id": 5,
-                "title": "Data Standardization Services",
-                "desc": "Deliver clean, uniform, and consistent data across all systems, essential for automation and integration.",
+                "title": "Data Standardisation Services",
+                "desc": "When data comes from multiple sources, inconsistent formats break integrations, distort reporting, and make deduplication unreliable. Standardisation converts everything to a consistent, agreed structure your systems can work with.",
                 "url": "/data-standarization-services",
                 "data": [
                     {
-                        "value": "Apply naming conventions and governance"
+                        "value": "Naming convention standardisation across company names, job titles, and product categories"
                     },
                     {
-                        "value": "Convert formats into standardized templates"
+                        "value": "Date, currency, and unit format normalisation"
                     },
                     {
-                        "value": "Improve processing and system compatibility"
+                        "value": "Address structure standardisation to match CRM and postal requirements"
                     },
                     {
-                        "value": "Support enterprise-wide integrations"
+                        "value": "Taxonomy alignment for product categories, industry codes, and classification fields"
+                    },
+                    {
+                        "value": "Integration-ready output formatting for CRM, ERP, and BI platform imports"
                     }
                 ]
             },
             {
                 "id": 6,
                 "title": "Data Hygiene Management",
-                "desc": "Maintain ongoing data cleanliness by continuously refreshing, updating, and purging low-value or irrelevant information.",
+                "desc": "Data hygiene is not a one-time exercise. Records decay at around 25 to 30% per year as contacts change jobs, companies rebrand, and business details shift. Ongoing hygiene management keeps your database accurate and useful over time.",
                 "url": "/data-hygiene-services",
                 "data": [
                     {
-                        "value": "Identify low-value or outdated records"
+                        "value": "Scheduled refresh cycles to identify and update changed or decayed records"
                     },
                     {
-                        "value": "Perform scheduled data refresh cycles"
+                        "value": "Suppression list management to remove unsubscribes, bounces, and deceased contacts"
                     },
                     {
-                        "value": "Increase ROI of business databases"
+                        "value": "Low-value and inactive record identification and archiving"
                     },
                     {
-                        "value": "Support confident analytics delivery"
+                        "value": "Ongoing deduplication monitoring to prevent record accumulation"
+                    },
+                    {
+                        "value": "Database health reporting with accuracy rate tracking"
                     }
                 ]
             },
             {
                 "id": 7,
-                "title": "Competitor Analysis & Intelligence Data",
-                "desc": "Identify competitor strengths, pricing strategies, and market gaps to support strategic growth-focused decision-making.",
+                "title": "Competitor Analysis and Intelligence Data",
+                "desc": "Market positioning decisions need current, reliable competitor intelligence. Computyne collects, structures, and maintains competitive datasets covering pricing, product positioning, market share, and strategic moves.",
                 "url": "/competitor-analysis-services",
                 "data": [
                     {
-                        "value": "Monitor competitor activity using analytics"
+                        "value": "Competitor pricing, product, and feature tracking across digital channels"
                     },
                     {
-                        "value": "Discover opportunities through detailed benchmarking"
+                        "value": "Market share benchmarking using public data, filings, and industry sources"
                     },
                     {
-                        "value": "Analyze pricing and positioning trends"
+                        "value": "Positioning and messaging analysis from competitor websites and communications"
                     },
                     {
-                        "value": "Support leadership with strategic intelligence"
+                        "value": "Ongoing monitoring with scheduled updates and alert triggers"
+                    },
+                    {
+                        "value": "Structured output for competitive intelligence dashboards and leadership reporting"
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "title": "eCommerce Catalogue Management",
+                "desc": "Product data quality directly affects search visibility, conversion rates, and returns. Poor product descriptions, missing attributes, and inconsistent categorisation cost eCommerce businesses revenue every day.",
+                "url": "/ecommerce-catalog-management-services",
+                "data": [
+                    {
+                        "value": "Product listing creation, enrichment, and attribute standardisation at scale"
+                    },
+                    {
+                        "value": "SEO-integrated product title and description optimisation"
+                    },
+                    {
+                        "value": "Category taxonomy structuring and product classification"
+                    },
+                    {
+                        "value": "Image tagging, alt text, and digital asset management"
+                    },
+                    {
+                        "value": "Marketplace compliance for Amazon, eBay, Shopify, Magento, WooCommerce"
                     }
                 ]
             }

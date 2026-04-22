@@ -410,38 +410,33 @@
         "data": [
             {
                 "id": 1,
-                "title": "Reduced Operational Costs",
-                "desc": "Outsourcing data management eliminates internal hiring, training, infrastructure, and tool investments. Businesses benefit from predictable cost models, streamlined operations, and long-term savings while external experts optimize data workflows and reduce manual, repetitive data tasks."
+                "title": "99.99% Accuracy",
+                "desc": "Structured methodologies, automated validation, and multi-step quality audits produce clean, standardised datasets that support confident reporting and reliable analytics."
             },
             {
                 "id": 2,
-                "title": "24×7 Continuous Support",
-                "desc": "A dedicated offshore support model ensures uninterrupted data processing across time zones. Continuous availability delivers faster turnaround, up-to-date datasets, and reliable reporting without downtime or dependency on internal schedules."
+                "title": "Up to 60% Cost Reduction",
+                "desc": "Outsourcing removes the cost of internal staff, tooling, infrastructure, and the repeated clean-up exercises that come from letting data quality degrade."
             },
             {
                 "id": 3,
-                "title": "High Accuracy and Quality Output",
-                "desc": "Structured methodologies, automated validation, multi-step audits, and expert analysts maintain data integrity. Clean, standardized, and verified datasets support confident reporting, accurate analytics, and reduced operational or compliance risks."
+                "title": "24 x 7 Continuous Operations",
+                "desc": "Offshore delivery across time zones means processing runs while your team is offline. Data is ready when you need it, not delayed by internal working hours."
             },
             {
                 "id": 4,
-                "title": "Faster Time-to-Insight and Reporting",
-                "desc": "Efficient data pipelines and automated workflows accelerate access to actionable insights. Faster processing shortens reporting cycles, enables proactive strategies, and provides leaders with timely intelligence for better decision-making."
+                "title": "ISO 27001 Data Security",
+                "desc": "Encrypted workflows, NDA-controlled environments, role-based access, and compliance-aligned protocols protect every dataset at every stage."
             },
             {
                 "id": 5,
-                "title": "Scalable to Any Volume or Project",
-                "desc": "Outsourced data management scales instantly to handle fluctuating workloads, seasonal demand, system migrations, and enterprise growth without capacity constraints or performance degradation."
+                "title": "Scales Without Disruption",
+                "desc": "From a one-off database clean to ongoing management of millions of records, the same managed delivery model applies. No re-hiring, no replatforming."
             },
             {
                 "id": 6,
-                "title": "Enhanced Data Security and Compliance",
-                "desc": "Strict governance, encrypted workflows, NDA-controlled environments, and compliance-aligned protocols ensure secure data handling and minimize risk exposure across sensitive business and customer datasets."
-            },
-            {
-                "id": 7,
-                "title": "Allows Focus on Core Strategic Growth",
-                "desc": "By removing repetitive data operations, internal teams can focus on innovation, digital transformation, and revenue-driven initiatives, supported by clean, reliable, and decision-ready data."
+                "title": "Frees Internal Teams",
+                "desc": "When data operations are managed externally, your analysts, sales teams, and marketers spend their time using clean data rather than fighting with dirty data."
             }
         ]
     },

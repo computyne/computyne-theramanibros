@@ -369,40 +369,33 @@
         "banner": {
             "image": "/images/service/banner/data-management-banner.webp",
             "alt": "Comprehensive data management services banner representing secure and compliant enterprise data lifecycle management",
-            "h1": "Enterprise Data Management Services - Accurate, Compliant & Scalable",
-            "tagline": "Secure, Compliant, and Consistently Accurate Data Management Solutions",
-            "cta": "Scale Your Enterprise Data Operations"
+            "h1": "Outsourced Data Management Services |",
+            "h1_primary": "Accurate, Compliant and Scalable",
+            "tagline": "Clean, enriched, validated, and governance-ready data. Managed by specialists from India, built for CRM platforms, analytics pipelines, and enterprise systems. ISO 27001 certified.",
+            "cta": "",
+            "primaryCta": "Scale Your Enterprise Data Operations",
+            "secondaryCta": "Get a Free Pilot Project"
         },
         "counter": [
             {
-                "label": "Years of Experience",
-                "value": "15",
-                "symbol": "+"
-            },
-            {
-                "label": "Skilled Data Professionals",
-                "value": "250",
-                "symbol": "+"
-            },
-            {
-                "label": "Data Security",
-                "value": "100",
-                "symbol": "%"
-            },
-            {
-                "label": "Operational Cost Savings",
-                "value": "50",
-                "symbol": "%"
-            },
-            {
-                "label": "Data Support",
-                "value": "24",
-                "symbol": "x7"
-            },
-            {
-                "label": "Guaranteed Accuracy",
+                "label": "Data Accuracy",
                 "value": "99.99",
                 "symbol": "%"
+            },
+            {
+                "label": "ISO Certification",
+                "value": "",
+                "symbol": "ISO 27001 Certified"
+            },
+            {
+                "label": "Cost Saving",
+                "value": "",
+                "symbol": "Up to 60% vs in-house"
+            },
+            {
+                "label": "Support",
+                "value": "",
+                "symbol": "24 x 7 Operations"
             }
         ],
         "overview": {
@@ -410,12 +403,11 @@
             "alt": "Strategic data management framework showing the centralization and governance of enterprise data assets",
             "h2": "Trusted Data Management for Regulated, High-Scale Operations",
             "content": [
-                "Many organizations struggle with disorganized data, incompatible systems, and incomplete records, which weaken business intelligence and decision accuracy. When data is scattered across departments, analytics become unreliable and valuable insights are lost.",
-                "Processing heterogeneous datasets requires strong security controls and regulatory governance, making in-house management complex. Without a unified strategy, businesses face operational delays and increased compliance risks.",
-                "<h5>Centralized Data Excellence</h5> Computyne delivers comprehensive Data Management Services designed to centralize, structure, and secure enterprise data. Through managed and outsourced engagement models, we provide:",
-                "        <ul style=\"padding-left:2rem;\"><li><strong>Data Cleansing &amp; Validation:</strong> Ensuring accuracy and eliminating duplicates.</li><li><strong>Enrichment &amp; Integration:</strong> Unifying fragmented sources into a single source of truth.</li><li><strong>Robust Governance:</strong> Implementing security controls and compliance alignment.</li><li><strong>Cloud-Ready Storage:</strong> Providing scalable, secure delivery frameworks.</li></ul>",
-                "<h5>Transform Fragments into Assets</h5> <p>Using structured methodologies and automation, Computyne transforms fragmented databases into <strong>analytics-ready business assets</strong>. By partnering with us, organizations build a future-ready foundation that improves operational efficiency, strengthens reporting, and accelerates confident, data-driven decision-making.</p>",
-                "<a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Turn Data Chaos Into Clarity</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a>"
+                "Bad data is expensive. Duplicate customer records cause failed campaigns. Incomplete fields break CRM workflows. Inconsistent formats prevent system integrations. And when data quality issues compound across departments, analytics become unreliable and the decisions made from them follow suit.",
+                "The problem is not usually that organisations lack data. It is that the data they have is fragmented, outdated, inconsistently formatted, and spread across systems that do not talk to each other. Fixing it in-house takes time, specialist tooling, and sustained effort that most internal teams cannot sustain alongside their core work.",
+                "Computyne provides outsourced data management services that centralise, clean, enrich, and govern enterprise data through structured, scalable workflows. We handle the full data lifecycle from source to validated, analytics-ready output, working within your existing systems and delivering to your quality standards.",
+                "<h2>Why Outsource Data Management?</h2> Building and maintaining an in-house data management operation requires ongoing investment in people, tooling, and process. Data quality is not a one-off project. Records decay, duplicates accumulate, and new data sources introduce new inconsistencies constantly. Most organisations either accept degrading data quality or periodically invest in large, disruptive clean-up exercises that address the symptom rather than the underlying problem.",
+                "Outsourcing changes the model. Computyne operates as a continuous data management function, running scheduled cleansing cycles, enrichment pipelines, and validation frameworks on your behalf. Your team gets clean, current, reliable data without the overhead of maintaining the operation that produces it."
             ]
         }
     },

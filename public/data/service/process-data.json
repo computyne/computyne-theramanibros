@@ -33,5 +33,40 @@
                 "timeline": "Per agreed schedule"
             }
         ]
+    },
+    "data-management-services": {
+        "h2": "From Fragmented Data to a Single Source of Truth",
+        "steps": [
+            {
+                "id": 1,
+                "title": "Data Audit",
+                "desc": "We assess your current data state: sources, volumes, formats, quality issues, and integration requirements. You get a clear picture of what needs fixing and in what order.",
+                "timeline": "Day 1 to 2"
+            },
+            {
+                "id": 2,
+                "title": "Scope and Rules",
+                "desc": "We agree on quality standards, validation rules, field requirements, output formats, and delivery method. Everything is documented before work begins.",
+                "timeline": "Day 2 to 3"
+            },
+            {
+                "id": 3,
+                "title": "Initial Clean and Enrich",
+                "desc": "First pass: deduplication, standardisation, and enrichment on your existing data. You receive a sample for review before full-scale processing.",
+                "timeline": "Day 3 to 7"
+            },
+            {
+                "id": 4,
+                "title": "Full Processing and Delivery",
+                "desc": "Full dataset processed, validated, and delivered in your preferred format. A quality report accompanies every delivery showing accuracy rates and changes made.",
+                "timeline": "Day 7 to 14"
+            },
+            {
+                "id": 5,
+                "title": "Ongoing Management",
+                "desc": "Scheduled refresh cycles, continuous validation monitoring, and regular reporting keep your data current. You set the cadence, we maintain the quality.",
+                "timeline": "Ongoing"
+            }
+        ]
     }
 }

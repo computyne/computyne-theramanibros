@@ -483,24 +483,52 @@
 		"faq": [
 			{
 				"title": "What are data management services?",
-				"desc": "Data management services include collecting, cleansing, enriching, organizing, validating, and maintaining data to ensure it remains accurate, secure, consistent, and analytics-ready across business systems.",
+				"desc": "Data management services cover the processes of collecting, organising, validating, cleansing, enriching, and governing business data to keep it accurate, consistent, and usable across systems. This includes data cleansing, enrichment, appending, standardisation, validation, hygiene management, competitor intelligence, and catalogue management.",
 				"initActive": true
 			},
 			{
-				"title": "Why should businesses outsource data management services?",
-				"desc": "Outsourcing data management reduces internal workload, accelerates delivery timelines, improves data accuracy, and provides access to skilled experts and secure technology without the need for in-house hiring or infrastructure."
+				"title": "Why should businesses outsource data management?",
+				"desc": "Data quality degrades continuously. Records change, duplicates accumulate, and new sources introduce inconsistencies that compound over time. Maintaining data quality in-house requires dedicated people, specialist tooling, and sustained process discipline that most internal teams cannot sustain alongside their core responsibilities. Outsourcing converts that into a managed service with guaranteed accuracy rates, predictable costs, and no internal overhead."
 			},
 			{
-				"title": "Why choose Computyne for data management services?",
-				"desc": "Computyne offers over 15 years of industry experience, 24×7 operational support, up to 99.99% accuracy, highly scalable resources, secure systems, and customized workflows aligned with business goals."
+				"title": "What types of data can be managed and cleaned?",
+				"desc": "We manage CRM data, customer and contact databases, product catalogues, financial records, property data, supplier and vendor databases, healthcare records, marketing lists, eCommerce product data, and any other structured or semi-structured business data. If it lives in a database or spreadsheet and affects your operations, we can manage it."
 			},
 			{
-				"title": "Is outsourced data management secure?",
-				"desc": "Yes. All data management projects follow strict security practices, including encrypted access, NDA protocols, restricted workstation controls, and adherence to global data governance standards."
+				"title": "What is the difference between data cleansing, enrichment, and validation?",
+				"desc": "Data cleansing removes errors, duplicates, and inconsistencies from existing records. Data enrichment adds missing attributes and updated information from external verified sources. Data validation checks that records meet defined accuracy, format, and completeness standards before they enter or remain in your systems. Most data management projects combine all three."
 			},
 			{
-				"title": "Can you handle large-volume data management projects?",
-				"desc": "Absolutely. Services support daily data processing, bulk repositories, and seasonal volume spikes, with capacity that scales instantly to meet business demands."
+				"title": "Which CRM and platforms do you work with?",
+				"desc": "Our team is experienced with Salesforce, HubSpot, Zoho CRM, Microsoft Dynamics 365, SAP, Oracle, NetSuite, Shopify, Magento, and most major CRM, ERP, eCommerce, and database platforms. We adapt to your existing systems and deliver data in the format your platform requires."
+			},
+			{
+				"title": "How accurate are the delivered datasets?",
+				"desc": "Most data management projects achieve accuracy levels of 99.99%, supported by multi-stage validation, automated quality control, and manual review checks. Accuracy benchmarks are agreed before each project and reported in every delivery."
+			},
+			{
+				"title": "How is data security maintained during the management process?",
+				"desc": "All data management projects follow ISO 27001 information security protocols including signed NDAs, role-based access controls, encrypted transfer, and restricted workstation environments. For UK and EU clients, GDPR-aligned handling practices apply throughout the engagement."
+			},
+			{
+				"title": "Can you handle large-volume and ongoing data management projects?",
+				"desc": "Yes. Our delivery model scales from one-off database projects to continuous ongoing management of millions of records. We support daily processing, bulk projects, seasonal volume spikes, and long-term data quality programmes without capacity constraints."
+			},
+			{
+				"title": "How does data management improve sales and marketing performance?",
+				"desc": "Clean, enriched, and validated data improves email deliverability, reduces wasted outreach to invalid contacts, improves CRM segmentation accuracy, and gives sales teams the current contact information they need to act. The Salesforce cleansing case study on this page resulted in a 52% increase in sales conversions. That figure is typical of what organisations see when they fix their underlying data quality."
+			},
+			{
+				"title": "What is data hygiene and why does it matter?",
+				"desc": "Data hygiene refers to the ongoing process of keeping databases clean, current, and complete over time. Business contact data decays at roughly 25 to 30% per year as people change jobs, companies rebrand, and phone numbers are reassigned. Without scheduled hygiene management, databases that were clean at the point of purchase or collection become increasingly unreliable over 12 to 18 months."
+			},
+			{
+				"title": "How quickly can data management services start?",
+				"desc": "For straightforward cleansing and enrichment projects, processing can begin within 3 to 5 business days of a data audit and scope agreement. More complex builds involving custom validation rules, multi-source enrichment, or CRM integration typically take 5 to 10 business days to configure before full-scale processing begins."
+			},
+			{
+				"title": "Do you offer a free trial for data management services?",
+				"desc": "Yes. Computyne offers a free pilot on every new engagement so you can validate the quality of our cleansing, enrichment, or validation output before committing to a full project. Contact us to set up your pilot."
 			}
 		]
 	},

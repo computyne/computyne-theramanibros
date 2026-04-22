@@ -372,5 +372,51 @@
                 "<h2>Why Outsource Data Collection?</h2> Building an in-house data collection capability sounds straightforward. In practice it means hiring researchers, procuring tools, managing proxies and anti-scraping infrastructure, maintaining data pipelines, and running ongoing quality assurance. For most organisations, that overhead is neither cost-effective nor their core competency. Outsourcing removes it entirely. You define what data you need, at what frequency, and in what format. Computyne handles every step between that requirement and a clean dataset landing in your system."
             ]
         }
+    },
+    "data-management-services": {
+        "banner": {
+            "image": "/images/service/banner/data-management-banner.webp",
+            "alt": "Comprehensive data management services banner representing secure and compliant enterprise data lifecycle management",
+            "h1": "Outsourced Data Management Services |",
+            "h1_primary": "Accurate, Compliant and Scalable",
+            "tagline": "Clean, enriched, validated, and governance-ready data. Managed by specialists from India, built for CRM platforms, analytics pipelines, and enterprise systems. ISO 27001 certified.",
+            "cta": "",
+            "primaryCta": "Scale Your Enterprise Data Operations",
+            "secondaryCta": "Get a Free Pilot Project"
+        },
+        "counter": [
+            {
+                "label": "Data Accuracy",
+                "value": "99.99",
+                "symbol": "%"
+            },
+            {
+                "label": "ISO Certification",
+                "value": "",
+                "symbol": "ISO 27001 Certified"
+            },
+            {
+                "label": "Cost Saving",
+                "value": "",
+                "symbol": "Up to 60% vs in-house"
+            },
+            {
+                "label": "Support",
+                "value": "",
+                "symbol": "24 x 7 Operations"
+            }
+        ],
+        "overview": {
+            "image": "/images/service/overview/data-management-overview.webp",
+            "alt": "Strategic data management framework showing the centralization and governance of enterprise data assets",
+            "h2": "Trusted Data Management for Regulated, High-Scale Operations",
+            "content": [
+                "Bad data is expensive. Duplicate customer records cause failed campaigns. Incomplete fields break CRM workflows. Inconsistent formats prevent system integrations. And when data quality issues compound across departments, analytics become unreliable and the decisions made from them follow suit.",
+                "The problem is not usually that organisations lack data. It is that the data they have is fragmented, outdated, inconsistently formatted, and spread across systems that do not talk to each other. Fixing it in-house takes time, specialist tooling, and sustained effort that most internal teams cannot sustain alongside their core work.",
+                "Computyne provides outsourced data management services that centralise, clean, enrich, and govern enterprise data through structured, scalable workflows. We handle the full data lifecycle from source to validated, analytics-ready output, working within your existing systems and delivering to your quality standards.",
+                "<h2>Why Outsource Data Management?</h2> Building and maintaining an in-house data management operation requires ongoing investment in people, tooling, and process. Data quality is not a one-off project. Records decay, duplicates accumulate, and new data sources introduce new inconsistencies constantly. Most organisations either accept degrading data quality or periodically invest in large, disruptive clean-up exercises that address the symptom rather than the underlying problem.",
+                "Outsourcing changes the model. Computyne operates as a continuous data management function, running scheduled cleansing cycles, enrichment pipelines, and validation frameworks on your behalf. Your team gets clean, current, reliable data without the overhead of maintaining the operation that produces it."
+            ]
+        }
     }
 }

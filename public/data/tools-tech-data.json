@@ -276,5 +276,39 @@
                 ]
             }
         ]
+    },
+    "data-management-services": {
+        "span": "SYSTEMS AND PLATFORMS WE WORK WITH",
+        "h2": "Data Management Across Every Major Platform and System",
+        "platformCategories": [
+            {
+                "category": "CRM",
+                "tools": ["Salesforce", "HubSpot", "Zoho CRM", "Microsoft Dynamics 365", "Pipedrive", "Copper"]
+            },
+            {
+                "category": "ERP and Finance",
+                "tools": ["SAP", "Oracle", "NetSuite", "Microsoft Dynamics Business Central", "Sage"]
+            },
+            {
+                "category": "eCommerce",
+                "tools": ["Shopify", "Magento", "WooCommerce", "BigCommerce", "Amazon Seller Central", "eBay"]
+            },
+            {
+                "category": "Marketing Automation",
+                "tools": ["Marketo", "Pardot", "Klaviyo", "ActiveCampaign", "Mailchimp"]
+            },
+            {
+                "category": "Data Warehouses",
+                "tools": ["Snowflake", "Google BigQuery", "Amazon Redshift", "Azure Synapse"]
+            },
+            {
+                "category": "BI and Analytics",
+                "tools": ["Tableau", "Power BI", "Looker", "Google Data Studio", "Qlik"]
+            },
+            {
+                "category": "Databases",
+                "tools": ["PostgreSQL", "MySQL", "Microsoft SQL Server", "MongoDB", "Oracle DB"]
+            }
+        ]
     }
 }
