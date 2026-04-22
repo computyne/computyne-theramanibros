@@ -1,0 +1,67 @@
+{
+    "document-processing-services": {
+        "span": "IDP AND AUTOMATION TECHNOLOGY",
+        "h2": "Intelligent Document Processing: How Automation Makes It Faster and More Accurate",
+        "description": "Traditional document processing relied on either manual entry (slow, error-prone) or basic OCR (fast, but limited to simple formats). Intelligent Document Processing (IDP) combines OCR, natural language processing, and machine learning to handle complex, variable, and unstructured documents that older approaches cannot manage reliably. Computyne uses IDP technology as part of a human-in-the-loop model: automated extraction handles the volume and speed, trained human validators catch the edge cases and ambiguous records that automation alone gets wrong. The result is faster processing than purely manual workflows and higher accuracy than fully automated approaches deliver on their own.",
+        "performanceTable": {
+            "headers": ["Document Type", "Extraction Method", "Accuracy", "Typical TAT"],
+            "rows": [
+                {
+                    "documentType": "Structured invoices (fixed format)",
+                    "extractionMethod": "OCR plus template matching",
+                    "accuracy": "99.5%+",
+                    "tat": "Same day"
+                },
+                {
+                    "documentType": "Semi-structured invoices (variable layout)",
+                    "extractionMethod": "IDP with ML extraction",
+                    "accuracy": "98 to 99%",
+                    "tat": "24 hours"
+                },
+                {
+                    "documentType": "Handwritten forms",
+                    "extractionMethod": "ICR plus human validation",
+                    "accuracy": "97 to 98%",
+                    "tat": "24 to 48 hours"
+                },
+                {
+                    "documentType": "Scanned PDFs (typed)",
+                    "extractionMethod": "OCR plus NLP",
+                    "accuracy": "99%+",
+                    "tat": "Same day"
+                },
+                {
+                    "documentType": "Mixed document types",
+                    "extractionMethod": "IDP plus human review",
+                    "accuracy": "97 to 99%",
+                    "tat": "24 to 48 hours"
+                }
+            ]
+        },
+        "technologyTable": {
+            "headers": ["Technology", "What It Does"],
+            "rows": [
+                {
+                    "technology": "OCR (Optical Character Recognition)",
+                    "description": "Converts scanned images and PDFs into machine-readable text"
+                },
+                {
+                    "technology": "ICR (Intelligent Character Recognition)",
+                    "description": "Extends OCR to handle handwritten text and variable fonts"
+                },
+                {
+                    "technology": "NLP (Natural Language Processing)",
+                    "description": "Identifies and extracts specific data fields from unstructured text"
+                },
+                {
+                    "technology": "Machine Learning",
+                    "description": "Improves extraction accuracy over time by learning from validated outputs"
+                },
+                {
+                    "technology": "Human-in-the-Loop Validation",
+                    "description": "Expert reviewers catch edge cases that automated systems flag or miss"
+                }
+            ]
+        }
+    }
+}
