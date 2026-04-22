@@ -1,4 +1,3 @@
-import Link from "next/link";
 import FunfactSingle from "./FunfactSingle";
 
 const TeamCard2 = ({ teamMember, activeMember, handleClick }) => {

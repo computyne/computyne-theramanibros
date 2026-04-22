@@ -103,5 +103,40 @@
                 "timeline": "Per agreed schedule"
             }
         ]
+    },
+    "data-solutions-services": {
+        "h2": "From Data Requirement to Clean Delivered Records in 5 Steps",
+        "steps": [
+            {
+                "id": 1,
+                "title": "Scope and Sample Review",
+                "desc": "You send us a sample of your source documents or data. We confirm data types, field requirements, accuracy standards, output format, and delivery frequency.",
+                "timeline": "Day 1"
+            },
+            {
+                "id": 2,
+                "title": "SOP Documentation",
+                "desc": "We document your specific SOPs, validation rules, naming conventions, and any system-specific requirements. This is what your team uses from day one.",
+                "timeline": "Day 1 to 2"
+            },
+            {
+                "id": 3,
+                "title": "System Access and Setup",
+                "desc": "We set up secure, role-based access to your platforms, templates, or file delivery systems. NDAs are signed before any data is accessed.",
+                "timeline": "Day 2 to 3"
+            },
+            {
+                "id": 4,
+                "title": "Pilot Batch",
+                "desc": "We run a test batch of 200 to 500 records and deliver the output for your review. Any adjustments to format, accuracy standards, or workflow are incorporated before full production.",
+                "timeline": "Day 3 to 5"
+            },
+            {
+                "id": 5,
+                "title": "Full Production and Reporting",
+                "desc": "Full-volume processing runs with multi-layer QA. You receive regular delivery reports showing accuracy rates, volumes processed, and any exceptions flagged.",
+                "timeline": "Ongoing"
+            }
+        ]
     }
 }

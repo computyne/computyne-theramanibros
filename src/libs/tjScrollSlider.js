@@ -1,4 +1,4 @@
-import { gsap } from "@/libs/gsap.config";
+import {gsap} from "@/libs/gsap.config";
 import rtlValue from "./rtlValue";
 
 const tjScrollSlider = selector => {

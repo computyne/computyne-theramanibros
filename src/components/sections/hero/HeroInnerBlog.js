@@ -1,5 +1,3 @@
-import sliceText from "@/libs/sliceText";
-import Link from "next/link";
 import React from "react";
 
 const HeroInnerBlog = ({title, author, date = [], bgImg}) => {

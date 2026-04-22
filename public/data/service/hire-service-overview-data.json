@@ -453,7 +453,7 @@
             }
         ],
         "overview": {
-            "image": "/images/service/overview/document-processing-overview.webp",
+            "image": "/images/service/overview/professional-document-processing-overview.webp",
             "alt": "Professional document processing workflow showing OCR, AI extraction and human validation",
             "h2": "Professional Document Processing Services | From Raw Documents to Business-Ready Intelligence",
             "content": [
@@ -462,6 +462,52 @@
                 "Computyne's document processing services convert physical and digital documents into clean, structured, searchable data. We combine OCR technology, AI-assisted extraction, and trained human validation to handle high-volume document workflows accurately and at scale. The output lands in your ERP, CRM, AP system, or any other platform in the format it needs to be in.",
                 "<h2>Why Outsource Document Processing?</h2> Document processing sounds like something that should be handled in-house. And for low volumes, it often is. The problem starts when volumes grow, document types multiply, and accuracy requirements tighten. At that point, in-house processing either slows everything down or introduces errors that cost more to fix than the original processing would have.",
                 "Outsourcing gives you a dedicated team, proven workflows, and the right tooling without the overhead of building and maintaining all three yourself. Computyne has been handling high-volume document types for over 15 years. We have built specific workflows for invoice processing, freight auditing, resume formatting, forms processing, and document digitisation that are faster and more accurate than most organisations can match in-house at a comparable spend."
+            ]
+        }
+    },
+    "data-solutions-services": {
+        "banner": {
+            "image": "/images/service/banner/data-solution-banner.webp",
+            "alt": "Comprehensive data solutions services banner representing accurate offshore data entry and data management",
+            "h1": "Outsourced Data Solutions Services |",
+            "h1_primary": "Accurate, Secure and Scalable",
+            "tagline": "Offshore data entry and data solutions from India. Whether you need product data loaded into Shopify, freight bills captured into your TMS, or property listings pushed to your CRM, Computyne handles the entry, validation, and delivery. ISO 27001 certified. 99.99% accuracy. Free pilot.",
+            "cta": "",
+            "primaryCta": "Outsource Your Data Operations",
+            "secondaryCta": "Start a Free Pilot Project"
+        },
+        "counter": [
+            {
+                "label": "Data Accuracy",
+                "value": "99.99",
+                "symbol": "%"
+            },
+            {
+                "label": "ISO Certification",
+                "value": "",
+                "symbol": "ISO 27001 Certified"
+            },
+            {
+                "label": "Cost Saving",
+                "value": "",
+                "symbol": "Up to 60% vs in-house"
+            },
+            {
+                "label": "Support",
+                "value": "",
+                "symbol": "24 x 7 Operations"
+            }
+        ],
+        "overview": {
+            "image": "/images/service/overview/data-solutions-overview.webp",
+            "alt": "Business-ready data solutions framework showing offshore data entry and validation workflows",
+            "h2": "Business-Ready Data That Powers Decision-Making",
+            "content": [
+                "Most businesses have a data entry problem that nobody talks about openly. The backlog of product listings that never quite gets finished. The logistics records sitting in spreadsheets because nobody has time to import them properly. The property data that gets typed into one system, then retyped into another. The mortgage files being processed by staff who should be doing something else.",
+                "None of these tasks are complicated. But they take time, they require accuracy, and they scale badly. One person can handle 50 records a day without too much trouble. Five hundred records a day is where it breaks down. And if the data is wrong, everything downstream is wrong too.",
+                "Computyne provides dedicated offshore data solutions teams who handle these tasks on your behalf. Trained specialists working in your systems, following your SOPs, delivering validated data to your required format and frequency. We cover eight specific data entry and data solutions disciplines, each with dedicated workflows, quality checks, and documented accuracy rates.",
+                "<h2>Why Outsource Data Solutions?</h2> Hiring for data entry roles is slow, expensive relative to output value, and high-turnover. Training takes time. And when a good person leaves, quality drops until the next one is trained up. Most organisations end up in a cycle of recruitment, brief improvement, then gradual quality degradation.",
+                "The outsourcing model breaks that cycle. You get a managed team with established SOPs, multi-layer QA, and no recruitment overhead on your side. The output is consistent regardless of who on Computyne's team is doing the work, because the process is documented and quality-controlled rather than person-dependent. Most clients see 40 to 60% cost savings versus hiring equivalent capability in-house in the UK or USA."
             ]
         }
     }

@@ -570,41 +570,53 @@
 		"cta": "Get a Free Consultation",
 		"faq": [
 			{
-				"title": "What are data services?",
-				"desc": "Data services include extracting, formatting, organizing, cleansing, and managing business data to ensure it is usable across analytics platforms, CRM systems, automation tools, and operational decision-making.",
+				"title": "What are data solutions services?",
+				"desc": "Data solutions services cover the outsourced capture, entry, validation, and delivery of structured data from physical and digital source documents into your business systems. This includes general data entry, eCommerce product data entry, logistics and freight data entry, bill of lading processing, appraisal and valuation data, mortgage data support, real estate listing services, and image data entry.",
 				"initActive": true
 			},
 			{
-				"title": "Why should businesses outsource data services?",
-				"desc": "Outsourcing data services helps reduce operating expenses, eliminate manual workloads, improve turnaround times, and provide access to skilled data professionals without the need to recruit or manage internal staff."
+				"title": "Why should businesses outsource data entry to India?",
+				"desc": "India-based outsourcing combines trained specialists, lower labour costs, and strong English language proficiency into a model that typically delivers 40 to 60% cost savings versus equivalent in-house headcount in the UK or USA. The time zone difference also means overnight processing is possible, so data is ready when your team starts work. Computyne adds ISO 27001 security, multi-layer QA, and SLA-backed accuracy to that cost advantage."
 			},
 			{
-				"title": "What data services does Computyne provide?",
-				"desc": "Computyne offers outsourced data entry, data cleansing, data processing, data enrichment, CRM cleanup, web data scraping, database management, document digitization, data migration support, and enterprise-grade digital transformation solutions."
+				"title": "What types of data can be entered and processed?",
+				"desc": "We handle product catalogue data, logistics and freight records, bills of lading, mortgage and lending documents, property listing data, appraisal reports, CRM records, invoice data, patient records, policy documents, survey responses, and any other structured or semi-structured data type that needs to be captured from a source document and entered into a business system."
 			},
 			{
-				"title": "How does outsourcing improve data accuracy?",
-				"desc": "Outsourced data undergoes multi-step validation, standardization, deduplication, and structured QA workflows to ensure clean, consistent, and reliable datasets for analytics, reporting, and operations."
+				"title": "How accurate is outsourced data entry?",
+				"desc": "Most standard data entry projects achieve 99.99% accuracy through a combination of automated validation rules, field-level checks, and manual QA review. Accuracy benchmarks are agreed before each engagement starts and reported in every delivery batch."
 			},
 			{
-				"title": "Are outsourced data services secure?",
-				"desc": "Yes. Computyne follows strict confidentiality practices, NDAs, access-controlled environments, encrypted data handling, and GDPR-aligned processes to ensure data security and compliance."
+				"title": "How much does outsourced data entry cost?",
+				"desc": "Pricing depends on data type, volume, source document complexity, accuracy requirements, and turnaround speed. Typical rates run from $4 to $7 per hour for dedicated specialists or on a per-record basis for volume projects. Full-time dedicated specialists cost from $600 to $900 per month. A free pilot of up to 500 records is available before any commitment."
 			},
 			{
-				"title": "Can outsourced data services scale with business needs?",
-				"desc": "Yes. Our offshore data services model enables instant scaling for high-volume processing, daily operational workloads, data migrations, and multi-location business operations."
+				"title": "Which systems and platforms do you work with?",
+				"desc": "Our team is experienced in Salesforce, HubSpot, SAP, Oracle, NetSuite, Shopify, Magento, WooCommerce, Amazon Seller Central, Encompass, Cargowise, Matrix MLS, BoomTown, and most other major CRM, ERP, eCommerce, logistics, and mortgage platforms. We adapt to your existing systems and deliver data in whatever format your platform expects."
 			},
 			{
-				"title": "Which industries benefit from outsourced data services?",
-				"desc": "Industries such as staffing firms, eCommerce brands, logistics providers, BFSI institutions, healthcare organizations, real estate companies, marketing agencies, and SaaS businesses achieve measurable ROI from outsourced data operations."
+				"title": "Is outsourced data entry secure?",
+				"desc": "Yes. All data entry operations follow ISO 27001 information security protocols including signed NDAs, role-based access controls, encrypted data transfer, and GDPR-aligned handling for UK and EU clients. Sensitive industries including healthcare and mortgage receive HIPAA-aware practices. Every engagement includes a documented security framework before any data access is granted."
 			},
 			{
-				"title": "How fast is delivery?",
-				"desc": "Delivery timelines depend on data volume and complexity, but offshore teams, automation, and standardized workflows ensure rapid turnaround with zero operational downtime."
+				"title": "How quickly can data entry services begin?",
+				"desc": "For straightforward data entry projects with standard field requirements, a pilot batch can begin within 3 to 5 business days of scope agreement. More complex projects involving custom validation rules or direct system integration typically take 5 to 7 business days to configure before full production begins."
 			},
 			{
-				"title": "Do clients need technical expertise to work with Computyne?",
-				"desc": "No. Computyne delivers ready-to-use, formatted, and structured datasets in your preferred formats or directly within your systems, requiring no internal IT or technical expertise."
+				"title": "Can data entry services scale with business growth?",
+				"desc": "Yes. Our delivery model scales from hundreds of records per month to millions without rebuilding the team or the process. We handle seasonal spikes, acquisition-driven volume, and any other demand variation without capacity constraints or quality degradation."
+			},
+			{
+				"title": "What output formats are supported?",
+				"desc": "Data can be entered directly into your systems via secure remote access, or delivered as CSV, Excel, JSON, XML, or database-ready files. Output format and delivery method are configured to match your downstream requirements exactly."
+			},
+			{
+				"title": "Do you offer a free trial for data entry services?",
+				"desc": "Yes. Computyne offers a free pilot of up to 500 records on every new engagement. You receive real output, keep the data regardless, and only commit if you are satisfied with the accuracy and turnaround."
+			},
+			{
+				"title": "What is the difference between data entry and data management services?",
+				"desc": "Data entry covers the capture and input of structured data from source documents into business systems. Data management covers the ongoing cleansing, enrichment, validation, and governance of data that is already in your systems. Both services are available from Computyne and are often used together, with data entry feeding clean records into systems that data management then maintains over time."
 			}
 		]
 	},

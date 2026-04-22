@@ -1,5 +1,3 @@
-import ButtonPrimary from "@/components/shared/buttons/ButtonPrimary";
-
 const BenifitsCard = ({ feature, idx }) => {
 	const { icon, title, desc } = feature ? feature : {};
 	return (

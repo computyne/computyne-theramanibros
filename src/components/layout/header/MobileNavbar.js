@@ -1,5 +1,4 @@
 import getNavItems from "@/libs/getNavItems";
-import Image from "next/image";
 import Link from "next/link";
 import MobileMenuItem from "./MobileMenuItem";
 

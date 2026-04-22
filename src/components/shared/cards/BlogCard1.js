@@ -1,4 +1,3 @@
-import makePath from "@/libs/makePath";
 import modifyNumber from "@/libs/modifyNumber";
 import Image from "next/image";
 import Link from "next/link";

@@ -1,4 +1,3 @@
-import makePath from "@/libs/makePath";
 import Image from "next/image";
 import Link from "next/link";
 import ButtonPrimary from "@/components/shared/buttons/ButtonPrimary";

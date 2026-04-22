@@ -2,10 +2,7 @@ import Footer from "@/components/layout/footer/Footer";
 import Header from "@/components/layout/header/Header";
 import BackToTop from "@/components/shared/others/BackToTop";
 import ClientWrapper from "@/components/shared/wrappers/ClientWrapper";
-import Aboutus from "@/components/sections/subservice/Aboutus";
 import Subservices from "@/components/sections/subservice/Subservices";
-import Banner from "@/components/sections/subservice/Banner";
-import Counter from "@/components/sections/subservice/Counter";
 import Whychooseus from "@/components/sections/subservice/Whychooseus";
 import Faq from "@/components/sections/subservice/Faq";
 import Industries from "@/components/sections/subservice/Industries";
@@ -14,24 +11,31 @@ import {enterpriseDataServicesSchema} from "@/libs/schema/services/enterpriseDat
 import JsonLd from "@/components/seo/JsonLd";
 import SubFooter from "@/components/layout/footer/subFooter";
 import Testimonials from "@/components/layout/common/Testimonials";
+import HeroBanner from "@/components/sections/subservice/HeroBanner";
+import CounterHireResource from "@/components/sections/subservice/CounterHireResource";
+import AboutusHireResource from "@/components/sections/subservice/AboutusHireResource";
+import PricingPlan from "@/components/pricing-plan/PricingPlan";
+import ToolsAndTech from "@/components/sections/toolsandtech/ToolsAndTech";
+import TeamComparison from "@/components/sections/TeamComparison";
+import Process from "@/components/sections/how-work/Process";
 
 
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Outsourced Data Solutions Services | Accurate, Secure & Scalable | Computyne",
+    title: "Outsourced Data Solutions Services | Data Entry, Entry Management and More | Computyne",
     description:
-        "Expert data solutions services from Indiadata entry, management & annotation. GDPR-compliant, 99.99% accuracy. Get a free quote.",
+        "Outsourced data solutions from India. Data entry, eCommerce product data, logistics data entry, real estate listing, mortgage data support and more. 99.99% accuracy. ISO 27001. Free pilot.",
 
     keywords: [
-        "data services",
         "data solutions services",
-        "business data solutions",
-        "data management services",
-        "data preparation services",
-        "data refinement",
-        "analytics data solutions",
-        "outsourced data services",
+        "outsource data entry services",
+        "eCommerce product data entry",
+        "logistics data entry outsourcing",
+        "bill of lading data entry",
+        "real estate data entry",
+        "mortgage data entry support",
+        "offshore data entry India",
     ],
 
     alternates: {
@@ -56,12 +60,16 @@ export default function dataSolutionsServices() {
                     <div id="smooth-content">
                         <main>
                             <div className="top-space-15"></div>
-                            <Banner/>
-                            <Counter/>
-                            <Aboutus slug={"data-solutions-services"} type={1}/>
+                            <HeroBanner/>
+                            <CounterHireResource/>
+                            <AboutusHireResource slug={"data-solutions-services"} type={1}/>
                             <Subservices/>
-                            <Casestudy/>
+                            <Casestudy text="Real Data Solutions Results Across Industries"/>
                             <Whychooseus/>
+                            <PricingPlan/>
+                            <Process/>
+                            <ToolsAndTech/>
+                            <TeamComparison/>
                             <Faq type={1}/>
                             <Testimonials/>
                             <Industries/>

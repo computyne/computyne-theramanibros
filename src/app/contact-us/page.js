@@ -6,6 +6,7 @@ import ContactLocation from "@/components/sections/contact-page/ContactLocation"
 import Footer from "@/components/layout/footer/Footer";
 import SubFooter from "@/components/layout/footer/subFooter";
 import ContactCard from "../../components/sections/contact-page/ContactCard";
+
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com/"),
 

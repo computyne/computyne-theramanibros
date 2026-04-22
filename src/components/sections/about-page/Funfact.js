@@ -1,5 +1,4 @@
 import FunfactSingle from "./FunfactSingle";
-import ProgressBar from "./ProgressBar";
 
 const Funfact = () => {
     return (

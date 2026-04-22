@@ -352,5 +352,58 @@
                 "isActive": false
             }
         ]
+    },
+    "data-solutions-services": {
+        "span": "FLEXIBLE DATA SOLUTIONS ENGAGEMENT MODELS",
+        "h2": "Flexible Data Solutions Engagement Models",
+        "closingLine": "All engagements include: dedicated team, ISO 27001 security, signed NDA, SLA-governed accuracy and turnaround, weekly quality reporting, and a free pilot.",
+        "cta": "Get a Custom Data Solutions Quote",
+        "engagementModels": [
+            {
+                "model": "Per Record or Per Page",
+                "bestFor": "One-off projects, volume-based processing",
+                "commitment": "Any",
+                "indicativeRate": "Quote based on volume and complexity",
+                "rate": "0",
+                "ratePolicy": "",
+                "isActive": false
+            },
+            {
+                "model": "Hourly Dedicated",
+                "bestFor": "Ongoing daily tasks, variable workloads",
+                "commitment": "Flexible hours",
+                "indicativeRate": "From $4 to $7/hr per specialist",
+                "rate": "4-7",
+                "ratePolicy": "/per hour",
+                "isActive": false
+            },
+            {
+                "model": "Full-Time Dedicated Team",
+                "bestFor": "High-volume, time-sensitive, ongoing pipelines",
+                "commitment": "40 hrs/wk",
+                "indicativeRate": "From $600 to $900/mo per specialist",
+                "rate": "600-900",
+                "ratePolicy": "/per month",
+                "isActive": true
+            },
+            {
+                "model": "Managed SLA Project",
+                "bestFor": "Fixed-scope deliverable with agreed accuracy and TAT",
+                "commitment": "Defined",
+                "indicativeRate": "Custom project quote",
+                "rate": "0",
+                "ratePolicy": "",
+                "isActive": false
+            },
+            {
+                "model": "Free Pilot",
+                "bestFor": "Test accuracy and turnaround before committing",
+                "commitment": "Up to 500 records",
+                "indicativeRate": "Free, no obligation",
+                "rate": "0",
+                "ratePolicy": "",
+                "isActive": false
+            }
+        ]
     }
 }

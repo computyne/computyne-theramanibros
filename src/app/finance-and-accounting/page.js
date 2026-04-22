@@ -10,10 +10,9 @@ import Whychooseus from "@/components/sections/subservice/Whychooseus";
 import Faq from "@/components/sections/subservice/Faq";
 import Casestudy from "@/components/sections/subservice/Casestudy";
 import JsonLd from "@/components/seo/JsonLd";
-import {multimodalAnnotationServicesSchema} from "@/libs/schema/services/multimodalAnnotationServicesSchema";
 import SubFooter from "@/components/layout/footer/subFooter";
-import Testimonials from "@/components/layout/common/Testimonials";
 import {financeAndAccountingIndustrySchema} from "@/libs/schema/services/financeAndAccountingIndustrySchema";
+
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 

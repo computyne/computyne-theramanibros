@@ -871,84 +871,84 @@
         ]
     },
     "data-solutions-services": {
-        "h2": "Delivering Data Excellence Across Industries",
+        "h2": "Data Solutions Across Key Industries",
         "industries": [
             {
                 "id": 1,
-                "title": "Staffing & Recruitment",
-                "desc": "We standardize, enrich, and format candidate data to enable faster submissions, reduce backlogs, and improve placement turnaround times.",
-                "img": "/images/industries-services/recruitment.webp",
-                "alt": "Recruitment BPO services featuring automated resume parsing, candidate data indexing, and background verification support for global staffing agencies and HR departments",
-                "url": "#"
-            },
-            {
-                "id": 2,
-                "title": "eCommerce",
-                "desc": "We manage product catalogs, inventory data, and customer records to improve listing accuracy, order processing speed, and conversion outcomes.",
+                "title": "eCommerce and Retail",
+                "desc": "Primary Use Cases: Product catalogue population, inventory data, marketplace compliance. Key Sub-Services: eCommerce Product Data Entry, Image Data Entry.",
                 "img": "/images/industries-services/ecommerce.webp",
                 "alt": "eCommerce BPO services featuring automated product catalog management, SKU optimization, and multi-platform inventory synchronization for digital marketplaces",
                 "url": "/ecommerce"
             },
             {
-                "id": 3,
-                "title": "Transportation & Logistics",
-                "desc": "We digitize shipment documents, track freight data, and maintain route information to enable faster operations, improved visibility, and reduced delays.",
-                "img": "/images/industries-services/logistics-&-supply-chain.webp",
-                "alt": "Logistics BPO services featuring automated freight bill processing, bill of lading data entry, and real-time shipment tracking support for 3PL and 4PL providers",
-                "url": "/logistics-and-transportation"
+                "id": 2,
+                "title": "Real Estate and Property",
+                "desc": "Primary Use Cases: MLS listing entry, CRM population, appraisal data, property record maintenance. Key Sub-Services: Real Estate Listing Services, Appraisal Data Entry.",
+                "img": "/images/industries-services/real-estate.webp",
+                "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
+                "url": "/real-estate"
             },
             {
-                "id": 4,
-                "title": "Banking, Financial Services & Insurance (BFSI)",
-                "desc": "We securely process financial forms, customer KYC data, and policy records to ensure compliance, accuracy, reporting efficiency, and risk reduction.",
+                "id": 3,
+                "title": "Mortgage and Lending",
+                "desc": "Primary Use Cases: Loan application processing, title and closing data, underwriting condition entry. Key Sub-Services: Mortgage Data Entry Support, Document Data Entry.",
                 "img": "/images/industries-services/finance.webp",
                 "alt": "Finance and accounting BPO services showcasing audit-ready accounts payable, receivable management, and general ledger reconciliation for enterprise financial transparency",
                 "url": "/finance-and-accounting"
             },
             {
+                "id": 4,
+                "title": "Logistics and Transportation",
+                "desc": "Primary Use Cases: Shipment records, carrier data, freight invoices, BoL processing, route data. Key Sub-Services: Logistics Data Entry, Bill of Lading Data Entry.",
+                "img": "/images/industries-services/logistics-&-supply-chain.webp",
+                "alt": "Logistics BPO services featuring automated freight bill processing, bill of lading data entry, and real-time shipment tracking support for 3PL and 4PL providers",
+                "url": "/logistics-and-transportation"
+            },
+            {
                 "id": 5,
-                "title": "Healthcare & Medical Practices",
-                "desc": "We digitize medical records, patient forms, and billing data while ensuring confidentiality, seamless access, improved care coordination, and compliance.",
+                "title": "Healthcare and Life Sciences",
+                "desc": "Primary Use Cases: Patient record entry, insurance claim data, provider database maintenance. Key Sub-Services: Data Entry Services, Image Data Entry.",
                 "img": "/images/industries-services/healthcare.webp",
                 "alt": "Healthcare BPO services illustrating HIPAA-compliant medical record indexing, clinical data management, and revenue cycle support for hospitals and private practices",
                 "url": "/healthcare"
             },
             {
                 "id": 6,
-                "title": "Real Estate",
-                "desc": "We organize property listings, transaction documents, and lead databases to enable faster deals, better data visibility, and streamlined client servicing.",
-                "img": "/images/industries-services/real-estate.webp",
-                "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
-                "url": "/real-estate"
+                "title": "Banking, Financial Services and Insurance",
+                "desc": "Primary Use Cases: Policy data, KYC records, claims processing, compliance documentation. Key Sub-Services: Data Entry Services, Mortgage Data Entry.",
+                "img": "/images/industries-services/finance.webp",
+                "alt": "Finance and accounting BPO services showcasing audit-ready accounts payable, receivable management, and general ledger reconciliation for enterprise financial transparency",
+                "url": "/finance-and-accounting"
             },
             {
                 "id": 7,
-                "title": "Marketing & Advertising Agencies",
-                "desc": "We consolidate campaign performance data, lead lists, and analytics inputs to empower smarter targeting, stronger reporting, and improved ROI.",
-                "img": "/images/industries-services/marketing.webp",
-                "alt": "Marketing BPO services featuring automated lead management, campaign data analytics, and customer sentiment data processing for advertising agencies and brands",
+                "title": "Staffing and Recruitment",
+                "desc": "Primary Use Cases: Candidate database population, CV data entry, placement record maintenance. Key Sub-Services: Data Entry Services, Image Data Entry.",
+                "img": "/images/industries-services/recruitment.webp",
+                "alt": "Recruitment BPO services featuring automated resume parsing, candidate data indexing, and background verification support for global staffing agencies and HR departments",
                 "url": "#"
             },
             {
                 "id": 8,
-                "title": "Technology & SaaS",
-                "desc": "We maintain user data, product datasets, and CRM information to fuel automation, product intelligence, onboarding efficiency, and customer retention.",
-                "img": "/images/industries-services/it-technology.webp",
-                "alt": "IT and technology BPO services featuring technical data processing, software documentation support, and mission-critical back-office automation for tech enterprises",
-                "url": "#"
-            },
-            {
-                "id": 9,
                 "title": "Manufacturing",
-                "desc": "We digitize production records, supplier data, and BOM files to improve accuracy, resource planning, compliance, and operational forecasting.",
+                "desc": "Primary Use Cases: BOM data entry, supplier records, production data, inventory management. Key Sub-Services: Data Entry Services, Logistics Data Entry.",
                 "img": "/images/industries-services/manufacturing.webp",
                 "alt": "Manufacturing BPO services showing automated inventory data management, supply chain documentation, and procurement support for industrial and lean manufacturing operations",
                 "url": "#"
             },
             {
+                "id": 9,
+                "title": "Technology and SaaS",
+                "desc": "Primary Use Cases: User data population, product catalogue entry, support ticket data management. Key Sub-Services: Data Entry Services, eCommerce Product Data Entry.",
+                "img": "/images/industries-services/it-technology.webp",
+                "alt": "IT and technology BPO services featuring technical data processing, software documentation support, and mission-critical back-office automation for tech enterprises",
+                "url": "#"
+            },
+            {
                 "id": 10,
-                "title": "Research & Consulting Firms",
-                "desc": "We extract market research data, structure datasets, and cleanse inputs to accelerate analysis, improve insights, and strengthen advisory recommendations.",
+                "title": "Research and Consulting",
+                "desc": "Primary Use Cases: Survey data entry, research dataset population, market data structuring. Key Sub-Services: Data Entry Services, Image Data Entry.",
                 "img": "/images/industries-services/consulting.webp",
                 "alt": "Consulting BPO services featuring secondary market research, data visualization support, and professional back-office operations for management consulting firms",
                 "url": "#"

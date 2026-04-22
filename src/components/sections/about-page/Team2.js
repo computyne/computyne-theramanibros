@@ -1,11 +1,7 @@
 "use client";
-import ButtonPrimary from "@/components/shared/buttons/ButtonPrimary";
 import getTeamMembers from "@/libs/getTeamMembers";
-import { useCallback, useEffect, useRef, useState } from "react";
+import {useCallback, useEffect, useRef, useState} from "react";
 import TeamCard2 from "./TeamCard2";
-import FunfactSingle from "./FunfactSingle";
-import BootstrapWrapper from "./BootstrapWrapper";
-import FaqItem from "./FaqItem";
 
 const itemsData = [
 		{

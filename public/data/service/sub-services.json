@@ -760,126 +760,190 @@
         ]
     },
     "data-solutions-services": {
-        "h2": "Custom Data Services Designed for Operational and Analytical Needs",
-        "desc": "Comprehensive outsourced solutions designed to organize, process, and manage business data with precision and security.",
+        "h2": "Custom Data Solutions Designed for Operational and Analytical Needs",
+        "desc": "Each service links to a dedicated sub-page with full detail, turnaround times, system compatibility, and FAQs.",
         "services": [
             {
                 "id": 1,
-                "title": "Data Collection Services",
-                "desc": "Fast, accurate, and scalable data acquisition empowering leadership, analytics, automation, and AI initiatives.",
-                "url": "#",
+                "title": "Data Entry Services",
+                "desc": "The core of the Data Solutions hub. High-volume, accurate data entry across formats, industries, and systems. Built for organisations that need a reliable offshore team rather than one-off freelancers.",
+                "url": "/data-entry-services",
                 "data": [
                     {
-                        "value": "Automated and API-based extraction for real-time business insights"
+                        "value": "CRM data entry with field-level validation and duplicate detection"
                     },
                     {
-                        "value": "Clean datasets optimized for market research and analytics"
+                        "value": "Database population and ongoing record maintenance"
                     },
                     {
-                        "value": "Scalable acquisition across industries and geographies"
+                        "value": "High-volume bulk data entry with multi-stage accuracy checks"
                     },
                     {
-                        "value": "Cost-efficient outsourcing reducing internal resource burden"
+                        "value": "Handwritten, typed, and scanned source document processing"
+                    },
+                    {
+                        "value": "Compatible with: Salesforce, HubSpot, SAP, Oracle, MySQL, Excel, Google Sheets"
                     }
                 ]
             },
             {
                 "id": 2,
-                "title": "Data Management Services",
-                "desc": "Centralized, structured, and compliant data management services streamlining enterprise data operations.",
-                "url": "#",
+                "title": "Image Data Entry Services",
+                "desc": "Products without complete image data do not convert. Image data entry covers the metadata, tags, and attributes that connect product photography to your catalogue and search systems.",
+                "url": "/image-data-entry-services",
                 "data": [
                     {
-                        "value": "Unified platforms to standardize and govern business information"
+                        "value": "Product image tagging with attribute, category, and keyword metadata"
                     },
                     {
-                        "value": "Accurate data fueling analytics and intelligence"
+                        "value": "Image-to-data conversion: dimensions, colours, materials, specifications"
                     },
                     {
-                        "value": "Automated workflows reducing staffing and IT overhead"
+                        "value": "Alt text writing and SEO-ready image description entry"
                     },
                     {
-                        "value": "Secure storage supporting GDPR-aligned and ISO-certified processing"
+                        "value": "Image quality checks and compliance validation before entry"
+                    },
+                    {
+                        "value": "Compatible with: Shopify, Magento, WooCommerce, Amazon Seller Central, PIM systems"
                     }
                 ]
             },
             {
                 "id": 3,
-                "title": "Data Entry Services",
-                "desc": "Scalable offshore data entry services eliminating manual backlogs and supporting high-volume processing.",
-                "url": "#",
+                "title": "Logistics Data Entry Services",
+                "desc": "Logistics operations generate a large volume of data that needs to be captured accurately and quickly. Delays in data entry mean delays in shipment tracking, billing, and compliance reporting.",
+                "url": "/logistics-data-entry-services",
                 "data": [
                     {
-                        "value": "Fast turnaround with dedicated enterprise-level support"
+                        "value": "Shipment record entry from paper-based and digital source documents"
                     },
                     {
-                        "value": "Bulk data entry outsourcing for large-scale operations"
+                        "value": "Carrier data, route, and rate entry across TMS and ERP systems"
                     },
                     {
-                        "value": "Encrypted and NDA-protected workflows"
+                        "value": "Delivery confirmation and proof-of-delivery data capture"
                     },
                     {
-                        "value": "Cost-effective offshore services reducing operational costs"
+                        "value": "Exception logging and status update entry for operational visibility"
+                    },
+                    {
+                        "value": "Compatible with: SAP TM, Oracle TMS, MercuryGate, Cargowise, custom logistics platforms"
                     }
                 ]
             },
             {
                 "id": 4,
-                "title": "Data Annotation Services",
-                "desc": "Expertly labeled training data accelerating AI, ML, GenAI, computer vision, NLP, and automation models.",
-                "url": "#",
+                "title": "Bill of Lading Data Entry Services",
+                "desc": "Bills of lading contain specific, structured data that needs to be captured precisely for customs, compliance, and payment purposes. Errors here have financial and regulatory consequences.",
+                "url": "/bill-of-lading-data-entry-services",
                 "data": [
                     {
-                        "value": "End-to-end annotation for image, text, audio, and video datasets"
+                        "value": "Extraction and entry of shipper, consignee, cargo, and routing details"
                     },
                     {
-                        "value": "Multi-tier accuracy validation ensuring 99%+ quality"
+                        "value": "Validation against purchase orders, manifests, and customs declarations"
                     },
                     {
-                        "value": "Scalable outsourcing for high-volume AI datasets"
+                        "value": "Multi-format BoL processing: paper, PDF, EDI, and carrier portal formats"
                     },
                     {
-                        "value": "SLA-backed delivery, confidentiality, and flexible pricing"
+                        "value": "Exception flagging for missing fields, discrepancies, and compliance issues"
+                    },
+                    {
+                        "value": "Compatible with: Cargowise, SAP GTS, Oracle TMS, custom customs platforms"
                     }
                 ]
             },
             {
                 "id": 5,
-                "title": "Web Scraping & Acquisition Services",
-                "desc": "Automated web crawling and extraction services delivering real-time competitive, product, and market intelligence.",
-                "url": "#",
+                "title": "Appraisal and Valuation Data Entry Services",
+                "desc": "Appraisal reports contain structured data that needs to move into valuation platforms, CRM systems, and compliance databases quickly and without transcription errors.",
+                "url": "/appraisal-data-entry-services",
                 "data": [
                     {
-                        "value": "Automated and scalable data extraction"
+                        "value": "Property appraisal and CRE valuation report data extraction and entry"
                     },
                     {
-                        "value": "Structured outputs enabling faster insights"
+                        "value": "Comparable sales data entry and market condition record population"
                     },
                     {
-                        "value": "API-based data extraction options"
+                        "value": "Form 1004, 1073, 2055, and custom appraisal format processing"
                     },
                     {
-                        "value": "Low-cost outsourced data acquisition"
+                        "value": "Field-level validation for completeness and regulatory compliance"
+                    },
+                    {
+                        "value": "Compatible with: a la mode (TOTAL), ACI, Bradford/Patriot, DataMaster, custom AMC platforms"
                     }
                 ]
             },
             {
                 "id": 6,
-                "title": "CRM & Database Services",
-                "desc": "Precision-driven CRM and database services enhancing data quality, visibility, and usability.",
-                "url": "#",
+                "title": "Mortgage Data Entry Support",
+                "desc": "Mortgage processing involves high volumes of structured documents that must be entered accurately and fast. Processing delays cost lenders in rate lock expiry, compliance risk, and customer satisfaction.",
+                "url": "/mortgage-data-entry-support",
                 "data": [
                     {
-                        "value": "CRM data cleanup and enrichment services"
+                        "value": "Loan application data entry from 1003, 1008, and custom mortgage forms"
                     },
                     {
-                        "value": "Database management outsourcing"
+                        "value": "Income, asset, and employment verification document data capture"
                     },
                     {
-                        "value": "Data conversion and digitization services"
+                        "value": "Title, appraisal, and closing document data entry"
                     },
                     {
-                        "value": "Document scanning and indexing for paper-to-digital transformation"
+                        "value": "Condition stacking and exception tracking entry for underwriting pipelines"
+                    },
+                    {
+                        "value": "Compatible with: Encompass, Calyx Point, MortgageBot, Byte, OpenClose"
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "title": "Real Estate Property Listing Services",
+                "desc": "Property listing data needs to be accurate, complete, and formatted correctly for MLS submission, portal upload, and CRM entry. Incorrect or incomplete listings reduce search visibility and buyer trust.",
+                "url": "/real-estate-property-listing-services",
+                "data": [
+                    {
+                        "value": "MLS listing data entry with full field completion and compliance checks"
+                    },
+                    {
+                        "value": "Property detail entry for Rightmove, Zoopla, Zillow, Realtor.com, and Redfin"
+                    },
+                    {
+                        "value": "CRM property record creation and ongoing maintenance"
+                    },
+                    {
+                        "value": "Photo metadata tagging and listing description formatting"
+                    },
+                    {
+                        "value": "Compatible with: Matrix, Paragon, Flexmls, Salesforce, BoomTown, custom CRMs"
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "title": "eCommerce Product Data Entry Services",
+                "desc": "Product catalogue quality determines whether customers can find your products, understand what they are buying, and trust the listing enough to purchase. Poor product data costs sales every day.",
+                "url": "/ecommerce-product-data-entry-services",
+                "data": [
+                    {
+                        "value": "SKU creation with full attribute, specification, and category entry"
+                    },
+                    {
+                        "value": "Product title, description, and bullet point writing and entry"
+                    },
+                    {
+                        "value": "Pricing, inventory level, and variant entry across channels"
+                    },
+                    {
+                        "value": "Marketplace compliance checks for Amazon, eBay, Shopify, and B2B catalogues"
+                    },
+                    {
+                        "value": "Bulk upload preparation and validation for large catalogue operations"
                     }
                 ]
             }

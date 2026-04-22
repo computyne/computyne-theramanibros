@@ -1,5 +1,3 @@
-import Link from "next/link";
-import FunfactSingle from "./FunfactSingle";
 import FaqItem from "./FaqItem";
 import BootstrapWrapper from "./BootstrapWrapper";
 

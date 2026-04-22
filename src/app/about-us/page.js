@@ -5,7 +5,6 @@ import Hero from "@/components/sections/about-page/Hero";
 import AboutCard from "@/components/sections/about-page/AboutCard";
 import Features from "@/components/sections/about-page/Features";
 import Funfact from "@/components/sections/about-page/Funfact";
-import Faq from "@/components/sections/about-page/Faq";
 import Team from "@/components/sections/about-page/Team";
 import Footer from "@/components/layout/footer/Footer";
 import SubFooter from "@/components/layout/footer/subFooter";

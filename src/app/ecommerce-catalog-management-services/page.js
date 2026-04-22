@@ -14,6 +14,7 @@ import SubFooter from "@/components/layout/footer/subFooter";
 import Testimonials from "@/components/layout/common/Testimonials";
 import JsonLd from "@/components/seo/JsonLd";
 import {ecommerceCatalogmanagementServicesSchema} from "@/libs/schema/services/ecommerceCatalogmanagementServicesSchema";
+
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 

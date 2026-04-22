@@ -1,8 +1,6 @@
 import ButtonPrimaryLoading from "@/components/sections/contact-page/ButtonPrimaryLoading";
-import BlogTagsWidget from "./widgets/BlogTagsWidget";
-import RecentBlogWidget from "./widgets/RecentBlogWidget";
-import { useRef, useState, useTransition } from "react";
-import { submitContactForm } from "@/app/actions/contactAction";
+import {useRef, useState, useTransition} from "react";
+import {submitContactForm} from "@/app/actions/contactAction";
 
 const BlogSidebar = ({tags = []}) => {
 

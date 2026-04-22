@@ -1,11 +1,9 @@
 "use client";
-import ButtonPrimary from "@/components/shared/buttons/ButtonPrimary";
 import getTeamMembers from "@/libs/getTeamMembers";
-import { useCallback, useEffect, useRef, useState } from "react";
+import {useCallback, useEffect, useRef, useState} from "react";
 import BootstrapWrapper from "./BootstrapWrapper";
 import FaqItem from "./FaqItem";
 import HowWeWorkLeftCard from "./HowWeWorkLeftCard";
-import Faq from "./Faq";
 
 const itemsDataEngagementModelsOne = [
 	{

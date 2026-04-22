@@ -1,5 +1,3 @@
-import Link from "next/link";
-
 const ToolCategoriesWidget = ({ toolCategories = [] }) => {
     return (
         <div className="col-md-12">
