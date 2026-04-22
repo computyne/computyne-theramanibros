@@ -175,47 +175,37 @@
         ]
     },
     "data-collection-services": {
-        "h2": "Benefits of Outsourcing Data Collection Services",
+        "h2": "Benefits of Outsourcing Data Collection to Computyne",
         "data": [
             {
                 "id": 1,
-                "title": "Faster, Scalable Data Acquisition",
-                "desc": "Accelerate data sourcing through automated web data collection and API-driven workflows built for scale. Offshore data collection teams deliver large, structured datasets quickly to support AI training, analytics, and enterprise intelligence."
+                "title": "99%+ Accuracy on Every Dataset",
+                "desc": "Multi-stage validation, deduplication, and manual QA checks ensure every record meets your quality threshold before delivery. No noisy data reaching your models or reports."
             },
             {
                 "id": 2,
-                "title": "Higher Accuracy & Verified Outputs",
-                "desc": "Every dataset undergoes multi-level validation, deduplication, and quality checks. High-accuracy data collection ensures clean, compliant outputs that reduce risk and support confident, data-driven decision-making."
+                "title": "Up to 60% Cost Reduction",
+                "desc": "Eliminate the cost of in-house researchers, scraping tools, proxy infrastructure, and data engineering. Pay per project or on a monthly retainer with no hidden overhead."
             },
             {
                 "id": 3,
-                "title": "Reduced Operational Costs",
-                "desc": "Outsourcing data collection eliminates hiring, training, licensing, and infrastructure expenses. Businesses gain predictable pricing, faster delivery, and consistent quality without maintaining in-house teams."
+                "title": "Faster Time to Data",
+                "desc": "Automated pipelines and a dedicated team mean your first dataset is ready in days, not weeks. Recurring feeds deliver on your schedule without manual intervention."
             },
             {
                 "id": 4,
-                "title": "End-to-End Managed Services",
-                "desc": "From data sourcing and extraction to cleaning, formatting, and delivery, the entire data lifecycle is managed seamlessly, ensuring continuous access to structured, ready-to-use datasets."
+                "title": "ISO 27001 Data Security",
+                "desc": "All collection operations follow ISO 27001 protocols with NDAs, role-based access, GDPR-aware handling for UK and EU clients, and secure delivery at every stage."
             },
             {
                 "id": 5,
-                "title": "Custom Data Tailored to Your Needs",
-                "desc": "Datasets are customized around your KPIs, including SKU-level eCommerce data, B2B contact lists, AI-ready labeled datasets, and commercial property records aligned with business workflows and goals."
+                "title": "Scales from Thousands to Millions",
+                "desc": "Whether you need 500 records for a pilot or 10 million records for an AI training dataset, the same managed delivery model applies. Scale without rebuilding your operation."
             },
             {
                 "id": 6,
-                "title": "Real-Time, Faster Decision-Making",
-                "desc": "Access live, scheduled, or event-triggered datasets for pricing intelligence, inventory monitoring, and market tracking, enabling timely decisions and reduced uncertainty."
-            },
-            {
-                "id": 7,
-                "title": "Secure & Compliant Handling",
-                "desc": "Strict security protocols, NDAs, and compliance standards—including GDPR-aligned and industry-regulated workflows—protect data confidentiality and integrity at every stage."
-            },
-            {
-                "id": 8,
-                "title": "On-Demand Scaling & Support",
-                "desc": "Scale seamlessly from thousands to millions of records using cloud-based infrastructure and dedicated data teams that support peak demand, seasonal growth, and multi-market expansion."
+                "title": "Any Format, Any Frequency",
+                "desc": "CSV, JSON, Excel, XML, Google Sheets, or direct API delivery. One-off, daily, weekly, or real-time. Your data arrives the way your systems expect it."
             }
         ]
     },

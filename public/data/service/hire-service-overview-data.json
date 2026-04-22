@@ -327,5 +327,50 @@
                 "<p><a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Hire a Designer. Get a Free Consultation</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a></p>"
             ]
         }
+    },
+    "data-collection-services": {
+        "banner": {
+            "image": "/images/service/banner/data-collection-banner.webp",
+            "alt": "Scalable data collection services banner representing the aggregation of global data sources for business intelligence",
+            "h1": "Outsourced Data Collection Services |",
+            "h1_primary": "Accurate, Scalable and AI-Ready",
+            "tagline": "Fuel AI models, analytics, sales pipelines, and market intelligence with clean, verified, and structured data. Collected at scale. Delivered on time. Backed by ISO 27001.",
+            "cta": "",
+            "primaryCta": "Start Secure Data Collection",
+            "secondaryCta": "Get a Free Pilot Project"
+        },
+        "counter": [
+            {
+                "label": "Data Accuracy",
+                "value": "99",
+                "symbol": "%+"
+            },
+            {
+                "label": "ISO Certification",
+                "value": "",
+                "symbol": "ISO 27001 Certified"
+            },
+            {
+                "label": "Cost Saving",
+                "value": "",
+                "symbol": "Up to 60% vs in-house"
+            },
+            {
+                "label": "Delivery Formats",
+                "value": "",
+                "symbol": "CSV, JSON, Excel, API, XML"
+            }
+        ],
+        "overview": {
+            "image": "/images/service/overview/data-collection-overview.webp",
+            "alt": "Advanced data collection process showing web harvesting and API-based data retrieval for AI and analytics",
+            "h2": "Outsourced Data Collection for AI, Analytics and Market Intelligence",
+            "content": [
+                "Every business decision depends on data. The quality of the data you work with determines the accuracy of your analytics, the performance of your AI models, and the reliability of your market intelligence. Collecting that data in-house is time-consuming, expensive, and difficult to scale. Internal teams get diverted, coverage is inconsistent, and format standardisation across sources is rarely achieved.",
+                "<strong>Computyne</strong> provides professional outsourced data collection services for organisations that need large volumes of accurate, structured, and ready-to-use data without building or maintaining an in-house collection operation. Our specialists combine automated extraction pipelines with manual verification workflows to deliver datasets that work in your BI tools, CRM platforms, and AI training pipelines from day one.",
+                "We collect data from websites, APIs, SaaS platforms, government portals, PDFs, and proprietary sources. Every dataset is cleaned, deduplicated, validated against your quality standards, and delivered in your preferred format and frequency. One-off projects or recurring feeds. Thousands of records or millions.",
+                "<h2>Why Outsource Data Collection?</h2> Building an in-house data collection capability sounds straightforward. In practice it means hiring researchers, procuring tools, managing proxies and anti-scraping infrastructure, maintaining data pipelines, and running ongoing quality assurance. For most organisations, that overhead is neither cost-effective nor their core competency. Outsourcing removes it entirely. You define what data you need, at what frequency, and in what format. Computyne handles every step between that requirement and a clean dataset landing in your system."
+            ]
+        }
     }
 }

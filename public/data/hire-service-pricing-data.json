@@ -309,5 +309,48 @@
                 "Data Science Specialists": "From $25 to $50/hr"
             }
         ]
+    },
+    "data-collection-services": {
+        "h2": "Flexible Data Collection Engagement Models",
+        "closingLine": "Pricing depends on source complexity, data volume, refresh frequency, validation requirements, and delivery format. Contact us for a custom quote on your specific project.",
+        "cta": "Get a Custom Data Collection Quote",
+        "engagementModels": [
+            {
+                "model": "One-Off Project",
+                "bestFor": "Market entry, specific intelligence sprint, initial dataset build",
+                "commitment": "Any volume",
+                "indicativeRate": "Scoped quote based on source count and record volume",
+                "rate": "0",
+                "ratePolicy": "",
+                "isActive": false
+            },
+            {
+                "model": "Recurring Feed",
+                "bestFor": "Ongoing price monitoring, lead lists, property feeds, competitor tracking",
+                "commitment": "Any frequency",
+                "indicativeRate": "Monthly retainer from $500/mo",
+                "rate": "500",
+                "ratePolicy": "/mo",
+                "isActive": true
+            },
+            {
+                "model": "Dedicated Team",
+                "bestFor": "Large-scale ongoing collection, AI training data pipelines, enterprise data ops",
+                "commitment": "High volume",
+                "indicativeRate": "Custom SLA-based contract",
+                "rate": "0",
+                "ratePolicy": "",
+                "isActive": false
+            },
+            {
+                "model": "Free Pilot",
+                "bestFor": "Test accuracy and delivery before committing to a full project",
+                "commitment": "Up to 500 records",
+                "indicativeRate": "Free, no commitment required",
+                "rate": "0",
+                "ratePolicy": "",
+                "isActive": false
+            }
+        ]
     }
 }

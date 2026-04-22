@@ -264,48 +264,52 @@
 		"faq": [
 			{
 				"title": "What are outsourced data collection services?",
-				"desc": "Outsourced data collection services involve partnering with a specialized provider to gather, validate, and deliver structured datasets. This approach reduces internal workload while ensuring scalable, accurate, and cost-efficient data sourcing.",
+				"desc": "Outsourced data collection services involve partnering with a specialist provider to gather, structure, validate, and deliver data on your behalf. Instead of building in-house scraping, research, or extraction capabilities, you define what you need and your provider handles every step from source identification to clean dataset delivery. This covers web scraping, data extraction, web research, B2B list building, property data, and AI training data collection.",
 				"initActive": true
 			},
 			{
-				"title": "Why should businesses outsource data collection to Computyne?",
-				"desc": "Computyne provides automated tools, experienced data professionals, 24×7 operations, and enterprise-grade accuracy. Businesses gain faster access to reliable data without internal hiring or infrastructure investments."
+				"title": "Why should businesses outsource data collection rather than doing it in-house?",
+				"desc": "In-house data collection requires ongoing investment in tools, proxy infrastructure, developer time, and quality assurance. As data volume and source complexity grow, that overhead compounds. Outsourcing gives you access to specialist teams, proven infrastructure, and managed QA without fixed headcount. Businesses typically save 40 to 60% versus in-house operations while getting faster delivery and more consistent accuracy."
 			},
 			{
 				"title": "Which industries benefit most from outsourced data collection?",
-				"desc": "Industries such as AI & ML, eCommerce, real estate, B2B enterprises, finance, healthcare analytics, travel, and hospitality leverage outsourced data collection to support pricing, listings, analytics, and market intelligence."
+				"desc": "AI and ML teams use it for training datasets. eCommerce companies use it for competitor price monitoring and product data. Real estate firms use it for listing and property record collection. B2B sales teams use it for lead list building. Finance and data providers use it for market pricing feeds. Healthcare organisations use it for provider databases and regulatory intelligence. Travel and hospitality companies use it for rate monitoring and review aggregation."
 			},
 			{
 				"title": "Can Computyne collect data for AI and machine learning models?",
-				"desc": "Yes. Computyne delivers AI training data collection services, including labeled datasets, text and image data, structured feeds, and synthetic data to support machine learning workflows."
+				"desc": "Yes. Computyne delivers AI training data collection services including text, image, audio, and video data collection, along with labelled datasets, benchmark datasets, and structured tabular data for model training and evaluation. This service connects directly to our data annotation capabilities for end-to-end AI data pipeline support."
 			},
 			{
 				"title": "What types of data can be collected?",
-				"desc": "Collected data includes product catalogs, competitor pricing, property listings, B2B contact data, customer reviews, financial datasets, market intelligence, and document-based data sourced from websites, APIs, portals, SaaS platforms, and PDFs."
+				"desc": "We collect product catalogues, competitor pricing, property listings and records, B2B contact data, company intelligence, customer reviews, financial market data, physician and healthcare provider databases, job listings, news and media data, government and regulatory data, and document-based data from PDFs and scanned sources. If it exists online or in a structured source, we can collect it."
 			},
 			{
 				"title": "How accurate are the delivered datasets?",
-				"desc": "Most data collection projects achieve accuracy levels above 99%, supported by multi-stage validation processes and manual quality assurance checks."
+				"desc": "Most data collection projects achieve accuracy above 99%, supported by multi-stage validation processes that include format checking, deduplication, cross-source verification, and manual QA review. Accuracy benchmarks are agreed before each project and reported in every delivery."
 			},
 			{
-				"title": "What is the cost of outsourcing data collection services?",
-				"desc": "Pricing depends on factors such as data volume, frequency, complexity, sources, and delivery formats. Flexible project-based and monthly pricing models are available."
+				"title": "How much does outsourcing data collection cost?",
+				"desc": "Pricing depends on data volume, source complexity, refresh frequency, validation requirements, and delivery format. One-off projects are quoted based on scope. Recurring feeds start from $500/month depending on volume and frequency. We offer a free pilot of up to 500 records so you can validate quality before committing to a full engagement."
 			},
 			{
-				"title": "What data formats are supported?",
-				"desc": "Data can be delivered in CSV, Excel, JSON, XML, Google Sheets, via APIs, or through direct database uploads based on client requirements."
+				"title": "What data formats are supported for delivery?",
+				"desc": "Data can be delivered in CSV, Excel, JSON, XML, Google Sheets, via REST API, or through direct database upload into your system. We match the delivery format and structure to your existing data infrastructure so no transformation is required on your end."
 			},
 			{
-				"title": "Can you provide real-time or scheduled updates?",
-				"desc": "Yes. Real-time data feeds, scheduled data extraction, and recurring monitoring are supported for pricing, inventory, listings, and customer reviews."
+				"title": "Can you provide real-time or scheduled data updates?",
+				"desc": "Yes. Real-time data feeds, scheduled daily or weekly extraction, and event-triggered collection are all supported. This is commonly used for competitor price monitoring, property listing feeds, inventory tracking, and news aggregation where data currency directly affects business decisions."
 			},
 			{
-				"title": "Is data handled securely?",
-				"desc": "All data collection projects follow strict security practices, including encryption, access controls, NDAs, and compliance with applicable data protection regulations."
+				"title": "Is data collected securely and in compliance with regulations?",
+				"desc": "Yes. All collection projects follow ISO 27001 information security protocols including encryption, access controls, and signed NDAs. For UK and EU clients, we apply GDPR-aware data handling practices throughout the collection, processing, and delivery workflow. We do not collect data from sources that prohibit it, and we maintain documented compliance procedures for each engagement."
 			},
 			{
-				"title": "Are custom datasets available?",
-				"desc": "Yes. Every dataset is fully customized to align with your KPIs, analytics requirements, and overall business objectives."
+				"title": "How quickly can data collection begin?",
+				"desc": "For straightforward web scraping and extraction projects, collection can begin within 2 to 4 business days of project brief confirmation. More complex builds involving authentication, dynamic sources, or custom delivery pipelines typically take 5 to 7 business days to go live."
+			},
+			{
+				"title": "Do you offer fully customised datasets?",
+				"desc": "Yes. Every dataset is built around your specific requirements: the sources you need, the fields you want, the format your systems expect, and the frequency that keeps your data current. We do not sell off-the-shelf data. Every project is scoped and delivered to your specification."
 			}
 		]
 	},

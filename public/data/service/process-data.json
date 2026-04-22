@@ -1,0 +1,37 @@
+{
+    "data-collection-services": {
+        "h2": "From Data Requirement to Delivered Dataset in 5 Steps",
+        "steps": [
+            {
+                "id": 1,
+                "title": "Define Requirements",
+                "desc": "You tell us what data you need: sources, fields, format, frequency, and delivery method. We ask the right questions to scope the project accurately.",
+                "timeline": "Day 1"
+            },
+            {
+                "id": 2,
+                "title": "Source Assessment",
+                "desc": "Our team assesses the target sources, identifies technical challenges (anti-bot measures, authentication, data structure), and confirms feasibility.",
+                "timeline": "Day 1 to 2"
+            },
+            {
+                "id": 3,
+                "title": "Build and Configure",
+                "desc": "We build the extraction pipeline, configure validation rules, and run an initial test batch for your review before full-scale collection begins.",
+                "timeline": "Day 2 to 4"
+            },
+            {
+                "id": 4,
+                "title": "Collect and Validate",
+                "desc": "Full collection runs with multi-stage validation: deduplication, format standardisation, accuracy checks, and removal of incomplete records.",
+                "timeline": "Ongoing"
+            },
+            {
+                "id": 5,
+                "title": "Deliver and Review",
+                "desc": "Datasets are delivered in your preferred format and frequency. You receive a delivery report, and we address any quality queries within 24 hours.",
+                "timeline": "Per agreed schedule"
+            }
+        ]
+    }
+}

@@ -1,125 +1,143 @@
 {
     "data-collection-services": {
         "h2": "Scalable Data Collection Solutions for Modern Enterprises",
-        "desc": "We offer secure, scalable outsourced data collection solutions that support AI training, market intelligence, and real-time business decisions.",
+        "desc": "Each service below links to a dedicated sub-page with full service detail, pricing, use cases, and FAQs.",
         "services": [
             {
                 "id": 1,
                 "title": "Data Extraction Services",
-                "desc": "Structured data collected from digital sources and delivered in analytics-ready formats.",
+                "desc": "Structured data collected from digital sources and delivered in analytics-ready formats. Built for organisations that need accurate, repeatable extraction from websites, portals, directories, and databases at volume.",
                 "url": "/data-extraction-services",
                 "data": [
                     {
-                        "value": "Fast, automated extraction workflows"
+                        "value": "Fast, automated extraction workflows with scheduled delivery"
                     },
                     {
-                        "value": "Multi-format delivery (CSV, JSON, Excel, API feeds)"
+                        "value": "Multi-format delivery: CSV, JSON, Excel, XML, API feeds, Google Sheets"
                     },
                     {
-                        "value": "Accuracy-driven validation processes"
+                        "value": "Multi-stage accuracy validation before every delivery"
                     },
                     {
-                        "value": "Optimized for large and recurring datasets"
+                        "value": "Optimised for large, recurring, and multi-source datasets"
+                    },
+                    {
+                        "value": "Compatible with: BI dashboards, CRM platforms, data warehouses, AI pipelines"
                     }
                 ]
             },
             {
                 "id": 2,
                 "title": "Data Mining Services",
-                "desc": "Advanced data analysis to uncover trends, patterns, and actionable business opportunities.",
+                "desc": "Advanced analysis of large datasets to surface patterns, trends, and business opportunities that would not be visible from raw data alone.",
                 "url": "/data-mining-services",
                 "data": [
                     {
-                        "value": "Predictive insights for strategic planning"
+                        "value": "Predictive insights for market sizing, demand forecasting, and pricing strategy"
                     },
                     {
-                        "value": "Customer and market pattern identification"
+                        "value": "Customer and prospect pattern identification from CRM and transaction data"
                     },
                     {
-                        "value": "Business intelligence enablement"
+                        "value": "Business intelligence enablement for leadership and commercial teams"
                     },
                     {
-                        "value": "Opportunity discovery and reporting"
+                        "value": "Opportunity discovery, competitive gap analysis, and market entry research"
+                    },
+                    {
+                        "value": "Reporting in formats ready for board presentations and strategy sessions"
                     }
                 ]
             },
             {
                 "id": 3,
                 "title": "Web Research Services",
-                "desc": "Manually verified research compiled from credible, industry-specific sources.",
+                "desc": "Manually verified research compiled from credible, industry-specific sources. Built for teams that need accurate intelligence rather than algorithmically scraped output.",
                 "url": "/web-research-services",
                 "data": [
                     {
-                        "value": "Market and industry research reports"
+                        "value": "Market and industry research reports tailored to specific geographies and sectors"
                     },
                     {
-                        "value": "Competitive and sector benchmarking"
+                        "value": "Competitive benchmarking, market share analysis, and positioning research"
                     },
                     {
-                        "value": "Verified statistics and insights"
+                        "value": "Verified statistics, regulatory data, and sector-specific insight"
                     },
                     {
-                        "value": "High-trust research outputs"
+                        "value": "Company profiling, prospect research, and decision-maker identification"
+                    },
+                    {
+                        "value": "Delivered as structured reports, spreadsheets, or CRM-ready data"
                     }
                 ]
             },
             {
                 "id": 4,
-                "title": "List Building & B2B Contact Data Collection",
-                "desc": "Targeted business contact datasets for sales, marketing, and ABM initiatives.",
+                "title": "List Building and B2B Contact Data Collection",
+                "desc": "Targeted, verified business contact datasets for sales outreach, account-based marketing, and lead generation campaigns.",
                 "url": "/list-building-services",
                 "data": [
                     {
-                        "value": "Verified B2B contact information"
+                        "value": "Verified B2B contact data: names, emails, phone numbers, LinkedIn profiles"
                     },
                     {
-                        "value": "Role-, region-, and industry-based segmentation"
+                        "value": "Role, seniority, region, industry, and company-size segmentation"
                     },
                     {
-                        "value": "Optimized for outreach and lead generation"
+                        "value": "Intent signal enrichment and technology stack data"
                     },
                     {
-                        "value": "Improved engagement and conversion rates"
+                        "value": "Duplicate detection and ongoing list maintenance"
+                    },
+                    {
+                        "value": "Optimised for Salesforce, HubSpot, Outreach, Apollo, and CRM imports"
                     }
                 ]
             },
             {
                 "id": 5,
                 "title": "Web Scraping Services",
-                "desc": "Automated web data gathering solutions designed for high-volume and real-time data needs.",
+                "desc": "Automated, enterprise-grade web data collection for high-volume and real-time data requirements across competitor monitoring, pricing intelligence, and catalogue management.",
                 "url": "/web-scraping-services",
                 "data": [
                     {
-                        "value": "Enterprise-grade web scraping automation"
+                        "value": "Custom scraping infrastructure built around your target sources"
                     },
                     {
-                        "value": "Competitor and market monitoring"
+                        "value": "Anti-bot handling, proxy rotation, and CAPTCHA management"
                     },
                     {
-                        "value": "Product catalog and pricing extraction"
+                        "value": "Competitor price tracking, stock monitoring, and product data extraction"
                     },
                     {
-                        "value": "Cloud-based data harvesting tools"
+                        "value": "Review and rating collection from marketplaces and review platforms"
+                    },
+                    {
+                        "value": "Cloud-based scraping with scheduled delivery or real-time webhooks"
                     }
                 ]
             },
             {
                 "id": 6,
-                "title": "Property Data Collection Solutions",
-                "desc": "Comprehensive real estate data sourcing with compliance, accuracy, and scalability.",
+                "title": "Property Data Collection",
+                "desc": "Comprehensive real estate data collection for property intelligence platforms, agencies, investors, and proptech companies operating across UK, US, and global markets.",
                 "url": "/property-data-collection-services",
                 "data": [
                     {
-                        "value": "MLS listings and property data capture"
+                        "value": "MLS listings, property records, and real estate portal data collection"
                     },
                     {
-                        "value": "Scheduled updates and live data feeds"
+                        "value": "Scheduled updates and live property data feeds"
                     },
                     {
-                        "value": "Zoning and permitted-use classification"
+                        "value": "Zoning, permitted-use, and planning data classification"
                     },
                     {
-                        "value": "Property, agent, and locality datasets"
+                        "value": "Agent, landlord, and property management company data"
+                    },
+                    {
+                        "value": "UK-specific sources: Rightmove, Zoopla, Land Registry, planning portals"
                     }
                 ]
             }

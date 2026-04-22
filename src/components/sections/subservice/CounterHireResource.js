@@ -2,7 +2,7 @@
 import {usePathname} from "next/navigation";
 import FunfactSingle2 from "./FunfactSingle2";
 import getServiceData from "@/libs/service/getServiceData";
-import getHireServiceData from "@/libs/service/getHireServiceData";
+import getHireServiceData from "../../../libs/service/getHireServiceData";
 
 const Counter = () => {
     const pathname = usePathname();

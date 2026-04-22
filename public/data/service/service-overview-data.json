@@ -209,60 +209,6 @@
             ]
         }
     },
-    "data-collection-services": {
-        "banner": {
-            "image": "/images/service/banner/data-collection-banner.webp",
-            "alt": "Scalable data collection services banner representing the aggregation of global data sources for business intelligence",
-            "h1": "Outsourced Data Collection Services - Accurate, Scalable & AI-Ready",
-            "tagline": "Fuel Data-Driven Growth with Scalable, Accurate, and Outsourced Data Collection Services",
-            "cta": "Start Secure Data Collection"
-        },
-        "counter": [
-            {
-                "label": "Years of Experience",
-                "value": "15",
-                "symbol": "+"
-            },
-            {
-                "label": "Empowered Employees",
-                "value": "250",
-                "symbol": "+"
-            },
-            {
-                "label": "Data Collected Annually",
-                "value": "50",
-                "symbol": "M"
-            },
-            {
-                "label": "Cost Saving",
-                "value": null,
-                "symbol": "60%"
-            },
-            {
-                "label": "Data Support",
-                "value": "24",
-                "symbol": "x7"
-            },
-            {
-                "label": "Accuracy",
-                "value": "99.99",
-                "symbol": "%"
-            }
-        ],
-        "overview": {
-            "image": "/images/service/overview/data-collection-overview.webp",
-            "alt": "Advanced data collection process showing web harvesting and API-based data retrieval for AI and analytics",
-            "h2": "Outsourced Data Collection for AI, Analytics & Market Intelligence",
-            "content": [
-                "<strong>Computyne</strong> delivers professional data collection services that empower organizations to eliminate manual workloads and drastically reduce operational costs. We provide high-fidelity, decision-ready datasets designed to fuel enterprise analytics, AI initiatives, and global market research with unmatched speed and security.",
-                "<h5>Overcoming Data Fragmentation</h5> Many businesses struggle with fragmented or incomplete data that stalls decision-making. Computyne resolves these bottlenecks through <strong>scalable data collection outsourcing.</strong>",
-                "Our approach integrates:",
-                "<ul style=\"padding-left:2rem;\"><li><strong>Automated Web Harvesting:</strong> Rapid extraction from global marketplaces.</li><li><strong>API-Based Collection:</strong> Seamless data retrieval from SaaS and enterprise tools.</li><li><strong>Rigorous Validation:</strong> Multi-tier workflows ensuring 100% accuracy.</li></ul>",
-                "<h5>Business-Ready Data for AI and Analytics</h5><p>Our specialists help you accelerate AI adoption and optimize pricing strategies without the overhead of internal infrastructure. We transform unstructured content, including PDFs, scanned documents, and government portals, into clean, structured formats.</p><p>Every dataset is meticulously <strong>cleaned, deduplicated, and validated</strong> to integrate seamlessly into your BI dashboards, CRM platforms, and AI pipelines. Partner with Computyne to turn complex data into your most valuable strategic asset.</p>",
-                "<a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Collect High-Quality Data at Scale</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a>"
-            ]
-        }
-    },
     "data-enrichment-services": {
         "banner": {
             "image": "/images/service/banner/data-enrichment-banner.webp",
