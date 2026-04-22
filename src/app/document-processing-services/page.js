@@ -17,6 +17,7 @@ import AboutusHireResource from "@/components/sections/subservice/AboutusHireRes
 import ToolsAndTech from "@/components/sections/toolsandtech/ToolsAndTech";
 import TeamComparison from "@/components/sections/TeamComparison";
 import Process from "@/components/sections/how-work/Process";
+import IDPAutomation from "@/components/sections/idp-automation/IDPAutomation";
 
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
@@ -64,6 +65,7 @@ export default function documentProcessingServices() {
                             <Subservices/>
                             <Casestudy text="Real Document Processing Results Across Industries"/>
                             <Whychooseus/>
+                            <IDPAutomation/>
                             <ToolsAndTech/>
                             <Process/>
                             <TeamComparison/>

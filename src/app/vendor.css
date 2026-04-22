@@ -98,6 +98,166 @@
 
 .tool-tag {
     display: inline-block;
+    padding: 6px 12px;
+    background: linear-gradient(135deg, #f47920 0%, #ff6b35 100%);
+    color: white;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    margin: 4px;
+    transition: all 0.3s ease;
+}
+
+.tool-tag:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 12px rgba(244, 121, 32, 0.3);
+}
+
+/* IDP Automation Section Styles */
+.tj-idp-automation-section {
+    background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+    position: relative;
+}
+
+.idp-description-wrapper {
+    padding: 20px 0;
+}
+
+.idp-description {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #4a5568;
+    font-weight: 400;
+}
+
+.idp-table-card {
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    overflow: hidden;
+    margin-bottom: 30px;
+    border: 1px solid #e5e7eb;
+    transition: all 0.3s ease;
+}
+
+.idp-table-card:hover {
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+}
+
+.idp-card-header {
+    background: linear-gradient(135deg, #0a1f44 0%, #2c3e50 100%);
+    padding: 20px 30px;
+    position: relative;
+}
+
+.idp-card-header::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #f47920 0%, #ff6b35 100%);
+}
+
+.idp-card-title {
+    color: white;
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.idp-card-body {
+    padding: 0;
+}
+
+.idp-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0;
+}
+
+.idp-table thead {
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+}
+
+.idp-table th {
+    padding: 18px 24px;
+    text-align: left;
+    font-weight: 700;
+    font-size: 0.95rem;
+    color: #0a1f44;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border-bottom: 2px solid #e5e7eb;
+}
+
+.idp-table tbody tr {
+    border-bottom: 1px solid #e5e7eb;
+    transition: all 0.2s ease;
+}
+
+.idp-table tbody tr:hover {
+    background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+}
+
+.idp-table tbody tr:last-child {
+    border-bottom: none;
+}
+
+.idp-table td {
+    padding: 16px 24px;
+    font-size: 0.95rem;
+    color: #4a5568;
+    vertical-align: middle;
+}
+
+.idp-document-type {
+    font-weight: 600;
+    color: #0a1f44;
+}
+
+.idp-extraction-method {
+    color: #2c3e50;
+}
+
+.idp-accuracy {
+    text-align: center;
+}
+
+.accuracy-badge {
+    display: inline-block;
+    padding: 6px 16px;
+    background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+    color: white;
+    border-radius: 20px;
+    font-weight: 700;
+    font-size: 0.9rem;
+    box-shadow: 0 2px 8px rgba(16, 185, 129, 0.2);
+}
+
+.idp-tat {
+    text-align: center;
+    font-weight: 600;
+    color: #f47920;
+}
+
+.idp-technology-name {
+    font-weight: 700;
+    color: #0a1f44;
+    font-size: 1rem;
+    width: 35%;
+}
+
+.idp-technology-desc {
+    color: #4a5568;
+    line-height: 1.6;
+}
+
+.tool-tag-link {
     background: transparent;
     border: 1px solid #f47920;
     color: #f47920;
@@ -109,9 +269,10 @@
     text-decoration: none;
     transition: all 0.2s ease;
     cursor: pointer;
+    display: inline-block;
 }
 
-.tool-tag:hover {
+.tool-tag-link:hover {
     background: #f47920;
     color: white;
     transform: scale(1.05);
