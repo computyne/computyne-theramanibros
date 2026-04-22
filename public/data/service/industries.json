@@ -1110,20 +1110,20 @@
         ]
     },
     "document-processing-services": {
-        "h2": "Industries We Support with Scalable Document Processing Services",
+        "h2": "Document Processing Services Across Key Industries",
         "industries": [
             {
                 "id": 1,
-                "title": "Banking & Financial Services",
-                "desc": "We process financial documents with high accuracy to ensure regulatory compliance, faster reporting cycles, and improved risk management.",
+                "title": "Banking and Financial Services",
+                "desc": "Document Types Processed: Loan applications, KYC documents, financial statements, compliance records. Primary Use Cases: Faster application processing, compliance readiness, audit support.",
                 "img": "/images/industries-services/finance.webp",
                 "alt": "Finance and accounting BPO services showcasing audit-ready accounts payable, receivable management, and general ledger reconciliation for enterprise financial transparency",
                 "url": "/finance-and-accounting"
             },
             {
                 "id": 2,
-                "title": "Healthcare & Life Sciences",
-                "desc": "We securely digitize and validate healthcare documents to support regulatory compliance, data integrity, and clinical efficiency.",
+                "title": "Healthcare and Life Sciences",
+                "desc": "Document Types Processed: Patient intake forms, clinical records, insurance claims, prior auth forms. Primary Use Cases: HIPAA-compliant digitisation, claims processing, records accessibility.",
                 "img": "/images/industries-services/healthcare.webp",
                 "alt": "Healthcare BPO services illustrating HIPAA-compliant medical record indexing, clinical data management, and revenue cycle support for hospitals and private practices",
                 "url": "/healthcare"
@@ -1131,57 +1131,65 @@
             {
                 "id": 3,
                 "title": "Insurance",
-                "desc": "We streamline claims, underwriting, and policy document processing to improve turnaround times and service accuracy.",
+                "desc": "Document Types Processed: Claims forms, policy documents, underwriting applications, adjuster reports. Primary Use Cases: Claims turnaround, underwriting efficiency, compliance documentation.",
                 "img": "/images/industries-services/insurance.webp",
                 "alt": "Insurance BPO services featuring automated claims processing, FNOL intake support, policy administration, and HIPAA-compliant data management for carriers and agencies",
                 "url": "/finance-and-accounting"
             },
             {
                 "id": 4,
-                "title": "eCommerce & Retail",
-                "desc": "We process product catalogs, orders, and invoice documents to support analytics, inventory management, and pricing decisions.",
-                "img": "/images/industries-services/ecommerce.webp",
-                "alt": "eCommerce BPO services featuring automated product catalog management, SKU optimization, and multi-platform inventory synchronization for digital marketplaces",
-                "url": "/ecommerce"
-            },
-            {
-                "id": 5,
-                "title": "Real Estate",
-                "desc": "We digitize property documents and transaction records to enable faster processing, better accessibility, and reliable reporting.",
-                "img": "/images/industries-services/real-estate.webp",
-                "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
-                "url": "/real-estate"
-            },
-            {
-                "id": 6,
-                "title": "Logistics & Transportation",
-                "desc": "We process freight, shipping, and delivery documents to improve cost control, operational visibility, and compliance.",
+                "title": "Logistics and Transportation",
+                "desc": "Document Types Processed: Bills of lading, freight invoices, customs documents, proof of delivery. Primary Use Cases: Freight audit, AP accuracy, customs compliance, carrier management.",
                 "img": "/images/industries-services/logistics-&-supply-chain.webp",
                 "alt": "Logistics BPO services featuring automated freight bill processing, bill of lading data entry, and real-time shipment tracking support for 3PL and 4PL providers",
                 "url": "/logistics-and-transportation"
             },
             {
+                "id": 5,
+                "title": "eCommerce and Retail",
+                "desc": "Document Types Processed: Supplier invoices, purchase orders, product compliance documents. Primary Use Cases: AP automation, supplier management, compliance documentation.",
+                "img": "/images/industries-services/ecommerce.webp",
+                "alt": "eCommerce BPO services featuring automated product catalog management, SKU optimization, and multi-platform inventory synchronization for digital marketplaces",
+                "url": "/ecommerce"
+            },
+            {
+                "id": 6,
+                "title": "Real Estate and Property",
+                "desc": "Document Types Processed: Title documents, lease agreements, survey forms, planning applications. Primary Use Cases: Transaction records, lease management, compliance archiving.",
+                "img": "/images/industries-services/real-estate.webp",
+                "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
+                "url": "/real-estate"
+            },
+            {
                 "id": 7,
                 "title": "Manufacturing",
-                "desc": "We manage production, supplier, and compliance documents to enable accurate reporting, operational efficiency, and audit readiness.",
+                "desc": "Document Types Processed: Purchase orders, quality inspection reports, supplier documents, EHS records. Primary Use Cases: Supply chain documentation, compliance, supplier onboarding.",
                 "img": "/images/industries-services/manufacturing.webp",
                 "alt": "Manufacturing BPO services showing automated inventory data management, supply chain documentation, and procurement support for industrial and lean manufacturing operations",
                 "url": "#"
             },
             {
                 "id": 8,
-                "title": "IT & Technology Services",
-                "desc": "We process operational and customer-facing documents to support analytics, service delivery improvement, and decision-making.",
+                "title": "IT and Technology Services",
+                "desc": "Document Types Processed: Contracts, SLAs, onboarding documents, procurement records. Primary Use Cases: Contract management, vendor records, compliance documentation.",
                 "img": "/images/industries-services/it-technology.webp",
                 "alt": "IT and technology BPO services featuring technical data processing, software documentation support, and mission-critical back-office automation for tech enterprises",
                 "url": "#"
             },
             {
                 "id": 9,
-                "title": "Education & EdTech",
-                "desc": "We digitize academic and administrative documents to improve accessibility, reporting accuracy, and institutional transparency.",
+                "title": "Education and EdTech",
+                "desc": "Document Types Processed: Enrolment forms, academic records, financial aid applications, certificates. Primary Use Cases: Records accessibility, application processing, reporting accuracy.",
                 "img": "/images/industries-services/education.webp",
                 "alt": "Education BPO services showcasing student record digitization, academic data management, and automated enrollment processing for universities and e-learning platforms",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Staffing and Recruitment",
+                "desc": "Document Types Processed: Candidate CVs, offer letters, compliance documents, timesheets. Primary Use Cases: ATS-ready CV formatting, compliance records, contractor documentation.",
+                "img": "/images/industries-services/recruitment.webp",
+                "alt": "Recruitment BPO services featuring automated resume parsing, candidate data indexing, and background verification support for global staffing agencies and HR departments",
                 "url": "#"
             }
         ]

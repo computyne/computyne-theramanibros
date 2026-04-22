@@ -4,7 +4,6 @@ import BackToTop from "@/components/shared/others/BackToTop";
 import ClientWrapper from "@/components/shared/wrappers/ClientWrapper";
 import Aboutus from "@/components/sections/subservice/Aboutus";
 import Subservices from "@/components/sections/subservice/Subservices";
-import Banner from "@/components/sections/subservice/Banner";
 import Counter from "@/components/sections/subservice/Counter";
 import Whychooseus from "@/components/sections/subservice/Whychooseus";
 import Faq from "@/components/sections/subservice/Faq";
@@ -14,22 +13,30 @@ import {documentProcessingServicesSchema} from "@/libs/schema/services/documentP
 import JsonLd from "@/components/seo/JsonLd";
 import SubFooter from "@/components/layout/footer/subFooter";
 import Testimonials from "@/components/layout/common/Testimonials";
+import HeroBanner from "@/components/sections/subservice/HeroBanner";
+import CounterHireResource from "@/components/sections/subservice/CounterHireResource";
+import AboutusHireResource from "@/components/sections/subservice/AboutusHireResource";
+import PricingPlan from "@/components/pricing-plan/PricingPlan";
+import ToolsAndTech from "@/components/sections/toolsandtech/ToolsAndTech";
+import TeamComparison from "@/components/sections/TeamComparison";
+import Process from "@/components/sections/how-work/Process";
 
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Outsourced Document Processing Services | OCR, AI & IDP Solutions | Computyne",
+    title: "Outsourced Document Processing Services | OCR, AI and IDP | Computyne",
     description:
-        "Computyne automates document processing – freight audit, invoice processing, resume formatting, forms & digitization. 99%+ accuracy, ISO certified. Free pilot.",
+        "Outsourced document processing services from India. Invoice processing, freight audit, resume formatting, forms processing, document digitisation and OCR. ISO 27001. Free pilot.",
 
     keywords: [
         "document processing services",
-        "intelligent document management",
-        "document digitization services",
-        "document data extraction",
-        "business document processing",
-        "document workflow automation",
-        "enterprise document services",
+        "outsource document processing",
+        "intelligent document processing",
+        "invoice processing outsourcing",
+        "document digitisation services",
+        "OCR data extraction",
+        "forms processing services",
+        "freight audit services",
     ],
 
     alternates: {
@@ -54,13 +61,15 @@ export default function documentProcessingServices() {
                     <div id="smooth-content">
                         <main>
                             <div className="top-space-15"></div>
-                            
-                            <Banner/>
-                            <Counter/>
-                            <Aboutus slug={"document-processing-services"} type={1}/>
+                            <HeroBanner/>
+                            <CounterHireResource/>
+                            <AboutusHireResource slug={"document-processing-services"} type={1}/>
                             <Subservices/>
-                            <Casestudy text="Real-World Document Processing Success Stories Across Industries"/>
+                            <Casestudy text="Real Document Processing Results Across Industries"/>
                             <Whychooseus/>
+                            <ToolsAndTech/>
+                            <Process/>
+                            <TeamComparison/>
                             <Faq type={1}/>
                             <Testimonials/>
                             <Industries/>

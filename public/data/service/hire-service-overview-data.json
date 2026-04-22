@@ -418,5 +418,51 @@
                 "Outsourcing changes the model. Computyne operates as a continuous data management function, running scheduled cleansing cycles, enrichment pipelines, and validation frameworks on your behalf. Your team gets clean, current, reliable data without the overhead of maintaining the operation that produces it."
             ]
         }
+    },
+    "document-processing-services": {
+        "banner": {
+            "image": "/images/service/banner/document-processing-banner.webp",
+            "alt": "Professional document processing services banner showing OCR, AI and IDP capabilities for automated data extraction",
+            "h1": "Outsourced Document Processing Services |",
+            "h1_primary": "Automated, Accurate and Scalable",
+            "tagline": "Turn paper records, invoices, freight bills, forms, and unstructured documents into structured, analytics-ready data. Processed by trained specialists in India, validated to 99%+ accuracy, delivered in your required format.",
+            "cta": "",
+            "primaryCta": "Automate Your Document Processing",
+            "secondaryCta": "Get a Free Pilot Project"
+        },
+        "counter": [
+            {
+                "label": "Data Accuracy",
+                "value": "99",
+                "symbol": "%+"
+            },
+            {
+                "label": "ISO Certification",
+                "value": "",
+                "symbol": "ISO 27001 Certified"
+            },
+            {
+                "label": "Cost Saving",
+                "value": "",
+                "symbol": "Up to 60% vs in-house"
+            },
+            {
+                "label": "Experience",
+                "value": "15",
+                "symbol": "+ Years"
+            }
+        ],
+        "overview": {
+            "image": "/images/service/overview/document-processing-overview.webp",
+            "alt": "Professional document processing workflow showing OCR, AI extraction and human validation",
+            "h2": "Professional Document Processing Services | From Raw Documents to Business-Ready Intelligence",
+            "content": [
+                "Every organisation processes documents. Invoices arrive from hundreds of suppliers. Freight bills need auditing before payment. Candidate resumes come in dozens of different formats. Application forms need data extracted before they can be acted on. Paper records from years ago are sitting in filing cabinets that nobody can search.",
+                "The problem is not the volume. The problem is what happens when you try to process that volume manually. Errors creep in. Processing slows down. Staff spend hours on tasks that add no analytical value. And the data that should be powering your decisions is locked inside documents that your systems cannot read.",
+                "Computyne's document processing services convert physical and digital documents into clean, structured, searchable data. We combine OCR technology, AI-assisted extraction, and trained human validation to handle high-volume document workflows accurately and at scale. The output lands in your ERP, CRM, AP system, or any other platform in the format it needs to be in.",
+                "<h2>Why Outsource Document Processing?</h2> Document processing sounds like something that should be handled in-house. And for low volumes, it often is. The problem starts when volumes grow, document types multiply, and accuracy requirements tighten. At that point, in-house processing either slows everything down or introduces errors that cost more to fix than the original processing would have.",
+                "Outsourcing gives you a dedicated team, proven workflows, and the right tooling without the overhead of building and maintaining all three yourself. Computyne has been handling high-volume document types for over 15 years. We have built specific workflows for invoice processing, freight auditing, resume formatting, forms processing, and document digitisation that are faster and more accurate than most organisations can match in-house at a comparable spend."
+            ]
+        }
     }
 }

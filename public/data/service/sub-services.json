@@ -490,126 +490,144 @@
         ]
     },
     "document-processing-services": {
-        "h2": "Convert High-Volume Raw Data into Decision-Ready Intelligence",
-        "desc": "High-volume raw data is processed, validated, and structured to deliver accurate, decision-ready business intelligence.",
+        "h2": "Convert High-Volume Raw Documents into Decision-Ready Intelligence",
+        "desc": "Each service links to a dedicated sub-page with full detail, use cases, system compatibility, turnaround times, and FAQs.",
         "services": [
             {
                 "id": 1,
-                "title": "Freight Audit Services",
-                "desc": "Automated freight audit services that validate carrier invoices, eliminate billing errors, and strengthen cost control.",
-                "url": "/freight-audit-services",
+                "title": "Invoice Processing Services",
+                "desc": "Manual invoice processing is one of the most common causes of payment delays, supplier disputes, and AP backlogs. Our automated invoice processing combines OCR data capture with three-way matching and exception handling to speed up payment cycles and cut the errors that come from manual entry.",
+                "url": "/invoice-processing-services",
                 "data": [
                     {
-                        "value": "Carrier invoice verification and discrepancy resolution"
+                        "value": "Automated invoice data extraction from PDF, scanned, and email-based invoices"
                     },
                     {
-                        "value": "Rate compliance checks against contract agreements"
+                        "value": "Three-way matching: purchase order, goods receipt, and invoice line validation"
                     },
                     {
-                        "value": "Duplicate payment detection and recovery support"
+                        "value": "Exception handling with automated routing to the right approver"
                     },
                     {
-                        "value": "Detailed freight spend analytics and reporting dashboards"
+                        "value": "Duplicate invoice detection and payment block flagging"
+                    },
+                    {
+                        "value": "ERP-ready output: SAP, Oracle, NetSuite, Sage, QuickBooks, Microsoft Dynamics"
                     }
                 ]
             },
             {
                 "id": 2,
-                "title": "Invoice Processing Services",
-                "desc": "Automated invoice processing services that streamline data capture, validation, and approvals for faster payment cycles.",
-                "url": "/invoice-processing-services",
+                "title": "Freight Audit Services",
+                "desc": "Carrier invoices are wrong more often than most logistics teams realise. Billing errors, rate mismatches, duplicate charges, and accessorial fee discrepancies are common. Freight audit catches them before payment goes out.",
+                "url": "/freight-audit-services",
                 "data": [
                     {
-                        "value": "Automated invoice data extraction workflows"
+                        "value": "Carrier invoice verification against contracted rates and tariff schedules"
                     },
                     {
-                        "value": "Three-way matching accuracy controls"
+                        "value": "Identification of billing discrepancies, overcharges, and duplicate payments"
                     },
                     {
-                        "value": "Exception handling and approval routing automation"
+                        "value": "Rate compliance checks and contract term validation"
                     },
                     {
-                        "value": "ERP-ready invoice processing output formats"
+                        "value": "Recovery support for identified overcharges"
+                    },
+                    {
+                        "value": "Freight spend analytics dashboards and carrier performance reporting"
                     }
                 ]
             },
             {
                 "id": 3,
                 "title": "Resume Formatting Services",
-                "desc": "Professional resume formatting services that standardize layouts, improve readability, and ensure ATS compatibility.",
+                "desc": "Recruiters spend a surprising amount of time reformatting candidate CVs before they can be presented to clients or entered into ATS systems. That is time that should be spent on placement. Computyne handles the formatting so recruiters do not have to.",
                 "url": "/resume-formatting-services",
                 "data": [
                     {
-                        "value": "ATS-compliant resume formatting standards"
+                        "value": "ATS-compliant resume formatting to your agency or client template"
                     },
                     {
-                        "value": "Consistent fonts, spacing, and section hierarchy"
+                        "value": "Consistent fonts, section hierarchy, spacing, and layout standardisation"
                     },
                     {
-                        "value": "Bulk resume formatting at scale"
+                        "value": "Bulk formatting at scale: hundreds or thousands of resumes per week"
                     },
                     {
-                        "value": "Quality checks for formatting accuracy assurance"
+                        "value": "30-minute turnaround available for time-sensitive submissions"
+                    },
+                    {
+                        "value": "Quality checks for formatting accuracy before delivery"
                     }
                 ]
             },
             {
                 "id": 4,
                 "title": "Forms Processing Services",
-                "desc": "Accurate extraction of structured data from applications, surveys, and business forms at scale.",
+                "desc": "Insurance applications, loan forms, survey responses, intake forms, compliance documents. Whatever your form type, accurate data extraction is the bottleneck between receiving a form and acting on it. OCR-assisted extraction with human validation closes that gap.",
                 "url": "/forms-processing-services",
                 "data": [
                     {
-                        "value": "OCR-based forms data extraction technology"
+                        "value": "OCR-based data extraction from handwritten and typed forms"
                     },
                     {
-                        "value": "Validation rules for form completeness checks"
+                        "value": "Validation rules for completeness checks and field-level accuracy"
                     },
                     {
-                        "value": "High-volume forms processing automation"
+                        "value": "High-volume forms processing: insurance, healthcare, finance, legal, government"
                     },
                     {
-                        "value": "Secure handling of sensitive form data"
+                        "value": "Structured output in CSV, Excel, XML, JSON, or direct system upload"
+                    },
+                    {
+                        "value": "Secure handling of sensitive personal and financial form data"
                     }
                 ]
             },
             {
                 "id": 5,
-                "title": "Document Digitization Services",
-                "desc": "Conversion of paper records into searchable, secure, and compliant digital archives.",
+                "title": "Document Digitisation Services",
+                "desc": "Paper records that cannot be searched are records that cannot be used. Document digitisation converts physical archives into searchable, indexed, and compliant digital assets.",
                 "url": "/document-digitization-services",
                 "data": [
                     {
-                        "value": "Paper-to-digital document conversion services"
+                        "value": "Paper-to-digital conversion with scanning, OCR, and quality validation"
                     },
                     {
-                        "value": "Indexing and metadata tagging for retrieval efficiency"
+                        "value": "Indexing and metadata tagging for fast retrieval"
                     },
                     {
-                        "value": "Secure digital document storage platforms"
+                        "value": "Searchable PDF creation and digital archive organisation"
                     },
                     {
-                        "value": "Compliance-aligned digitization quality control standards"
+                        "value": "Compliance-aligned digitisation for healthcare, legal, finance, and government"
+                    },
+                    {
+                        "value": "Secure digital storage with controlled access and audit trail capability"
                     }
                 ]
             },
             {
                 "id": 6,
-                "title": "Data Analytics & Reporting Services",
-                "desc": "Transformation of processed data into actionable business intelligence through advanced analytics and reporting.",
+                "title": "Data Analytics and Reporting",
+                "desc": "Processed documents contain business intelligence. Processed invoices reveal supplier spending patterns. Processed freight bills surface cost leakage. Processed forms reveal operational trends. This service turns those processed documents into the intelligence your leadership can act on.",
                 "url": "#",
                 "data": [
                     {
-                        "value": "Advanced analytics models for decision-making"
+                        "value": "Custom dashboards built from processed document data"
                     },
                     {
-                        "value": "Custom dashboards and performance reporting"
+                        "value": "Spend analytics from invoice and freight data"
                     },
                     {
-                        "value": "Real-time data visualization capabilities"
+                        "value": "Operational trend analysis from forms and application data"
                     },
                     {
-                        "value": "ML-powered insights and trend analysis"
+                        "value": "KPI reporting and performance tracking"
+                    },
+                    {
+                        "value": "ML-assisted pattern recognition and anomaly detection"
                     }
                 ]
             }

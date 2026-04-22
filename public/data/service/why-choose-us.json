@@ -580,43 +580,33 @@
         "data": [
             {
                 "id": 1,
-                "title": "Reduced Operational Costs",
-                "desc": "Outsourcing document processing eliminates infrastructure investments, software licensing, recruitment, and training costs, enabling predictable pricing, better budget control, and higher returns on operational spending."
+                "title": "Faster Turnaround on Every Document Type",
+                "desc": "Standard invoices turn around same day. Resumes in 30 minutes when required. Freight audits within 24 hours. Dedicated teams and automated workflows mean documents do not sit in queues."
             },
             {
                 "id": 2,
-                "title": "Faster Turnaround Times",
-                "desc": "Dedicated teams and automated document workflows accelerate processing speed, ensuring faster data availability and timely business decisions without compromising accuracy or SLAs."
+                "title": "99%+ Accuracy with Multi-Layer Validation",
+                "desc": "OCR extraction, rule-based validation, and human expert review combine to deliver consistently high accuracy. Errors that cost more to fix downstream do not reach your systems."
             },
             {
                 "id": 3,
-                "title": "Improved Data Accuracy and Consistency",
-                "desc": "Standardized workflows, data validation, verification services, and multi-level quality checks ensure accurate, consistent, and duplication-free datasets across enterprise systems."
+                "title": "Up to 60% Cost Reduction",
+                "desc": "Eliminate the cost of in-house processing staff, OCR software licensing, infrastructure, and the rework that comes from manual errors. Most clients see 40 to 60% cost savings versus internal operations."
             },
             {
                 "id": 4,
-                "title": "Scalability and Flexibility",
-                "desc": "Scalable document processing services allow organizations to handle fluctuating workloads efficiently without internal hiring delays or operational disruptions."
+                "title": "ISO 27001 and GDPR Compliant",
+                "desc": "All document processing follows ISO 27001 security protocols with NDAs, role-based access, encrypted handling, and GDPR-aware practices for UK and EU client data."
             },
             {
                 "id": 5,
-                "title": "Access to Advanced Technologies",
-                "desc": "AI-powered document processing, OCR, NLP, and machine learning analytics are delivered without the need for costly internal technology investments."
+                "title": "Scales from Hundreds to Millions",
+                "desc": "Whether you process 500 invoices a month or 50,000, the same managed model applies. Scale up for month-end, audit season, or acquisition without internal hiring."
             },
             {
                 "id": 6,
-                "title": "Enhanced Compliance and Data Security",
-                "desc": "Secure document processing follows strict access controls, audit trails, and regulatory-compliant standards, including GDPR- and HIPAA-aligned practices."
-            },
-            {
-                "id": 7,
-                "title": "Focus on Core Business Priorities",
-                "desc": "Outsourcing non-core document processing frees internal teams to focus on strategic initiatives, innovation, and revenue-generating activities."
-            },
-            {
-                "id": 8,
-                "title": "Actionable Insights and Better Decisions",
-                "desc": "Clean, structured, and analytics-ready data enables faster reporting, improved visibility, and confident, data-driven decision-making."
+                "title": "Any Output Format, Any Destination",
+                "desc": "CSV, Excel, JSON, XML, ERP-ready files, or direct system upload. Processed data arrives the way your downstream systems expect it."
             }
         ]
     },

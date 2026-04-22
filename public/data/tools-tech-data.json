@@ -310,5 +310,53 @@
                 "tools": ["PostgreSQL", "MySQL", "Microsoft SQL Server", "MongoDB", "Oracle DB"]
             }
         ]
+    },
+    "document-processing-services": {
+        "span": "IDP AND AUTOMATION TECHNOLOGY",
+        "h2": "Intelligent Document Processing: How Automation Makes It Faster and More Accurate",
+        "platformCategories": [
+            {
+                "category": "Document Type",
+                "tools": ["Structured invoices (fixed format)", "Semi-structured invoices (variable layout)", "Handwritten forms", "Scanned PDFs (typed)", "Mixed document types"]
+            },
+            {
+                "category": "Extraction Method",
+                "tools": ["OCR plus template matching", "IDP with ML extraction", "ICR plus human validation", "OCR plus NLP", "IDP plus human review"]
+            },
+            {
+                "category": "Accuracy",
+                "tools": ["99.5%+", "98 to 99%", "97 to 98%", "99%+", "97 to 99%"]
+            },
+            {
+                "category": "Typical TAT",
+                "tools": ["Same day", "24 hours", "24 to 48 hours", "Same day", "24 to 48 hours"]
+            }
+        ]
+    },
+    "document-processing-technology": {
+        "span": "TECHNOLOGY STACK",
+        "h2": "Technologies and Tools Our Document Processing Specialists Work With",
+        "platformCategories": [
+            {
+                "category": "OCR (Optical Character Recognition)",
+                "tools": ["Converts scanned images and PDFs into machine-readable text"]
+            },
+            {
+                "category": "ICR (Intelligent Character Recognition)",
+                "tools": ["Extends OCR to handle handwritten text and variable fonts"]
+            },
+            {
+                "category": "NLP (Natural Language Processing)",
+                "tools": ["Identifies and extracts specific data fields from unstructured text"]
+            },
+            {
+                "category": "Machine Learning",
+                "tools": ["Improves extraction accuracy over time by learning from validated outputs"]
+            },
+            {
+                "category": "Human-in-the-Loop Validation",
+                "tools": ["Expert reviewers catch edge cases that automated systems flag or miss"]
+            }
+        ]
     }
 }

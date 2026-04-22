@@ -701,40 +701,56 @@
 		]
 	},
 	"document-processing-services": {
-		"cta": "Request a Free Consultation",
+		"cta": "Get a Free Consultation",
 		"faq": [
 			{
 				"title": "What are document processing services?",
-				"desc": "Document processing services involve capturing, extracting, validating, and converting data from physical and digital documents into structured formats that support analytics, reporting, and informed decision-making.",
+				"desc": "Document processing services cover the capture, extraction, validation, and conversion of data from physical and digital documents into structured formats that your business systems can use. This includes invoice processing, freight auditing, resume formatting, forms processing, document digitisation, and analytics services built on processed document data.",
 				"initActive": true
 			},
 			{
+				"title": "What is intelligent document processing (IDP)?",
+				"desc": "Intelligent document processing is an approach that combines OCR, natural language processing, and machine learning to extract data from unstructured and semi-structured documents automatically. Unlike basic OCR which works well only on simple, fixed-format documents, IDP handles variable layouts, handwritten content, and complex multi-page documents. Computyne uses IDP as part of a human-in-the-loop model where automation handles volume and human experts catch edge cases."
+			},
+			{
 				"title": "Which types of documents can be processed?",
-				"desc": "Invoices, freight bills, resumes, forms, contracts, statements, reports, and other high-volume unstructured documents can be processed using OCR, AI, and automated data extraction technologies."
+				"desc": "Invoices, freight bills, bills of lading, resumes and CVs, insurance forms, loan applications, patient intake forms, contracts, purchase orders, customs documents, survey responses, academic records, compliance documents, and any other high-volume paper or digital document type. If it has data in it that needs to be extracted and structured, we can process it."
 			},
 			{
-				"title": "How do outsourced document processing services improve accuracy?",
-				"desc": "Automation combined with standardized workflows and multi-level quality assurance checks helps eliminate errors, duplicates, and inconsistencies commonly found in manual processing."
+				"title": "How does outsourced document processing improve accuracy?",
+				"desc": "The combination of OCR extraction, rule-based validation, and trained human review delivers accuracy consistently above 99% on standard document types. Manual-only processing typically runs at 96 to 98% accuracy at best due to fatigue, format variability, and volume pressure. Our layered approach catches errors that any single method misses."
 			},
 			{
-				"title": "Is document processing secure and compliant?",
-				"desc": "Yes. Professional document processing providers follow strict data security protocols, encryption standards, audit trails, and industry-specific compliance requirements."
+				"title": "How much does outsourced document processing cost?",
+				"desc": "Pricing depends on document type, volume, complexity, accuracy requirements, and turnaround speed. Invoice processing typically runs on a per-document or per-page rate. Resume formatting is priced per resume. Document digitisation is priced per page or per document set. Contact us for a custom quote: most clients see 40 to 60% cost savings versus in-house processing at comparable or better accuracy."
 			},
 			{
-				"title": "Can document processing services scale with business growth?",
-				"desc": "Absolutely. Outsourced document processing services are designed to scale rapidly, supporting increasing volumes without infrastructure constraints or internal hiring challenges."
+				"title": "What ERP and business systems do you integrate with for output delivery?",
+				"desc": "Processed data can be delivered into SAP, Oracle, NetSuite, Sage, QuickBooks, Microsoft Dynamics, Salesforce, and most other major ERP, AP, and CRM platforms. We configure output formats to match your system requirements so no manual reformatting is needed on your end."
 			},
 			{
-				"title": "How long does document processing take?",
-				"desc": "Turnaround times vary based on document volume and complexity, but automated document processing significantly reduces overall processing cycles."
+				"title": "Is outsourced document processing secure and compliant?",
+				"desc": "Yes. All document processing follows ISO 27001 information security protocols including signed NDAs, role-based access controls, encrypted data transfer, and GDPR-aligned handling for UK and EU clients. Healthcare documents are processed with HIPAA-aligned practices. Every engagement includes a documented security framework."
+			},
+			{
+				"title": "Can document processing services scale with our volume?",
+				"desc": "Yes. Our model scales from hundreds of documents per month to millions. We handle seasonal spikes, month-end invoice surges, acquisition-related document volume, and any other demand variation without capacity constraints or quality degradation. Scaling up or down requires no internal hiring or retraining."
+			},
+			{
+				"title": "What turnaround times can we expect?",
+				"desc": "Standard turnaround for invoices and freight documents is same day to 24 hours. Resume formatting can be delivered within 30 minutes for urgent submissions. Forms processing and document digitisation typically runs 24 to 48 hours for standard volumes. Rush turnaround is available for all services. Turnaround SLAs are agreed before the engagement begins."
 			},
 			{
 				"title": "What formats are supported for output delivery?",
-				"desc": "Processed data can be delivered in Excel, CSV, XML, JSON, database-ready formats, dashboards, and customized reports based on business requirements."
+				"desc": "Processed data can be delivered as CSV, Excel, JSON, XML, searchable PDF, database-ready files, or via direct API integration into your systems. Output format and structure are configured to match your downstream requirements exactly."
 			},
 			{
-				"title": "How does document processing support better decision-making?",
-				"desc": "By delivering structured, decision-ready data and actionable insights from document content, document processing enables faster and more informed strategic and operational decisions."
+				"title": "Can you process handwritten documents and poor-quality scans?",
+				"desc": "Yes. Our ICR (Intelligent Character Recognition) technology handles handwritten forms, and our human validation layer addresses quality issues that automation cannot resolve reliably. We assess document quality during the initial audit and flag any material limitations before full-scale processing begins."
+			},
+			{
+				"title": "How quickly can document processing services begin?",
+				"desc": "For straightforward document types with standard extraction requirements, processing can begin within 3 to 5 business days of scope agreement. Complex document types with custom validation rules or ERP integration requirements typically take 5 to 10 business days to configure before full-scale production begins."
 			}
 		]
 	},

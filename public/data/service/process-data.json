@@ -68,5 +68,40 @@
                 "timeline": "Ongoing"
             }
         ]
+    },
+    "document-processing-services": {
+        "h2": "From Document Receipt to Structured Data Delivery in 5 Steps",
+        "steps": [
+            {
+                "id": 1,
+                "title": "Document Assessment",
+                "desc": "We review your document types, volume, current formats, and quality standards. You receive a clear scope and accuracy benchmark before any processing begins.",
+                "timeline": "Day 1"
+            },
+            {
+                "id": 2,
+                "title": "Workflow Configuration",
+                "desc": "We configure extraction templates, validation rules, exception handling logic, and output format specifications for your document types.",
+                "timeline": "Day 1 to 3"
+            },
+            {
+                "id": 3,
+                "title": "Test Batch",
+                "desc": "We process a representative sample (typically 50 to 100 documents) and share the output for your review before full-scale processing begins.",
+                "timeline": "Day 3 to 5"
+            },
+            {
+                "id": 4,
+                "title": "Full-Scale Processing",
+                "desc": "Production processing runs with automated extraction, multi-layer validation, and human review for exceptions. Quality reports accompany every batch.",
+                "timeline": "Ongoing"
+            },
+            {
+                "id": 5,
+                "title": "Delivery and Review",
+                "desc": "Processed data is delivered in your required format and frequency. Any quality queries are addressed within 24 hours.",
+                "timeline": "Per agreed schedule"
+            }
+        ]
     }
 }
