@@ -138,5 +138,40 @@
                 "timeline": "Ongoing"
             }
         ]
+    },
+    "ai-agents-workflow-automation": {
+        "h2": "From Automation Brief to Production Agent in 5 Steps",
+        "steps": [
+            {
+                "id": 1,
+                "title": "Discovery and Scoping",
+                "desc": "You describe the process to automate or the task for an agent to handle. We map inputs, outputs, decision points, tool and MCP server requirements, and success criteria.",
+                "timeline": "Day 1 to 2"
+            },
+            {
+                "id": 2,
+                "title": "Architecture Design",
+                "desc": "We design the agent architecture: model selection, tool integrations, MCP connections, memory approach, and workflow logic. You review and approve before any build begins.",
+                "timeline": "Day 3 to 5"
+            },
+            {
+                "id": 3,
+                "title": "Pilot Build",
+                "desc": "We build and deploy a scoped pilot to demonstrate the core capability. You test it against real tasks and provide feedback before full development proceeds.",
+                "timeline": "Week 2 to 3"
+            },
+            {
+                "id": 4,
+                "title": "Full Development",
+                "desc": "Full agent or automation system is built, integrated with your systems via MCP, and tested against edge cases, failure modes, and compliance requirements.",
+                "timeline": "Week 3 to 6"
+            },
+            {
+                "id": 5,
+                "title": "Deploy and Monitor",
+                "desc": "System is deployed to production with monitoring dashboards, trace logging, performance reporting, and ongoing support to refine behaviour as your needs evolve.",
+                "timeline": "Week 6 onwards"
+            }
+        ]
     }
 }

@@ -2783,6 +2783,75 @@
             }
         ]
     },
+    "ai-agents-workflow-automation": {
+        "h2": "AI Agent and Workflow Automation Services Across Key Industries",
+        "industries": [
+            {
+                "id": 1,
+                "title": "eCommerce and Retail",
+                "desc": "Product catalogue management, competitor price monitoring, customer support automation, order processing. Key Agent Types: Data agents, support agents, pricing agents",
+                "img": "/images/industries-services/ecommerce.webp",
+                "alt": "eCommerce BPO services featuring automated product catalog management, SKU optimization, and multi-platform inventory synchronization for digital marketplaces",
+                "url": "/ecommerce"
+            },
+            {
+                "id": 2,
+                "title": "Real Estate and Property",
+                "desc": "Listing data collection and processing, tenant communication, document handling, lead qualification. Key Agent Types: Research agents, comms agents, data agents",
+                "img": "/images/industries-services/real-estate.webp",
+                "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
+                "url": "/real-estate"
+            },
+            {
+                "id": 3,
+                "title": "Finance and Professional Services",
+                "desc": "Document review, compliance checking, report generation, client communication drafting. Key Agent Types: Analysis agents, compliance agents, RAG agents",
+                "img": "/images/industries-services/finance.webp",
+                "alt": "Finance and accounting BPO services showcasing audit-ready accounts payable, receivable management, and general ledger reconciliation for enterprise financial transparency",
+                "url": "/finance-and-accounting"
+            },
+            {
+                "id": 4,
+                "title": "Healthcare and Life Sciences",
+                "desc": "Clinical document processing, patient communication, regulatory data monitoring, scheduling. Key Agent Types: Document agents, comms agents, research agents",
+                "img": "/images/industries-services/healthcare.webp",
+                "alt": "Healthcare BPO services illustrating HIPAA-compliant medical record indexing, clinical data management, and revenue cycle support for hospitals and private practices",
+                "url": "/healthcare"
+            },
+            {
+                "id": 5,
+                "title": "Manufacturing and Logistics",
+                "desc": "Supplier data monitoring, order processing, shipment tracking, exception handling. Key Agent Types: Data agents, operations agents, IPA bots",
+                "img": "/images/industries-services/manufacturing.webp",
+                "alt": "Manufacturing BPO services showing automated inventory data management, supply chain documentation, and procurement support for industrial and lean manufacturing operations",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Enterprise and B2B",
+                "desc": "Sales pipeline automation, CRM enrichment, lead qualification, onboarding workflows. Key Agent Types: Sales agents, CRM agents, workflow agents",
+                "img": "/images/industries-services/it-technology.webp",
+                "alt": "IT and technology BPO services featuring technical data processing, software documentation support, and mission-critical back-office automation for tech enterprises",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Recruitment and HR",
+                "desc": "CV screening, interview scheduling, candidate communication, onboarding task management. Key Agent Types: Screening agents, comms agents, workflow agents",
+                "img": "/images/industries-services/recruitment.webp",
+                "alt": "Recruitment BPO services featuring automated resume parsing, candidate data indexing, and background verification support for global staffing agencies and HR departments",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Media and Content Operations",
+                "desc": "Content research, brief generation, SEO data collection, publishing workflow management. Key Agent Types: Research agents, content agents, data agents",
+                "img": "/images/industries-services/media.webp",
+                "alt": "Media and entertainment BPO services featuring digital asset metadata tagging, content rights management, and automated media data processing for streaming platforms and agencies",
+                "url": "#"
+            }
+        ]
+    },
     "ecommerce": {},
     "energy-and-utilities": {},
     "finance-and-accounting": {},

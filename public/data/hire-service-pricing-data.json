@@ -405,5 +405,49 @@
                 "isActive": false
             }
         ]
+    },
+    "ai-agents-workflow-automation": {
+        "span": "FLEXIBLE ENGAGEMENT MODELS FOR EVERY AI AGENT AND AUTOMATION PROJECT",
+        "h2": "Flexible Engagement Models for Every AI Agent and Automation Project",
+        "closingLine": "Pricing depends on agent complexity, number of tool and MCP integrations, data infrastructure requirements, compliance needs, and deployment environment. Contact us for a scoped quote.",
+        "cta": "Get a Scoped Quote for Your Automation Project",
+        "engagementModels": [
+            {
+                "model": "Free Consultation",
+                "bestFor": "Assess feasibility, map automation opportunities, validate approach",
+                "commitment": "2-hour Automation Opportunity Mapping session",
+                "indicativeRate": "Free",
+                "rate": "0",
+                "ratePolicy": "No commitment required.",
+                "isActive": true
+            },
+            {
+                "model": "Pilot Project",
+                "bestFor": "Single-agent proof of concept on a defined use case",
+                "commitment": "Scoped build, 2 to 3 weeks, working proof of concept",
+                "indicativeRate": "Fixed fee from 1,500 USD",
+                "rate": "1500",
+                "ratePolicy": "/project",
+                "isActive": false
+            },
+            {
+                "model": "Project Build",
+                "bestFor": "Full agent or automation system built to specification",
+                "commitment": "Defined scope and delivery, testing and deployment included",
+                "indicativeRate": "Fixed-price",
+                "rate": "0",
+                "ratePolicy": "quote based on complexity",
+                "isActive": false
+            },
+            {
+                "model": "Dedicated Team",
+                "bestFor": "Ongoing agentic AI development, multiple workstreams",
+                "commitment": "Monthly retainer with SLA and performance reporting",
+                "indicativeRate": "Custom contract from 5,000 USD/month",
+                "rate": "5000",
+                "ratePolicy": "/per month",
+                "isActive": false
+            }
+        ]
     }
 }

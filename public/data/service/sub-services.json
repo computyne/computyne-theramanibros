@@ -3651,6 +3651,58 @@
                         "value": "From $25 to $50/hr | Fractional from $1,200/mo | Full-time from $3,500/mo"
                     }
                 ]
+            },
+            {
+                "id": 5,
+                "title": "Hire Prompt Engineers",
+                "desc": "Dedicated data science specialists for ML model development, predictive analytics, BI dashboards, NLP, and computer vision. Available hourly, fractional (10 to 20 hrs/week), or full-time. Python, R, TensorFlow, PyTorch, Tableau, Power BI.",
+                "url": "/hire-prompt-engineers",
+                "data": [
+                    {
+                        "value": "Predictive modelling: churn prediction, demand forecasting, fraud detection"
+                    },
+                    {
+                        "value": "BI and visualisation: Tableau, Power BI, Looker, Metabase dashboards"
+                    },
+                    {
+                        "value": "NLP: sentiment analysis, document classification, LLM fine-tuning"
+                    },
+                    {
+                        "value": "Computer vision: object detection, quality inspection, medical imaging"
+                    },
+                    {
+                        "value": "Data engineering: pipelines, warehouses, ETL (BigQuery, Snowflake, Airflow)"
+                    },
+                    {
+                        "value": "From $25 to $50/hr | Fractional from $1,200/mo | Full-time from $3,500/mo"
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Hire Graphic Designers",
+                "desc": "Dedicated data science specialists for ML model development, predictive analytics, BI dashboards, NLP, and computer vision. Available hourly, fractional (10 to 20 hrs/week), or full-time. Python, R, TensorFlow, PyTorch, Tableau, Power BI.",
+                "url": "/hire-graphic-designers",
+                "data": [
+                    {
+                        "value": "Predictive modelling: churn prediction, demand forecasting, fraud detection"
+                    },
+                    {
+                        "value": "BI and visualisation: Tableau, Power BI, Looker, Metabase dashboards"
+                    },
+                    {
+                        "value": "NLP: sentiment analysis, document classification, LLM fine-tuning"
+                    },
+                    {
+                        "value": "Computer vision: object detection, quality inspection, medical imaging"
+                    },
+                    {
+                        "value": "Data engineering: pipelines, warehouses, ETL (BigQuery, Snowflake, Airflow)"
+                    },
+                    {
+                        "value": "From $25 to $50/hr | Fractional from $1,200/mo | Full-time from $3,500/mo"
+                    }
+                ]
             }
         ]
     },
@@ -5875,6 +5927,173 @@
                     },
                     {
                         "value": "Print-ready artwork with correct technical specifications"
+                    }
+                ]
+            }
+        ]
+    },
+    "ai-agents-workflow-automation": {
+        "h2": "Custom AI Agent Development and Workflow Automation Services",
+        "desc": "Each service links to a dedicated sub-page with full detail, use cases, technology stack, and FAQs.",
+        "services": [
+            {
+                "id": 1,
+                "title": "Custom AI Agent Development",
+                "desc": "Purpose-built AI agents designed around your specific business tasks, data environment, and system integrations. Built on leading LLM foundations with custom tool use, memory, and decision logic.",
+                "url": "/custom-ai-agent-development-services",
+                "data": [
+                    {
+                        "value": "Single-agent and multi-agent system architecture and development"
+                    },
+                    {
+                        "value": "LLM selection: GPT-4o, Claude Opus 4.6, Gemini 2.5, Llama 4, and open-source models"
+                    },
+                    {
+                        "value": "Tool use and MCP integration: CRM, ERP, databases, web browsers, document systems"
+                    },
+                    {
+                        "value": "Memory and context management: short-term, long-term, and episodic memory implementations"
+                    },
+                    {
+                        "value": "Agent testing, evaluation frameworks, and production deployment"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "n8n and Make Workflow Automation",
+                "desc": "Complex, AI-powered workflows built on n8n and Make. Self-hosted for compliance or cloud-deployed for speed. The right platform is selected based on your technical requirements and team profile.",
+                "url": "/n8n-make-workflow-automation-services",
+                "data": [
+                    {
+                        "value": "n8n: open-source, self-hosted, 400+ nodes, full AI Agent node with LLM reasoning at each step"
+                    },
+                    {
+                        "value": "Make: visual scenario builder, powerful branching, data transforms, MCP server support"
+                    },
+                    {
+                        "value": "Multi-branch, conditional, and parallel workflow design with error handling and retry logic"
+                    },
+                    {
+                        "value": "On-premise deployment for GDPR, HIPAA, and strict data residency requirements"
+                    },
+                    {
+                        "value": "Monitoring dashboards, audit trails, and compliance reporting built in"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "MCP Server Development and Integration",
+                "desc": "Design, build, and deploy Model Context Protocol servers that connect AI agents to any tool, database, or proprietary internal system. Write the server once and every MCP-compatible AI model can use it.",
+                "url": "/mcp-server-integration-services",
+                "data": [
+                    {
+                        "value": "Custom MCP server development for client-specific internal systems and proprietary data sources"
+                    },
+                    {
+                        "value": "Pre-built MCP connections: Salesforce, HubSpot, GitHub, Slack, Jira, Notion, PostgreSQL, and more"
+                    },
+                    {
+                        "value": "Standard protocol: switch AI models without rebuilding integrations or losing connections"
+                    },
+                    {
+                        "value": "Full authentication, access controls, and audit logging across all connected systems"
+                    },
+                    {
+                        "value": "Compatible with Claude, GPT-4o, Gemini, Llama, and any future MCP-capable model"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Agentic RAG Systems",
+                "desc": "Retrieval-augmented generation agents that retrieve, reason over, and act on your proprietary data. Built for organisations that need AI to work with internal documents, databases, and knowledge bases rather than generic model knowledge.",
+                "url": "/agentic-rag-systems-services",
+                "data": [
+                    {
+                        "value": "Vector database design and knowledge base ingestion pipelines"
+                    },
+                    {
+                        "value": "Hybrid retrieval architectures combining semantic and keyword search"
+                    },
+                    {
+                        "value": "Multi-document reasoning agents for research, compliance, and analysis tasks"
+                    },
+                    {
+                        "value": "Continuous knowledge base updates as source documents change"
+                    },
+                    {
+                        "value": "On-premise deployment for sensitive and regulated data environments"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Multi-Agent Orchestration Systems",
+                "desc": "Coordinated networks of specialised AI agents built on CrewAI or LangGraph, working together on complex, multi-step tasks across your operation.",
+                "url": "/multi-agent-orchestration-services",
+                "data": [
+                    {
+                        "value": "Orchestrator-worker agent architecture for parallel task execution"
+                    },
+                    {
+                        "value": "Role-based agent specialisation: researcher, analyst, writer, reviewer, executor"
+                    },
+                    {
+                        "value": "Human-in-the-loop checkpoints for high-stakes decisions within automated flows"
+                    },
+                    {
+                        "value": "Full observability: trace logging, step-by-step audit, and cost monitoring per agent"
+                    },
+                    {
+                        "value": "Agent communication protocols and shared memory implementations"
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Intelligent Process Automation (IPA)",
+                "desc": "AI decision-making combined with robotic process automation for legacy system integration. For processes that span traditional enterprise software without modern API access.",
+                "url": "/intelligent-process-automation-services",
+                "data": [
+                    {
+                        "value": "AI-enhanced RPA: bots that handle exceptions rather than failing on unstructured input"
+                    },
+                    {
+                        "value": "UI automation for systems without API access, including legacy desktop software"
+                    },
+                    {
+                        "value": "Document processing automation: invoices, forms, contracts, and reports"
+                    },
+                    {
+                        "value": "Data extraction, transformation, and loading across connected systems"
+                    },
+                    {
+                        "value": "Process mining and automation ROI analysis before any build begins"
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "title": "AI Workflow Automation by Business Function",
+                "desc": "Pre-scoped AI automation solutions for high-frequency business functions where the use case is defined and the ROI is fast.",
+                "url": "/ai-workflow-automation-business-functions",
+                "data": [
+                    {
+                        "value": "Sales and CRM automation: lead qualification, follow-up sequencing, pipeline updates"
+                    },
+                    {
+                        "value": "Customer support automation: ticket triage, routing, first-response drafting, resolution"
+                    },
+                    {
+                        "value": "Finance and accounting automation: invoice processing, reconciliation, reporting"
+                    },
+                    {
+                        "value": "HR and recruitment automation: CV screening, scheduling, onboarding workflows"
+                    },
+                    {
+                        "value": "Data operations automation: collection, validation, enrichment, and delivery pipelines"
                     }
                 ]
             }

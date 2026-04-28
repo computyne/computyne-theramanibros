@@ -510,5 +510,50 @@
                 "The outsourcing model breaks that cycle. You get a managed team with established SOPs, multi-layer QA, and no recruitment overhead on your side. The output is consistent regardless of who on Computyne's team is doing the work, because the process is documented and quality-controlled rather than person-dependent. Most clients see 40 to 60% cost savings versus hiring equivalent capability in-house in the UK or USA."
             ]
         }
+    },
+    "ai-agents-workflow-automation": {
+        "banner": {
+            "image": "/images/service/banner/data-solution-banner.webp",
+            "alt": "AI agents and workflow automation services banner showing intelligent automation with n8n, Make, Claude Code, and MCP integrations",
+            "h1": "AI Agents and Workflow Automation Services |",
+            "h1_primary": "Scalable, Custom and Production-Ready",
+            "tagline": "Replace repetitive tasks with intelligent AI agents and automated workflows built on n8n, Make, Claude Code, and MCP-connected integrations. Deployed on your stack. Backed by ISO 27001.",
+            "cta": "",
+            "primaryCta": "Get a Free AI Agent Pilot",
+            "secondaryCta": "Book a Free Automation Consultation"
+        },
+        "counter": [
+            {
+                "label": "Automation Rate",
+                "value": "",
+                "symbol": "Up to 90% of targeted tasks automated"
+            },
+            {
+                "label": "Certification",
+                "value": "",
+                "symbol": "ISO 27001 Certified"
+            },
+            {
+                "label": "Cost Saving",
+                "value": "",
+                "symbol": "Up to 70% vs manual operations"
+            },
+            {
+                "label": "Time to Deploy",
+                "value": "",
+                "symbol": "4 to 6 weeks to production"
+            }
+        ],
+        "overview": {
+            "image": "/images/service/overview/data-solutions-overview.webp",
+            "alt": "AI agents and workflow automation overview showing intelligent automation and agentic AI capabilities",
+            "h2": "AI Agents and Workflow Automation for Enterprises Ready to Scale",
+            "content": [
+                "Every business runs on repetitive, rule-based processes. Approvals, data entry, reporting, customer responses, exception handling, and task routing consume thousands of working hours every year. These are not high-value activities. They are bottlenecks.",
+                "Computyne designs, builds, and deploys custom AI agents and intelligent workflow automation solutions for enterprises and growth-stage companies across the UK and US. Our engineering team builds agents that do not just follow scripts. They perceive their environment, retrieve relevant context, make decisions within defined parameters, take actions across connected systems, and complete multi-step tasks without human involvement.",
+                "We combine large language model capabilities with robotic process automation, tool use, and retrieval-augmented generation to build automation systems that integrate directly with your existing software stack via MCP server connections. Whether you need a single-purpose agent for a specific task or a multi-agent orchestration layer across your entire operation, Computyne scopes, builds, and delivers it.",
+                "<h2>What Makes Agentic AI Different from Traditional Automation?</h2>Traditional workflow automation follows a fixed sequence of rules and breaks when conditions change. AI agents are different. They reason about the task, retrieve information they need, decide which tool to use, take action, and adjust based on the result. This makes them capable of handling exceptions, ambiguous instructions, and multi-step tasks across changing conditions, which traditional RPA and rule-based automation cannot do reliably."
+            ]
+        }
     }
 }

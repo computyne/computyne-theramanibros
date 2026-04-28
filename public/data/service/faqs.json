@@ -2193,5 +2193,59 @@
 				"desc": "A dedicated designer can be fully onboarded and producing work within 3 to 5 business days following a project brief, brand guidelines review, tool access setup, and a short briefing session."
 			}
 		]
+	},
+	"ai-agents-workflow-automation": {
+		"cta": "Book a Free Automation Consultation",
+		"faq": [
+			{
+				"title": "What are AI agent development services?",
+				"desc": "AI agent development services involve designing and building autonomous software agents that perceive their environment, make decisions, and take actions to complete tasks without continuous human input. Unlike standard automation, AI agents handle ambiguity, use tools such as n8n workflows and MCP-connected systems, retrieve contextual information, and adapt their behaviour based on changing conditions. Services include single-agent builds, multi-agent system design, agentic RAG implementations, intelligent process automation, and MCP server development.",
+				"initActive": true
+			},
+			{
+				"title": "How do AI agents differ from traditional workflow automation?",
+				"desc": "Traditional workflow automation follows a fixed sequence of rules and fails when conditions change. AI agents reason about the task, retrieve information they need, decide which tool to use, and adjust based on what happens. This means they handle exceptions, incomplete information, and multi-step tasks across changing environments. Tools like n8n with an AI Agent node are an example: the LLM decides which of the 400+ available nodes to call at each step, rather than following a pre-defined sequence."
+			},
+			{
+				"title": "What is n8n and why does Computyne use it for AI agent workflows?",
+				"desc": "n8n is an open-source workflow automation platform with a visual canvas builder, 400+ integrations, and a built-in AI Agent node where an LLM reasons through multi-step tasks and decides which tools to call. Computyne uses n8n because it supports self-hosted deployment for GDPR and HIPAA compliance, runs complex branching and parallel workflows, and allows full code customisation via JavaScript and Python nodes. It is the strongest choice for technical teams and organisations with strict data residency requirements."
+			},
+			{
+				"title": "What is MCP and why does it matter for AI automation?",
+				"desc": "The Model Context Protocol (MCP) is an open standard, now governed by the Linux Foundation, that lets any AI agent connect to any external tool or data source through a standardised interface. Before MCP, each integration required custom code. With MCP, one server implementation works with Claude, GPT-4o, Gemini, and any future model. Computyne builds MCP servers for both off-the-shelf tools such as Salesforce, Slack, and GitHub, and for client-specific internal systems, eliminating vendor lock-in and future-proofing your automation stack."
+			},
+			{
+				"title": "Which automation platform is right for us: n8n, Make, Zapier, or Power Automate?",
+				"desc": "The right choice depends on your team and requirements. Zapier is fastest for non-technical teams with 8,000+ pre-built connectors but limits complex logic. Make offers powerful visual branching and data transforms at better cost per operation for ops teams. n8n is the strongest choice for technical teams, AI-native workflows, and data compliance requirements because it is open-source and self-hosted. Power Automate is the natural choice for organisations already inside the Microsoft 365 ecosystem. Computyne assesses your requirements and recommends the right platform before any build begins."
+			},
+			{
+				"title": "How long does it take to build and deploy a custom AI agent?",
+				"desc": "Most scoped AI agent projects move from brief to production within 4 to 6 weeks. A focused pilot proof of concept can be delivered in 2 to 3 weeks for straightforward use cases. More complex multi-agent systems or integrations with legacy enterprise software via IPA typically take 6 to 12 weeks depending on integration scope and data infrastructure requirements."
+			},
+			{
+				"title": "What does AI agent development cost?",
+				"desc": "Pilot project builds start from around 1,500 USD for a scoped single-agent proof of concept. Full production builds are priced based on agent complexity, number of tool and MCP integrations, data infrastructure, and deployment environment. Dedicated development team retainers start from 5,000 USD per month. We offer a free Automation Opportunity Mapping session before any commercial proposal."
+			},
+			{
+				"title": "Can Computyne integrate AI agents with our existing software?",
+				"desc": "Yes. Computyne builds agents that connect to your existing tools via MCP servers. This covers Salesforce, HubSpot, Slack, Microsoft Teams, ERP systems, databases, document management systems, GitHub, Jira, Notion, and legacy enterprise software via RPA-style UI automation where API access is not available. One MCP server implementation connects to any MCP-compatible AI model without rebuilding."
+			},
+			{
+				"title": "Can AI agents be deployed on-premise or in a private cloud?",
+				"desc": "Yes. For organisations with strict data residency requirements, Computyne deploys agents using self-hosted n8n, open-source LLMs such as Llama 4, and on-premise MCP servers. Private cloud deployments on AWS Bedrock, Azure OpenAI, or Google Vertex AI are available for organisations that need cloud infrastructure with data boundary controls. All architectures are available with ISO 27001-compliant security controls."
+			},
+			{
+				"title": "What is intelligent process automation (IPA) and how does it differ from RPA?",
+				"desc": "Robotic process automation (RPA) automates structured, rule-based tasks by mimicking user interactions with software. Intelligent process automation adds AI decision-making to that foundation, enabling bots to handle unstructured data, make judgment calls on exceptions, and adapt to changing conditions. IPA is the right approach when your processes involve documents, images, variable data formats, or cases that fall outside a fixed rule set."
+			},
+			{
+				"title": "Can AI agents work with our proprietary internal data?",
+				"desc": "Yes. Computyne builds retrieval-augmented generation (RAG) agents that index and reason over your internal documents, databases, and knowledge bases. This means agents can answer questions, generate outputs, and take actions based on your proprietary data rather than generic model knowledge. These systems can be deployed on-premise or in a private cloud via custom MCP servers to ensure your data never leaves your environment."
+			},
+			{
+				"title": "Do you offer an AI automation pilot before a full project commitment?",
+				"desc": "Yes. We recommend starting with a scoped pilot that demonstrates the core capability on a real use case before full development begins. Pilots typically run for 2 to 3 weeks and deliver a working proof of concept you can evaluate against real tasks and business outcomes. Contact us to scope a pilot project specific to your use case."
+			}
+		]
 	}
 }

@@ -27,7 +27,7 @@ const FunfactSingle2 = ({currentValue, symbol, sup, type}) => {
     }, [inView, currentValue]);
 
     return (
-        <div ref={ref} className="inline-content-mod-3" style={{fontSize: "25px"}}>
+        <div ref={ref} className="inline-content-mod-3" style={{fontSize: "22px"}}>
             {/* ONLY number hidden */}
             {currentValue != null && currentValue !== 0 && currentValue !== '' && currentValue?.toString()?.trim() !== '' && Odometer && value != null && (
                 <Odometer
