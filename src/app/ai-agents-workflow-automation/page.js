@@ -13,13 +13,14 @@ import SubFooter from "@/components/layout/footer/subFooter";
 import Testimonials from "@/components/layout/common/Testimonials";
 import HeroBanner from "@/components/sections/subservice/HeroBanner";
 import CounterHireResource from "../../components/sections/subservice/CounterHireResource";
-import ToolsAndTech from "@/components/sections/toolsandtech/ToolsAndTech";
-import TeamComparison from "@/components/sections/TeamComparison";
-import Benifits from "../../components/sections/hire-resources/Benifits";
 import PricingPlan from "../../components/pricing-plan/PricingPlan";
 import AboutusHireResource from "../../components/sections/subservice/AboutusHireResource";
 import Process from "../../components/sections/how-work/Process";
 import AutomationToolsModels from "../../components/sections/subservice/AutomationToolsModels";
+import AIAutomationTools from "../../components/sections/subservice/AIAutomationTools";
+import MCPServerIntegration from "../../components/sections/subservice/MCPServerIntegration";
+import LLMProviders from "../../components/sections/subservice/LLMProviders";
+import ProductivityToolIntegrations from "../../components/sections/subservice/ProductivityToolIntegrations";
 
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
@@ -75,7 +76,11 @@ export default function hireVirtualAssistants() {
                             <CounterHireResource/>
                             <AboutusHireResource slug={"ai-agents-workflow-automation"} type={1}/>
                             <AutomationToolsModels/>
+                            <AIAutomationTools/>
                             <Subservices/>
+                            <MCPServerIntegration/>
+                            <LLMProviders/>
+                            <ProductivityToolIntegrations/>
                             <Casestudy/>
                             <Whychooseus/>
                             <PricingPlan/>

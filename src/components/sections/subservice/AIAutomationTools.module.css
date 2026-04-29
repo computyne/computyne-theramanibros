@@ -1,0 +1,202 @@
+.automationStackSection {
+  padding: 80px 0;
+  background-color: #ffffff;
+}
+
+.sectionHeader {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.sectionBadge {
+  display: inline-block;
+  background: linear-gradient(135deg, #f47920 0%, #ff6b35 100%);
+  color: white;
+  padding: 8px 20px;
+  border-radius: 25px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.sectionTitle {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #2d3748;
+  margin-bottom: 1.5rem;
+  line-height: 1.2;
+}
+
+.sectionDescription {
+  font-size: 1.125rem;
+  line-height: 1.7;
+  color: #718096;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.tabContainer {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+  gap: 10px;
+}
+
+.tabButton {
+  background: #f7fafc;
+  border: 2px solid #e2e8f0;
+  color: #4a5568;
+  padding: 12px 30px;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  outline: none;
+}
+
+.tabButton:hover {
+  background: #edf2f7;
+  border-color: #cbd5e0;
+}
+
+.tabButton.active {
+  background: linear-gradient(135deg, #f47920 0%, #ff6b35 100%);
+  color: white;
+  border-color: #f47920;
+  box-shadow: 0 4px 12px rgba(244, 121, 32, 0.3);
+}
+
+.contentContainer {
+  max-width: 1200px;
+  margin: 0 auto;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  border: 1px solid #e2e8f0;
+}
+
+.tableWrapper {
+  overflow-x: auto;
+}
+
+.automationTable {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.automationTable th {
+  background: linear-gradient(135deg, #0a1f44 0%, #2c3e50 100%);
+  color: white;
+  font-weight: 600;
+  padding: 1.25rem 1rem;
+  text-align: left;
+  font-size: 0.9rem;
+  border: none;
+}
+
+.automationTable td {
+  padding: 1.25rem 1rem;
+  vertical-align: top;
+  line-height: 1.6;
+  border-bottom: 1px solid #e2e8f0;
+  background: white;
+}
+
+.automationTable tbody tr:hover {
+  background-color: #f8f9fa;
+}
+
+.automationTable tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.platformName {
+  font-weight: 700;
+  color: #2d3748;
+  font-size: 1rem;
+}
+
+.bestFor {
+  color: #4a5568;
+  font-weight: 500;
+}
+
+.keyCapability {
+  color: #718096;
+  line-height: 1.5;
+}
+
+.useCase {
+  color: #2d3748;
+  line-height: 1.5;
+}
+
+.tabContent {
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 768px) {
+  .automationStackSection {
+    padding: 40px 0;
+  }
+
+  .sectionTitle {
+    font-size: 2rem;
+  }
+
+  .sectionDescription {
+    font-size: 1rem;
+  }
+
+  .tabContainer {
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .tabButton {
+    width: 100%;
+    max-width: 300px;
+  }
+
+  .automationTable {
+    font-size: 0.875rem;
+  }
+
+  .automationTable th,
+  .automationTable td {
+    padding: 1rem 0.75rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .sectionTitle {
+    font-size: 1.75rem;
+  }
+
+  .sectionBadge {
+    font-size: 0.75rem;
+    padding: 6px 16px;
+  }
+
+  .automationTable th,
+  .automationTable td {
+    padding: 0.75rem 0.5rem;
+  }
+}
