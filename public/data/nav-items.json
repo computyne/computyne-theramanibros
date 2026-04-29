@@ -272,48 +272,6 @@
 						"badge": null
 					}
 				]
-			},
-			{
-				"id": 6,
-				"name": "AI Agents & Workflow Automation",
-				"path": "/ai-agents-workflow-automation",
-				"items": [
-					{
-						"id": 1,
-						"name": "n8n Automation",
-						"desc": "Custom n8n workflows for automating business processes and integrations.",
-						"path": "/n8n-automation-services",
-						"badge": null
-					},
-					{
-						"id": 2,
-						"name": "MCP Server Integration",
-						"desc": "Model Context Protocol server development for AI agent connectivity.",
-						"path": "/mcp-server-integration-services",
-						"badge": null
-					},
-					{
-						"id": 3,
-						"name": "Claude Code Enterprise",
-						"desc": "Enterprise Claude Code integration for AI-powered development workflows.",
-						"path": "/claude-code-enterprise-services",
-						"badge": null
-					},
-					{
-						"id": 4,
-						"name": "LangChain Agent Development",
-						"desc": "Custom LangChain agents for intelligent automation and decision-making.",
-						"path": "/langchain-agent-development-services",
-						"badge": null
-					},
-					{
-						"id": 5,
-						"name": "Make.com Automation",
-						"desc": "Make.com workflow automation for seamless business process integration.",
-						"path": "/make-com-automation-services",
-						"badge": null
-					}
-				]
 			}
 		]
 	},
@@ -356,6 +314,12 @@
 				"id": 6,
 				"name": "Hire Graphic Designers",
 				"path": "/hire-graphic-designers",
+				"badge": null
+			},
+			{
+				"id": 6,
+				"name": "AI Agents & Workflow Automation",
+				"path": "/ai-agents-workflow-automation",
 				"badge": null
 			}
 
