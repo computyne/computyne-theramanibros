@@ -1,0 +1,85 @@
+# robots.txt for computyne.com
+# Last updated: 2026-05-11
+
+# -----------------------------------------------
+# Default rules for all crawlers
+# -----------------------------------------------
+User-agent: *
+
+# WordPress core
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /xmlrpc.php
+Disallow: /wp-cron.php
+
+# Allow AJAX
+Allow: /wp-admin/admin-ajax.php
+
+# Optional: block REST API only if not needed publicly
+# Disallow: /wp-json/
+
+# Duplicate/thin content
+Disallow: /tag/
+Disallow: /author/
+
+# Feeds & trackbacks
+Disallow: /feed/
+Disallow: /*/feed/
+Disallow: /comments/
+Disallow: /*/trackback/
+
+# Search pages
+Disallow: /search/
+Disallow: /*?s=
+
+# Query parameter duplicates
+Disallow: /*?replytocom=
+Disallow: /*?preview=true
+Disallow: /*?utm_
+Disallow: /*?fbclid=
+Disallow: /*?gclid=
+
+# Old removed sections
+Disallow: /blogs/
+Disallow: /company/
+Disallow: /industries/
+Disallow: /document-processing/
+Disallow: /engagement-models/
+Disallow: /virtual-assistant-services/
+
+# -----------------------------------------------
+# Googlebot-specific cleanup
+# -----------------------------------------------
+User-agent: Googlebot
+
+Disallow: /*//
+
+
+# -----------------------------------------------
+# AI / aggressive crawlers
+# -----------------------------------------------
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+
+# -----------------------------------------------
+# Sitemap
+# -----------------------------------------------
+Sitemap: https://www.computyne.com/sitemap.xml
