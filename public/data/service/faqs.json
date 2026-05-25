@@ -1580,52 +1580,60 @@
 			}
 		]
 	},
-	"invoice-processing-services": {
-		"cta": "Request a Free Consultation",
-		"faq": [
-			{
-				"title": "What are invoice processing services?",
-				"desc": "Invoice processing services manage invoice capture, data extraction, validation, approval workflows, posting, and payment to ensure accurate, compliant, and faster accounts payable cycles.",
-				"initActive": true
-			},
-			{
-				"title": "Why should businesses outsource invoice processing services?",
-				"desc": "Outsourcing invoice processing reduces manual effort, minimizes errors, lowers operational costs, improves regulatory compliance, and accelerates invoice approval and payment cycles."
-			},
-			{
-				"title": "What types of invoices can be processed?",
-				"desc": "We process standard, proforma, debit, credit, and commercial invoices across paper-based, scanned, PDF, and fully digital formats."
-			},
-			{
-				"title": "How do you ensure invoice accuracy?",
-				"desc": "Accuracy is ensured through automated validation checks, configurable business rules, three-way invoice matching, duplicate invoice detection, and multi-level quality control reviews."
-			},
-			{
-				"title": "Can invoice processing services integrate with ERP or accounting systems?",
-				"desc": "Yes. Our services integrate seamlessly with leading platforms such as SAP, Oracle, NetSuite, and other accounting and ERP systems."
-			},
-			{
-				"title": "How do you handle invoice exceptions and discrepancies?",
-				"desc": "Invoice exceptions are automatically flagged and resolved through structured exception-handling workflows, stakeholder coordination, and fully documented audit trails."
-			},
-			{
-				"title": "Is outsourced invoice processing secure?",
-				"desc": "Yes. We provide secure invoice processing services using strict access controls, encrypted data handling, and compliance-driven invoice outsourcing practices."
-			},
-			{
-				"title": "How long does invoice processing implementation take?",
-				"desc": "Implementation timelines vary based on invoice volume and system integrations, but most clients are onboarded and operational within a few weeks."
-			},
-			{
-				"title": "Who can benefit from invoice processing services?",
-				"desc": "Enterprises, SMEs, shared services centers, and organizations managing multi-format, multi-location invoice volumes benefit significantly from invoice processing services."
-			},
-			{
-				"title": "How do invoice processing services improve cash flow?",
-				"desc": "Faster invoice approvals and timely payments reduce late fees, enable early payment discounts, and strengthen vendor relationships, improving overall cash flow management."
-			}
-		]
-	},
+		"invoice-processing-services": {
+			"cta": "Start a Free Pilot Project",
+			"faq": [
+				{
+					"title": "What are outsourced invoice processing services?",
+					"desc": "Outsourced invoice processing services cover the end-to-end management of your accounts payable invoice workflow by an external specialist team. This includes invoice data capture, validation, three-way matching, exception handling, ERP posting, and reporting. Instead of an internal AP team managing the process manually, a dedicated outsourced team handles it using structured workflows, automation tools, and documented quality controls.",
+					"initActive": true
+				},
+				{
+					"title": "What is the difference between invoice processing and invoice validation?",
+					"desc": "Invoice processing covers the full workflow from receiving an invoice through to posting it in your ERP system: capture, routing, approval, and payment. Invoice validation is a specific step within that workflow that checks the accuracy and compliance of invoice data before it is posted. Validation includes three-way matching against the purchase order and goods receipt, price and quantity checks, tax verification, duplicate detection, and GL coding accuracy. Computyne provides both as an integrated service or as standalone offerings depending on what your existing AP setup requires."
+				},
+				{
+					"title": "Why should businesses outsource invoice processing to India?",
+					"desc": "India-based invoice processing outsourcing combines trained AP specialists, lower labour costs, and a time zone that supports overnight processing for UK and USA operations. The cost of processing an invoice in-house typically runs $8 to $15 per invoice when you factor in staff time, rework, and overhead. Computyne delivers the same outcome at a fraction of that cost, with higher accuracy and faster turnaround. Most clients save 40 to 60% versus an equivalent in-house AP operation."
+				},
+				{
+					"title": "What invoice formats can be processed?",
+					"desc": "We process paper invoices, scanned PDFs, image-based invoices, electronic PDF invoices, EDI files (EDIFACT, ANSI X12), email-based invoices, and invoices received via supplier portals. Multi-page and multi-currency invoices are also supported. Format complexity is assessed during the pilot before full-scale processing begins."
+				},
+				{
+					"title": "Which ERP and accounting systems do you integrate with?",
+					"desc": "Our team is experienced with SAP (S/4HANA and ECC), Oracle Financials Cloud, Oracle EBS, NetSuite, Microsoft Dynamics 365, Sage Intacct, QuickBooks, Xero, and most other major ERP and accounting platforms. We also work with AP automation tools including Coupa, Basware, Tipalti, Stampli, and Medius. Output is delivered in whatever format your system requires."
+				},
+				{
+					"title": "How accurate is outsourced invoice processing?",
+					"desc": "Most engagements achieve first-pass accuracy above 99% through the combination of automated validation rules, three-way matching, duplicate detection, and human review of exceptions. Accuracy benchmarks are agreed before the engagement starts and reported in every delivery batch. The Global Logistics case study on this page achieved a 95% reduction in data entry errors versus the client's previous manual operation."
+				},
+				{
+					"title": "How do you handle invoice exceptions and discrepancies?",
+					"desc": "Every exception is categorised, assigned a resolution pathway, and tracked to closure within a defined SLA. Common exceptions include PO mismatches, pricing discrepancies, tax errors, and missing fields. Where supplier contact is required, our team manages that communication and documents the resolution. Exceptions do not sit in queues: every one has a defined next action and a responsible owner."
+				},
+				{
+					"title": "Is outsourced invoice processing secure and compliant?",
+					"desc": "Yes. All invoice processing follows ISO 27001 information security protocols with signed NDAs, role-based access controls, encrypted data handling, and GDPR-aligned practices for UK and EU clients. SOX-compliant approval workflows and audit trail documentation are available for US-listed entities. Healthcare invoice processing follows HIPAA-aligned handling practices."
+				},
+				{
+					"title": "How quickly can invoice processing services begin?",
+					"desc": "For standard invoice types with known ERP integration requirements, a pilot batch can begin within 5 to 7 business days of scope agreement. The pilot covers a representative sample of your invoices so you can validate accuracy and turnaround before full-scale processing begins. Most clients move from pilot to production within 2 to 3 weeks."
+				},
+				{
+					"title": "Can invoice processing scale during peak periods?",
+					"desc": "Yes. Month-end surges, acquisition-driven volume increases, and seasonal demand spikes are all handled without additional lead time or internal hiring. Computyne maintains a flexible capacity model specifically to absorb these fluctuations without quality or turnaround degradation."
+				},
+				{
+					"title": "How much does outsourced invoice processing cost?",
+					"desc": "Pricing depends on invoice volume, format complexity, validation requirements, and ERP integration. Most engagements are priced on a per-invoice or per-batch basis. A free pilot is available to validate quality before any commercial commitment. Contact us for a quote based on your specific volume and requirements."
+				},
+				{
+					"title": "What reporting do you provide on invoice processing performance?",
+					"desc": "You receive daily processing reports showing invoice volumes processed, first-pass accuracy rates, exception counts and categories, and turnaround times. Monthly performance summaries include trend analysis, supplier-level exception rates, and recommendations for process improvement. Full audit trail documentation is available for compliance and finance review purposes."
+				}
+			]
+		},
 	"logistics-data-entry-services": {
 		"cta": "Request a Free Consultation",
 		"faq": [

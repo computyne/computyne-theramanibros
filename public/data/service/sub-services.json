@@ -4157,106 +4157,183 @@
         ]
     },
     "invoice-processing-services": {
-        "h2": "End-to-End Invoice Processing Services",
-        "desc": "Our end-to-end invoice processing services manage invoice capture, validation, approval workflows, posting, and payment with speed, accuracy, and compliance.",
+        "h2": "End-to-End Invoice Processing and Validation Services",
+        "desc": "Full lifecycle invoice management from first capture to ERP posting. Each service is available as a standalone engagement or as part of an end-to-end AP outsourcing arrangement.",
+        "hideFillers": true,
         "services": [
             {
                 "id": 1,
-                "title": "Invoice Data Capture & Digitization",
-                "desc": "We deliver accurate invoice digitization services using invoice OCR services, automation, and validation to accelerate processing cycles.",
-                "url": "#",
+                "title": "Invoice Data Capture and Digitisation",
+                "desc": "Every invoice starts as a document. Whether it arrives as a PDF, scanned image, email attachment, or EDI file, the data needs to be in your system in a usable format before anything else can happen.",
+                "url": "/document-processing-services",
                 "data": [
                     {
-                        "value": "Extract invoice data from documents"
+                        "value": "Automated OCR data extraction from PDF, scanned, and image-based invoices"
                     },
                     {
-                        "value": "Digitize paper and scanned invoices"
+                        "value": "Manual validation layer for handwritten, low-quality, or complex-format invoices"
                     },
                     {
-                        "value": "Support multi-format invoice processing"
+                        "value": "EDI invoice data mapping and format conversion"
                     },
                     {
-                        "value": "Enable automated invoice data capture"
+                        "value": "Email invoice parsing with rule-based field extraction"
+                    },
+                    {
+                        "value": "Multi-format output ready for SAP, Oracle, NetSuite, QuickBooks, and Sage"
                     }
                 ]
             },
             {
                 "id": 2,
-                "title": "Invoice Validation & Verification",
-                "desc": "Our invoice validation services ensure accuracy, compliance, and consistency across all invoice types.",
+                "title": "Invoice Validation Services",
+                "desc": "Invoice validation checks the data before it triggers a payment, preventing financial loss, supplier disputes, and compliance failures.",
                 "url": "#",
                 "data": [
                     {
-                        "value": "Match invoices with purchase orders"
+                        "value": "Three-way matching against purchase order and goods receipt note"
                     },
                     {
-                        "value": "Verify pricing, quantities, and tax"
+                        "value": "Price and quantity validation against contracted rates and approved tolerances"
                     },
                     {
-                        "value": "Identify duplicate or incorrect invoices"
+                        "value": "Tax code and rate verification for VAT, GST, and regional compliance"
                     },
                     {
-                        "value": "Ensure invoice compliance management"
+                        "value": "Duplicate invoice detection using invoice number, amount, and supplier rules"
+                    },
+                    {
+                        "value": "PO number, cost centre, approval authority, GL code, and project code validation"
+                    },
+                    {
+                        "value": "GDPR, SOX, and regional financial control checks"
                     }
                 ]
             },
             {
                 "id": 3,
-                "title": "Accounts Payable Invoice Processing",
-                "desc": "Our accounts payable invoice processing services ensure timely approvals and accurate ERP postings.",
-                "url": "#",
+                "title": "Invoice Data Entry Services",
+                "desc": "Structured data entry support for AP operations with legacy ERP systems, high-volume invoice cycles, or complex multi-line invoices that require specialist manual handling.",
+                "url": "/data-entry-services",
                 "data": [
                     {
-                        "value": "Route invoices through AP workflow automation"
+                        "value": "High-volume invoice data entry from all source formats into your ERP or AP system"
                     },
                     {
-                        "value": "Post invoices to ERP systems"
+                        "value": "Multi-line invoice entry: line items, quantities, unit prices, tax codes, and GL coding"
                     },
                     {
-                        "value": "Accelerate accounts payable cycles"
+                        "value": "Utility invoice data entry with consumption, tariff, and contract term capture"
                     },
                     {
-                        "value": "Reduce manual invoice processing"
+                        "value": "Healthcare invoice entry with CPT codes, fee schedules, and payer reference data"
+                    },
+                    {
+                        "value": "Intercompany invoice entry with entity code validation and reconciliation support"
+                    },
+                    {
+                        "value": "Batch invoice entry with same-day turnaround for high-volume cycles"
                     }
                 ]
             },
             {
                 "id": 4,
-                "title": "Exception Handling & Discrepancy Resolution",
-                "desc": "We provide structured invoice exception handling and invoice discrepancy resolution to minimize delays.",
-                "url": "#",
+                "title": "Accounts Payable Invoice Processing",
+                "desc": "Full-cycle AP processing from invoice receipt to payment for organisations that want to outsource the entire AP function or supplement an internal team during peak periods.",
+                "url": "/document-processing-services",
                 "data": [
                     {
-                        "value": "Flag invoice mismatches automatically"
+                        "value": "End-to-end AP workflow management: receipt, capture, validation, approval, posting, payment"
                     },
                     {
-                        "value": "Investigate discrepancies with stakeholders"
+                        "value": "AP automation workflow configuration for rule-based routing and approval escalation"
                     },
                     {
-                        "value": "Resolve exceptions within defined timelines"
+                        "value": "Vendor master data management and supplier onboarding support"
                     },
                     {
-                        "value": "Maintain audit trails for compliance"
+                        "value": "Payment run preparation and remittance advice processing"
+                    },
+                    {
+                        "value": "Month-end AP close support with accruals and open item reconciliation"
+                    },
+                    {
+                        "value": "KPI reporting: turnaround time, exception rate, first-pass match rate, payment accuracy"
                     }
                 ]
             },
             {
                 "id": 5,
-                "title": "Invoice Reporting & Analytics",
-                "desc": "Our invoice reporting services and analytics improve financial visibility and control.",
+                "title": "Exception Handling and Discrepancy Resolution",
+                "desc": "Most invoice processing delays are caused by exceptions. A structured exception management process prevents mismatches, missing fields, and pricing errors from delaying payment runs.",
                 "url": "#",
                 "data": [
                     {
-                        "value": "Track invoice processing metrics"
+                        "value": "Automated exception flagging on price, quantity, tax, and coding mismatches"
                     },
                     {
-                        "value": "Monitor approval cycle times"
+                        "value": "Structured resolution workflow: categorised, assigned, chased, and resolved"
                     },
                     {
-                        "value": "Gain insights into spending trends"
+                        "value": "Supplier communication for pricing disputes, missing POs, and credit note requests"
                     },
                     {
-                        "value": "Support data-driven finance decisions"
+                        "value": "Escalation routing with defined SLA timelines for each exception type"
+                    },
+                    {
+                        "value": "Full audit trail documentation for every exception and resolution"
+                    },
+                    {
+                        "value": "Exception trend reporting to identify root causes and prevent recurrence"
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "title": "AI-Assisted Invoice Processing",
+                "desc": "Automation handles volume and speed, while trained human reviewers handle the exceptions that automation cannot resolve reliably.",
+                "url": "#",
+                "data": [
+                    {
+                        "value": "OCR with machine learning to handle variable invoice layouts from multiple suppliers"
+                    },
+                    {
+                        "value": "NLP-based field extraction for invoices without consistent formatting"
+                    },
+                    {
+                        "value": "Confidence scoring routes low-confidence extractions for human review"
+                    },
+                    {
+                        "value": "Continuous model improvement as extraction accuracy data accumulates"
+                    },
+                    {
+                        "value": "Human-in-the-loop validation for healthcare, energy, and compliance-sensitive invoice types"
+                    },
+                    {
+                        "value": "AI-assisted three-way matching with rules-based exception flagging"
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "title": "Invoice Reporting and Analytics",
+                "desc": "Structured invoice data gives finance leadership visibility into payment cycle performance, supplier spend patterns, and process efficiency.",
+                "url": "#",
+                "data": [
+                    {
+                        "value": "Invoice processing KPI dashboards: turnaround time, first-pass match rate, exception rate"
+                    },
+                    {
+                        "value": "Supplier spend analysis by category, region, and payment terms"
+                    },
+                    {
+                        "value": "Late payment risk reporting and early payment discount opportunity identification"
+                    },
+                    {
+                        "value": "Month-on-month processing volume and accuracy trend reports"
+                    },
+                    {
+                        "value": "SOX and compliance audit reports with full processing trail documentation"
                     }
                 ]
             }

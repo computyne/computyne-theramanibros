@@ -1329,56 +1329,45 @@
         "banner": {
             "image": "/images/service/banner/invoice-processing-services-banner.webp",
             "alt": "Professional invoice processing services banner showcasing automated data extraction, accounts payable streamlining, and financial document management",
-            "h1": "Automated Invoice Processing Services - Accurate, ERP-Ready & Compliance-Driven",
-            "tagline": "Accurate Invoice Processing for Faster, Error-Free Financial Operations",
-            "cta": "Reduce Invoice Processing Costs"
+            "h1": "Outsource Invoice Processing and Validation Services | Accurate, ERP-Ready and Compliance-Driven",
+            "tagline": "From invoice capture and three-way matching to validation, exception handling, and ERP posting. Outsourced to trained specialists in India. 99%+ accuracy. SAP, Oracle, NetSuite are ready. SOX and GDPR compliant. Free pilot.",
+            "cta": "Outsource Your Invoice Processing",
+            "primaryCta": "Outsource Your Invoice Processing",
+            "secondaryCta": "Start a Free Pilot Project"
         },
         "counter": [
             {
-                "label": "Years of Experience",
-                "value": "15",
-                "symbol": "+"
-            },
-            {
-                "label": "Skilled Professionals",
-                "value": "250",
-                "symbol": "+"
-            },
-            {
-                "label": "Data Security",
-                "value": "100",
-                "symbol": "%"
-            },
-            {
-                "label": "Cost Saving",
-                "value": "60",
-                "symbol": "%"
-            },
-            {
-                "label": "Data Support",
-                "value": "24",
-                "symbol": "×7"
-            },
-            {
                 "label": "Invoice Accuracy",
-                "value": "99.99",
-                "symbol": "%"
+                "value": "99",
+                "symbol": "%+"
+            },
+            {
+                "label": "ISO Certification",
+                "value": "",
+                "symbol": "ISO 27001 Certified"
+            },
+            {
+                "label": "AP Cost Reduction",
+                "value": "",
+                "symbol": "Up to 60%"
+            },
+            {
+                "label": "Formats Supported",
+                "value": "",
+                "symbol": "Paper, PDF, EDI, Email, Scanned"
             }
         ],
         "overview": {
             "image": "/images/service/overview/invoice-processing-services-overview.webp",
             "alt": "Comprehensive invoice processing overview showing the digital transformation of manual paperwork into automated accounts payable workflows for faster payment cycles",
-            "h2": "Accurate Invoice Processing and Validation Services: Faster Approvals, Zero Errors",
+            "h2": "Invoice Processing and Validation Services: Faster Approvals, Fewer Errors",
             "content": [
-                "Managing high volumes of invoices manually is slow, costly, and error-prone. Missed deadlines, duplicate payments, and data entry mistakes create financial risk and strain vendor relationships. Computyne's invoice processing and validation services eliminate these challenges with a structured, technology-driven approach.",
-                "We handle end-to-end invoice processing from data capture and extraction to validation, approval workflows, and system integration. Our team processes invoices across all formats, including paper, scanned images, PDFs, and electronic files, converting them into accurate, structured data ready for your accounting or ERP system.\n",
-                "With 15+ years of experience, we serve organizations across the UK, USA, and globally, delivering invoice data entry with up to 98% accuracy. Every invoice is validated against purchase orders, delivery records, and approval rules ensuring only clean, verified data enters your financial systems.",
-                "<p>By outsourcing invoice processing and validation to Computyne, businesses benefit from faster turnaround times, reduced processing costs, improved cash flow visibility, and full compliance with financial controls.</p>",
+                "Every AP team has the same problem. Invoices arrive in different formats. Some are PDFs from regular suppliers with clean data. Others are scanned paper documents with handwritten amendments. Some come by email, others via EDI, others through supplier portals. And every one of them needs to be captured, matched against a purchase order and goods receipt, validated for pricing and tax accuracy, and posted to the ERP before the payment run.",
+                "When you have 50 invoices a week, an internal team can manage it. At 500 a week, or 5,000, manual processing becomes the slowest, most error-prone part of your entire finance operation. Duplicate payments slip through. Mismatches sit in queues waiting for someone to chase down a resolution. The month-end close gets delayed because AP is still clearing exceptions. Vendor relationships suffer because payments are late.",
+                "Computyne's outsourced invoice processing and validation services replace that manual operation with a structured, documented, quality-controlled workflow. We handle every invoice type and format, apply three-way matching and validation rules, resolve exceptions before they reach your team, and post clean data directly into SAP, Oracle, NetSuite, or whichever ERP you use. The result is a faster payment cycle, fewer errors, and an AP function that does not create bottlenecks.",
+                "<h2>Why Outsource Invoice Processing?</h2><p>The cost of processing an invoice in-house is higher than most finance leaders realise. When you factor in staff time, management overhead, rework on errors, late payment penalties, and the IT cost of maintaining manual workflows, the per-invoice cost typically runs at $8 to $15 for a mid-sized AP operation. Outsourced invoice processing at Computyne runs at a fraction of that, with higher accuracy and faster turnaround as standard.</p>",
+                "<p>More than cost, outsourcing solves the scaling problem. Volume spikes at month-end or during acquisition do not require hiring. Invoice format changes from new suppliers do not require retraining. Sick leave and turnover do not affect throughput. You get consistent output regardless of what is happening inside the business.</p>",
                 "<a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Start a Free Pilot Project</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a>"
-
-
-
-
             ]
         }
     },

@@ -19,7 +19,7 @@ const Subservices = ({isDefaultSubServiceCard = true}) => {
 
     const remainder = subServicesData.services.length % 3;
     const emptyCells =
-        remainder === 0 ? 0 : 3 - remainder;
+        subServicesData.hideFillers || remainder === 0 ? 0 : 3 - remainder;
     return (
         <section className="tj-blog-section-2 section-gap">
             <div className="container">

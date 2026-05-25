@@ -91,11 +91,11 @@
 	{
 		"id": 5,
 		"slug": "invoice-processing-automation-for-global-logistics-company",
-		"title": "Invoice Processing Automation for Global Logistics Company: 60% Faster Accounts Payable",
+			"title": "Global Logistics Company: 60% Faster AP Turnaround, 95% Fewer Data Entry Errors",
 		"img": "/images/casestudies/invoice-processing-automation-for-global-logistics-company-thum.webp",
 		"detailsImg": "/images/casestudies/invoice-processing-automation-for-global-logistics-company-banner.webp",
 		"smallImg": "/images/casestudies/invoice-processing-automation-for-global-logistics-company-banner.webp",
-		"desc": "A leading global logistics company partnered with Computyne to modernize its Accounts Payable (AP) operations. By replacing manual entry with an AI-powered invoice processing system, the client achieved a 60% faster turnaround time, reduced data entry errors by 95%, and gained total real-time visibility into their financial liabilities.",
+			"desc": "A global logistics company replaced manual AP entry with Computyne's AI-assisted invoice processing system. Processing time fell 60%. Data entry errors dropped 95%. Finance leadership gained real-time visibility into financial liabilities that the previous manual operation could not provide.",
 		"tags": [
 			"Corporate",
 			"Business"
@@ -1268,11 +1268,11 @@
 	{
 		"id": 15,
 		"slug": "invoice-processing-food-cost-management-software",
-		"title": "Case Study: Precision-Driven Invoice Processing for Enterprise-Scale Global Food and Cost Management Software",
+			"title": "Global Food and Cost Management Software: 99%+ Accuracy on High-Volume Monthly Processing",
 		"img": "/images/casestudies/invoice-processing-food-cost-management-software-870x450.webp",
 		"detailsImg": "/images/casestudies/invoice-processing-food-cost-management-software.webp",
 		"smallImg": "/images/casestudies/invoice-processing-food-cost-management-software-870x450.webp",
-		"desc": "The client sought a high-accuracy invoice processing partner to bolster the automated Accounts Payable (AP) module embedded within their food and cost management software. The goal was to eliminate processing exceptions, ensure strict financial compliance, and support scalable invoice-to-pay operations across global food service environments using a human-in-the-loop validation model.",
+			"desc": "A global food and cost management software provider needed a human-in-the-loop AP partner for their invoice processing module. Computyne now processes tens of thousands of invoices monthly at 99%+ data accuracy, eliminating processing exceptions and supporting scalable invoice-to-pay operations across global food service environments.",
 		"tags": [
 			"Corporate",
 			"Business"

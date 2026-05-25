@@ -173,5 +173,40 @@
                 "timeline": "Week 6 onwards"
             }
         ]
+    },
+    "invoice-processing-services": {
+        "h2": "From Invoice Receipt to ERP Posting in 5 Steps",
+        "steps": [
+            {
+                "id": 1,
+                "title": "Invoice Intake Setup",
+                "desc": "We configure intake channels to receive invoices from your suppliers: email parsing, portal feeds, EDI, or file drop. Existing supplier flows require no change.",
+                "timeline": "Day 1 to 2"
+            },
+            {
+                "id": 2,
+                "title": "Extraction and Capture",
+                "desc": "OCR and AI extraction pull structured data from every invoice. Low-confidence extractions go to a human reviewer. Every record exits this step with validated field data.",
+                "timeline": "Same day to 24hrs"
+            },
+            {
+                "id": 3,
+                "title": "Validation and Matching",
+                "desc": "Three-way matching against PO and GRN data. Tax, pricing, and coding checks run. Exceptions are flagged with a reason code and resolution pathway.",
+                "timeline": "Within 24hrs"
+            },
+            {
+                "id": 4,
+                "title": "Exception Resolution",
+                "desc": "Flagged invoices are investigated, suppliers contacted if needed, and resolved within your agreed SLA. Nothing sits in a queue without a defined next action.",
+                "timeline": "24 to 48hrs"
+            },
+            {
+                "id": 5,
+                "title": "ERP Posting and Reporting",
+                "desc": "Clean, validated invoice data is posted to your ERP in the correct format. You receive a daily processing report with volumes, accuracy rates, and any open exceptions.",
+                "timeline": "Daily"
+            }
+        ]
     }
 }
