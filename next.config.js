@@ -1,6 +1,13 @@
 /** @type {import('next').NextConfig} */
+
+const redirects = require('./redirects');
+
 const nextConfig = {
-	reactStrictMode: false,
+  reactStrictMode: false,
+
+  async redirects() {
+    return redirects;
+  },
 };
 
 module.exports = nextConfig;

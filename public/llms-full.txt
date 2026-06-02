@@ -1,0 +1,114 @@
+# Computyne - Global Outsourcing & Data Services Company
+
+[Computyne](https://www.computyne.com/) is a global enterprise data solutions partner based in Gandhinagar, India. Founded in 2009, the company provides BPO, BPM, and KPO services to enterprises across the USA, UK, Europe, Canada, Australia, Singapore, and the GCC. Computyne specializes in secure, scalable data processing, data management, and AI training solutions.
+
+## ABOUT COMPUTYNE
+
+[About Us](https://www.computyne.com/about-us)
+Established in 2009, Computyne serves as an operational backbone for Fortune 500 organizations and growing enterprises, enabling speed, precision, and enterprise-grade scalability.
+
+**Key Credentials & Metrics:**
+*   **Certifications:** ISO/IEC 27001:2022 certified for information security and data integrity. GDPR and HIPAA compliant workflows available.
+*   **Experience:** 15+ years of industry experience.
+*   **Track Record:** 1200+ projects delivered, 100+ Inc5000 clients, 100+ happy customers.
+*   **Cost Savings:** Typically delivers 40% to 60% operational cost reductions compared to in-house teams.
+*   **Accuracy:** Maintains 99.99% accuracy via multi-layer validation (automated checks and Human-In-The-Loop QA).
+*   **Availability:** 24x7 support operations.
+*   **Leadership Team:** Ravinder Singh (Head of Business Development & Marketing), Bhavesh Panchal (Head of Operations & Growth Strategist), Champak Pol (Business Head).
+
+### Operating Models & Transition Process
+
+Computyne offers two primary data transfer and engagement models:
+1.  **Client Environment (Remote Access):** Data never leaves the client's secure infrastructure. Staff works via secure remote desktop login.
+2.  **Computyne Environment (Managed Secure Server):** A dedicated, secure network environment at Computyne's facilities with strict authentication protocols.
+
+**5-Step Transition Framework:**
+1.  **Identification:** Map scope of work, volume, and systems.
+2.  **Target Operating Model:** Define boundaries, KPIs, reporting timelines, and processes.
+3.  **Strategic Planning:** Architect the migration blueprint and resource deployment.
+4.  **Implementation:** Rapid deployment, comprehensive documentation, and team training.
+5.  **Monitoring & Review:** Multi-level quality checks, validation, and transparent reporting.
+
+---
+
+## CORE SERVICES
+
+### 1. [Data Collection Services](https://www.computyne.com/data-collection-services)
+Reliable, at-scale data collection from websites, APIs, PDFs, and databases delivered in CSV, JSON, Excel, XML, or API feeds. 
+*   **[Data Extraction](https://www.computyne.com/data-extraction-services):** Web, PDF, and database extraction using automated and AI-powered workflows.
+*   **[Data Mining](https://www.computyne.com/data-mining-services):** Pattern discovery and insights generation from web, customer, financial, social media, and big data sources.
+*   **[Web Research](https://www.computyne.com/web-research-services):** Market intelligence, competitive analysis, company profiling, and lead research.
+*   **[List Building](https://www.computyne.com/list-building-services):** Targeted, verified B2B prospect lists, LinkedIn contact discovery, and email validation.
+*   **[Web Scraping](https://www.computyne.com/web-scraping-services):** High-volume, GDPR-compliant automated scraping for eCommerce pricing, real estate listings, and job boards.
+*   **[Property Data Collection](https://www.computyne.com/property-data-collection-services):** Scraping real estate MLS portals, transaction records, tax data, zoning details, and property pricing.
+
+### 2. [Data Management Services](https://www.computyne.com/data-management-services)
+End-to-end data lifecycle management to centralize, clean, enrich, and govern enterprise data across CRMs, ERPs, and Data Warehouses.
+*   **[Data Cleansing](https://www.computyne.com/data-cleansing-services):** Deduplication, format correction, and invalid record removal.
+*   **[Data Enrichment](https://www.computyne.com/data-enrichment-services):** Appending verified third-party firmographic, demographic, and intent data to CRM records.
+*   **[Data Appending](https://www.computyne.com/data-appending-services):** Adding missing emails, phone numbers, and postal addresses to incomplete datasets.
+*   **[Data Validation](https://www.computyne.com/data-validation-services):** Email syntax/domain checks, phone number verification, and postal address validation.
+*   **[Data Standardization](https://www.computyne.com/data-standarization-services):** Normalizing dates, currencies, text cases, and taxonomies for seamless integration.
+*   **[Data Hygiene](https://www.computyne.com/data-hygiene-services):** Continuous, scheduled refresh cycles and suppression list management to prevent data decay.
+
+### 3. [Document Processing Services](https://www.computyne.com/document-processing-services)
+Turn unstructured documents into analytics-ready data using Intelligent Document Processing (IDP), OCR, Natural Language Processing (NLP), and Machine Learning with Human-in-the-Loop validation.
+*   **[Invoice Processing](https://www.computyne.com/invoice-processing-services):** OCR capture, 3-way matching (PO, receipt, invoice), and exception handling. (Typical TAT: Same day).
+*   **[Freight Audit](https://www.computyne.com/freight-audit-services):** Carrier invoice verification against tariff schedules. (Typical TAT: 24 hours).
+*   **[Resume Formatting](https://www.computyne.com/resume-formatting-services):** ATS-compliant bulk formatting for recruitment agencies. (Typical TAT: 30 minutes available).
+*   **[Forms Processing](https://www.computyne.com/forms-processing-services):** ICR/OCR extraction for handwritten/typed forms like insurance or surveys. (Typical TAT: 24-48 hours).
+*   **[Document Digitization](https://www.computyne.com/document-digitization-services):** High-volume scanning, indexing, and searchable PDF creation.
+
+### 4. [Data Solutions & Data Entry](https://www.computyne.com/data-solutions-services)
+Secure offshore data entry services operating directly in client systems (Salesforce, SAP, Shopify, etc.).
+*   **[Data Entry Services](https://www.computyne.com/data-entry-services):** High-volume CRM and database population.
+*   **[Image Data Entry](https://www.computyne.com/image-data-entry-services):** Product image tagging, metadata, alt text, and specification conversion.
+*   **[Logistics Data Entry](https://www.computyne.com/logistics-data-entry-services):** Shipment tracking, carrier route entry, and delivery confirmation.
+*   **[Bill of Lading Data Entry](https://www.computyne.com/bill-of-lading-data-entry-services):** Customs, cargo, and routing extraction from BoL documents.
+*   **[Appraisal & Valuation Data Entry](https://www.computyne.com/appraisal-data-entry-services):** Form 1004, 1073, 2055 property appraisal reports.
+*   **[Mortgage Data Entry Support](https://www.computyne.com/mortgage-data-entry-support):** Processing 1003/1008 forms, income verification, and title documents via Encompass/Calyx.
+*   **[Real Estate Property Listing](https://www.computyne.com/real-estate-property-listing-services):** MLS data entry (Matrix, Paragon, Flexmls) and portal uploads (Zillow, Zoopla).
+*   **[eCommerce Product Data Entry](https://www.computyne.com/ecommerce-product-data-entry-services):** SKU creation, categorization, and optimization for Amazon, Shopify, Magento.
+
+### 5. [Data Annotation Services](https://www.computyne.com/data-annotation-services)
+High-precision labeled datasets for AI, Machine Learning, Computer Vision, and NLP model training.
+*   **[Text Annotation](https://www.computyne.com/text-annotation-services):** Entity, intent, and sentiment labeling.
+*   **[Image Annotation](https://www.computyne.com/image-annotation-services):** Bounding boxes, polygons, and segmentation.
+*   **[Video Annotation](https://www.computyne.com/video-annotation-services):** Frame-level tracking and action recognition.
+*   **[Multimodal Annotation](https://www.computyne.com/multimodal-annotation-services):** Unified labeling across text, images, and audio.
+
+---
+
+## PRICING & ENGAGEMENT MODELS
+
+Computyne offers highly flexible engagement formats tailored to project scope and duration. They also offer a **Free Pilot Project** (up to 500 records) to test accuracy and turnaround time before committing.
+
+*   **Hourly Dedicated Team:** $4 to $7 per hour (Best for variable workloads and ongoing daily tasks).
+*   **Full-Time Dedicated Team:** $600 to $900 per month for a 40 hrs/wk commitment (Best for high-volume, continuous pipelines).
+*   **Recurring Feed:** Starting from $500/month (Best for ongoing price monitoring, lead lists, property feeds).
+*   **Per Record / Per Page / Scoped Project:** Custom quoting available for fixed-scope deliverables.
+
+---
+
+## SUPPORTED SYSTEMS & PLATFORMS
+
+Computyne operates directly within major enterprise architectures without requiring data transformation from the client:
+*   **CRM:** Salesforce, HubSpot, Zoho CRM, Microsoft Dynamics 365, Pipedrive.
+*   **ERP & Finance:** SAP, Oracle, NetSuite, Sage, QuickBooks.
+*   **eCommerce:** Shopify, Magento, WooCommerce, Amazon Seller Central, eBay.
+*   **Data Warehouses & BI:** Snowflake, BigQuery, Redshift, Tableau, Power BI, Looker.
+*   **Logistics & Customs:** Cargowise, MercuryGate, SAP TM, Oracle TMS.
+*   **Mortgage & Appraisals:** Encompass, Calyx Point, a la mode (TOTAL), ACI.
+
+---
+
+## INDUSTRIES SERVED
+
+Computyne delivers domain-specific data solutions across numerous verticals:
+*   **[Real Estate](https://www.computyne.com/real-estate):** MLS data collection, appraisal extraction, and transaction verification.
+*   **[Logistics & Transportation](https://www.computyne.com/logistics-and-transportation):** Freight audit, BoL processing, and shipment data management.
+*   **[eCommerce & Retail](https://www.computyne.com/ecommerce):** Product catalog management, competitor price monitoring, and SKU tracking.
+*   **[ITES & Technology](https://www.computyne.com/ites):** B2B list building, SaaS competitor benchmarking, and ABM lead generation.
+*   **[Finance & Accounting](https://www.computyne.com/finance-and-accounting):** Invoice processing, KYC data capture, and transaction analytics.
+*   **[Healthcare](https://www.computyne.com/healthcare):** HIPAA-compliant medical billing support, provider databases, and patient record entry.
+*   **[Energy & Utilities](https://www.computyne.com/energy-and-utilities):** Meter data validation, billing assurance, and outage data tracking.
