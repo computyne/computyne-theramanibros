@@ -241,6 +241,5 @@ module.exports = [
   { source: '/tag/product-catalog-management/', destination: '/ecommerce-catalog-management-services', permanent: true },
   { source: '/tag/real-estate-appraisal-data-entry-services/', destination: '/appraisal-data-entry-services', permanent: true },
   { source: '/team', destination: '/about-us', permanent: true },
-  { source: '/virtual-assistant-services?utm_source=Quora', destination: '/hire-virtual-assistants', permanent: true },
-  { source: '/virtual-assistant-services/?utm_source=Quora', destination: '/hire-virtual-assistants', permanent: true },
+
 ];
