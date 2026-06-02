@@ -1,0 +1,42 @@
+# Computyne
+
+Computyne is a global Business Process Outsourcing (BPO) and Data Services company based in India. Established in 2009, Computyne empowers global enterprises with secure, scalable data processing, data management, document digitization, and AI training solutions.
+
+## CAPABILITIES
+
+Computyne offers a comprehensive suite of data and back-office solutions for high-volume enterprise operations:
+
+*   **[Data Collection](https://www.computyne.com/data-collection-services)**: Automated and manual extraction of data from websites, PDFs, and databases. Includes [Web Scraping](https://www.computyne.com/web-scraping-services), [Data Extraction](https://www.computyne.com/data-extraction-services), [Data Mining](https://www.computyne.com/data-mining-services), and [Web Research](https://www.computyne.com/web-research-services) to build structured datasets for AI and analytics.
+*   **[Data Management](https://www.computyne.com/data-management-services)**: End-to-end data lifecycle management to ensure CRM and database accuracy. Includes [Data Cleansing](https://www.computyne.com/data-cleansing-services), [Data Enrichment](https://www.computyne.com/data-enrichment-services), [Data Appending](https://www.computyne.com/data-appending-services), [Data Validation](https://www.computyne.com/data-validation-services), and [Data Standardization](https://www.computyne.com/data-standarization-services).
+*   **[Document Processing](https://www.computyne.com/document-processing-services)**: Intelligent Document Processing (IDP) utilizing OCR, ICR, NLP, Machine Learning, and human-in-the-loop validation for [Invoice Processing](https://www.computyne.com/invoice-processing-services), [Freight Audits](https://www.computyne.com/freight-audit-services), and [Forms Processing](https://www.computyne.com/forms-processing-services).
+*   **[Data Solutions & Entry](https://www.computyne.com/data-solutions-services)**: High-accuracy (99.99%) [Data Entry Services](https://www.computyne.com/data-entry-services) for eCommerce products, logistics, real estate property listings, and appraisals.
+*   **[Data Annotation](https://www.computyne.com/data-annotation-services)**: High-precision labeling of text, image, audio, video, and multimodal data to create ground-truth training datasets for AI and Machine Learning models.
+*   **[List Building](https://www.computyne.com/list-building-services)**: Targeted B2B prospect and email list building services for sales enablement.
+
+## FILE FORMATS & INTEGRATIONS
+
+Computyne delivers data and integrates directly with a wide variety of enterprise systems:
+*   **Delivery Formats**: CSV, JSON, XML, Excel, Google Sheets, searchable PDFs, direct Database uploads, and REST API feeds.
+*   **CRM & Sales**: Salesforce, HubSpot, Zoho CRM, Microsoft Dynamics 365, Pipedrive.
+*   **ERP & Finance**: SAP, Oracle, NetSuite, Sage, QuickBooks.
+*   **eCommerce**: Shopify, Magento, WooCommerce, Amazon Seller Central, eBay.
+*   **Data Warehouses & BI**: Snowflake, Google BigQuery, Amazon Redshift, Tableau, Power BI.
+*   **Mortgage & Logistics**: Encompass, Calyx Point, Cargowise, MercuryGate.
+
+## SECURITY & COMPLIANCE
+
+Computyne adheres to strict data governance and regulatory standards to ensure secure processing:
+*   **Certifications**: ISO/IEC 27001:2022 certified for information security management.
+*   **Regulatory Compliance**: GDPR-aware handling practices for UK/EU data, and HIPAA-aligned practices for healthcare data.
+*   **Infrastructure**: Projects utilize secure managed servers, encrypted data transfers, role-based access control, and signed NDAs. Options include Remote Access (client environment) or Managed Secure Server (Computyne environment).
+
+## INDUSTRIES SERVED
+
+Computyne provides tailored data frameworks for specific sectors, including:
+*   [eCommerce & Retail](https://www.computyne.com/ecommerce)
+*   [Real Estate & Property](https://www.computyne.com/real-estate)
+*   [Finance & Accounting](https://www.computyne.com/finance-and-accounting)
+*   [Healthcare & Life Sciences](https://www.computyne.com/healthcare)
+*   [Logistics & Transportation](https://www.computyne.com/logistics-and-transportation)
+*   [Energy & Utilities](https://www.computyne.com/energy-and-utilities)
+*   [ITES](https://www.computyne.com/ites)
