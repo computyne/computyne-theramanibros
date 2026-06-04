@@ -240,6 +240,8 @@ module.exports = [
   { source: '/tag/processing/', destination: '/document-processing-services', permanent: true },
   { source: '/tag/product-catalog-management/', destination: '/ecommerce-catalog-management-services', permanent: true },
   { source: '/tag/real-estate-appraisal-data-entry-services/', destination: '/appraisal-data-entry-services', permanent: true },
+  { source: '/mcp-server-integration-services', destination: '/ai-agents-workflow-automation', permanent: true },
+  { source: '/custom-ai-agent-development-services', destination: '/ai-agents-workflow-automation', permanent: true },
   { source: '/team', destination: '/about-us', permanent: true },
 
 ];
