@@ -5,10 +5,10 @@ import getServiceData from "@/libs/service/getServiceData";
 import {usePathname} from "next/navigation";
 import getHireServiceData from "../../../libs/service/getHireServiceData";
 
-const HeroBanner = () => {
+const HeroBanner = ({dataSource = "hire"}) => {
     const pathname = usePathname();
     const slug = pathname.split("/").filter(Boolean).pop();
-    const banner = getHireServiceData(slug);
+    const banner = dataSource === "service" ? getServiceData(slug) : getHireServiceData(slug);
 
 
     const bannerData =
@@ -28,7 +28,12 @@ const HeroBanner = () => {
                 <div className="row">
                     <div className="col-lg-6">
                         <div className="tj-page-header-content">
-                            <h1 className={`tj-page-title`}>{bannerData.banner.h1} <span className="text-orange">{bannerData.banner.h1_primary}</span></h1>
+                            <h1 className={`tj-page-title`}>
+                                {bannerData.banner.h1}
+                                {bannerData.banner.h1_primary ? (
+                                    <> <span className="text-orange">{bannerData.banner.h1_primary}</span></>
+                                ) : null}
+                            </h1>
                             <div className="tagline-hireresouce mt-3 tj-page-header-tagline">
                                 {bannerData.banner.tagline}
                             </div>

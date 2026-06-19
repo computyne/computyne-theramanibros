@@ -1331,37 +1331,37 @@
         ]
     },
     "invoice-processing-services": {
-        "h2": "Key Advantages of Outsourced Invoice Processing",
+        "h2": "Key Advantages of Outsourcing Invoice Processing and Validation",
         "data": [
             {
                 "id": 1,
-                "title": "Reduced Manual Effort and Errors",
-                "desc": "Invoice processing outsourcing minimizes manual effort, eliminates repetitive AP invoice data entry, improves accuracy, and allows finance teams to focus on strategic initiatives instead of transactional workloads."
+                "title": "60% Reduction in AP Processing Costs",
+                "desc": "Remove staff overhead, infrastructure cost, and the rework that comes from manual errors. Computyne delivers validated, ERP-ready invoice data at a fraction of the cost of an equivalent in-house AP team."
             },
             {
                 "id": 2,
-                "title": "Lower Operational and Processing Costs",
-                "desc": "Cost-effective invoice processing reduces staffing overheads, infrastructure expenses, rework, penalties, and delayed payments while delivering predictable pricing and long-term invoice processing cost savings."
+                "title": "99%+ First-Pass Accuracy",
+                "desc": "Three-way matching, duplicate detection, and multi-layer validation combine to deliver 99%+ accuracy on the first pass. Errors that reach the payment run do not reach Computyne's output."
             },
             {
                 "id": 3,
-                "title": "Improved Compliance and Audit Readiness",
-                "desc": "Our audit-ready invoice processing enforces validation rules, approval controls, tax checks, and documented workflows, ensuring GDPR-compliant and SOX-compliant invoice processing across regions."
+                "title": "Faster Payment Cycles",
+                "desc": "Automated capture and same-day validation means invoices move through your AP cycle in hours rather than days. Early payment discounts become reachable. Late payment penalties become rare."
             },
             {
                 "id": 4,
-                "title": "Faster Invoice Turnaround and Payments",
-                "desc": "Automated invoice processing services accelerate turnaround times through OCR, workflow automation, and ERP invoice processing, enabling timely payments and improved vendor relationships."
+                "title": "SOX, GDPR and ISO 27001 Compliant",
+                "desc": "Every invoice is handled under ISO 27001 security protocols. Compliance rules for SOX, GDPR, and regional financial regulations are built into the validation workflow, not bolted on as an afterthought."
             },
             {
                 "id": 5,
-                "title": "Scalability and Operational Flexibility",
-                "desc": "Scalable invoice processing solutions support seasonal volumes, high-volume invoice processing, and global operations without increasing internal headcount or complexity."
+                "title": "Scales with Your Volume",
+                "desc": "Month-end surges, acquisition-driven volume spikes, and new supplier onboarding do not require internal hiring. Computyne scales capacity to match demand without quality degradation."
             },
             {
                 "id": 6,
-                "title": "Access to Expertise and Best Practices",
-                "desc": "Our experts deliver standardized workflows, continuous improvement, and consistent quality across outsourced accounts payable services in complex enterprise environments."
+                "title": "Full Audit Trail on Every Invoice",
+                "desc": "Every capture, validation step, exception, and posting is documented. Finance audits, regulatory reviews, and vendor disputes can all be resolved from a complete, timestamped processing record."
             }
         ]
     },

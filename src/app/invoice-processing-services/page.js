@@ -4,8 +4,6 @@ import BackToTop from "@/components/shared/others/BackToTop";
 import ClientWrapper from "@/components/shared/wrappers/ClientWrapper";
 import Aboutus from "@/components/sections/subservice/Aboutus";
 import Subservices from "@/components/sections/subservice/Subservices";
-import Banner from "@/components/sections/subservice/Banner";
-import Counter from "@/components/sections/subservice/Counter";
 import Whychooseus from "@/components/sections/subservice/Whychooseus";
 import Faq from "@/components/sections/subservice/Faq";
 import Industries from "@/components/sections/subservice/Industries";
@@ -14,22 +12,27 @@ import JsonLd from "@/components/seo/JsonLd";
 import {invoiceProcessingServicesSchema} from "@/libs/schema/services/invoiceProcessingServicesSchema";
 import SubFooter from "@/components/layout/footer/subFooter";
 import Testimonials from "@/components/layout/common/Testimonials";
+import HeroBanner from "@/components/sections/subservice/HeroBanner";
+import CounterHireResource from "@/components/sections/subservice/CounterHireResource";
+import InvoiceProcessingPlatforms from "@/components/sections/subservice/InvoiceProcessingPlatforms";
+import Process from "@/components/sections/how-work/Process";
 
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "Outsourced Invoice Processing Services | AP Automation & ERP Integration | Computyne",
+    title: "Outsource Invoice Processing Services | Validation, AP Automation and ERP Integration | Computyne",
     description:
-        "Computyne automates accounts payable invoice processing with 99.9% accuracy. Three-way matching, ERP integration (SAP/Oracle), SOX/GDPR compliant. 60% cost reduction. Free pilot.",
+        "Outsource invoice processing and validation services. Three-way matching, AP automation, ERP integration. 99%+ accuracy. SOX and GDPR compliant. Get a free pilot.",
 
     keywords: [
-        "invoice processing services",
-        "ap invoice processing",
-        "accounts payable data processing",
-        "invoice data capture",
+        "outsource invoice processing services",
+        "invoice processing outsourcing",
         "invoice validation services",
-        "automated invoice processing",
-        "financial document processing",
+        "invoice data entry services",
+        "accounts payable invoice processing",
+        "three-way invoice matching",
+        "AP automation outsourcing India",
+        "high volume invoice processing",
     ],
 
     alternates: {
@@ -55,11 +58,13 @@ export default function invoiceProcessingServices() {
                         <main>
                             <div className="top-space-15"></div>
                             
-                            <Banner/>
-                            <Counter/>
+                            <HeroBanner dataSource="service"/>
+                            <CounterHireResource dataSource="service"/>
                             <Aboutus slug={"invoice-processing-services"} type={1}/>
                             <Subservices/>
-                            <Casestudy text="Proven Results from Our Invoice Processing Services"/>
+                            <InvoiceProcessingPlatforms/>
+                            <Process/>
+                            <Casestudy text="Proven Invoice Processing Results"/>
                             <Whychooseus/>
                             <Faq type={1}/>
                             <Testimonials/>

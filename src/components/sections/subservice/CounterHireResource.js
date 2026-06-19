@@ -4,10 +4,10 @@ import FunfactSingle2 from "./FunfactSingle2";
 import getServiceData from "@/libs/service/getServiceData";
 import getHireServiceData from "../../../libs/service/getHireServiceData";
 
-const Counter = () => {
+const Counter = ({dataSource = "hire"}) => {
     const pathname = usePathname();
     const slug = pathname.split("/").filter(Boolean).pop();
-    const counters = getHireServiceData(slug);
+    const counters = dataSource === "service" ? getServiceData(slug) : getHireServiceData(slug);
 
     const counterData =
         !counters || Object.keys(counters).length === 0
@@ -32,7 +32,7 @@ const Counter = () => {
                     <div className="col-12">
                         <div className="countup-wrap" style={{backgroundColor: "#0c1d36"}}>
                             {counterData.counter.map((item, index) => (
-                                item.value != null && item.value !== 0 && (
+                                (item.value != null && item.value !== 0) || item.symbol ? (
                                     <div className="countup-item-mod-hireresouce" key={index}>
                                         <FunfactSingle2
                                             currentValue={item.value}
@@ -52,7 +52,7 @@ const Counter = () => {
                                             ></span>
                                         )}
                                     </div>
-                                )
+                                ) : null
                             ))}
                         </div>
                     </div>

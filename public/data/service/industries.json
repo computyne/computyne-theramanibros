@@ -2458,12 +2458,12 @@
         ]
     },
     "invoice-processing-services": {
-        "h2": "Industry-Specific Invoice Processing for Faster, Accurate Payments",
+        "h2": "Invoice Processing Services Across Key Industries",
         "industries": [
             {
                 "id": 1,
                 "title": "Manufacturing",
-                "desc": "We automate high-volume manufacturing invoice processing, three-way matching, and exception handling to ensure timely and accurate supplier payments.",
+                "desc": "Invoice types processed: supplier invoices, raw material POs, tooling and equipment invoices. Key requirements: three-way matching, high volume, multi-currency.",
                 "img": "/images/industries-services/manufacturing.webp",
                 "alt": "Manufacturing BPO services showing automated inventory data management, supply chain documentation, and procurement support for industrial and lean manufacturing operations",
                 "url": "#"
@@ -2471,47 +2471,55 @@
             {
                 "id": 2,
                 "title": "Healthcare",
-                "desc": "Our healthcare invoice processing services ensure compliance by validating rates, taxes, approvals, and safeguarding sensitive financial data.",
+                "desc": "Invoice types processed: medical supply invoices, pharmaceutical POs, facility service invoices. Key requirements: HIPAA-aligned handling, fee schedule validation, and compliance audit trail.",
                 "img": "/images/industries-services/healthcare.webp",
                 "alt": "Healthcare BPO services illustrating HIPAA-compliant medical record indexing, clinical data management, and revenue cycle support for hospitals and private practices",
                 "url": "/healthcare"
             },
             {
                 "id": 3,
-                "title": "Retail & eCommerce",
-                "desc": "We deliver retail invoice processing solutions that support multi-channel invoices, vendor reconciliation, and accelerated payment cycles.",
-                "img": "/images/industries-services/ecommerce.webp",
-                "alt": "eCommerce BPO services featuring automated product catalog management, SKU optimization, and multi-platform inventory synchronization for digital marketplaces",
-                "url": "/ecommerce"
-            },
-            {
-                "id": 4,
-                "title": "Banking, Financial Services & Insurance (BFSI)",
-                "desc": "Our BFSI invoice processing ensures secure, audit-ready workflows with strict financial controls and regulatory compliance.",
-                "img": "/images/industries-services/finance.webp",
-                "alt": "Finance and accounting BPO services showcasing audit-ready accounts payable, receivable management, and general ledger reconciliation for enterprise financial transparency",
-                "url": "/finance-and-accounting"
-            },
-            {
-                "id": 5,
-                "title": "Logistics & Transportation",
-                "desc": "We manage logistics invoice processing by validating freight, carrier, and service charges while resolving billing discrepancies faster.",
+                "title": "Logistics and Transportation",
+                "desc": "Invoice types processed: freight invoices, carrier billing, fuel and accessorial charges. Key requirements: freight audit integration, rate compliance, and carrier master validation.",
                 "img": "/images/industries-services/logistics-&-supply-chain.webp",
                 "alt": "Logistics BPO services featuring automated freight bill processing, bill of lading data entry, and real-time shipment tracking support for 3PL and 4PL providers",
                 "url": "/logistics-and-transportation"
             },
             {
+                "id": 4,
+                "title": "Retail and eCommerce",
+                "desc": "Invoice types processed: supplier invoices, marketplace settlement statements, 3PL billing. Key requirements: multi-vendor, seasonal volume, marketplace fee reconciliation.",
+                "img": "/images/industries-services/ecommerce.webp",
+                "alt": "eCommerce BPO services featuring automated product catalog management, SKU optimization, and multi-platform inventory synchronization for digital marketplaces",
+                "url": "/ecommerce"
+            },
+            {
+                "id": 5,
+                "title": "Banking, Financial Services and Insurance",
+                "desc": "Invoice types processed: service invoices, vendor contracts, and regulatory fee invoices. Key requirements: SOX compliance, strict approval authority, full audit trail.",
+                "img": "/images/industries-services/finance.webp",
+                "alt": "Finance and accounting BPO services showcasing audit-ready accounts payable, receivable management, and general ledger reconciliation for enterprise financial transparency",
+                "url": "/finance-and-accounting"
+            },
+            {
                 "id": 6,
-                "title": "Energy & Utilities",
-                "desc": "We streamline utility invoice processing by accurately validating consumption data, tariffs, taxes, and contract terms.",
+                "title": "Energy and Utilities",
+                "desc": "Invoice types processed: utility invoices, energy procurement bills, maintenance invoices. Key requirements: consumption data validation, tariff and contract term checks.",
                 "img": "/images/industries-services/energy.webp",
                 "alt": "Energy and Utilities BPO services featuring smart meter data management, utility bill auditing, renewable energy asset tracking, and NERC-compliant regulatory reporting",
                 "url": "/energy-and-utilities"
             },
             {
                 "id": 7,
+                "title": "Technology and SaaS",
+                "desc": "Invoice types processed: software licence invoices, cloud service bills, contractor invoices. Key requirements: subscription validation, usage-based billing checks, and entity coding.",
+                "img": "/images/industries-services/it-technology.webp",
+                "alt": "IT technology services showing software, SaaS, cloud, and operational data workflows for enterprise teams",
+                "url": "#"
+            },
+            {
+                "id": 8,
                 "title": "Telecommunications",
-                "desc": "Our telecom invoice processing services reconcile usage, contracts, and rate structures to prevent revenue leakage and billing errors.",
+                "desc": "Invoice types processed: carrier invoices, network equipment bills, service contracts. Key requirements: usage reconciliation, rate structure validation, and contract compliance.",
                 "img": "/images/industries-services/telecommunications.webp",
                 "alt": "Telecommunications BPO services featuring automated billing mediation, network asset data management, and customer churn analytics for mobile and broadband service providers",
                 "url": "#"
