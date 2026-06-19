@@ -3,6 +3,17 @@
 .modern-blog-page {
   background: var(--tj-color-grey-1);
 
+  .header-area.header-1 {
+    background-color: transparent;
+    border-end-start-radius: 0;
+    border-end-end-radius: 0;
+
+    .header-wrapper {
+      border-end-start-radius: 12px;
+      border-end-end-radius: 12px;
+    }
+  }
+
   main,
   .top-space-15 {
     background: var(--tj-color-grey-1);
@@ -24,7 +35,7 @@
   background: var(--modern-bg);
 
   .container {
-    max-width: 1240px;
+    max-width: 1600px;
   }
 }
 
