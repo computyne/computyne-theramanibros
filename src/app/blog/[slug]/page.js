@@ -44,16 +44,19 @@ export default async function BlogDetails({ params }) {
         notFound();
     }
 
+    const isModernLayout = currentItem.layout === "modern";
+    const headerType = isModernLayout ? 1 : 5;
+
    return (
        <>
            <JsonLd
                id={`${slug}-schema`}
                schema={schema}
            />
-           <div>
+           <div className={isModernLayout ? "modern-blog-page" : ""}>
                <BackToTop />
-               <Header headerType={5} />
-               <Header headerType={5} isStickyHeader={true} />
+               <Header headerType={headerType} />
+               <Header headerType={headerType} isStickyHeader={true} />
                {/* <div id="smooth-wrapper">
                 <div id="smooth-content">
                     <main>
