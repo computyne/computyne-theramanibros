@@ -2860,6 +2860,59 @@
             }
         ]
     },
+    "hire-graphic-designers": {
+        "h2": "Design and Image Editing Support Across Key Sectors",
+        "industries": [
+            {
+                "id": 1,
+                "title": "eCommerce and Retail",
+                "desc": "Product image editing, catalogue visuals, ad creatives. Key output types: marketplace-ready images, banners, social ads.",
+                "img": "/images/industries-services/ecommerce.webp",
+                "alt": "eCommerce BPO services featuring automated product catalog management, SKU optimization, and multi-platform inventory synchronization for digital marketplaces",
+                "url": "/ecommerce"
+            },
+            {
+                "id": 2,
+                "title": "Technology and SaaS",
+                "desc": "Brand assets, UI visuals, infographics, pitch decks. Key output types: sales collateral, social content, website graphics.",
+                "img": "/images/industries-services/it-technology.webp",
+                "alt": "IT and technology BPO services featuring technical data processing, software documentation support, and mission-critical back-office automation for tech enterprises",
+                "url": "/ites"
+            },
+            {
+                "id": 3,
+                "title": "Real Estate and Property",
+                "desc": "Property photo editing, listing visuals, brochures. Key output types: HDR images, floor plan graphics, agent materials.",
+                "img": "/images/industries-services/real-estate.webp",
+                "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
+                "url": "/real-estate"
+            },
+            {
+                "id": 4,
+                "title": "Healthcare and Life Sciences",
+                "desc": "Compliant marketing materials, patient-facing visuals. Key output types: brochures, infographics, presentation design.",
+                "img": "/images/industries-services/healthcare.webp",
+                "alt": "Healthcare BPO services illustrating HIPAA-compliant medical record indexing, clinical data management, and revenue cycle support for hospitals and private practices",
+                "url": "/healthcare"
+            },
+            {
+                "id": 5,
+                "title": "Finance and Professional Services",
+                "desc": "Corporate branding, reports, presentations. Key output types: annual reports, pitch decks, email templates.",
+                "img": "/images/industries-services/finance.webp",
+                "alt": "Finance and accounting BPO services showcasing audit-ready accounts payable, receivable management, and general ledger reconciliation for enterprise financial transparency",
+                "url": "/finance-and-accounting"
+            },
+            {
+                "id": 6,
+                "title": "Fashion and Apparel",
+                "desc": "Ghost mannequin, lookbook design, campaign creatives. Key output types: product images, social content, packaging.",
+                "img": "/images/industries-services/apparel-and-fashion.webp",
+                "alt": "Apparel and fashion outsourcing services for product image editing, lookbook design, campaign creatives, and packaging support",
+                "url": "#"
+            }
+        ]
+    },
     "ecommerce": {},
     "energy-and-utilities": {},
     "finance-and-accounting": {},

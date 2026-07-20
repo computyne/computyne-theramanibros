@@ -61,7 +61,7 @@ export default function hirePromptEngineers() {
                             <CounterHireResource/>
                             <AboutusHireResource slug={"hire-prompt-engineers"} type={1}/>
                             <Subservices/>
-                            <Casestudy text="Impactful Results from Professional Web Research Services"/>
+                            <Casestudy text="Prompt Engineering Case Studies Delivering Measurable AI Outcomes"/>
                             <Whychooseus/>
                             <PricingPlan/>
                             <ToolsAndTech/>

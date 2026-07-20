@@ -2,7 +2,6 @@ export const hireGraphicDesignersSchema = {
     "@context": "https://schema.org",
     "@graph": [
         {
-            "@context": "https://schema.org",
             "@type": "WebPage",
             "@id": "https://www.computyne.com/hire-graphic-designers",
             "url": "https://www.computyne.com/hire-graphic-designers",
@@ -12,12 +11,16 @@ export const hireGraphicDesignersSchema = {
             "breadcrumb": {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 3, "name": "Hire Graphic Designers and Image Editors", "item": "https://www.computyne.com/hire-graphic-designers" }
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Hire Graphic Designers and Image Editors",
+                        "item": "https://www.computyne.com/hire-graphic-designers"
+                    }
                 ]
             }
         },
         {
-            "@context": "https://schema.org",
             "@type": "Service",
             "name": "Hire Graphic Designers and Image Editors",
             "alternateName": "Graphic Design and Photo Editing Outsourcing",
@@ -40,8 +43,14 @@ export const hireGraphicDesignersSchema = {
                 "email": "info@computyne.com"
             },
             "areaServed": [
-                { "@type": "Country", "name": "United Kingdom" },
-                { "@type": "Country", "name": "United States" }
+                {
+                    "@type": "Country",
+                    "name": "United Kingdom"
+                },
+                {
+                    "@type": "Country",
+                    "name": "United States"
+                }
             ],
             "serviceType": "Graphic Design and Image Editing",
             "category": "Creative and Design Services",
@@ -49,13 +58,55 @@ export const hireGraphicDesignersSchema = {
                 "@type": "OfferCatalog",
                 "name": "Graphic Design and Image Editing Services",
                 "itemListElement": [
-                    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Brand Identity and Logo Design" } },
-                    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Social Media and Digital Ad Creatives" } },
-                    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "eCommerce Image Editing and Product Photography Editing" } },
-                    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Marketing Collateral and Print Design" } },
-                    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Infographic and Data Visualisation Design" } },
-                    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Photo Editing and Image Retouching" } },
-                    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Packaging and Product Graphics" } }
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Brand Identity and Logo Design"
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Social Media and Digital Ad Creatives"
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "eCommerce Image Editing and Product Photography Editing"
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Marketing Collateral and Print Design"
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Infographic and Data Visualisation Design"
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Photo Editing and Image Retouching"
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Packaging and Product Graphics"
+                        }
+                    }
                 ]
             },
             "offers": {
@@ -92,7 +143,6 @@ export const hireGraphicDesignersSchema = {
             }
         },
         {
-            "@context": "https://schema.org",
             "@type": "FAQPage",
             "mainEntity": [
                 {

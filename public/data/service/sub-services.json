@@ -486,6 +486,13 @@
                 "desc": "Unified annotation across text, image, audio, and video data, enabling aligned multimodal training for advanced AI and foundation models.",
                 "url": "/multimodal-annotation-services",
                 "data": []
+            },
+            {
+                "id": 6,
+                "title": "Prompt Engineering Services",
+                "desc": "Dedicated prompt engineers design, test, and optimise prompts for LLM workflows, GPT integrations, and AI output quality across production use cases.",
+                "url": "/hire-prompt-engineers",
+                "data": []
             }
         ]
     },
@@ -944,6 +951,26 @@
                     },
                     {
                         "value": "Bulk upload preparation and validation for large catalogue operations"
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "title": "Graphic Design and Image Editing Support",
+                "desc": "Dedicated graphic designers and image editors support data-heavy teams with production-ready visuals, product images, catalog graphics, and brand-consistent marketing assets.",
+                "url": "/hire-graphic-designers",
+                "data": [
+                    {
+                        "value": "Product image editing, background cleanup, and marketplace-ready visual preparation"
+                    },
+                    {
+                        "value": "Catalogue graphics, banners, and data-led visual assets"
+                    },
+                    {
+                        "value": "Brand-consistent design support for reports, presentations, and campaigns"
+                    },
+                    {
+                        "value": "Print-ready file support for marketing collateral and operational documents"
                     }
                 ]
             }
@@ -3681,26 +3708,26 @@
             {
                 "id": 6,
                 "title": "Hire Graphic Designers",
-                "desc": "Dedicated data science specialists for ML model development, predictive analytics, BI dashboards, NLP, and computer vision. Available hourly, fractional (10 to 20 hrs/week), or full-time. Python, R, TensorFlow, PyTorch, Tableau, Power BI.",
+                "desc": "Dedicated graphic designers and image editors from India for branding, social media creatives, eCommerce product visuals, print design, photo retouching, packaging, and prepress support. From $5/hr with a free 5-hour pilot.",
                 "url": "/hire-graphic-designers",
                 "data": [
                     {
-                        "value": "Predictive modelling: churn prediction, demand forecasting, fraud detection"
+                        "value": "Brand identity, logo design, and visual guideline support"
                     },
                     {
-                        "value": "BI and visualisation: Tableau, Power BI, Looker, Metabase dashboards"
+                        "value": "Social media creatives, paid ads, and campaign graphics"
                     },
                     {
-                        "value": "NLP: sentiment analysis, document classification, LLM fine-tuning"
+                        "value": "eCommerce image editing, background removal, and product retouching"
                     },
                     {
-                        "value": "Computer vision: object detection, quality inspection, medical imaging"
+                        "value": "Marketing collateral, print design, packaging, and prepress support"
                     },
                     {
-                        "value": "Data engineering: pipelines, warehouses, ETL (BigQuery, Snowflake, Airflow)"
+                        "value": "Tools: Photoshop, Illustrator, InDesign, Figma, Canva Pro"
                     },
                     {
-                        "value": "From $25 to $50/hr | Fractional from $1,200/mo | Full-time from $3,500/mo"
+                        "value": "From $5 to $8/hr | Part-time from $320/mo | Full-time from $600/mo"
                     }
                 ]
             }
@@ -5036,6 +5063,26 @@
                         "value": "Performance dashboards and reporting governance"
                     }
                 ]
+            },
+            {
+                "id": 6,
+                "title": "eCommerce Design and Image Editing Support",
+                "desc": "Dedicated designers and image editors create marketplace-ready product visuals, banners, ad creatives, and brand-consistent assets for high-volume eCommerce teams.",
+                "url": "/hire-graphic-designers",
+                "data": [
+                    {
+                        "value": "Product image editing, background removal, colour correction, and retouching"
+                    },
+                    {
+                        "value": "Amazon, Shopify, WooCommerce, and eBay image specification support"
+                    },
+                    {
+                        "value": "Promotional banners, catalogue visuals, and social ad creatives"
+                    },
+                    {
+                        "value": "Bulk image processing with consistent output standards"
+                    }
+                ]
             }
         ]
     },
@@ -5438,6 +5485,26 @@
                     },
                     {
                         "value": "Decision-ready insights for stakeholders and managers"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "AI Prompt Engineering and Workflow Automation",
+                "desc": "Managed prompt engineers support ITES teams with LLM prompt design, GPT integration, reusable prompt libraries, and AI workflow automation.",
+                "url": "/hire-prompt-engineers",
+                "data": [
+                    {
+                        "value": "Prompt design and optimisation for repeatable AI outputs"
+                    },
+                    {
+                        "value": "GPT, Claude, Gemini, and Llama workflow support"
+                    },
+                    {
+                        "value": "Prompt library documentation and quality assurance"
+                    },
+                    {
+                        "value": "AI workflow integration for operations and support teams"
                     }
                 ]
             }
@@ -6004,6 +6071,32 @@
                     },
                     {
                         "value": "Print-ready artwork with correct technical specifications"
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "title": "Preflight and Prepress Services",
+                "desc": "Ensure every file is technically accurate, print-ready, and production-safe before it goes to press. Reduce errors, reprints, and delays with systematic preflight and prepress checks.",
+                "url": "/hire-graphic-designers",
+                "data": [
+                    {
+                        "value": "Preflight file checks: resolution, colour modes (CMYK/RGB), fonts, links, and bleed validation"
+                    },
+                    {
+                        "value": "Correction of print issues: missing fonts, low-resolution assets, colour inconsistencies"
+                    },
+                    {
+                        "value": "Colour management and conversion for different print standards and presses"
+                    },
+                    {
+                        "value": "Imposition and layout adjustments for efficient print production"
+                    },
+                    {
+                        "value": "Proofing support: digital proofs, soft proofs, and print-ready approvals"
+                    },
+                    {
+                        "value": "Press-ready file preparation aligned with printer-specific specifications and workflows"
                     }
                 ]
             }
