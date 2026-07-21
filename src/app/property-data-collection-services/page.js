@@ -16,6 +16,7 @@ import Testimonials from "@/components/layout/common/Testimonials";
 import CounterHireResource from "@/components/sections/subservice/CounterHireResource";
 import PricingPlan from "@/components/pricing-plan/PricingPlan";
 import Process from "@/components/sections/how-work/Process";
+import PropertyDataSourcesCoverage from "@/components/sections/subservice/PropertyDataSourcesCoverage";
 
 
 export const metadata = {
@@ -66,6 +67,7 @@ export default function propertyDataCollectionServices() {
                             <CounterHireResource dataSource="service"/>
                             <Aboutus slug={"property-data-collection-services"} type={1}/>
                             <Subservices/>
+                            <PropertyDataSourcesCoverage/>
                             <Casestudy text="Property Data Collection Results"/>
                             <Whychooseus/>
                             <PricingPlan/>
