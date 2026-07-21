@@ -46,6 +46,10 @@ const PricingPlanItems = ({ isYearlyPlan }) => {
 									<span className="price-number">{model.rate}</span>
 									<span className="package-period">{model.ratePolicy}</span>
 								</div>
+							) : model.displayPrice ? (
+								<div className="package-price">
+									<span className="price-number" style={{fontSize: "28px"}}>{model.displayPrice}</span>
+								</div>
 							) : (
 								<div className="package-price">
 									<span className="package-currency"></span>
@@ -65,11 +69,17 @@ const PricingPlanItems = ({ isYearlyPlan }) => {
 					<div className="list-items">
 						<ul>
 							<li>
-								<i className="tji-list"></i>{model.commitment} commitment
+								<i className="tji-list"></i>{model.volume ? `Volume: ${model.volume}` : `${model.commitment} commitment`}
 							</li>
 							<li>
 								<i className="tji-list"></i>Best for {model.bestFor}
 							</li>
+							{model.pricingBasis && (
+								<li>
+									<i className="tji-list"></i>
+									<strong>Pricing Basis:</strong> {model.pricingBasis}
+								</li>
+							)}
 							{/* Specialist-specific pricing */}
 							{model["Web Researchers"] && (
 								<li>

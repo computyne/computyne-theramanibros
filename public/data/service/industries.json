@@ -1280,84 +1280,84 @@
         ]
     },
     "property-data-collection-services": {
-        "h2": "Serving Diverse Industries with Accurate Property Data Collection",
+        "h2": "Property Data Collection Across Every Real Estate Sector",
         "industries": [
             {
                 "id": 1,
                 "title": "Real Estate Developers",
-                "desc": "We collect land records, pricing data, approvals, and market intelligence to support informed development planning and feasibility decisions.",
+                "desc": "Primary Data Needs: Land records, comparable pricing, planning approvals, and market feasibility data. Key Services Used: Property listing extraction, planning data, and Land Registry.",
                 "img": "/images/industries-services/real-estate.webp",
                 "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
                 "url": "/real-estate"
             },
             {
                 "id": 2,
-                "title": "Real Estate Brokers and Agencies",
-                "desc": "We deliver accurate property listings and pricing intelligence to enable faster deal closures and improved market competitiveness.",
+                "title": "Residential Brokers and Agencies",
+                "desc": "Primary Data Needs: Listing intelligence, sold prices, competitor activity, and buyer demand signals. Key Services Used: MLS data collection, portal extraction, market trend data.",
                 "img": "/images/industries-services/real-estate.webp",
                 "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
                 "url": "/real-estate"
             },
             {
                 "id": 3,
-                "title": "Property Management Firms",
-                "desc": "We centralize tenant, lease, and asset data to support efficient portfolio management and operational visibility.",
+                "title": "Commercial Real Estate Firms",
+                "desc": "Primary Data Needs: Lease data, occupancy rates, CRE transactions, tenant intelligence. Key Services Used: CRE data collection, CoStar extraction, lease database.",
                 "img": "/images/industries-services/real-estate.webp",
                 "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
-                "url": "#"
+                "url": "/real-estate"
             },
             {
                 "id": 4,
-                "title": "Real Estate Investors",
-                "desc": "We provide valuation data, rental yields, and market trends to support confident investment analysis and decision-making.",
+                "title": "Property Investors and Funds",
+                "desc": "Primary Data Needs: Acquisition comparables, yield data, ownership records, and market trends. Key Services Used: Valuation data, transaction records, and rental yield data.",
                 "img": "/images/industries-services/real-estate.webp",
                 "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
                 "url": "/real-estate"
             },
             {
                 "id": 5,
-                "title": "Commercial Real Estate Firms",
-                "desc": "We aggregate commercial real estate data to enable portfolio optimization, performance analysis, and risk management.",
-                "img": "/images/industries-services/real-estate.webp",
-                "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
-                "url": "/real-estate"
-            },
-            {
-                "id": 6,
-                "title": "Multiple Listing Service (MLS) Providers",
-                "desc": "We standardize and enrich MLS listings to ensure data accuracy and consistency across member platforms.",
+                "title": "PropTech Platforms",
+                "desc": "Primary Data Needs: High-volume listing feeds, market data APIs, and historical price data. Key Services Used: MLS data, web scraping, recurring data feeds.",
                 "img": "/images/industries-services/real-estate.webp",
                 "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
                 "url": "#"
             },
             {
+                "id": 6,
+                "title": "Mortgage Lenders and Banks",
+                "desc": "Primary Data Needs: Ownership verification, AVM training data, transaction history. Key Services Used: Ownership records, comparable sales, and the Land Registry.",
+                "img": "/images/industries-services/finance.webp",
+                "alt": "Finance and accounting BPO services showcasing audit-ready accounts payable, receivable management, and general ledger reconciliation for enterprise financial transparency",
+                "url": "/finance-and-accounting"
+            },
+            {
                 "id": 7,
-                "title": "Appraisers and Valuation Firms",
-                "desc": "We supply verified comparable sales, transaction histories, and market data to support precise property valuations.",
+                "title": "Appraisers and Valuers",
+                "desc": "Primary Data Needs: Comparable sales, transaction evidence, rental data, market trends. Key Services Used: Comp sales data, valuation datasets, rental records.",
                 "img": "/images/industries-services/real-estate.webp",
                 "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
                 "url": "#"
             },
             {
                 "id": 8,
-                "title": "Financial Institutions and Lenders",
-                "desc": "We provide ownership, transaction, and valuation data to support lending risk assessment and underwriting decisions.",
-                "img": "/images/industries-services/finance.webp",
-                "alt": "Finance and accounting BPO services showcasing audit-ready accounts payable, receivable management, and general ledger reconciliation for enterprise financial transparency",
-                "url": "/finance-and-accounting"
+                "title": "Property Management Firms",
+                "desc": "Primary Data Needs: Tenant data, lease records, rental market benchmarks, vacancy rates. Key Services Used: Rental data collection, tenancy records, market data.",
+                "img": "/images/industries-services/real-estate.webp",
+                "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
+                "url": "#"
             },
             {
                 "id": 9,
-                "title": "Government and Municipal Authorities",
-                "desc": "We collect and structure property records, zoning data, and regulatory information to support compliance and governance initiatives.",
+                "title": "Government and Councils",
+                "desc": "Primary Data Needs: Land ownership records, planning data, zoning classifications, EPC data. Key Services Used: Regulatory data collection, planning records, and the Land Registry.",
                 "img": "/images/industries-services/government.webp",
                 "alt": "Government BPO services featuring secure citizen record digitization, public sector data management, and compliant back-office support for municipal and federal agencies",
                 "url": "#"
             },
             {
                 "id": 10,
-                "title": "Market Research and Consulting Firms",
-                "desc": "We deliver structured property datasets to support market analysis, forecasting, and data-driven advisory services.",
+                "title": "Market Research Firms",
+                "desc": "Primary Data Needs: Transaction trends, price indices, development pipeline, demand signals. Key Services Used: Market intelligence data, historical records, portal data.",
                 "img": "/images/industries-services/marketing.webp",
                 "alt": "Marketing BPO services featuring automated lead management, campaign data analytics, and customer sentiment data processing for advertising agencies and brands",
                 "url": "#"

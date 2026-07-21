@@ -50,7 +50,7 @@ const PricingPlan = ({ type = 1 }) => {
 								<p className="mb-4" style={{fontSize: "1.2rem", fontWeight: "500"}}>
 									{serviceData.closingLine}
 								</p>
-								<ButtonPrimary text={serviceData.cta || "Get Started"} className="btn-secondary"/>
+								<ButtonPrimary text={serviceData.cta || "Get Started"} url={"/contact-us"} className="btn-secondary"/>
 							</div>
 						</div>
 					</div>

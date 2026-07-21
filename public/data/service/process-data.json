@@ -34,6 +34,41 @@
             }
         ]
     },
+    "property-data-collection-services": {
+        "h2": "From Data Requirement to Delivered Property Dataset in 5 Steps",
+        "steps": [
+            {
+                "id": 1,
+                "title": "Define Requirements",
+                "desc": "You tell us what data you need: sources, geographies, property types, fields, update frequency, and delivery format. We ask the right questions to scope the project accurately.",
+                "timeline": "Day 1"
+            },
+            {
+                "id": 2,
+                "title": "Source Assessment",
+                "desc": "We assess your target sources for availability, access method, structure, and any legal or technical constraints. We confirm what is feasible before work begins.",
+                "timeline": "Day 1 to 2"
+            },
+            {
+                "id": 3,
+                "title": "Build and Configure",
+                "desc": "We build the extraction pipeline, configure validation and deduplication rules, and run a pilot batch of representative records for your review.",
+                "timeline": "Day 2 to 5"
+            },
+            {
+                "id": 4,
+                "title": "Full Collection and Validation",
+                "desc": "Full collection runs with deduplication, standardisation, accuracy checks, and formatting to your specification. Incomplete or suspicious records are flagged before delivery.",
+                "timeline": "Day 5 onwards"
+            },
+            {
+                "id": 5,
+                "title": "Delivery and Ongoing Management",
+                "desc": "Data delivered in your format on your schedule. Recurring feeds run automatically. Change detection ensures only new or updated records are included on each run.",
+                "timeline": "Ongoing"
+            }
+        ]
+    },
     "data-management-services": {
         "h2": "From Fragmented Data to a Single Source of Truth",
         "steps": [

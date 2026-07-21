@@ -735,53 +735,45 @@
         "banner": {
             "image": "/images/service/banner/property-data-collection-banner.webp",
             "alt": "Property data collection services banner showing automated real estate data aggregation and market intelligence",
-            "h1": "Property Data Collection Services",
-            "tagline": "Automated Property Data Collection Enabling Faster Analysis and Better Decisions",
-            "cta": "Get Accurate Property Data Now"
+            "h1": "Property Data Collection Services | MLS Data, Real Estate Listings, Ownership Records and Market Intelligence",
+            "tagline": "Structured property data from Rightmove, Zillow, Land Registry, CoStar, and hundreds of other sources. MLS listings, ownership records, valuation data, rental intelligence, and market trends. Delivered clean, formatted, and ready for your platform. ISO 27001 certified. Free pilot project available.",
+            "cta": "Get Accurate Property Data Now",
+            "primaryCta": "Get Accurate Property Data Now",
+            "secondaryCta": "Start a Free Pilot Project"
         },
         "counter": [
             {
-                "label": "Years of Experience",
-                "value": "15",
-                "symbol": "+"
+                "label": "Data Accuracy",
+                "value": "99",
+                "symbol": "%+"
             },
             {
-                "label": "Empowered Employees",
-                "value": "250",
-                "symbol": "+"
-            },
-            {
-                "label": "Data Security",
-                "value": "100",
-                "symbol": "%"
+                "label": "ISO Certification",
+                "value": "",
+                "symbol": "ISO 27001 Certified"
             },
             {
                 "label": "Cost Saving",
-                "value": "50",
-                "symbol": "%"
+                "value": "",
+                "symbol": "Up to 60% vs in-house"
             },
             {
-                "label": "Data Support",
-                "value": "24",
-                "symbol": "x7"
-            },
-            {
-                "label": "Accuracy",
-                "value": "99.99",
-                "symbol": "%"
+                "label": "Experience",
+                "value": "15",
+                "symbol": "+ Years"
             }
         ],
         "overview": {
             "image": "/images/service/overview/property-data-collection-overview.webp",
             "alt": "Comprehensive property data collection workflow showing the aggregation of real estate records, transaction documents, and market listings into a structured database",
-            "h2": "End-to-End Property Data Collection for Real Estate Excellence",
+            "h2": "Property Data Collection for Real Estate Firms, PropTech Platforms and Investors",
             "content": [
-"The real estate industry is expanding at an unprecedented pace, generating massive volumes of data across stakeholders. From complex transaction documents to evolving property records, managing this influx requires <strong>secure, scalable, and accurate data collection.</strong>",
-"By outsourcing property data services, organizations capture business-critical information with precision. This ensures data integrity and consistency, allowing internal teams to shift focus from manual data entry to <strong>strategic growth initiatives.</strong>",
-                "<h5>Precision-Driven Real Estate Solutions</h5> Computyne leverages deep domain expertise and <strong>AI-powered data collection tools</strong> to support firms, developers, MLS providers, and appraisers. We bridge the gap between fragmented information and actionable insights by structuring data from diverse online and offline sources.",
-                "<h5>Key Benefits of Our Data Services:</h5> <ul style=\"padding-left:2rem;\"><li><strong>Operational Efficiency:</strong> Streamlined workflows via automated ingestion.</li><li><strong>Advanced Analytics:</strong> Data sets optimized for predictive modeling.</li><li><strong>Informed Decision-Making:</strong> Reliable intelligence for investors and brokers.</li></ul>",
-                "<p>Whether you are managing large-scale portfolios or localized listings, our end-to-end approach ensures your data is a reliable asset rather than a logistical burden. Partner with Computyne to transform raw property records into a competitive advantage.</p>",
-                "<a class=\"tj-primary-btn \" href=\"/contact-us\"><span class=\"btn-text\"><span>Start Collecting Property Data</span></span><span class=\"btn-icon\"><i class=\"tji-arrow-right-long\"></i></span></a>"
+                "Property intelligence is only as good as the data behind it. A valuation model fed inaccurate comparable sales produces bad valuations. A rental yield calculation built on incomplete lease records produces bad investment decisions. A CRM populated with stale listing data produces wasted outreach.",
+                "Getting reliable property data at the scale most firms actually need requires more than occasional manual research. MLS records need regular extraction. Ownership and title data needs to be pulled from Land Registry, county assessor databases, and government portals that are not always easy to access in bulk. Rental data needs to be aggregated across dozens of portals. Valuation comparables need sourcing from transaction records that are often locked behind PDF documents or behind proprietary systems that do not export cleanly.",
+                "Computyne provides outsourced property data collection for real estate firms, PropTech companies, investors, lenders, appraisers, and market research organisations. We collect from MLS systems, public registries, real estate portals, government databases, and offline sources. Every dataset is validated for accuracy, standardised to a consistent format, and delivered into your platform in the way your team can actually use it.",
+                "<h5>Why Outsource Property Data Collection?</h5>",
+                "Collecting property data in-house works when your requirements are small and consistent. It stops working when you need data from multiple sources, across multiple geographies, on a regular update schedule. At that point, you are either staffing a dedicated data team or accepting that your datasets are out of date.",
+                "Outsourcing gives you a dedicated collection operation with the right source access, the right tools, and the infrastructure to run scheduled extraction at scale without you having to maintain any of it. Computyne has collected property data for US, UK, Canadian, and Australian clients since 2009. The case study on this page covers a US real estate firm that cut data aggregation time by 80% and manual effort by 60% in the first engagement. That result is typical when a structured outsourced operation replaces an ad hoc in-house collection."
             ]
         }
     },

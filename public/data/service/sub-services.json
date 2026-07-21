@@ -2280,186 +2280,252 @@
         ]
     },
     "property-data-collection-services": {
-        "h2": "End-to-End Property Data Collection Solutions for Data-Driven Decisions",
-        "desc": "",
+        "h2": "Property Data Collection Services Across Every Asset Class and Data Type",
+        "desc": "Each service is available as a one-off project, recurring feed, or fully managed ongoing collection operation.",
         "services": [
             {
                 "id": 1,
-                "title": "Property Listing Data Collection Services",
-                "desc": "Accurate residential and commercial property listing data collected through verified real estate extraction workflows.",
-                "url": "#",
+                "title": "MLS Data Collection Services",
+                "desc": "MLS systems hold the most current and comprehensive residential and commercial listing data available in the US market. Getting that data out in bulk, keeping it updated, and standardising it for use in your own platform or CRM requires either direct MLS access or a structured collection partner.",
+                "url": "/data-collection-services",
                 "data": [
                     {
-                        "value": "Residential property listing data collection"
+                        "value": "Residential and commercial MLS listing data extraction across multiple MLS regions"
                     },
                     {
-                        "value": "Commercial property listing dataset extraction"
+                        "value": "Active, pending, and sold listing status tracking with scheduled update frequency"
                     },
                     {
-                        "value": "MLS data collection services integration"
+                        "value": "Full field capture: price, beds, baths, lot size, year built, days on market, agent details"
                     },
                     {
-                        "value": "Standardized real estate listing data delivery"
+                        "value": "IDX-compliant data delivery for display platform requirements"
+                    },
+                    {
+                        "value": "Multi-MLS aggregation for platforms covering multiple geographic markets"
+                    },
+                    {
+                        "value": "Delivery formats: CSV, JSON, XML, database direct, or API feed"
                     }
                 ]
             },
             {
                 "id": 2,
-                "title": "Real Estate Transaction Data Collection",
-                "desc": "Property transaction data collection supporting compliance, valuation, and full real estate lifecycle analysis.",
+                "title": "Property Listing Data Collection and Extraction",
+                "desc": "Property portal data across Rightmove, Zoopla, Zillow, Realtor.com, Redfin, Domain, REA Group, and hundreds of regional portals. Collected on a scheduled basis, deduplicated, standardised, and delivered ready for your platform.",
                 "url": "#",
                 "data": [
                     {
-                        "value": "Property transaction data collection workflows"
+                        "value": "Residential listing data: asking price, property type, size, features, listing agent"
                     },
                     {
-                        "value": "Ownership transfer and registration records"
+                        "value": "Commercial listing data: GLA, lease type, availability, tenant, ERV, agent details"
                     },
                     {
-                        "value": "Historical real estate transaction datasets"
+                        "value": "New development listing extraction from developer sites and off-plan portals"
                     },
                     {
-                        "value": "Audit-ready structured transaction datasets"
+                        "value": "FSBO and auction property data collection from relevant platforms"
+                    },
+                    {
+                        "value": "Price change, sold price, and listing history tracking"
+                    },
+                    {
+                        "value": "UK sources: Rightmove, Zoopla, OnTheMarket, PrimeLocation, Land Registry sold prices"
+                    },
+                    {
+                        "value": "US sources: Zillow, Realtor.com, Redfin, Trulia, LoopNet, CoStar (licensed)"
+                    },
+                    {
+                        "value": "Australia sources: Domain, REA Group (realestate.com.au), CoreLogic"
                     }
                 ]
             },
             {
                 "id": 3,
-                "title": "Property Pricing and Valuation Data Collection",
-                "desc": "Reliable property pricing and valuation datasets enabling accurate investment and planning decisions.",
-                "url": "#",
+                "title": "Property Ownership and Title Data Collection",
+                "desc": "Ownership and title data sit behind government registries, county assessor databases, and title company records that are structurally difficult to access at scale. Computyne extracts and standardises this data for portfolio management, lead generation, investment targeting, and compliance applications.",
+                "url": "/real-estate-property-listing-services",
                 "data": [
                     {
-                        "value": "Real estate pricing intelligence aggregation"
+                        "value": "Land Registry ownership data extraction for England and Wales"
                     },
                     {
-                        "value": "Comparable sales data collection support"
+                        "value": "County assessor and recorder database collection across US states"
                     },
                     {
-                        "value": "Rental yield data collection insights"
+                        "value": "Title deed and encumbrance record extraction"
                     },
                     {
-                        "value": "Location-based valuation analytics datasets"
+                        "value": "Lien, mortgage, and charge data collection for risk assessment"
+                    },
+                    {
+                        "value": "Beneficial ownership and corporate entity property holding research"
+                    },
+                    {
+                        "value": "Historical ownership chain extraction for due diligence applications"
+                    },
+                    {
+                        "value": "Off-market property owner contact data for direct outreach campaigns"
                     }
                 ]
             },
             {
                 "id": 4,
-                "title": "Rental and Lease Data Collection Services",
-                "desc": "Comprehensive rental and lease data collection supporting asset performance and portfolio forecasting.",
-                "url": "#",
+                "title": "Property Valuation and Comparable Sales Data",
+                "desc": "Appraisers, lenders, PropTech platforms, and investment analysts all need reliable comparable sales data. When the underlying transaction record is wrong or incomplete, every valuation built from it is also wrong.",
+                "url": "/appraisal-data-entry-services",
                 "data": [
                     {
-                        "value": "Lease agreement data extraction services"
+                        "value": "Comparable sales data extraction from MLS, public records, and portal sold prices"
                     },
                     {
-                        "value": "Tenancy and occupancy data collection"
+                        "value": "Transaction history collection: sale date, price, buyer, seller, loan amount"
                     },
                     {
-                        "value": "Rental market data services insights"
+                        "value": "Automated Valuation Model (AVM) training dataset collection and formatting"
                     },
                     {
-                        "value": "Vacancy and renewal tracking datasets"
+                        "value": "Cap rate, NOI, and yield data collection for commercial assets"
+                    },
+                    {
+                        "value": "Appraisal support data: comparable selection, adjustment grid population"
+                    },
+                    {
+                        "value": "Historical price trend data by area, property type, and time period"
                     }
                 ]
             },
             {
                 "id": 5,
-                "title": "Property Ownership and Title Data Collection",
-                "desc": "Verified ownership and title data extraction with strict accuracy and compliance controls.",
+                "title": "Rental and Lease Market Data Collection",
+                "desc": "Rental data is fragmented across portals, letting agents, property management platforms, and private landlord listings. Getting a complete picture of rental market conditions in any geography requires collecting from multiple sources simultaneously.",
                 "url": "#",
                 "data": [
                     {
-                        "value": "Property title and deed data extraction"
+                        "value": "Asking for rent collection across Rightmove Rentals, Zoopla Rentals, Zillow Rentals, and Apartments.com"
                     },
                     {
-                        "value": "Land registry data collection services"
+                        "value": "Lease terms, break clauses, and renewal data extraction from commercial databases"
                     },
                     {
-                        "value": "Encumbrance and lien records capture"
+                        "value": "Rental yield calculation data: asking price and rental income by postcode or ZIP"
                     },
                     {
-                        "value": "Compliance-ready property records datasets"
+                        "value": "Tenancy and occupancy data collection for portfolio performance monitoring"
+                    },
+                    {
+                        "value": "Short-term rental data collection from Airbnb, Vrbo, and booking platforms"
+                    },
+                    {
+                        "value": "Vacancy rate tracking by area and property type for market intelligence"
                     }
                 ]
             },
             {
                 "id": 6,
-                "title": "Property Tax and Compliance Data Collection",
-                "desc": "Accurate tax, zoning, and regulatory property datasets collected across jurisdictions.",
-                "url": "#",
+                "title": "Real Estate Web Scraping Services",
+                "desc": "Web scraping is how most real estate portal data gets collected at volume. The challenge is doing it reliably: portals change their structure, introduce anti-scraping measures, and rate-limit aggressive crawlers. Computyne's scraping infrastructure handles these constraints, so your data feed does not break every time a portal updates its HTML.",
+                "url": "/web-scraping-services",
                 "data": [
                     {
-                        "value": "Property tax data collection services"
+                        "value": "Rightmove, Zoopla, and OnTheMarket are scraping for UK residential and commercial data."
                     },
                     {
-                        "value": "Municipal property records collection"
+                        "value": "Zillow, Realtor.com, Redfin, and Trulia are scraping for US property data"
                     },
                     {
-                        "value": "Zoning and land use data services"
+                        "value": "LoopNet and CoStar scraping support for commercial real estate intelligence"
                     },
                     {
-                        "value": "Jurisdiction-based regulatory property datasets"
+                        "value": "Domain and REA Group scraping for Australian property market data"
+                    },
+                    {
+                        "value": "Anti-bot handling, proxy rotation, and session management for reliable extraction"
+                    },
+                    {
+                        "value": "Scheduled scraping with change detection: only new or updated records on each run"
+                    },
+                    {
+                        "value": "Data delivered as structured CSV, JSON, or direct database insert"
                     }
                 ]
             },
             {
                 "id": 7,
                 "title": "Commercial Real Estate Data Collection",
-                "desc": "Enterprise-grade commercial real estate data collection supporting portfolio management and risk analysis.",
+                "desc": "Commercial real estate data requirements are different from residential. Investors and portfolio managers need lease data, tenant information, occupancy rates, NOI figures, and comparable transaction evidence across office, retail, industrial, and mixed-use assets. Most of this data is not on public portals.",
                 "url": "#",
                 "data": [
                     {
-                        "value": "Office, retail, and industrial property data"
+                        "value": "Office, retail, industrial, and mixed-use asset data collection"
                     },
                     {
-                        "value": "Tenant mix and lease analytics"
+                        "value": "Lease terms, rent review dates, break options, and tenant covenant data"
                     },
                     {
-                        "value": "Commercial property analytics data"
+                        "value": "Occupancy and void rate collection for portfolio performance tracking"
                     },
                     {
-                        "value": "Enterprise commercial real estate datasets"
+                        "value": "CRE transaction data from CoStar, EGi, Property Week, and public registries"
+                    },
+                    {
+                        "value": "Planning application data extraction for development opportunity intelligence"
+                    },
+                    {
+                        "value": "Investment comparable data for valuation and yield benchmarking"
                     }
                 ]
             },
             {
                 "id": 8,
-                "title": "Geospatial and Location Intelligence Data Collection",
-                "desc": "GIS-enabled property location intelligence supporting planning, valuation, and analytics.",
+                "title": "Property Tax and Compliance Data Collection",
+                "desc": "Tax assessments, zoning classifications, permitted use data, planning records, and environmental compliance information affect property value, development potential, and legal exposure. Accessing this data at scale from government sources requires structured collection workflows.",
                 "url": "#",
                 "data": [
                     {
-                        "value": "GIS property data collection services"
+                        "value": "Property tax assessment and rate collection by jurisdiction"
                     },
                     {
-                        "value": "Neighborhood and demographic property data"
+                        "value": "Municipal and county property record extraction across US states"
                     },
                     {
-                        "value": "Infrastructure and amenities intelligence"
+                        "value": "UK Council Tax band and business rates collection"
                     },
                     {
-                        "value": "Location-based property analytics support"
+                        "value": "Zoning and land use classification data from planning portals"
+                    },
+                    {
+                        "value": "Planning application status, approval, and condition data extraction"
+                    },
+                    {
+                        "value": "Environmental designation and flood risk data collection from government sources"
                     }
                 ]
             },
             {
                 "id": 9,
-                "title": "Property Market Research Data Collection",
-                "desc": "Real estate market research data supporting strategic planning and opportunity assessment.",
+                "title": "Geospatial and Location Intelligence Data",
+                "desc": "Property value, rental demand, and development viability all depend on location context. Geospatial data collection brings together the infrastructure, amenity, demographic, and catchment intelligence that makes location analysis meaningful.",
                 "url": "#",
                 "data": [
                     {
-                        "value": "Property market intelligence services"
+                        "value": "Points of interest data: schools, transport, retail, healthcare by proximity"
                     },
                     {
-                        "value": "Demand and supply trend analysis"
+                        "value": "Demographic and census data collection for catchment area analysis"
                     },
                     {
-                        "value": "Competitor property benchmarking datasets"
+                        "value": "Infrastructure and planning constraint data collection"
                     },
                     {
-                        "value": "Real estate forecasting data insights"
+                        "value": "Flood zone, geological, and environmental risk data"
+                    },
+                    {
+                        "value": "Walk score, transport connectivity, and accessibility data"
+                    },
+                    {
+                        "value": "Delivery in GIS-compatible formats: GeoJSON, Shapefile, KML, CSV with coordinates"
                     }
                 ]
             }
@@ -2849,7 +2915,7 @@
                 "id": 4,
                 "title": "Real Estate Data Scraping Services",
                 "desc": "Reliable property intelligence supporting investment, valuation, and real estate market analysis.",
-                "url": "#",
+                "url": "/property-data-collection-services",
                 "data": [
                     {
                         "value": "Property listings data extraction"
@@ -2975,7 +3041,7 @@
                 "id": 1,
                 "title": "Property Appraisal Data Entry Services",
                 "desc": "Accurate entry of residential and commercial property appraisal data into standardized, compliant digital systems.",
-                "url": "#",
+                "url": "/property-data-collection-services",
                 "data": [
                     {
                         "value": "Residential and commercial appraisal data"
@@ -4541,7 +4607,7 @@
                 "id": 3,
                 "title": "Real Estate Listing Data Verification",
                 "desc": "Comprehensive verification ensures accurate property listings that remain trustworthy, transparent, and regulation-compliant.",
-                "url": "#",
+                "url": "/property-data-collection-services",
                 "data": [
                     {
                         "value": "Ownership and title detail validation"
@@ -5684,7 +5750,7 @@
                 "id": 4,
                 "title": "Property Data Collection",
                 "desc": "Accurate property data collection supporting structured records, analytics, and reliable real estate operations.",
-                "url": "property-data-collection-services",
+                "url": "/property-data-collection-services",
                 "data": [
                     {
                         "value": "Field and source-based data aggregation"
@@ -5704,7 +5770,7 @@
                 "id": 5,
                 "title": "Appraisal & Valuation Data Entry",
                 "desc": "Precise appraisal and valuation data entry ensuring accuracy, compliance, and decision-ready property insights.",
-                "url": "appraisal-data-entry-services",
+                "url": "/appraisal-data-entry-services",
                 "data": [
                     {
                         "value": "Appraisal report digitization and indexing"
@@ -5724,7 +5790,7 @@
                 "id": 6,
                 "title": "Real Estate Property Listing Management",
                 "desc": "Comprehensive property listing management ensuring consistency, visibility, and faster market readiness.",
-                "url": "real-estate-property-listing-services",
+                "url": "/real-estate-property-listing-services",
                 "data": [
                     {
                         "value": "Listing creation and optimization services"

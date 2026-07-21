@@ -812,52 +812,60 @@
 			}
 		]
 	},
-	"property-data-collection-services": {
-		"cta": "Request a Free Consultation",
-		"faq": [
-			{
-				"title": "What is property data collection?",
-				"desc": "Property data collection involves gathering, validating, and structuring listings, pricing, transactions, ownership records, tax details, zoning information, and location intelligence from multiple online and offline sources.",
-				"initActive": true
-			},
-			{
-				"title": "What types of property data can be collected?",
-				"desc": "Collected data includes residential and commercial listings, property transaction datasets, valuation data, rental and lease records, ownership details, tax information, zoning data, and geospatial intelligence."
-			},
-			{
-				"title": "How do you ensure data accuracy and quality?",
-				"desc": "Accuracy is ensured through automated real estate data processing, source verification, normalization rules, and manual audits to deliver consistent and decision-ready datasets."
-			},
-			{
-				"title": "Is property data collection compliant with regulations?",
-				"desc": "Yes. All property data collection services follow applicable data protection laws, ethical data sourcing practices, and regional regulatory compliance standards."
-			},
-			{
-				"title": "Can you collect data from multiple sources and regions?",
-				"desc": "Yes. Property data is collected from MLS platforms, real estate portals, government registries, municipal records, and offline documents across global regions."
-			},
-			{
-				"title": "Do you offer customized property data collection solutions?",
-				"desc": "Absolutely. Custom property data solutions are designed to align with specific business objectives, geographies, data formats, update frequencies, and integration requirements."
-			},
-			{
-				"title": "How is the collected data delivered?",
-				"desc": "Collected property data is delivered in Excel, CSV, JSON, XML, database-ready formats, or via direct system integrations for seamless usability."
-			},
-			{
-				"title": "How do you handle large-scale or ongoing data requirements?",
-				"desc": "Enterprise-grade workflows combined with AI-powered automation efficiently manage high-volume, recurring, and real-time property data requirements."
-			},
-			{
-				"title": "Is the collected property data secure?",
-				"desc": "Yes. We apply strict security measures including encryption, access controls, secure storage, and NDAs to protect sensitive property data."
-			},
-			{
-				"title": "Which industries benefit most from property data collection services?",
-				"desc": "Property developers, real estate brokers, investors, property managers, valuation firms, lenders, government bodies, and research organizations benefit significantly from structured property data."
-			}
-		]
-	},
+		"property-data-collection-services": {
+			"cta": "Request a Free Consultation",
+			"faq": [
+				{
+					"title": "What is property data collection?",
+					"desc": "Property data collection involves gathering, validating, and structuring data about real estate assets from digital and offline sources. This includes listing data from portals like Rightmove and Zillow, ownership and title records from Land Registry and county assessors, transaction and sold price data, rental market intelligence, valuation comparables, tax and zoning information, and geospatial data. The output is structured, formatted, and delivered for use in analytics, CRM systems, valuation models, or PropTech platforms.",
+					"initActive": true
+				},
+				{
+					"title": "Which property data sources can be collected from?",
+					"desc": "We collect from MLS systems, UK portals (Rightmove, Zoopla, Land Registry), US portals (Zillow, Realtor.com, Redfin, county assessors), Australian portals (Domain, REA Group), Canadian registries, and commercial databases including CoStar and EGi. Government sources include the UK Land Registry, FEMA flood databases, planning portals, and VOA for council tax and business rates. If a data source is accessible through structured or semi-structured means, we can collect from it."
+				},
+				{
+					"title": "How accurate is the property data you collect?",
+					"desc": "Most property data collection projects deliver accuracy above 99% through automated validation rules, source cross-referencing, deduplication, and manual review of flagged records. Accuracy benchmarks are agreed upon before each project and reported in every delivery."
+				},
+				{
+					"title": "Can property data be collected regularly?",
+					"desc": "Yes. Recurring data feeds on daily, weekly, or monthly schedules are available for listing prices, rental rates, ownership changes, sold price updates, and any other data type that changes regularly. Change detection logic ensures only new or updated records are included on each run, keeping delivery sizes manageable and your data current."
+				},
+				{
+					"title": "What property data formats are supported?",
+					"desc": "Data is delivered in CSV, Excel, JSON, XML, database-ready flat files, or GIS formats, including GeoJSON and Shapefile for geospatial data. Output structure and field naming are configured to match your platform or system requirements before delivery begins."
+				},
+				{
+					"title": "Is property data collection legal and compliant?",
+					"desc": "Yes, when conducted correctly. We only collect data from publicly available sources and comply with the terms of service of each platform. UK and EU data collection follows GDPR-aligned handling practices. All engagements include a documented source and compliance framework. We do not collect personal data from sources that prohibit it and do not use collection methods that breach platform terms."
+				},
+				{
+					"title": "Can you collect commercial real estate data as well as residential?",
+					"desc": "Yes. Commercial property data collection covers office, retail, industrial, and mixed-use assets. Sources include CoStar (through licensed access or permitted extraction), EGi, Property Week, national commercial registries, planning portals, and individual developer and agent websites. Commercial data fields include GLA, ERV, passing rent, occupancy status, tenant details, lease terms, and comparable transaction evidence."
+				},
+				{
+					"title": "Do you collect property data for markets outside the UK and the USA?",
+					"desc": "Yes. We cover Australia (Domain, REA Group, CoreLogic), Canada (Realtor.ca, provincial registries), and major European markets (Immobilienscout24, Seloger, Idealista, Funda, and national cadastre databases). For any market where publicly accessible property data exists, we can assess feasibility and scope a collection project."
+				},
+				{
+					"title": "How quickly can property data collection begin?",
+					"desc": "For standard portal extraction projects with defined field requirements, a pilot batch of records can be delivered within 3 to 5 business days of brief confirmation. More complex builds involving government portal access, multi-source aggregation, or custom data pipeline integration typically take 5 to 10 business days to configure before full production begins."
+				},
+				{
+					"title": "Can you enrich existing property databases with missing fields?",
+					"desc": "Yes. If you have a property database with gaps (missing sold prices, incomplete ownership records, no EPC ratings, absent planning history) we can run an enrichment pass to append the missing fields from verified sources. This is typically faster and more cost-effective than rebuilding the dataset from scratch."
+				},
+				{
+					"title": "How is property data kept secure during collection and delivery?",
+					"desc": "All collection operations follow ISO 27001 information security protocols with signed NDAs, role-based access controls, encrypted delivery, and GDPR-compliant handling for UK and EU data. Sensitive ownership and personal information are handled under documented compliance controls. Data is never retained beyond the agreed delivery and storage terms."
+				},
+				{
+					"title": "What is the difference between property data collection and property data scraping?",
+					"desc": "Property data scraping is one collection method: automated extraction from websites and portals using crawling and parsing tools. Property data collection is the broader service that includes scraping plus manual research, government registry access, MLS data extraction, API-based collection from platforms that offer data feeds, and document-based extraction from PDFs and offline sources. Computyne uses the most appropriate method for each data type and source."
+				}
+			]
+		},
 	"resume-formatting-services": {
 		"cta": "Request a Free Consultation",
 		"faq": [

@@ -353,6 +353,62 @@
             }
         ]
     },
+    "property-data-collection-services": {
+        "span": "Engagement Models and Pricing",
+        "h2": "Flexible Property Data Collection Engagement Models",
+        "closingLine": "Choose the model that fits your property data requirement, from a free pilot to a fully managed ongoing collection operation.",
+        "cta": "Get a Custom Property Data Quote",
+        "engagementModels": [
+            {
+                "model": "One-Off Project",
+                "bestFor": "Market entry, specific intelligence sprint, initial dataset build",
+                "commitment": "Any volume",
+                "volume": "Any volume",
+                "pricingBasis": "Scoped quote by source count and record volume",
+                "indicativeRate": "Scoped quote",
+                "displayPrice": "Scoped Quote",
+                "rate": "0",
+                "ratePolicy": "",
+                "isActive": false
+            },
+            {
+                "model": "Recurring Feed",
+                "bestFor": "Portal price monitoring, listing updates, and ownership refresh",
+                "commitment": "Daily, weekly, monthly",
+                "volume": "Daily, weekly, monthly",
+                "pricingBasis": "Monthly retainer from $500/mo, depending on volume",
+                "indicativeRate": "Monthly retainer from $500/mo",
+                "displayPrice": "From $500/mo",
+                "rate": "0",
+                "ratePolicy": "",
+                "isActive": true
+            },
+            {
+                "model": "Dedicated Data Team",
+                "bestFor": "PropTech platforms, large-scale ongoing data operations",
+                "commitment": "High volume, SLA-backed",
+                "volume": "High volume, SLA-backed",
+                "pricingBasis": "Custom contract based on volume and complexity",
+                "indicativeRate": "Custom contract",
+                "displayPrice": "Custom",
+                "rate": "0",
+                "ratePolicy": "",
+                "isActive": false
+            },
+            {
+                "model": "Free Pilot",
+                "bestFor": "Test accuracy and delivery format before committing",
+                "commitment": "Up to 500 records",
+                "volume": "Up to 500 records",
+                "pricingBasis": "Free, no obligation",
+                "indicativeRate": "Free, no obligation",
+                "displayPrice": "Free",
+                "rate": "0",
+                "ratePolicy": "",
+                "isActive": false
+            }
+        ]
+    },
     "data-solutions-services": {
         "span": "FLEXIBLE DATA SOLUTIONS ENGAGEMENT MODELS",
         "h2": "Flexible Data Solutions Engagement Models",

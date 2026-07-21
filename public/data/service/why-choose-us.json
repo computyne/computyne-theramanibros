@@ -651,47 +651,37 @@
         ]
     },
     "property-data-collection-services": {
-        "h2": "Benefits of Outsourcing Property Data Collection Services",
+        "h2": "Benefits of Outsourcing Property Data Collection to Computyne",
         "data": [
             {
                 "id": 1,
-                "title": "Improved Data Accuracy and Consistency",
-                "desc": "Outsourced property data collection applies automated validation, standardized workflows, and multi-level quality checks to deliver reliable and consistent datasets across listings, transactions, valuations, and regulatory records."
+                "title": "80% Faster Data Aggregation",
+                "desc": "From the US real estate case study: automating property data collection cut aggregation time by 80% versus the client's previous manual operation. The same result is typical when a structured collection pipeline replaces ad hoc in-house research."
             },
             {
                 "id": 2,
-                "title": "Reduced Operational Costs",
-                "desc": "Real estate data collection outsourcing eliminates hiring, training, infrastructure, and maintenance costs while delivering scalable, high-quality property data services at predictable and cost-efficient pricing."
+                "title": "60% Reduction in Manual Effort",
+                "desc": "Computyne's automated collection and validation workflows removed 60% of the manual data effort from the US real estate client's operation, freeing the team for analysis and decision-making rather than data gathering."
             },
             {
                 "id": 3,
-                "title": "Faster Data Turnaround Times",
-                "desc": "Automation, parallel workflows, and dedicated teams accelerate property data processing cycles, ensuring timely delivery of large volumes without compromising data quality or freshness."
+                "title": "99%+ Data Accuracy",
+                "desc": "Multi-layer validation, deduplication, and source cross-referencing produce datasets that consistently hit 99%+ accuracy. Errors that reach your models, valuations, or CRM are caught before delivery, not after."
             },
             {
                 "id": 4,
-                "title": "Scalability for Growing Data Needs",
-                "desc": "Scalable property data services adapt seamlessly to portfolio expansion, geographic growth, and fluctuating data volumes without internal operational constraints."
+                "title": "Named Sources, Not Generic Feeds",
+                "desc": "Every dataset is collected from the specific sources your market requires: Rightmove and Land Registry for UK work, Zillow and county assessors for US, Domain and REA Group for Australia. You get market-specific data, not generic aggregated output."
             },
             {
                 "id": 5,
-                "title": "Access to Domain-Specific Expertise",
-                "desc": "Experienced real estate data specialists ensure accurate data management aligned with MLS standards, valuation models, and regulatory requirements."
+                "title": "Scales Without Staffing",
+                "desc": "From 500 property records to 5 million, the same managed delivery model applies. Volume spikes from portfolio expansion or geographic growth require no internal hiring or retraining."
             },
             {
                 "id": 6,
-                "title": "Enhanced Focus on Core Business Goals",
-                "desc": "Outsourcing property data collection frees internal teams to prioritize investments, sales execution, asset optimization, and long-term strategic growth initiatives."
-            },
-            {
-                "id": 7,
-                "title": "Secure and Compliant Data Handling",
-                "desc": "Secure property data collection follows strict security protocols, NDAs, and compliance frameworks to safeguard sensitive property, ownership, and financial information."
-            },
-            {
-                "id": 8,
-                "title": "Actionable Insights for Better Decisions",
-                "desc": "Clean, structured, and validated property datasets enable confident market analysis, pricing strategies, risk mitigation, and data-driven investment decisions."
+                "title": "ISO 27001 and GDPR Compliant",
+                "desc": "All property data collection follows ISO 27001 security protocols with signed NDAs, role-based access, and GDPR-aligned handling for UK and EU clients. Sensitive ownership and personal data are handled with documented compliance controls."
             }
         ]
     },
