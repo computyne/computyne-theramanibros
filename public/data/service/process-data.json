@@ -69,6 +69,41 @@
             }
         ]
     },
+    "real-estate-property-listing-services": {
+        "h2": "From Listing Brief to Live Property Entry in 5 Steps",
+        "steps": [
+            {
+                "id": 1,
+                "title": "Define Requirements",
+                "desc": "Share your listing templates, field requirements, platform access, and quality standards. SOPs are documented before any entry begins.",
+                "timeline": "Day 1"
+            },
+            {
+                "id": 2,
+                "title": "Access Setup",
+                "desc": "Secure, role-based access to your MLS, portals, and CRM configured with NDA in place before any data is handled.",
+                "timeline": "Day 1 to 2"
+            },
+            {
+                "id": 3,
+                "title": "Pilot Batch",
+                "desc": "We enter 10 to 25 representative listings. You review accuracy, formatting, and portal compliance before full production.",
+                "timeline": "Day 2 to 4"
+            },
+            {
+                "id": 4,
+                "title": "Full Production",
+                "desc": "Production entry on your agreed schedule. Every listing goes through a two-stage check before submission. Exceptions flagged before going live.",
+                "timeline": "Ongoing"
+            },
+            {
+                "id": 5,
+                "title": "Review and Reporting",
+                "desc": "Weekly reports showing volumes entered, accuracy rates, and any listings held for query.",
+                "timeline": "Weekly"
+            }
+        ]
+    },
     "data-management-services": {
         "h2": "From Fragmented Data to a Single Source of Truth",
         "steps": [

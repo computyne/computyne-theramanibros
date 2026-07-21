@@ -409,6 +409,62 @@
             }
         ]
     },
+    "real-estate-property-listing-services": {
+        "span": "Engagement Models and Pricing",
+        "h2": "Flexible Property Listing Data Entry Models",
+        "closingLine": "Choose the model that fits your property listing requirement, from a free pilot to a fully managed ongoing listing operation.",
+        "cta": "Get a Custom Listing Data Entry Quote",
+        "engagementModels": [
+            {
+                "model": "Per Listing",
+                "bestFor": "Occasional volume, new development launches",
+                "commitment": "Any",
+                "volume": "Any",
+                "pricingBasis": "Quoted per listing by platform count and field complexity",
+                "indicativeRate": "Quoted per listing",
+                "displayPrice": "Quoted",
+                "rate": "0",
+                "ratePolicy": "",
+                "isActive": false
+            },
+            {
+                "model": "Hourly Dedicated",
+                "bestFor": "Variable workloads, daily updates, status changes",
+                "commitment": "Flexible",
+                "volume": "Flexible",
+                "pricingBasis": "From $4 to $7/hr per specialist",
+                "indicativeRate": "From $4 to $7/hr",
+                "displayPrice": "From $4 to $7/hr",
+                "rate": "0",
+                "ratePolicy": "",
+                "isActive": true
+            },
+            {
+                "model": "Full-Time Dedicated",
+                "bestFor": "High-volume agencies, portals, enterprise firms",
+                "commitment": "40 hrs/wk",
+                "volume": "40 hrs/wk",
+                "pricingBasis": "From $600 to $900/mo per specialist",
+                "indicativeRate": "From $600 to $900/mo",
+                "displayPrice": "From $600 to $900/mo",
+                "rate": "0",
+                "ratePolicy": "",
+                "isActive": false
+            },
+            {
+                "model": "Free Pilot",
+                "bestFor": "Test accuracy and workflow before committing",
+                "commitment": "10 to 25 listings",
+                "volume": "10 to 25 listings",
+                "pricingBasis": "Free, no obligation",
+                "indicativeRate": "Free, no obligation",
+                "displayPrice": "Free",
+                "rate": "0",
+                "ratePolicy": "",
+                "isActive": false
+            }
+        ]
+    },
     "data-solutions-services": {
         "span": "FLEXIBLE DATA SOLUTIONS ENGAGEMENT MODELS",
         "h2": "Flexible Data Solutions Engagement Models",

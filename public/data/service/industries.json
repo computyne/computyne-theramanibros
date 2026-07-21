@@ -2633,28 +2633,28 @@
         ]
     },
     "real-estate-property-listing-services": {
-        "h2": "Tailored Property Listing Services for Real Estate Industry Segments",
+        "h2": "Property Listing Data Entry Across Every Real Estate Sector",
         "industries": [
             {
                 "id": 1,
-                "title": "Real Estate Agencies",
-                "desc": "We maintain accurate and structured property listings across multiple platforms, improving visibility, compliance, and buyer engagement.",
+                "title": "Residential Agencies",
+                "desc": "High listing volume, multiple portal requirements, frequent status changes. We handle MLS entry, portal updates, CRM population, and status management.",
                 "img": "/images/industries-services/real-estate.webp",
                 "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
                 "url": "/real-estate"
             },
             {
                 "id": 2,
-                "title": "Property Developers",
-                "desc": "We manage high-volume project listings with verified and consistent data, supporting timely launches and coordinated market releases.",
+                "title": "Commercial Real Estate",
+                "desc": "Complex data fields, investor-facing requirements, and LoopNet or CoStar compliance. We handle CRE listing entry, lease data, and investment metrics.",
                 "img": "/images/industries-services/real-estate.webp",
                 "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
                 "url": "#"
             },
             {
                 "id": 3,
-                "title": "Commercial Real Estate Firms",
-                "desc": "We structure complex commercial property data to improve clarity, regulatory compliance, and investor decision-making.",
+                "title": "Property Developers",
+                "desc": "New development launches, off-plan listing creation, and phased releases. We manage development listing entry, unit-level data, and phase tracking.",
                 "img": "/images/industries-services/real-estate.webp",
                 "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
                 "url": "/real-estate"
@@ -2662,23 +2662,23 @@
             {
                 "id": 4,
                 "title": "Property Management Companies",
-                "desc": "We continuously update rental and portfolio listings to improve data accuracy, occupancy visibility, and tenant conversions.",
+                "desc": "Rental listing creation, availability updates, and tenancy accuracy. We support rental portal entry, availability tracking, and tenancy data updates.",
                 "img": "/images/industries-services/real-estate.webp",
                 "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
                 "url": "#"
             },
             {
                 "id": 5,
-                "title": "Real Estate Portals & Marketplaces",
-                "desc": "We standardize and optimize large property datasets to support SEO performance, data consistency, and seamless user experiences.",
+                "title": "Real Estate Portals",
+                "desc": "Large-scale data standardisation, SEO compliance, and MLS feed management. We keep portal datasets consistent and searchable.",
                 "img": "/images/industries-services/real-estate.webp",
                 "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
                 "url": "/real-estate"
             },
             {
                 "id": 6,
-                "title": "Real Estate Investors & Funds",
-                "desc": "We deliver verified, analytics-ready listing data to support portfolio evaluation, due diligence, and informed investment decisions.",
+                "title": "Real Estate Investors",
+                "desc": "Acquisition listing monitoring, comparable data, and portfolio databases. We deliver analytics-ready records for investment analysis.",
                 "img": "/images/industries-services/real-estate.webp",
                 "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
                 "url": "/real-estate"
@@ -2686,7 +2686,15 @@
             {
                 "id": 7,
                 "title": "MLS Providers",
-                "desc": "We ensure MLS-compliant data entry with standardized fields and formats, reducing listing rejections across submission channels.",
+                "desc": "Member listing compliance, field completeness, and board submission accuracy. We support MLS compliance entry and member listing validation.",
+                "img": "/images/industries-services/real-estate.webp",
+                "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "PropTech Platforms",
+                "desc": "High-volume listing feeds, API-ready data, and consistent field structure. We produce structured entry that is ready for platform ingestion.",
                 "img": "/images/industries-services/real-estate.webp",
                 "alt": "Real estate data outsourcing services showing property listing management, automated lease abstraction, and MLS database synchronization for real estate developers and agencies",
                 "url": "#"

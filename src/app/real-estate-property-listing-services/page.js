@@ -4,8 +4,8 @@ import BackToTop from "@/components/shared/others/BackToTop";
 import ClientWrapper from "@/components/shared/wrappers/ClientWrapper";
 import Aboutus from "@/components/sections/subservice/Aboutus";
 import Subservices from "@/components/sections/subservice/Subservices";
-import Banner from "@/components/sections/subservice/Banner";
-import Counter from "@/components/sections/subservice/Counter";
+import HeroBanner from "@/components/sections/subservice/HeroBanner";
+import CounterHireResource from "@/components/sections/subservice/CounterHireResource";
 import Whychooseus from "@/components/sections/subservice/Whychooseus";
 import Faq from "@/components/sections/subservice/Faq";
 import Industries from "@/components/sections/subservice/Industries";
@@ -14,22 +14,28 @@ import JsonLd from "@/components/seo/JsonLd";
 import {realEstatePropertyListingServicesSchema} from "@/libs/schema/services/realEstatePropertyListingServicesSchema";
 import SubFooter from "@/components/layout/footer/subFooter";
 import Testimonials from "@/components/layout/common/Testimonials";
+import PricingPlan from "@/components/pricing-plan/PricingPlan";
+import Process from "@/components/sections/how-work/Process";
+import RealEstatePropertyListingCoverage from "@/components/sections/subservice/RealEstatePropertyListingCoverage";
 
 export const metadata = {
     metadataBase: new URL("https://www.computyne.com"),
 
-    title: "MLS Property Listing Data Entry Services | Outsourced Real Estate Data Entry | Computyne",
+    title: "Real Estate Property Listing Data Entry Services | MLS, IDX, Zillow, Rightmove and Portal Listing Management | Computyne",
     description:
-        "Expert real estate listing data entry servicesMLS, Zillow, Right move & portals. Accurate, SEO-optimized & scalable. Get a free quote.",
+        "Outsourced real estate property listing data entry from India. MLS data entry, IDX compliance, Zillow and Rightmove listing management, SEO-optimised descriptions, and CRM population. 99% accuracy. ISO 27001. Free pilot.",
 
     keywords: [
-        "real estate property listing services",
-        "property listing data management",
-        "real estate listing management",
-        "property database management",
-        "MLS listing services",
-        "property listing data entry",
-        "real estate data services",
+        "property listing data entry services",
+        "MLS data entry services",
+        "real estate listing data entry",
+        "IDX data entry services",
+        "Zillow listing data entry",
+        "Rightmove listing management",
+        "MLS listing management",
+        "outsource property listing data entry",
+        "real estate portal data entry",
+        "MLS compliance data entry",
     ],
 
     alternates: {
@@ -54,13 +60,16 @@ export default function realEstatePropertyListingServices() {
                     <div id="smooth-content">
                         <main>
                             <div className="top-space-15"></div>
-                            
-                            <Banner/>
-                            <Counter/>
+
+                            <HeroBanner dataSource="service"/>
+                            <CounterHireResource dataSource="service"/>
                             <Aboutus slug={"real-estate-property-listing-services"} type={1}/>
                             <Subservices/>
-                            <Casestudy text="Property Listing Data Entry Case Studies Across Real Estate Segments"/>
+                            <RealEstatePropertyListingCoverage/>
+                            <Casestudy text="Proven Real Estate Listing Results"/>
                             <Whychooseus/>
+                            <PricingPlan/>
+                            <Process/>
                             <Faq type={1}/>
                             <Testimonials/>
                             <Industries/>

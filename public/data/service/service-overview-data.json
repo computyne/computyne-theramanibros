@@ -1439,51 +1439,45 @@
     "real-estate-property-listing-services": {
         "banner": {
             "image": "/images/service/banner/real-estate-property-listing-services-banner.webp",
-            "alt": "Real estate property listing services banner featuring optimized MLS data entry, high-quality property descriptions, and digital listing management for increased market visibility",
-            "h1": "Outsourced Real Estate Listing Data Entry & MLS Management Services",
-            "tagline": "Structured Property Listings That Increase Accuracy, Visibility, and Speed in Real Estate",
-            "cta": "Optimize Listings Today"
+            "alt": "Real estate property listing services banner featuring MLS entry, IDX compliance, portal listing management, and SEO-ready property records",
+            "h1": "Real Estate Property Listing Data Entry Services |",
+            "h1_primary": " MLS, IDX, Zillow, Rightmove and Portal Listing Management",
+            "tagline": "Accurate property listings entered into MLS systems, Zillow, Rightmove, and every major portal your business uses. IDX-compliant, SEO-ready descriptions, and CRM-populated records. Delivered by trained specialists from India. 99%+ accuracy. ISO 27001 certified. Free pilot available.",
+            "cta": "",
+            "primaryCta": "Outsource Your Listing Data Entry",
+            "secondaryCta": "Start a Free Pilot Project"
         },
         "counter": [
             {
-                "label": "Years of Experience",
-                "value": "15",
-                "symbol": "+"
-            },
-            {
-                "label": "Skilled Professionals",
-                "value": "250",
-                "symbol": "+"
-            },
-            {
-                "label": "Data Security",
-                "value": "100",
-                "symbol": "%"
-            },
-            {
-                "label": "Cost Savings",
-                "value": "50",
-                "symbol": "%"
-            },
-            {
-                "label": "Listings Updated Monthly",
-                "value": "50",
-                "symbol": "k+"
-            },
-            {
                 "label": "Data Accuracy",
-                "value": "99.99",
-                "symbol": "%"
+                "value": "99",
+                "symbol": "%+"
+            },
+            {
+                "label": "ISO Certification",
+                "value": "",
+                "symbol": "ISO 27001 Certified"
+            },
+            {
+                "label": "Monthly Listings",
+                "value": "50",
+                "symbol": "k+ updated"
+            },
+            {
+                "label": "Cost Saving",
+                "value": "60",
+                "symbol": "% vs in-house"
             }
         ],
         "overview": {
             "image": "/images/service/overview/real-estate-property-listing-services-overview.webp",
-            "alt": "Real estate property listing overview showing the conversion of fragmented property data into verified, high-visibility listings for MLS and digital platforms",
-            "h2": "Intelligent Property Listing Management for Growing Real Estate Portfolios",
+            "alt": "Real estate property listing overview showing structured MLS, portal, and CRM data entry for accurate property listings",
+            "h2": "Property Listing Data Entry for MLS, IDX, Portals and CRM Systems",
             "content": [
-                "Accurate property listings are critical for maintaining transparency, strengthening buyer confidence, and accelerating decision-making. In a competitive real estate environment, even small data inconsistencies can lead to buyer confusion, reduced engagement, missed opportunities, or delayed transactions. Our Real Estate Property Listing Services help agencies, developers, and brokers maintain accurate, verified, and consistently updated listings that enhance visibility, credibility, and trust across digital and print channels.",
-                "Manual property listing creation often results in fragmented datasets, missing information, and formatting inconsistencies. To address these challenges, we apply standardized workflows designed for precision and repeatability. Every listing is reviewed and enriched with verified ownership details, property specifications, pricing information, zoning classifications, and regulatory data, ensuring compliance and readiness for buyers, investors, and internal stakeholders.",
-                "Our Property Listing Data Management solutions consolidate multiple data sources into a centralized, easy-to-manage structure. Whether managing residential, commercial, or mixed-use properties, we ensure listings align with branding standards, marketing goals, and compliance requirements. The result is structured, searchable, and SEO-optimized property data that improves online discoverability and supports faster, more informed real estate transactions."
+                "Listing quality is where deals start or stall. A property with incorrect square footage, a missing bedroom count, or a description that does not match the photos creates questions a buyer should not have to ask. It adds friction before the first showing. In a market where buyers compare dozens of listings in an afternoon, an incomplete or inconsistently formatted entry is one they move past.",
+                "The operational problem for most real estate businesses is volume. A single agent managing 20 active listings can keep up manually. A firm managing hundreds of listings across MLS, Zillow, Rightmove, Realtor.com, and its own CRM cannot. The data entry, verification, photo metadata, description writing, and portal-specific formatting requirements add up to significant staff time that should be spent on client relationships and deal flow.",
+                "Computyne handles that operation on your behalf. Our specialists enter, verify, and maintain property listings across MLS systems, major portals, and CRM platforms. Every listing is entered to your field standards, checked for completeness and accuracy, and formatted to the specific requirements of the platform it goes to. Residential, commercial, or rental. A single office or an enterprise portfolio.",
+                "<h5>Why Outsource Property Listing Data Entry?</h5><p>The cost argument is direct. A full-time real estate data specialist in the UK or the USA costs $35,000 to $55,000 per year before management overhead. Computyne's dedicated listing specialists cost 40 to 60% of that, work in your systems, follow your SOPs, and require no recruitment, training, or performance management from your team.</p><p>The quality argument matters too. In-house listing data entry quality is person-dependent. When your best person leaves or is on leave, error rates rise. Computyne's quality is process-dependent. Two-stage checks run on every listing before delivery, regardless of who does the work that day, because the process is documented and enforced rather than individual.</p>"
             ]
         }
     },

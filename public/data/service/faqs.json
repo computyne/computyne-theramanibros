@@ -1726,45 +1726,53 @@
 		"cta": "Request a Free Consultation",
 		"faq": [
 			{
-				"title": "What is Property Listing Data Entry?",
-				"desc": "Property listing data entry involves capturing, structuring, and validating real estate information such as location, pricing, specifications, ownership details, and amenities into standardized digital formats.",
+				"title": "What is property listing data entry?",
+				"desc": "Property listing data entry involves capturing, structuring, and entering real estate information into MLS systems, property portals, and CRM platforms. This includes address, specifications, pricing, features, ownership details, images, and compliance data such as EPC ratings, council tax band, and zoning classification. The goal is accurate, complete listings that meet each platform's specific requirements.",
 				"initActive": true
 			},
 			{
-				"title": "Why is accurate property listing data entry important?",
-				"desc": "Accurate data entry improves transparency, buyer trust, and decision-making while reducing listing errors, rework, and delays across real estate marketing and listing platforms."
+				"title": "Which MLS systems does Computyne work with?",
+				"desc": "Our specialists are experienced with Matrix, Paragon, Flexmls, Stellar MLS, CRMLS, Bright MLS, MRED, REcolorado, and NWMLS, as well as RETS and RESO Web API compliant platforms. If you use a different system, we assess it during the pilot phase and configure our workflow to match its field and compliance requirements."
 			},
 			{
-				"title": "What types of properties are covered?",
-				"desc": "Services cover residential, commercial, industrial, land, and mixed-use properties, including apartments, villas, offices, retail spaces, warehouses, and development projects."
+				"title": "Can listing data entry be done across multiple portals simultaneously?",
+				"desc": "Yes. Most agencies list on several portals simultaneously: MLS plus Zillow plus Realtor.com for US properties, or Rightmove plus Zoopla plus OnTheMarket for UK listings. Computyne manages multi-portal entry as a single workflow, with each portal receiving data in its required format. This removes the copy-paste process between platforms."
 			},
 			{
-				"title": "Which data elements are included in property listing data entry?",
-				"desc": "Included data elements are property descriptions, pricing, square footage, floor plans, amenities, ownership records, zoning and compliance details, images, and SEO-friendly metadata."
+				"title": "What is IDX, and why does it matter for listing data entry?",
+				"desc": "IDX (Internet Data Exchange) allows MLS member brokers to display each other's listings on their websites. For the IDX display to work, listings must meet specific data completeness requirements set by the MLS board. Missing mandatory fields, non-compliant images, or incorrect participant data can prevent a listing from appearing on member sites. Computyne's IDX compliance data entry ensures every listing meets these requirements before submission."
 			},
 			{
-				"title": "How does outsourcing property listing data entry reduce costs?",
-				"desc": "Outsourcing eliminates in-house staffing and infrastructure expenses while offering scalable resources, predictable pricing models, and consistently high data accuracy."
+				"title": "How long does it take to set up outsourced listing data entry?",
+				"desc": "Most agencies are in full production within 5 to 7 business days from the initial brief. The setup covers SOP documentation, secure system access configuration, and a pilot batch of 10 to 25 listings for your review. Once the pilot is approved, full production begins immediately."
 			},
 			{
-				"title": "Can outsourcing improve turnaround time?",
-				"desc": "Yes. Standardized workflows and continuous processing enable faster listing creation, updates, and bulk uploads across multiple platforms."
+				"title": "Can you write property descriptions as well as enter data?",
+				"desc": "Yes. SEO-optimised listing description writing is available as part of the service. Descriptions are written to your brand voice, include location-specific language, target the feature keywords buyers use in portal search filters, and meet portal character limits. Bulk description rewrites for portfolio refreshes are also available."
 			},
 			{
-				"title": "How is accuracy maintained in property listing data entry?",
-				"desc": "Accuracy is maintained through multi-level quality checks, validation rules, standardized templates, and manual reviews performed by experienced real estate data specialists."
+				"title": "What property types are covered?",
+				"desc": "We cover residential properties, including apartments, houses, townhouses, villas, and new builds; commercial properties, including offices, retail units, industrial, and mixed-use; rental properties; and land and development plots. Each property type has specific data fields and compliance requirements that apply."
 			},
 			{
-				"title": "Are property listing data entry services MLS-compliant?",
-				"desc": "Yes. All listings are formatted to meet MLS field, formatting, and compliance requirements, reducing rejection rates and publication delays."
+				"title": "How is listing data security maintained?",
+				"desc": "All listing operations follow ISO 27001 information security protocols with signed NDAs, role-based access controls, and GDPR-aligned handling for UK and EU client data. Property details, vendor contact information, and pricing data are treated as commercially sensitive. Access to your MLS and portal accounts uses secure credentials with no shared passwords."
 			},
 			{
-				"title": "Do property listing data entry services support SEO optimization?",
-				"desc": "Yes. Listings include SEO-optimized titles, descriptions, keywords, and metadata to improve online visibility and search performance."
+				"title": "Can the service manage ongoing listing updates as well as new entries?",
+				"desc": "Yes. Most clients use the service for both new listing creation and ongoing updates: price reductions, status changes from active to pending to sold, description refreshes, additional photos, and open house additions. The service runs as a continuous operation rather than a project with a defined end date."
 			},
 			{
-				"title": "Who benefits from outsourcing property listing data entry?",
-				"desc": "Real estate brokers, agencies, developers, property managers, investors, and real estate portals benefit from improved accuracy, faster turnaround, cost efficiency, and scalable operations."
+				"title": "Do you cover commercial real estate listing data entry?",
+				"desc": "Yes. Commercial listing data entry covers office, retail, industrial, and mixed-use assets on LoopNet, CoStar, EGi, and commercial portals. Commercial listings require different fields from residential: floor area in square feet and metres, lease terms, passing rent, ERV, planning use class, rateable value, and accessibility compliance."
+			},
+			{
+				"title": "Is there a minimum volume requirement?",
+				"desc": "No. We work with single offices managing a handful of listings per month and enterprise firms managing tens of thousands. Pricing adjusts to volume: per-listing for lower volumes, hourly dedicated specialists for ongoing operations, and full-time specialists for high-volume firms. A free pilot of 10 to 25 listings is available at any volume."
+			},
+			{
+				"title": "Which CRM systems do your specialists work with?",
+				"desc": "Our team is experienced with Salesforce, HubSpot, BoomTown, LionDesk, Follow Up Boss, Wise Agent, and Zoho CRM. For property management, we also work with AppFolio, Buildium, Yardi, and Rent Manager. If you use a system not on this list, we will assess it during the pilot and configure it accordingly."
 			}
 		]
 	},

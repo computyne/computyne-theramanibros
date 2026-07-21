@@ -1454,5 +1454,93 @@
 				"Data hygiene for management consulting firms"
 			]
 		}
+	},
+	{
+		"id": 17,
+		"slug": "real-estate-property-listing-services",
+		"title": "US Real Estate Brokerage: 72% Faster Listing Publishing, 50% Fewer Entry Errors, Consistent MLS and Portal Data",
+		"img": "/images/casestudies/real-estate-property-data-collection-and-market-research-thum.webp",
+		"detailsImg": "/images/casestudies/real-estate-property-data-collection-and-market-research-banner.webp",
+		"smallImg": "/images/casestudies/real-estate-property-data-collection-and-market-research-banner.webp",
+		"desc": "A fast-growing US brokerage needed a reliable way to publish and maintain property listings across MLS, Zillow, Realtor.com, and its internal CRM. Computyne standardized the workflow, cut listing publishing time by 72%, reduced data entry errors by 50%, and gave the client a repeatable process for high-volume updates without adding internal headcount.",
+		"tags": [
+			"Corporate",
+			"Business"
+		],
+		"category": [
+			"Property Listing Data Entry",
+			"Real Estate"
+		],
+		"status": "Tutorial",
+		"content": [
+			{
+				"title": "Executive Summary",
+				"data": "<p>A US real estate brokerage partnered with Computyne to improve the speed and reliability of property listing publishing. By standardising MLS, portal, and CRM entry workflows, the client achieved a 72% faster publishing cycle and cut manual entry errors by 50%.</p>"
+			},
+			{
+				"title": "The Objective",
+				"data": "<p>The client needed a managed team that could enter listings accurately across MLS boards and external portals while maintaining consistent descriptions, image sequencing, and status updates across all systems.</p>"
+			},
+			{
+				"title": "The Challenge: Volume, Compliance, and Inconsistency",
+				"subLine": "The brokerage was struggling with a mix of manual updates, portal-specific rules, and time-sensitive changes:",
+				"data": "<div class=\"desc blog-text-mod wow fadeInUp\" data-wow-delay=\".8s\"><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Slow Publishing:</strong><span>Listings were taking too long to reach MLS and portal audiences, delaying enquiries and showings.</span></div></li><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Compliance Risk:</strong><span>Field mismatches and missing mandatory data caused repeated rejections and rework.</span></div></li><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Fragmented Updates:</strong><span>Price changes, status updates, and photo revisions were not synchronized across systems.</span></div></li><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Resource Strain:</strong><span>Internal staff were spending too much time on entry tasks instead of client-facing activity.</span></div></li></ul></div>"
+			},
+			{
+				"title": "The Solution: Managed Property Listing Operations",
+				"subLine": "Computyne created a structured operating model for listing entry, verification, and ongoing updates.",
+				"data": "<div class=\"desc blog-text-mod wow fadeInUp\" data-wow-delay=\".8s\"><div class=\"solution-block\"><p class=\"solution-title\"><strong>1. MLS and Portal Standardisation</strong></p><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Template Control:</strong><span>Built uniform entry templates for MLS, Zillow, Realtor.com, and the client CRM to reduce rework.</span></div></li></ul></div><div class=\"solution-block\"><p class=\"solution-title\"><strong>2. Compliance and QA</strong></p><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Validation:</strong><span>Applied two-stage checks for mandatory fields, image requirements, and listing accuracy before submission.</span></div></li></ul></div><div class=\"solution-block\"><p class=\"solution-title\"><strong>3. Ongoing Update Management</strong></p><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Change Control:</strong><span>Managed price reductions, status changes, and image swaps across all live listings as a single workflow.</span></div></li></ul></div><div class=\"solution-block\"><p class=\"solution-title\"><strong>4. CRM Synchronization</strong></p><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><div class=\"list-text\"><strong>Database Management:</strong><span>Kept Salesforce and listing feeds aligned so the sales team always worked from current data.</span></div></li></ul></div></div>"
+			},
+			{
+				"title": "Key Results & Impact",
+				"subLine": "The engagement produced faster market visibility and lower operational friction across the brokerage’s listing operation.",
+				"data": "<div class=\"tj-product-details-description mt-30\"><table><tbody><tr><th>Metric</th><td>Improvement</td><td>Description</td></tr><tr><th>Listing Publishing</th><td>72% Faster</td><td>Listings reached MLS and portal audiences far more quickly.</td></tr><tr><th>Data Entry Errors</th><td>Reduced by 50%</td><td>Structured QA lowered rejection and correction rates.</td></tr><tr><th>Operational Load</th><td>Lowered</td><td>Internal staff spent less time on repetitive listing entry.</td></tr><tr><th>Consistency</th><td>Improved</td><td>MLS, portal, and CRM records stayed aligned throughout the listing lifecycle.</td></tr></tbody></table></div>"
+			},
+			{
+				"title": "Why Choose Computyne for Property Listings?",
+				"data": "<div class=\"desc blog-text-mod wow fadeInUp\" data-wow-delay=\".8s\"><ul class=\"wow fadeInUp\"><li><span><i class=\"tji-list\"></i></span><strong>Platform Awareness:</strong> We work with MLS, IDX, portal, and CRM rules instead of treating every listing the same.</li><li><span><i class=\"tji-list\"></i></span><strong>Process-Driven QA:</strong> Every record is checked before it goes live.</li><li><span><i class=\"tji-list\"></i></span><strong>Scalable Support:</strong> High-volume updates stay controlled during launches and seasonal spikes.</li><li><span><i class=\"tji-list\"></i></span><strong>Managed Delivery:</strong> You get a supervised team, not an unmanaged freelancer pool.</li></ul></div>"
+			}
+		],
+		"clientWords": {
+			"data": "<p>\"Computyne gave us a clean, repeatable process for MLS and portal listing updates. The speed improvement was immediate, but the bigger win was consistency across every system we use.\"</p>",
+			"by": "Operations Lead, US Real Estate Brokerage"
+		},
+		"clientProfile": [
+			"<div class=\"infos-item\"><div class=\"project-icons\"><i class=\"tji-user\"></i></div><div class=\"project-text\"><span>Company Type</span><h6 class=\"title\">Real Estate Brokerage</h6></div></div>",
+			"<div class=\"infos-item\"><div class=\"project-icons\"><i class=\"tji-chart\"></i></div><div class=\"project-text\"><span>Industry</span><h6 class=\"title\">Residential Real Estate</h6></div></div>",
+			"<div class=\"infos-item\"><div class=\"project-icons\"><i class=\"tji-location-2\"></i></div><div class=\"project-text\"><span>Headquarters</span><h6 class=\"title\">United States</h6></div></div>",
+			"<div class=\"infos-item\"><div class=\"project-icons\"><i class=\"tji-eye-box\"></i></div><div class=\"project-text\"><span>Focus</span><h6 class=\"title\">MLS, Portal and CRM Listing Management</h6></div></div>"
+		],
+		"kpiData": [
+			{
+				"label": "Faster Publishing",
+				"value": "72",
+				"symbol": "%"
+			},
+			{
+				"label": "Fewer Errors",
+				"value": "50",
+				"symbol": "%"
+			},
+			{
+				"label": "Consistency",
+				"value": "100",
+				"symbol": "%"
+			}
+		],
+		"showedIn": [
+			"real-estate-property-listing-services"
+		],
+		"meta": {
+			"metaTitle": "Real Estate Property Listing Data Entry Case Study | Computyne",
+			"metaDescription": "See how Computyne helped a US real estate brokerage cut listing publishing time by 72% and reduce entry errors by 50% across MLS, portals, and CRM systems.",
+			"keywords": [
+				"Property Listing Data Entry",
+				"MLS Listing Management",
+				"IDX Compliance",
+				"Real Estate Portal Data Entry",
+				"CRM Listing Synchronization"
+			]
+		}
 	}
 ]

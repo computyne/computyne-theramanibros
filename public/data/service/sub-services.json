@@ -4560,87 +4560,115 @@
         ]
     },
     "real-estate-property-listing-services": {
-        "h2": "Accurate and Scalable Property Listing Data Entry Services",
-        "desc": "Accurate property listing data entry ensures consistent, verified information that improves visibility, buyer trust, and faster sales decisions.",
+        "h2": "Property Listing Data Entry Services Across Every Platform and Property Type",
+        "desc": "All services are available as one-off projects, ongoing volume arrangements, or fully managed listing operations.",
+        "hideFillers": true,
         "services": [
             {
                 "id": 1,
-                "title": "Property Listing Data Entry Services",
-                "desc": "Our Property Listing Data Entry Services deliver accurate, compliant, and market-ready real estate listings across platforms.",
-                "url": "#",
+                "title": "MLS Listing Data Entry and Management",
+                "desc": "MLS listing entry has specific requirements that differ from general data entry. Field sets are standardised by each MLS board. RETS and RESO Web API rules govern how data must be formatted. Status changes need to be logged within defined timeframes. Getting these wrong generates compliance violations and listing rejections.",
+                "url": "/property-data-collection-services",
                 "data": [
-                    {
-                        "value": "Residential and commercial property listing data entry"
-                    },
-                    {
-                        "value": "MLS-ready structured property information"
-                    },
-                    {
-                        "value": "Verified pricing, specifications, and feature entry"
-                    },
-                    {
-                        "value": "Standardized formats for multi-channel publishing"
-                    }
+                    { "value": "Active, pending, back on market, and sold listing entries across multiple MLS regions" },
+                    { "value": "Full field completion: price, bedrooms, bathrooms, lot size, year built, HOA, school districts" },
+                    { "value": "RETS and RESO Web API compliant data formatting to prevent listing rejections" },
+                    { "value": "Agent and co-listing agent ID entry with board membership validation" },
+                    { "value": "Open house scheduling and showing instruction data entry" },
+                    { "value": "MLS systems: Matrix, Paragon, Flexmls, Stellar MLS, CRMLS, Bright MLS, MRED" }
                 ]
             },
             {
                 "id": 2,
-                "title": "Property Listing Management Services",
-                "desc": "Centralized Property Listing Management Services ensure version control, real-time updates, and consistency across property portfolios.",
+                "title": "IDX Data Entry and Compliance Services",
+                "desc": "IDX allows real estate websites to display MLS listings from the shared feed. For that feed to work, every listing needs to meet IDX data standards: mandatory fields complete, images compliant, status current, participant data accurate. Gaps result in listings that do not display on member sites and buyer-facing portals.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "Centralized dashboard for listing control"
-                    },
-                    {
-                        "value": "Timely updates across listing platforms"
-                    },
-                    {
-                        "value": "Reduced duplication and manual errors"
-                    },
-                    {
-                        "value": "Scalable support for expanding inventories"
-                    }
+                    { "value": "IDX-compliant listing data entry meeting participant agreement field requirements" },
+                    { "value": "Mandatory IDX field completion: listing type, status, price, property details" },
+                    { "value": "Photo compliance checks: minimum image count, resolution, and orientation standards" },
+                    { "value": "Listing feed validation for display on member broker and portal websites" },
+                    { "value": "Status synchronisation between the MLS record and the IDX display data" }
                 ]
             },
             {
                 "id": 3,
-                "title": "Real Estate Listing Data Verification",
-                "desc": "Comprehensive verification ensures accurate property listings that remain trustworthy, transparent, and regulation-compliant.",
-                "url": "/property-data-collection-services",
+                "title": "Property Portal Listing Data Entry",
+                "desc": "Each portal has its own field requirements, image specifications, and content standards. Zillow is not Rightmove. Rightmove is not Zoopla. Managing multi-portal listing entry at volume requires a structured workflow, not copying between tabs.",
+                "url": "#",
                 "data": [
-                    {
-                        "value": "Ownership and title detail validation"
-                    },
-                    {
-                        "value": "Pricing, zoning, and compliance checks"
-                    },
-                    {
-                        "value": "Error identification and correction"
-                    },
-                    {
-                        "value": "Improved buyer confidence and trust"
-                    }
+                    { "value": "Zillow, Trulia, and Realtor.com listing creation and maintenance for US properties" },
+                    { "value": "Rightmove, Zoopla, OnTheMarket, and PrimeLocation data entry for UK listings" },
+                    { "value": "Domain and REA Group listing management for Australian properties" },
+                    { "value": "LoopNet and CoStar listing entry for commercial property" },
+                    { "value": "Platform-specific formatting: Zillow 3D Home flags, Rightmove key features, portal image tagging" },
+                    { "value": "Duplicate listing detection and removal across portals" }
                 ]
             },
             {
                 "id": 4,
-                "title": "Multi-Platform Property Listing Optimization",
-                "desc": "Optimized listings enhance search visibility, engagement, and lead generation across digital channels.",
+                "title": "Listing Description Writing and SEO Optimisation",
+                "desc": "A property description does two things. It helps the listing appear when buyers filter by features. And it gives a buyer who finds it enough information to decide whether to enquire. Most listings underperform on both because descriptions are copied and pasted from old listings or written in a hurry.",
                 "url": "#",
                 "data": [
-                    {
-                        "value": "SEO-optimized real estate listing content"
-                    },
-                    {
-                        "value": "Platform-specific formatting and standards"
-                    },
-                    {
-                        "value": "Keyword-rich descriptions and metadata"
-                    },
-                    {
-                        "value": "Enhanced visibility on property portals"
-                    }
+                    { "value": "SEO-optimised listing descriptions to your brand voice and style guidelines" },
+                    { "value": "Feature-led content: rooms, storage, parking, outdoor space, transport proximity" },
+                    { "value": "Location-specific language for neighbourhood, school district, and commuter appeal" },
+                    { "value": "Portal headline and key features entry optimised for search filter matching" },
+                    { "value": "Bulk description rewriting for portfolio refreshes and brand standardisation" }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Property Listing Image and Media Data Entry",
+                "desc": "Images drive enquiry rates more than any other listing element. The metadata attached to them (alt text, file names, sequence order, room labels, resolution compliance) is what makes those images findable and portal-compliant.",
+                "url": "#",
+                "data": [
+                    { "value": "Property image upload, sequencing, and primary image selection" },
+                    { "value": "Room labelling: kitchen, living room, master bedroom, garden, exterior front" },
+                    { "value": "Alt text entry for accessibility and SEO on website and portal listings" },
+                    { "value": "Image compliance checks: minimum resolution, file size limits, no watermarks" },
+                    { "value": "Virtual tour and floorplan data entry and association with listing records" }
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Listing Verification and Data Accuracy Checks",
+                "desc": "A wrong price published to multiple portals before it is caught generates enquiries at the wrong figure. An incorrect bedroom count brings viewers to a property that does not match what they need. Verification catches these issues before the listing goes to market.",
+                "url": "/appraisal-data-entry-services",
+                "data": [
+                    { "value": "Cross-referencing listed details against title deeds, floor plans, and instruction letters" },
+                    { "value": "Pricing accuracy checks against CRM records" },
+                    { "value": "Specification validation: room dimensions, lot size, EPC rating, council tax band" },
+                    { "value": "Compliance checks: mandatory portal fields, MLS required data, and legal disclaimer presence" },
+                    { "value": "Photo-to-description consistency review before publication" }
+                ]
+            },
+            {
+                "id": 7,
+                "title": "Commercial Property Listing Data Entry",
+                "desc": "Commercial listings carry different data requirements. Floor area in square feet and metres, lease terms, passing rent and ERV, planning use class, rateable value, and tenant details all need to be captured correctly. Errors affect investment decisions, not just viewings.",
+                "url": "/data-solutions-services",
+                "data": [
+                    { "value": "Office, retail, industrial, and mixed-use commercial listing data entry" },
+                    { "value": "Lease terms: duration, break options, rent review dates, service charge details" },
+                    { "value": "EPC, accessibility, and planning use class entry" },
+                    { "value": "Rateable value and business rates entry for commercial search filter compliance" },
+                    { "value": "Investment listing data: passing rent, ERV, NIY, WAULT for investor-facing portals" },
+                    { "value": "LoopNet, CoStar, EGi, and commercial portal-specific formatting" }
+                ]
+            },
+            {
+                "id": 8,
+                "title": "CRM Population and Database Management",
+                "desc": "Listing data only creates value when it is in the right system. For most real estate businesses, that means the CRM. Keeping records current (status changes, price reductions, new listings, completions) requires ongoing entry that is easy to deprioritise when agents are busy.",
+                "url": "/real-estate",
+                "data": [
+                    { "value": "New listing creation in Salesforce, HubSpot, BoomTown, LionDesk, and Follow Up Boss." },
+                    { "value": "Status and price update entry triggered by MLS or portal changes" },
+                    { "value": "Portfolio database maintenance for investment and property management firms" },
+                    { "value": "Data migration support when moving between CRM platforms" },
+                    { "value": "Duplicate record identification and merging" }
                 ]
             }
         ]
