@@ -77,58 +77,62 @@ const htmlString = `
   <p>These teams are focused on reducing processing costs, eliminating payment errors, strengthening compliance, and improving cash flow.</p>
 </section>
 
+
+
 <section id="how-bulk-invoice-validation-works" class="modern-blog-section">
   <h2>How Bulk Invoice Validation Works</h2>
-  <p>AI extracts invoice fields from PDFs and scanned documents using advanced <a href="https://www.computyne.com/document-processing-services">document processing services</a> before validating them against business rules.</p>
-  <div class="modern-skills-grid">
-    <div>
-      <h3>1. Invoice Collection</h3>
-      <p>Invoices are received from multiple sources:</p>
-      <ul>
-        <li>Email</li>
-        <li>Supplier portals</li>
-        <li>EDI</li>
-        <li>PDFs</li>
-        <li>Scanned documents</li>
-        <li>Images</li>
-        <li>Excel files</li>
-      </ul>
-    </div>
-    <div>
-      <h3>2. AI Data Extraction</h3>
-      <p>OCR and AI technologies extract key information including:</p>
-      <ul>
-        <li>Invoice Number</li>
-        <li>Supplier Name</li>
-        <li>PO Number</li>
-        <li>Tax Details</li>
-        <li>Invoice Date</li>
-        <li>Line Items</li>
-        <li>Total Amount</li>
-        <li>Payment Terms</li>
-      </ul>
-      <p>Unlike template-based systems, AI models can understand different invoice layouts without manual configuration.</p>
-    </div>
-    <div>
-      <h3>3. Business Rule Validation</h3>
-      <p>Each invoice is automatically checked against:</p>
-      <ul>
-        <li>Purchase Orders</li>
-        <li>Vendor master records</li>
-        <li>Tax regulations</li>
-        <li>Duplicate invoice databases</li>
-        <li>Pricing agreements</li>
-        <li>Approval thresholds</li>
-      </ul>
-    </div>
-    <div>
-      <h3>4. Exception Management</h3>
-      <p>Invoices with discrepancies are automatically routed for review, while valid invoices continue through the approval workflow.</p>
-    </div>
-    <div>
-      <h3>5. ERP Integration</h3>
-      <p>Approved invoices are posted directly into ERP systems such as SAP, Oracle, Microsoft Dynamics, NetSuite, Sage, QuickBooks, or Xero using APIs and native connectors.</p>
-    </div>
+<p>AI extracts invoice fields from PDFs and scanned documents using advanced <a href="https://www.computyne.com/document-processing-services">document processing services</a> before validating them against business rules.</p>  <div class="modern-competitor-card">
+    <h3>1. Invoice Collection</h3>
+    <div class="modern-tags"><span>Invoices are received from multiple sources:</span></div>
+<ul>
+<li>Email</li>
+<li>Supplier portals</li>
+<li>EDI</li>
+<li>PDFs</li>
+<li>Scanned documents</li>
+<li>Images</li>
+<li>Excel files</li>
+</ul>
+  </div>
+
+  <div class="modern-competitor-card">
+    <h3>2. AI Data Extraction</h3>
+    <div class="modern-tags"><span>OCR and AI technologies extract key information including:</span></div>
+<ul>
+<li>Invoice Number</li>
+<li>Supplier Name</li>
+<li>PO Number</li>
+<li>Tax Details</li>
+<li>Invoice Date</li>
+<li>Line Items</li>
+<li>Total Amount</li>
+<li>Payment Terms</li>
+</ul>
+<p>Unlike template-based systems, AI models can understand different invoice layouts without manual configuration.</p>
+  </div>
+
+  <div class="modern-competitor-card">
+    <h3>3. Business Rule Validation</h3>
+    <div class="modern-tags"><span>Each invoice is automatically checked against:</span></div>
+<ul>
+<li>Purchase Orders</li>
+<li>Vendor master records</li>
+<li>Tax regulations</li>
+<li>Duplicate invoice databases</li>
+<li>Pricing agreements</li>
+<li>Approval thresholds</li>
+</ul>
+  </div>
+
+  <div class="modern-competitor-card">
+    <h3>4. Exception Management</h3>
+    <p>Invoices with discrepancies are automatically routed for review, while valid invoices continue through the approval workflow.</p>
+  </div>
+
+  <div class="modern-competitor-card">
+    <h3>5. ERP Integration</h3>
+    <p>Approved invoices are posted directly into ERP systems such as SAP, Oracle, Microsoft Dynamics, NetSuite, Sage, QuickBooks, or Xero using APIs and native connectors.
+</p>
   </div>
 </section>
 
