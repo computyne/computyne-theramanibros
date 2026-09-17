@@ -42,7 +42,7 @@ const htmlString = `
   .cptn-blog li { margin-bottom: 8px; font-size: 1.02rem; }
   .cptn-blog strong { font-weight: 600; }
 
-  .modern-blog-section { padding: 40px 0; border-top: 1px solid var(--line); }
+  .modern-blog-section { padding: 0px 0; border-top: 1px solid var(--line); }
   .modern-blog-section:first-of-type { border-top: none; padding-top: 8px; }
 
   .cptn-kicker { font-family: "IBM Plex Mono", monospace; font-size: 0.78rem; color: var(--amber); letter-spacing: 0.02em; margin-bottom: 10px; }
