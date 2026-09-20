@@ -140,37 +140,37 @@
         ]
     },
     "data-cleansing-services": {
-        "h2": "Benefits of Outsourcing Data Cleansing Services to Computyne",
+        "h2": "What Outsourcing Data Cleansing Actually Delivers",
         "data": [
             {
                 "id": 1,
-                "title": "Improved Data Accuracy and Reliability",
-                "desc": "Outsourced data cleansing removes errors, duplicates, and inconsistencies across datasets, ensuring information remains accurate and trustworthy. High-quality data supports reliable reporting, confident decision-making, and improved performance across marketing, sales, finance, and operations."
+                "title": "99.99% Data Accuracy",
+                "desc": "Multi-layer validation combines automated rule checks, cross-source verification, and manual review of flagged records. Most clients see database accuracy move from below 70% to above 99% in a single cleansing cycle."
             },
             {
                 "id": 2,
-                "title": "Faster, Data-Driven Decision Making",
-                "desc": "Clean, validated, and standardized data enables real-time analytics and business intelligence, giving leaders timely access to actionable insights to respond quickly to market changes, identify opportunities, and mitigate risks."
+                "title": "52% More Sales Conversions",
+                "desc": "From the Salesforce case study, cleansing and enriching 100,000+ CRM records produced a 52% increase in sales conversions. Accurate data that reaches the right person converts; inaccurate data wastes outreach budget."
             },
             {
                 "id": 3,
-                "title": "Reduced Operational Costs and Effort",
-                "desc": "Outsourcing data cleansing eliminates manual validation tasks, internal resource strain, and infrastructure investments. Automated and expert-led workflows reduce rework, accelerate delivery timelines, and ensure predictable costs."
+                "title": "25 to 30% Annual Data Decay Control",
+                "desc": "B2B contact data degrades at 25 to 30% per year. A scheduled cleansing programme maintains database quality continuously rather than letting errors compound across teams and systems."
             },
             {
                 "id": 4,
-                "title": "Enhanced CRM and System Performance",
-                "desc": "Accurate and standardized data improves CRM, ERP, and analytics platform performance by reducing system errors, improving integrations, and increasing user adoption across business-critical applications."
+                "title": "40 to 60% Cost Reduction",
+                "desc": "Most clients save 40 to 60% versus equivalent in-house data cleansing capability by removing manual validation overhead, tooling costs, and expensive downstream rework."
             },
             {
                 "id": 5,
-                "title": "Scalable Data Quality Management",
-                "desc": "Professional data cleansing and hygiene services scale seamlessly with growing data volumes, new data sources, and increasing business complexity without expanding internal teams or disrupting operations."
+                "title": "ISO 27001 and GDPR Compliant",
+                "desc": "All operations follow ISO 27001 information security protocols with signed NDAs, role-based access controls, and GDPR-aligned handling for UK and EU client data."
             },
             {
                 "id": 6,
-                "title": "Stronger Compliance and Data Governance",
-                "desc": "Data cleansing enforces consistent formats, validated fields, and auditable records, supporting compliance-ready data environments, reducing regulatory risks, and strengthening enterprise data governance."
+                "title": "Works in Your Systems",
+                "desc": "Computyne specialists work in your CRM, ERP, or database directly, or process secure exports and return output in your exact import-ready format with no migration disruption."
             }
         ]
     },

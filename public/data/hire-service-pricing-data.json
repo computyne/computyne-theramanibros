@@ -353,6 +353,60 @@
             }
         ]
     },
+    "data-cleansing-services": {
+        "span": "ENGAGEMENT MODELS AND PRICING",
+        "h2": "Data Cleansing Engagement Models",
+        "engagementModels": [
+            {
+                "model": "One-Off Project",
+                "bestFor": "Single database clean, migration prep, CRM import",
+                "commitment": "Defined record count",
+                "volume": "Defined record count",
+                "pricingBasis": "Per-record or per-thousand-record rate",
+                "indicativeRate": "Per-record or per-thousand-record rate",
+                "displayPrice": "Per-record",
+                "rate": "0",
+                "ratePolicy": "",
+                "isActive": false
+            },
+            {
+                "model": "Scheduled Recurring",
+                "bestFor": "Ongoing data quality maintenance, monthly or quarterly cleanse",
+                "commitment": "Agreed volume per cycle",
+                "volume": "Agreed volume per cycle",
+                "pricingBasis": "Monthly or quarterly retainer",
+                "indicativeRate": "Monthly or quarterly retainer",
+                "displayPrice": "Retainer",
+                "rate": "0",
+                "ratePolicy": "",
+                "isActive": true
+            },
+            {
+                "model": "Managed Programme",
+                "bestFor": "Continuous data quality across multiple datasets and systems",
+                "commitment": "Full data quality operation",
+                "volume": "Full data quality operation",
+                "pricingBasis": "Monthly retainer based on volume and complexity",
+                "indicativeRate": "Monthly retainer based on volume and complexity",
+                "displayPrice": "Monthly Retainer",
+                "rate": "0",
+                "ratePolicy": "",
+                "isActive": false
+            },
+            {
+                "model": "Free Pilot",
+                "bestFor": "Validate accuracy and methodology on a data sample",
+                "commitment": "500 to 1,000 records",
+                "volume": "500 to 1,000 records",
+                "pricingBasis": "Free, no obligation",
+                "indicativeRate": "Free, no obligation",
+                "displayPrice": "Free",
+                "rate": "0",
+                "ratePolicy": "",
+                "isActive": false
+            }
+        ]
+    },
     "property-data-collection-services": {
         "span": "Engagement Models and Pricing",
         "h2": "Flexible Property Data Collection Engagement Models",

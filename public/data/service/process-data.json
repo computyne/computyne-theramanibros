@@ -139,6 +139,41 @@
             }
         ]
     },
+    "data-cleansing-services": {
+        "h2": "From Dirty Data to a Clean, Validated Database in 5 Steps",
+        "steps": [
+            {
+                "id": 1,
+                "title": "Data Quality Assessment",
+                "desc": "We analyse a sample of your database to identify the specific quality issues present: duplicate rate, error rate, completeness gaps, and format inconsistencies. You receive a written assessment with a recommended cleansing approach before work begins.",
+                "timeline": "Day 1 to 2"
+            },
+            {
+                "id": 2,
+                "title": "Rules and Standards Documentation",
+                "desc": "We document the validation rules, format standards, deduplication logic, and quality thresholds that apply to your specific data type and target system. Nothing is processed until these are agreed.",
+                "timeline": "Day 2 to 3"
+            },
+            {
+                "id": 3,
+                "title": "Pilot Batch",
+                "desc": "We cleanse a representative sample of 500 to 1,000 records and deliver the output for your review. You compare before-and-after records and confirm the approach before full production begins.",
+                "timeline": "Day 3 to 5"
+            },
+            {
+                "id": 4,
+                "title": "Full Production Cleansing",
+                "desc": "Production cleansing runs with automated validation, rule-based deduplication, and manual review of edge cases and flagged records. Quality reporting accompanies every delivery batch.",
+                "timeline": "Day 5 onwards"
+            },
+            {
+                "id": 5,
+                "title": "Delivery and Ongoing Management",
+                "desc": "Clean data is delivered in your required format. For recurring engagements, scheduled cleansing cycles maintain database quality on an agreed frequency.",
+                "timeline": "Per schedule"
+            }
+        ]
+    },
     "document-processing-services": {
         "h2": "From Document Receipt to Structured Data Delivery in 5 Steps",
         "steps": [
