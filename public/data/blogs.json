@@ -1,14 +1,81 @@
 [
 	{
 		"id": 1,
+		"slug": "freight-invoice-audit-checklist",
+		"layout": "modern",
+		"title": "Freight Invoice Audit Checklist: 12 Billing Errors to Catch Before You Pay",
+		"subtitle": "Use this freight invoice audit checklist to identify billing errors, avoid overcharges, verify shipment costs, and ensure accurate payments.",
+		"img": "/images/orgBlogs/main/freight-invoice-audit-checklist-blog.webp",
+		"imgAlt": "Freight invoice audit checklist showing key steps to verify carrier charges",
+		"smallImg": "/images/orgBlogs/main/logistics-freight-invoice-audit-checklist-blog-1.png",
+		"smallImgAlt": "Freight invoice audit checklist thumbnail",
+		"date": "20 Oct 2026",
+		"date2": "Oct 20, 2026",
+		"day": 20,
+		"month": "Oct",
+		"category": "Freight Invoice Audit",
+		"readTime": "10 min read",
+		"tags": ["Bulk Invoice Validation", "Invoice Validation Services", "AI Invoice Validation", "Enterprise Invoice Processing", "Automated Invoice Validation", "Accounts Payable Automation"],
+		"author": "By: Ravinder Singh",
+		"toc": [
+			{
+				"id": "hero",
+				"label": "Freight Invoice Audit Checklist: 12 Billing Errors to Catch Before You Pay"
+			},
+			{
+				"id": "before-you-start",
+				"label": "Before You Start: The Documents to Collect"
+			},
+			{
+				"id": "checklist",
+				"label": "Freight Invoice Audit Checklist: 12 Billing Errors to Check"
+			},
+			{
+				"id": "pre-vs-post",
+				"label": "Pre-Audit vs. Post-Audit: When Should You Check?"
+			},
+			{
+				"id": "methods",
+				"label": "Manual vs. Software vs. Outsourced Freight Invoice Auditing"
+			},
+			{
+				"id": "workflow",
+				"label": "A Simple Freight Invoice Audit Workflow"
+			},
+			{
+				"id": "faq",
+				"label": "Frequently Asked Questions"
+			}
+
+		],
+
+		"meta": {
+			"metaTitle": "Freight Invoice Audit Checklist: 12 Billing Errors to Catch Before You Pay",
+			"metaDescription": "Use this 12-point freight invoice audit checklist to catch duplicate charges, rate mismatches, fuel surcharge errors, and other billing issues before payment.",
+			"keywords": [
+				"Freight Invoice Audit",
+				"Freight Billing Errors",
+				"Freight Invoice Checklist",
+				"Freight Rate Verification",
+				"Duplicate Freight Charges",
+				"Fuel Surcharge Errors",
+				"Shipping Invoice Audit",
+				"Freight Cost Management",
+				"Logistics Billing Accuracy",
+				"1. Freight Payment Verification"
+
+			],
+			"canonical": "https://www.computyne.com/blog/freight-invoice-audit-checklist"
+		}
+	},
+	{
+		"id": 1,
 		"slug": "invoice-processing-outsourcing-month-end-close",
 		"layout": "modern",
 		"title": "Invoice Processing Outsourcing: How to Fix Month-End Close Invoice Delays",
 		"subtitle": "Month-end close can become stressful when unpaid invoices pile up, approvals stall, and manual processes create bottlenecks. Invoice processing outsourcing helps finance teams accelerate AP operations and close faster.",
-		"img": "/images/orgBlogs/main/invoice-processing-outsourcing-month-end-close.webp",
-		"detailsImg": "/images/orgBlogs/main/invoice-processing-outsourcing-month-end-close.webp",
-		"smallImg": "/images/orgBlogs/main/invoice-processing-outsourcing-month-end-close.webp",
-		"desc": "Finance and Accounting BPO explained: what it covers, what it costs, and how SMEs use it to cut costs, close books faster, and fix invoice backlogs.",
+		"img": "/images/orgBlogs/main/invoice-processing-outsourcing-month-end-close-main.webp",
+		"smallImg": "/images/orgBlogs/main/invoice-processing-outsourcing-month-end-close-thumb.webp",
 		"date": "17 Sep 2026",
 		"date2": "Sep 17, 2026",
 		"day": 17,

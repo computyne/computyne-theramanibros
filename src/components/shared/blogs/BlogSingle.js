@@ -11,6 +11,7 @@ const BlogSingle = ({blog, idx}) => {
         id,
         detailsImg,
         img = "/images/blog/blog-1.webp",
+        smallImg,
         title,
         desc,
         blogTopList,
@@ -32,11 +33,15 @@ const BlogSingle = ({blog, idx}) => {
             <div className="blog-thumb">
                 <Link href={`/blogs/${id}`}>
                     <Image
-                        src={img}
-                        alt=""
+                        src={smallImg || img}
+                        alt={title || ""}
                         width={870}
                         height={450}
-                        style={{height: "auto"}}
+                        style={{
+                            width: "100%",
+                            height: "auto",
+                            objectFit: "cover"
+                        }}
                     />
                 </Link>
                 <div className="blog-date">
