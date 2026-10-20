@@ -168,48 +168,56 @@
 		]
 	},
 	"data-cleansing-services": {
-		"cta": "Request a Free Consultation",
+		"cta": "Request a Free Pilot",
 		"faq": [
 			{
 				"title": "What are data cleansing services?",
-				"desc": "Data cleansing services involve identifying, correcting, and removing inaccurate, incomplete, duplicate, or outdated data to improve accuracy, consistency, and usability across business systems and analytics platforms.",
+				"desc": "Data cleansing services involve identifying, correcting, and removing inaccurate, incomplete, duplicate, or outdated records from databases to improve accuracy, consistency, and usability. This covers deduplication, error correction, format standardisation, missing field completion, validation against authoritative sources, and data formatting for system import. The output is a database that works correctly in the CRM, ERP, analytics platform, or marketing system it is used in.",
 				"initActive": true
 			},
 			{
-				"title": "Why is data cleansing important for businesses?",
-				"desc": "Dirty data leads to poor decision-making, increased operational costs, and reduced productivity. Data cleansing ensures reliable insights, improves CRM and analytics performance, and supports confident, data-driven strategies."
-			},
-			{
-				"title": "What types of data can be cleansed?",
-				"desc": "Data cleansing can be applied to customer data, CRM databases, financial records, product catalogs, operational data, marketing lists, and enterprise datasets stored in Excel, CSV files, databases, and cloud platforms."
-			},
-			{
-				"title": "How does data cleansing improve CRM and analytics performance?",
-				"desc": "Clean data minimizes errors, improves system integrations, and ensures accurate reporting, allowing CRM and analytics tools to deliver consistent and trustworthy insights."
+				"title": "What is B2B data cleansing?",
+				"desc": "B2B data cleansing involves cleaning business contact and company databases to remove duplicates, correct outdated contact details, standardise formats, and verify that records are still accurate. B2B data decays at 25 to 30% per year as professionals change jobs, companies rebrand, and contact details change. Regular B2B data cleansing maintains email deliverability, CRM accuracy, and the quality of outbound sales and marketing programmes."
 			},
 			{
 				"title": "What is the difference between data cleansing and data enrichment?",
-				"desc": "Data cleansing focuses on correcting, validating, and standardizing existing data, while data enrichment adds verified external information to enhance data completeness and profiling depth."
-			},
-			{
-				"title": "Is outsourced data cleansing secure?",
-				"desc": "Yes. Professional data cleansing providers follow strict security protocols, NDAs, and compliance-driven processes to safeguard sensitive and confidential business data."
-			},
-			{
-				"title": "Can data cleansing be automated?",
-				"desc": "Yes. Automated data cleansing leverages rules, algorithms, and validation logic, often combined with expert review for complex or high-risk datasets to ensure maximum accuracy."
+				"desc": "Data cleansing corrects, validates, and removes inaccurate, duplicate, or outdated records in your existing database. Data enrichment adds new verified information to your existing records from external sources, such as appending missing email addresses, phone numbers, or firmographic data. Most data management programmes combine both: clean the database first, then enrich to fill gaps."
 			},
 			{
 				"title": "How often should data cleansing be performed?",
-				"desc": "Data cleansing should be continuous or performed on a regular schedule to prevent data decay and maintain high-quality, decision-ready datasets."
+				"desc": "B2B contact data should be cleansed at least quarterly because of the 25 to 30% annual decay rate. Product catalog data should be cleansed whenever supplier feeds are ingested and after any major import. CRM data benefits from continuous validation rules at the point of entry plus a full cleansing pass every six to twelve months. eCommerce datasets with multiple supplier sources benefit from monthly or more frequent cleansing cycles."
+			},
+			{
+				"title": "Can you cleanse Salesforce and CRM data specifically?",
+				"desc": "Yes. Computyne provides dedicated CRM data cleansing for Salesforce, HubSpot, Zoho, Microsoft Dynamics, Pipedrive, and other major CRM platforms. This covers account and contact deduplication, email and phone validation within the CRM environment, custom field standardisation, lead-to-contact relationship correction, and post-migration data quality audits. The Salesforce engagement on this page resulted in a 52% increase in sales conversions."
+			},
+			{
+				"title": "What is product data cleansing?",
+				"desc": "Product data cleansing involves removing errors, duplicates, and inconsistencies from product catalog databases. This includes SKU deduplication, attribute value standardisation (units, colour naming, sizing conventions), GTIN and EAN validation, category realignment for mislabelled products, pricing field validation, and missing attribute identification. Product data cleansing is typically required before eCommerce platform migrations, marketplace onboarding, and PIM system implementations."
+			},
+			{
+				"title": "Is outsourced data cleansing secure?",
+				"desc": "Yes. All data cleansing operations follow ISO 27001 information security protocols with signed NDAs, role-based access controls, encrypted data transfer, and GDPR-aligned handling for UK and EU clients. Sensitive data including customer contact records, financial data, and healthcare records receive documented access restrictions. Data is never shared outside the engagement team."
+			},
+			{
+				"title": "Can data cleansing be automated?",
+				"desc": "Automated rules handle the majority of standard cleansing tasks: format validation, duplicate flagging using exact and fuzzy matching, field range checks, and syntax correction. However, fully automated approaches miss edge cases and make incorrect merge decisions on ambiguous records. Computyne uses automation for volume and speed, with human review for flagged records and complex deduplication decisions. This combination consistently delivers higher accuracy than purely automated approaches."
 			},
 			{
 				"title": "How long does a data cleansing project take?",
-				"desc": "Project timelines depend on data volume and complexity, typically ranging from a few days to several weeks with scalable delivery models."
+				"desc": "A data quality assessment and methodology documentation takes 1 to 2 days. A pilot cleansing batch takes 3 to 5 days. Full production cleansing timelines depend on database size: 50,000 records typically takes 5 to 7 business days, 500,000 records takes 2 to 3 weeks, and databases above one million records are scoped individually. Recurring programme engagements run on agreed delivery cycles."
 			},
 			{
-				"title": "How do I get started with data cleansing services?",
-				"desc": "Getting started begins with a data quality assessment to identify gaps, inconsistencies, and risks, followed by a customized data cleansing strategy aligned with business objectives."
+				"title": "What types of data can be cleansed?",
+				"desc": "Customer and B2B contact data, CRM databases, product catalogs, financial records, marketing lists, eCommerce datasets, operational and logistics data, healthcare records, and any other structured or semi-structured data stored in CSV, Excel, databases, or cloud platforms. If it is structured data with quality issues affecting how it performs in a business system, it can be cleansed."
+			},
+			{
+				"title": "How do you handle large-volume data cleansing projects?",
+				"desc": "Large-volume cleansing projects are handled through automated pipeline processing with parallel validation streams. A 13.7 million record telecommunications cleansing project on this page used AI and ML-assisted deduplication alongside rule-based validation to remove 850,000+ duplicates while maintaining accuracy. Production processing is monitored in real time with exception reporting at every batch."
+			},
+			{
+				"title": "Do you offer ongoing data quality maintenance?",
+				"desc": "Yes. Scheduled recurring cleansing programmes maintain database quality on a defined cadence: monthly for high-churn B2B contact databases, quarterly for CRM records, and after every major import event for product and operational data. Ongoing programmes typically cost less per record than one-off projects because the setup work is done once and the methodology is applied repeatedly."
 			}
 		]
 	},

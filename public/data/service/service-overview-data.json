@@ -161,51 +161,44 @@
         "banner": {
             "image": "/images/service/banner/data-cleansing-banner.webp",
             "alt": "Professional data cleansing services banner showing the transformation of raw data into clean validated insights",
-            "h1": "Professional Data Cleansing Services - Clean, Accurate & Compliant Business Data",
-            "tagline": "Transform Messy Data into Clean, Validated, Decision-Ready Business Intelligence",
-            "cta": "Get Clean, Reliable Data"
+            "h1": "Outsource Data Cleansing Services | B2B, CRM, Product Data and eCommerce Data Cleaning",
+            "tagline": "Deduplication, validation, standardisation, and error correction across B2B contact databases, CRM systems, product catalogs, and eCommerce datasets. Delivered by dedicated specialists from Computyne. 99.99% accuracy. ISO 27001 certified. Free pilot available.",
+            "cta": "Start Your Data Cleansing Project",
+            "primaryCta": "Start Your Data Cleansing Project",
+            "secondaryCta": "Request a Free Pilot"
         },
         "counter": [
             {
-                "label": "Years of Experience",
-                "value": "15",
-                "symbol": "+"
-            },
-            {
-                "label": "Skilled Professionals",
-                "value": "250",
-                "symbol": "+"
-            },
-            {
-                "label": "Data Security",
-                "value": "100",
+                "label": "Data Accuracy",
+                "value": "99.99",
                 "symbol": "%"
+            },
+            {
+                "label": "ISO Certification",
+                "value": "",
+                "symbol": "ISO 27001 Certified"
+            },
+            {
+                "label": "Records Cleaned",
+                "value": "13.7M+",
+                "symbol": "(Telecom case)"
             },
             {
                 "label": "Cost Saving",
-                "value": "50",
-                "symbol": "%"
-            },
-            {
-                "label": "Data Support",
-                "value": "24",
-                "symbol": "×7"
-            },
-            {
-                "label": "Accuracy",
-                "value": "99.99",
-                "symbol": "%"
+                "value": "",
+                "symbol": "Up to 60% vs in-house"
             }
         ],
         "overview": {
             "image": "/images/service/overview/data-cleansing-overview.webp",
             "alt": "Comprehensive data cleansing and standardization process showing the removal of duplicates and data error correction",
-            "h2": "Data Cleansing Services Designed for Accurate, Decision-Ready Insights",
+            "h2": "Data Cleansing Services That Fix the Problems Dirty Data Creates Downstream",
             "content": [
-                "Dirty and inconsistent data weakens decision-making, increases operational costs, and reduces organizational productivity. To remain competitive, businesses need clean, consistent, and continuously updated datasets that support real-time analytics and reliable insights across operations.",
-                "Managing data accuracy across growing volumes, formats, and sources is complex and resource-intensive. Computyne’s data cleansing services transform unreliable information into a strategic asset that drives ROI, performance, and confident decision-making.",
-                "As a trusted data cleansing service provider, Computyne delivers comprehensive data cleaning and data quality management services across customer, operational, financial, product, and enterprise datasets. Our experts use advanced tools, automated workflows, and proven validation techniques for duplicate removal, error correction, format standardization, missing data enrichment, and data refresh.",
-                "We also provide complete data standardization and formatting services aligned with client-defined guidelines, including text case consistency, field validation, font uniformity, structured tables, and pivots. The result is a clean, well-organized database that integrates seamlessly with CRMs, ERPs, analytics platforms, and business intelligence tools, enabling faster insights and sustainable growth."
+                "Bad data is not just an IT problem. A B2B contact database with 30% outdated records sends campaigns to people who have changed jobs or companies. A CRM with duplicate customer accounts inflates pipeline reports and sends the same lead to two salespeople. A product catalog with inconsistent attribute data breaks eCommerce filter navigation and causes listings to rank poorly. A financial dataset with formatting inconsistencies fails system imports and delays reporting.",
+                "The cost of these failures is not abstract. IBM estimated the annual cost of bad data quality to the US economy at $3.1 trillion. At the company level, it shows up as wasted campaign spend, missed sales opportunities, failed integrations, and reporting you cannot trust.",
+                "Computyne's outsourced data cleansing services address the problem at source. We identify duplicates, correct errors, standardise formats, fill missing fields from verified sources, and deliver databases that work correctly in the systems that depend on them. We cover B2B contact data, CRM records, product catalog data, eCommerce datasets, financial records, and any other structured data type that needs to be accurate to be useful.",
+                "<h5>Why Outsource Data Cleansing Services?</h5> Running data cleansing in-house sounds manageable until you calculate what it actually costs. Manual deduplication, error identification, and format standardisation across large databases requires people, tools, and sustained focus that most internal teams cannot maintain alongside their primary responsibilities. The work gets deprioritised. Data quality degrades. The cost of downstream errors grows.",
+                "Outsourcing to Computyne converts that problem into a managed, scheduled, quality-controlled operation. Our specialists use a combination of automated validation rules and manual review to reach accuracy levels that purely automated approaches do not achieve on complex, multi-source datasets. Most clients see 40 to 60% cost savings versus equivalent in-house data quality operations, and get faster turnaround because data cleansing is all we are doing, not one task among many."
             ]
         }
     },

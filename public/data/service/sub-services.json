@@ -1358,126 +1358,185 @@
         ]
     },
     "data-cleansing-services": {
-        "h2": "Enterprise-Grade Data Cleansing Services We Provide",
-        "desc": "Deliver scalable, secure, and accurate enterprise data cleansing services ensuring consistency, compliance, and decision-ready intelligence.",
+        "h2": "Data Cleansing Services Across Every Data Type and Business System",
+        "desc": "All services are available as one-off projects, scheduled recurring cleans, or ongoing managed data quality programmes.",
         "services": [
             {
                 "id": 1,
-                "title": "Customer Data Cleansing Services",
-                "desc": "Ensure accurate, consistent, and up-to-date customer records that support marketing, sales, and CRM performance.",
-                "url": "#",
+                "title": "B2B Data Cleansing Services",
+                "desc": "B2B contact databases decay rapidly as people change jobs, companies rebrand, and records become outdated. Keep outreach and CRM performance accurate with scheduled cleansing.",
+                "url": "/list-building-services",
                 "data": [
                     {
-                        "value": "Efficient removal of duplicate customer records"
+                        "value": "Duplicate contact and company record identification and merging"
                     },
                     {
-                        "value": "Correction of inaccurate contact information"
+                        "value": "Email address validation: syntax, domain, and mailbox-level deliverability checks"
                     },
                     {
-                        "value": "Standardization of customer data formats"
+                        "value": "Phone number verification and format standardisation by country"
                     },
                     {
-                        "value": "Enrichment of missing customer attributes"
+                        "value": "Job title normalisation and seniority level correction"
+                    },
+                    {
+                        "value": "Company name standardisation and parent-subsidiary relationship alignment"
+                    },
+                    {
+                        "value": "Address validation against postal authority databases"
                     }
                 ]
             },
             {
                 "id": 2,
-                "title": "Data Deduplication and Validation",
-                "desc": "Identify, validate, and eliminate duplicate records to improve data accuracy and operational efficiency.",
-                "url": "#",
+                "title": "CRM and Salesforce Data Cleansing Services",
+                "desc": "Resolve duplicates, broken relationships, and inconsistent field values directly in your CRM environment without migration.",
+                "url": "/case-studies/salesforce-data-cleansing-enrichment",
                 "data": [
                     {
-                        "value": "Advanced duplicate detection algorithms"
+                        "value": "Salesforce deduplication: account, contact, lead, and opportunity record merging"
                     },
                     {
-                        "value": "Rule-based data validation checks"
+                        "value": "HubSpot CRM data cleansing: company and contact deduplication"
                     },
                     {
-                        "value": "Cross-source record matching"
+                        "value": "Zoho, Pipedrive, and Microsoft Dynamics CRM data standardisation"
                     },
                     {
-                        "value": "Improved data reliability metrics"
+                        "value": "Lead-to-contact and contact-to-account relationship correction"
+                    },
+                    {
+                        "value": "Email and phone field validation within CRM environments"
+                    },
+                    {
+                        "value": "Custom field standardisation against CRM taxonomy and picklist values"
                     }
                 ]
             },
             {
                 "id": 3,
-                "title": "Data Standardization Services",
-                "desc": "Normalize inconsistent data formats to ensure uniformity, compliance, and seamless system integration.",
-                "url": "#",
+                "title": "Product Data Cleansing Services",
+                "desc": "Correct supplier-feed inconsistencies, duplicate SKUs, and taxonomy drift that impact marketplace ranking, filters, and product discoverability.",
+                "url": "/ecommerce-catalog-management-services",
                 "data": [
                     {
-                        "value": "Standardized text cases and data formats"
+                        "value": "Duplicate SKU identification and merging across product databases"
                     },
                     {
-                        "value": "Consistent normalization of field lengths"
+                        "value": "Attribute value standardisation: units, colour naming, sizing conventions"
                     },
                     {
-                        "value": "Alignment with defined business rules"
+                        "value": "Product title and description formatting for marketplace and SEO compliance"
                     },
                     {
-                        "value": "System-wide data consistency assurance"
+                        "value": "Missing attribute identification and enrichment from verified sources"
+                    },
+                    {
+                        "value": "Category and taxonomy realignment for mislabelled products"
+                    },
+                    {
+                        "value": "GTIN, EAN, and UPC validation and correction"
                     }
                 ]
             },
             {
                 "id": 4,
-                "title": "Data Accuracy and Error Correction",
-                "desc": "Detect and correct inaccuracies to deliver reliable, decision-ready business intelligence.",
-                "url": "#",
+                "title": "eCommerce Data Cleansing Services",
+                "desc": "Clean and reconcile multi-source eCommerce data so storefront, reporting, and downstream systems stay accurate.",
+                "url": "/ecommerce-catalog-management-services",
                 "data": [
                     {
-                        "value": "Correction of spelling and syntax errors"
+                        "value": "Customer account deduplication across order history"
                     },
                     {
-                        "value": "Fixing invalid or incomplete data entries"
+                        "value": "Order and transaction data standardisation for reporting and accounting"
                     },
                     {
-                        "value": "Validation of numeric and text fields"
+                        "value": "Inventory data cleansing and stock/location accuracy checks"
                     },
                     {
-                        "value": "Overall improvement in data quality"
+                        "value": "Supplier and vendor data standardisation for procurement and finance"
+                    },
+                    {
+                        "value": "Multi-channel reconciliation across Shopify, Amazon, eBay, and ERP"
                     }
                 ]
             },
             {
                 "id": 5,
-                "title": "Missing Data Enrichment Services",
-                "desc": "Fill incomplete records with verified information to create comprehensive, analytics-ready datasets.",
+                "title": "Customer Data Cleansing Services",
+                "desc": "Improve the quality of sensitive customer records used in delivery, communication, personalisation, and support workflows.",
                 "url": "#",
                 "data": [
                     {
-                        "value": "Appending missing business attributes"
+                        "value": "Duplicate customer record detection and merging across systems"
                     },
                     {
-                        "value": "Enrichment from trusted data sources"
+                        "value": "Inaccurate contact information correction: email, phone, and postal address"
                     },
                     {
-                        "value": "Improved data completeness scores"
+                        "value": "Customer name standardisation and encoding correction"
                     },
                     {
-                        "value": "Support for advanced data analytics"
+                        "value": "Suppression list management: unsubscribes, bounces, and opted-out records"
+                    },
+                    {
+                        "value": "GDPR-compliant handling for UK and EU customer records"
+                    },
+                    {
+                        "value": "Deceased and inactive contact removal from live databases"
                     }
                 ]
             },
             {
                 "id": 6,
-                "title": "Data Formatting and Structuring",
-                "desc": "Organize and format datasets for seamless use across analytics, reporting, and enterprise systems.",
-                "url": "#",
+                "title": "Data Deduplication and Validation",
+                "desc": "Remove redundant records and verify remaining data against operational and system-level quality requirements.",
+                "url": "/data-validation-services",
                 "data": [
                     {
-                        "value": "Structured tables and pivot-ready datasets"
+                        "value": "Fuzzy matching and exact matching deduplication for high-volume datasets"
                     },
                     {
-                        "value": "Consistent fonts and data styling"
+                        "value": "Rule-based validation: type, length, format, and value checks"
                     },
                     {
-                        "value": "Formatted Excel and CSV files"
+                        "value": "Cross-source record matching for multi-import databases"
                     },
                     {
-                        "value": "Ready-to-use structured datasets"
+                        "value": "Golden record creation from duplicate clusters"
+                    },
+                    {
+                        "value": "Data quality scoring: completeness, accuracy, consistency, timeliness"
+                    },
+                    {
+                        "value": "Post-deduplication reporting with merge and resolution details"
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "title": "Data Standardisation and Formatting Services",
+                "desc": "Standardise inconsistent field-level formats to prevent import failures, broken joins, and reporting errors across systems.",
+                "url": "/data-standardization-services",
+                "data": [
+                    {
+                        "value": "Date and time format standardisation across regional conventions"
+                    },
+                    {
+                        "value": "Phone number formatting to E.164 and country standards"
+                    },
+                    {
+                        "value": "Address structure standardisation for postal compliance"
+                    },
+                    {
+                        "value": "Text case standardisation for names, codes, and emails"
+                    },
+                    {
+                        "value": "Numeric field consistency: currency, decimal places, and units"
+                    },
+                    {
+                        "value": "Output formatted for direct import into Salesforce, HubSpot, SAP, Oracle, and ERP systems"
                     }
                 ]
             }

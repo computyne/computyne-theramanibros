@@ -157,6 +157,40 @@
             }
         ]
     },
+    "data-cleansing-services": {
+        "span": "PLATFORMS AND SYSTEMS WE WORK WITH",
+        "h2": "Data Cleansing Across Every Major CRM, ERP and Data Platform",
+        "platformCategories": [
+            {
+                "category": "CRM Systems",
+                "tools": ["Salesforce", "HubSpot", "Zoho CRM", "Microsoft Dynamics 365", "Pipedrive", "SugarCRM", "Copper"]
+            },
+            {
+                "category": "Marketing Automation",
+                "tools": ["Marketo", "Pardot", "Klaviyo", "ActiveCampaign", "Mailchimp", "Eloqua"]
+            },
+            {
+                "category": "ERP Systems",
+                "tools": ["SAP S/4HANA", "Oracle EBS", "NetSuite", "Microsoft Dynamics Business Central", "Sage"]
+            },
+            {
+                "category": "eCommerce Platforms",
+                "tools": ["Shopify", "Magento (Adobe Commerce)", "WooCommerce", "BigCommerce", "Volusion"]
+            },
+            {
+                "category": "Data Warehouses and BI",
+                "tools": ["Snowflake", "Google BigQuery", "Amazon Redshift", "Tableau", "Power BI", "Looker"]
+            },
+            {
+                "category": "Databases",
+                "tools": ["PostgreSQL", "MySQL", "Microsoft SQL Server", "MongoDB", "Oracle DB"]
+            },
+            {
+                "category": "Output Formats",
+                "tools": ["CSV", "Excel", "JSON", "XML", "Salesforce import", "HubSpot import", "database-ready files"]
+            }
+        ]
+    },
     "hire-graphic-designers": {
         "span": "TOOLS OUR DESIGNERS AND EDITORS WORK WITH",
         "h2": "Your Designer Hits the Ground Running in Your Creative Stack",
