@@ -16,11 +16,51 @@ const defaultTocItems = [
     {id: "who-needs-it", label: "Who Needs It"},
     {id: "faq", label: "FAQ"},
 ];
+const defaultSidebarCta = {
+    label: "Free Consultation",
+    title: "Improve Your Business Data Operations",
+    description:
+        "Explore how Computyne can help streamline time-consuming back-office processes with dedicated data support.",
+    buttonText: "Discuss Your Project",
+    buttonLink: "/contact-us",
+};
 
+const sidebarCtaBySlug = {
+    "freight-invoice-audit-checklist": {
+        label: "Freight Audit Support",
+        title: "Catch Freight Billing Errors Before Payment",
+        description:
+            "Get support with freight invoice validation, carrier rate checks, duplicate billing identification, and discrepancy reporting.",
+        buttonText: "Explore Freight Audit Services",
+        buttonLink: "/freight-audit-services",
+    },
+
+    "resume-processing-outsourcing": {
+        label: "Free Pilot",
+        title: "Validate Resume Processing Quality",
+        description:
+            "Test your own resume formats and review the output quality before committing to a larger project.",
+        buttonText: "Request a Free Pilot",
+        buttonLink: "/contact-us",
+    },
+
+    "invoice-processing-outsourcing": {
+        label: "Invoice Processing",
+        title: "Reduce Month-End Invoice Delays",
+        description:
+            "Streamline invoice data entry, document processing, and verification with dedicated operational support.",
+        buttonText: "Get an Invoice Processing Quote",
+        buttonLink: "/contact-us",
+    },
+};
 const BlogDetailsModern = ({currentItem}) => {
     const tocItems = currentItem?.toc?.length ? currentItem.toc : defaultTocItems;
     const pathname = usePathname();
     const slug = pathname.split("/").filter(Boolean).pop();
+    const sidebarCta =
+        currentItem?.sidebarCta ||
+        sidebarCtaBySlug[slug] ||
+        defaultSidebarCta;
     const [htmlString, setHtmlString] = useState("");
     const [activeSection, setActiveSection] = useState(tocItems[0]?.id);
 
@@ -141,10 +181,12 @@ const BlogDetailsModern = ({currentItem}) => {
                                     </nav>
                                 </div>
                                 <div className="modern-blog-side-cta">
-                                    <span>Free Pilot</span>
-                                    <h3>Validate accuracy before you commit</h3>
-                                    <p>Run a pilot on your own resume formats and review the output quality first.</p>
-                                    <Link href="/contact-us">Get a free bulk quote</Link>
+                                    <span>{sidebarCta.label}</span>
+                                    <h3>{sidebarCta.title}</h3>
+                                    <p>{sidebarCta.description}</p>
+                                    <Link href={sidebarCta.buttonLink}>
+                                        {sidebarCta.buttonText}
+                                    </Link>
                                 </div>
                             </div>
                         </aside>
